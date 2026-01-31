@@ -15,10 +15,10 @@ function HeroSection() {
         <div className={styles.heroContent}>
           <div className={styles.heroText}>
             <h1 className={styles.heroTitle}>
-              <span className={styles.heroTitleAccent}>HelloWP</span> Hub
+              <span className={styles.heroTitleAccent}>Fusion</span> CRM
             </h1>
             <p className={styles.heroSubtitle}>
-              Dokumentáció, tudásbázis és oktatóanyagok WordPress fejlesztőknek és felhasználóknak
+              FusionCRM Dokumentáció, tudásbázis.
             </p>
             <div className={styles.heroButtons}>
               <Link
@@ -36,25 +36,6 @@ function HeroSection() {
                 Tudásbázis
               </Link>
             </div>
-          </div>
-          <div className={styles.heroVisual}>
-            <Link to="/docs/dokumentacio/hellotools/helloimg" className={styles.heroHighlight}>
-              <div className={styles.heroHighlightBadge}>
-                <FontAwesomeIcon icon="fa-solid fa-sparkles" /> Újdonság
-              </div>
-              <div className={styles.heroHighlightIcon}>
-                <FontAwesomeIcon icon="fa-regular fa-bee" />
-              </div>
-              <h3 className={styles.heroHighlightTitle}>
-                Hello<span style={{ color: "#ffd43b" }}>IMG</span>
-              </h3>
-              <p className={styles.heroHighlightDesc}>
-                Képoptimalizálás korlátlanul
-              </p>
-              <span className={styles.heroHighlightAction}>
-                Tudj meg többet <FontAwesomeIcon icon="fa-solid fa-arrow-right" />
-              </span>
-            </Link>
           </div>
         </div>
       </div>
@@ -281,8 +262,8 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title="HelloWP Hub"
-      description="HelloWP Dokumentáció és Tudásbázis - WordPress fejlesztőknek és felhasználóknak"
+      title="FusionCRM"
+      description="FusionCRM Dokumentáció és Tudásbázis"
     >
       <HeroSection />
       <main>
