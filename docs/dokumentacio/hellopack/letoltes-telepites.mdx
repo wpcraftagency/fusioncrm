@@ -1,0 +1,131 @@
+---
+title: Letöltés és telepítés
+description: HelloPack csomagkezelő letöltése és telepítése WordPress weboldalra.
+keywords:
+  - hellopack
+  - letöltés
+  - telepítés
+  - install
+sidebar_label: Csomagkezelő letöltése és telepítése
+sidebar_position: 1
+---
+
+import FontAwesomeIcon from "@site/src/components/FontAwesomeIcon";
+import BrowserWindow from "@site/src/components/BrowserWindow";
+
+# <FontAwesomeIcon icon="fa-duotone fa-download text-primary" /> HelloPack letöltése és telepítése
+
+A HelloPack csomagkezelő segítségével egyszerűen kezelheted a prémium WordPress bővítményeket és témákat. Ez az útmutató végigvezet a letöltés és telepítés lépésein.
+
+<div class="row" style={{marginBottom: '2rem'}}>
+  <div class="col col--4 margin-bottom--sm">
+    <a className="card padding--lg" href="#1-csomagkezelő-letöltése" style={{height: '100%', textDecoration: 'none', color: 'var(--ifm-color-content)'}}>
+      <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center'}}>
+        <FontAwesomeIcon icon="fa-duotone fa-cloud-arrow-down" size="2x" className="margin-bottom--sm text--primary" />
+        <h3 style={{marginBottom: 0}}>Letöltés</h3>
+        <small style={{opacity: 0.7}}>Csomagkezelő beszerzése</small>
+      </div>
+    </a>
+  </div>
+  <div class="col col--4 margin-bottom--sm">
+    <a className="card padding--lg" href="#2-telepítés" style={{height: '100%', textDecoration: 'none', color: 'var(--ifm-color-content)'}}>
+      <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center'}}>
+        <FontAwesomeIcon icon="fa-duotone fa-plug" size="2x" className="margin-bottom--sm text--primary" />
+        <h3 style={{marginBottom: 0}}>Telepítés</h3>
+        <small style={{opacity: 0.7}}>Telepítés és aktiválás</small>
+      </div>
+    </a>
+  </div>
+  <div class="col col--4 margin-bottom--sm">
+    <a className="card padding--lg" href="#hibaelhárítás" style={{height: '100%', textDecoration: 'none', color: 'var(--ifm-color-content)'}}>
+      <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center'}}>
+        <FontAwesomeIcon icon="fa-duotone fa-triangle-exclamation" size="2x" className="margin-bottom--sm text--primary" />
+        <h3 style={{marginBottom: 0}}>Hibaelhárítás</h3>
+        <small style={{opacity: 0.7}}>Gyakori problémák</small>
+      </div>
+    </a>
+  </div>
+</div>
+
+## 1. Csomagkezelő letöltése
+
+A csomagkezelő letöltéséhez szükséged lesz egy HelloWP fiókra.
+1. Lépj be a HelloWP.io felületére a következő hivatkozáson: https://hellowp.io/hu/helloconsole/
+2. A dashboardon kattints a **HelloPack** kártyára, vagy navigálj közvetlenül a [HelloPack központba](https://hellowp.io/hu/helloconsole/hellopack-kozpont/api-creator/).
+<BrowserWindow url="https://hellowp.io/hu/helloconsole/">
+     <img
+       src="/img/api-kulcskeszito-megnyitas.png"
+       alt="HelloPack "
+     ></img>
+   </BrowserWindow>
+3. Kattints a **„Csomagkezelő letöltése"** gombra. A böngésző letölti a `hellopack-client.zip` fájlt.
+<BrowserWindow url="https://hellowp.io/hu/helloconsole/hellopack-kozpont/api-creator-v2/">
+     <img
+       src="/img/csomagkezelo-letoltese-2.png"
+       alt="HelloPack csomagkezelő letöltése"
+     ></img>
+   </BrowserWindow>
+
+:::warning Safari felhasználóknak (macOS)
+A Safari böngésző alapértelmezetten automatikusan kitömöríti a ZIP fájlokat letöltés után, ami mappaszerkezeti hibákat okozhat.
+
+**Megoldás:**
+1. Kapcsold ki az automatikus kitömörítést a Safariban (Safari → Beállítások → Általános → vedd ki a pipát a "Biztonságos fájlok megnyitása letöltés után" opció elől).
+2. Vagy használj másik böngészőt (Chrome, Firefox, Edge).
+
+A bővítmény csak akkor működik megfelelően, ha a könyvtárstruktúra így néz ki: `wp-content/plugins/hellopack-client/`
+:::
+
+## 2. Telepítés
+
+A leggyorsabb és legegyszerűbb módszer a WordPress admin felületén keresztüli telepítés.
+
+1. Navigálj a **Bővítmények** → **Új bővítmény telepítése** menüpontra a WordPress admin felületén.
+2. Kattints a **„Feltöltés"** fülre, majd a **„Fájl kiválasztása"** gombra.
+3. Válaszd ki a korábban letöltött `hellopack-client.zip` fájlt, és kattints a **„Telepítés most"** gombra.
+4. A telepítés befejezése után kattints az **„Aktiválás"** gombra.
+
+### Alternatív telepítési módszerek
+
+Ha a fenti módszer valamiért nem működne (pl. szerverkorlátozások miatt), használhatod az alábbi módszereket is:
+
+**FTP/SFTP feltöltés:**
+1. Tömörítsd ki a ZIP fájlt a számítógépeden.
+2. Csatlakozz FTP/SFTP-vel a szerverhez.
+3. Töltsd fel a `hellopack-client` mappát a `/wp-content/plugins/` könyvtárba.
+4. Aktiváld a bővítményt a WordPress adminban.
+
+**WP-CLI:**
+
+Ha rendelkezel terminál hozzáféréssel és telepítve van a WP-CLI, az alábbi parancsokkal is telepítheted a bővítményt:
+
+```bash
+# Telepítés és aktiválás ZIP fájlból (a fájl elérési útját módosítsd)
+wp plugin install /path/to/hellopack-client.zip --activate
+
+# Vagy ha már feltöltötted a mappát a plugins könyvtárba
+wp plugin activate hellopack-client
+```
+
+## 3. Aktiválás
+
+A telepítés után **aktiválnod kell a HelloPack licencet** a bővítmények használatához.
+
+👉 **[HelloPack aktiválása →](/docs/dokumentacio/hellopack/aktivalas)**
+
+## Hibaelhárítás
+
+Néhány gyakori probléma és megoldásuk:
+
+*   **"A könyvtár már létezik" hiba:** Valószínűleg korábban már telepítetted a HelloPack-et. Töröld a régi verziót a Bővítmények menüpontban, majd próbáld újra.
+*   **"Nem lehet feltölteni a fájlt" hiba:** A szerver fájlméret korlátja túl alacsony lehet. Próbáld meg FTP-n keresztül feltölteni, vagy kérd a tárhelyszolgáltatód segítségét a `upload_max_filesize` növelésében.
+*   **A bővítmény nem jelenik meg:** Ellenőrizd a könyvtárszerkezetet. A `hellopack-client.php` fájlnak közvetlenül a `plugins/hellopack-client/` mappában kell lennie.
+
+## Technikai követelmények
+
+*   **WordPress:** 5.8+ (6.4+ ajánlott)
+*   **PHP:** 7.4+ (8.1+ ajánlott)
+*   **MySQL:** 8.0+ / MariaDB 10.4+
+*   **Szükséges PHP kiterjesztések:** curl, zip, json, mbstring
+
+👉 **[Részletes követelmények →](/docs/dokumentacio/hellopack/kovetelmenyek)**
