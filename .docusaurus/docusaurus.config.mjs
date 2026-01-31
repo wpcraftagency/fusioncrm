@@ -9,7 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://hub.hellowp.io",
   "baseUrl": "/",
-  "organizationName": "hellowpio",
+  "organizationName": "FusionCRM",
   "projectName": "support.hellowp.io",
   "onBrokenLinks": "throw",
   "markdown": {
@@ -76,16 +76,16 @@ export default {
     "algolia": {
       "appId": "I11ZQJ89FL",
       "apiKey": "6507f02646a676db1462458b97a1cda4",
-      "indexName": "HelloWP HUB",
+      "indexName": "HFusionCRM",
       "contextualSearch": false,
       "searchParameters": {},
       "searchPagePath": "search"
     },
     "image": "img/hellowp-hub.png",
     "navbar": {
-      "title": "HelloWP Hub",
+      "title": "FusionCRM",
       "logo": {
-        "alt": "HelloWP Hub",
+        "alt": "FusionCRM",
         "src": "img/logo.svg"
       },
       "items": [
@@ -235,7 +235,7 @@ export default {
           ]
         },
         {
-          "title": "HelloWP",
+          "title": "FusionCRM",
           "items": [
             {
               "label": "Főoldal",
@@ -257,7 +257,7 @@ export default {
         }
       ],
       "logo": {
-        "alt": "HelloWP!",
+        "alt": "FusionCRM",
         "src": "img/logo-260-60-color.svg",
         "srcDark": "img/logo-260-60-wihte-green.svg",
         "href": "https://hellowp.io"

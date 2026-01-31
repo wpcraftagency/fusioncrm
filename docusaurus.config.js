@@ -12,7 +12,7 @@ const config = {
   url: "https://hub.hellowp.io/",
   baseUrl: "/",
 
-  organizationName: "hellowpio", // Usually your GitHub org/user name.
+  organizationName: "FusionCRM", // Usually your GitHub org/user name.
   projectName: "support.hellowp.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -73,15 +73,15 @@ const config = {
       algolia: {
         appId: "I11ZQJ89FL",
         apiKey: "6507f02646a676db1462458b97a1cda4",
-        indexName: "HelloWP HUB",
+        indexName: "HFusionCRM",
         contextualSearch: false,
       },
 
       image: "img/hellowp-hub.png",
       navbar: {
-        title: "HelloWP Hub",
+        title: "FusionCRM",
         logo: {
-          alt: "HelloWP Hub",
+          alt: "FusionCRM",
           src: "img/logo.svg",
         },
         items: [
@@ -230,7 +230,7 @@ const config = {
             ],
           },
           {
-            title: "HelloWP",
+            title: "FusionCRM",
             items: [
               {
                 label: "Főoldal",
@@ -252,7 +252,7 @@ const config = {
           },
         ],
         logo: {
-          alt: "HelloWP!",
+          alt: "FusionCRM",
           src: "img/logo-260-60-color.svg",
           srcDark: "img/logo-260-60-wihte-green.svg",
           href: "https://hellowp.io",
