@@ -1,60 +1,35 @@
 ---
 title: Levelezés manuális beállítása
-description: MailHub email fiók manuális beállítása - IMAP, POP3 és SMTP szerver adatok.
+description: Levelezés manuális beállítása
 keywords:
-  - mailhub
-  - email beállítás
-  - imap
-  - pop3
-  - smtp
-sidebar_label: Manuális beállítás
+  - hellopack
+  - elementor
+sidebar_label: Levelezés manuális beállítása
 sidebar_position: 1
 ---
 
+import BrowserWindow from "@site/src/components/BrowserWindow";
+import MemberCounter from "@site/src/components/MemberCounter";
 import FontAwesomeIcon from "@site/src/components/FontAwesomeIcon";
 
 # <FontAwesomeIcon icon="fa-sharp fa-solid fa-envelopes-bulk text-primary" /> Levelezés manuális beállítása
 
-## Fiók adatok
+Biztonságos (SSL/TLS) levelezés beállítása
 
-| Beállítás | Érték |
-|-----------|-------|
-| **Felhasználónév** | Az email címed |
-| **Jelszó** | A jelszó, amit az email címhez megadtál |
+**Felhasználónév:** Az email címed
 
-## Szerver beállítások
+**Jelszó:** A jelszó, amit az email címhez korábban megadtál.
 
-### IMAP (bejövő levelek - ajánlott)
+**Bejövő kiszolgáló (szerver):** mailhub.hellowp.cloud | **POP3 Port:** 995
 
-| Beállítás | Érték |
-|-----------|-------|
-| **Szerver** | mailhub.hellowp.cloud |
-| **Port** | 993 |
-| **Titkosítás** | SSL/TLS |
-| **Hitelesítés** | Normál jelszó |
+**Kimenő kiszolgáló (szerver):** mailhub.hellowp.cloud | **SMTP Port:** 465
 
-### POP3 (bejövő levelek)
+**Kapcsolat biztonsága:** SSL/TLS
 
-| Beállítás | Érték |
-|-----------|-------|
-| **Szerver** | mailhub.hellowp.cloud |
-| **Port** | 995 |
-| **Titkosítás** | SSL/TLS |
-| **Hitelesítés** | Normál jelszó |
+**Hitelesítési módszer:** Normál jelszó
 
-### SMTP (kimenő levelek)
-
-| Beállítás | Érték |
-|-----------|-------|
-| **Szerver** | mailhub.hellowp.cloud |
-| **Port** | 465 |
-| **Titkosítás** | SSL/TLS |
-| **Hitelesítés** | Szükséges |
-
-:::tip IMAP vs POP3
-Az **IMAP** használatát javasoljuk, mert a levelek a szerveren maradnak és több eszközről is elérheted őket.
-:::
+POP3 és SMTP hitelesítés szükséges
 
 :::warning Figyelem!
-A MailHub levelezőszervere **nem használható hírlevélküldésre** vagy más tömeges kiküldésre. Erre is van kész megoldásunk - vedd fel velünk a kapcsolatot.
+A HelloWP! levelezőszervere **nem használható hírlevélküldésre**, vagy más tömeges kiküldésre. Erre is van kész megoldásunk, ha ilyet szeretnél, akkor vedd fel az ügyfélszolgálattal a kapcsolatot és segítünk neked ebben.
 :::

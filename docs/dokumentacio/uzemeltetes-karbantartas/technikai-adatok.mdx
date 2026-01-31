@@ -1,80 +1,31 @@
 ---
 title: Technikai adatok
-description: HelloWP szerverek technikai specifikációi és elérhető szolgáltatások.
+description: Technikai adatok
 keywords:
-  - szerver
-  - php
-  - technikai adatok
-  - infrastruktúra
+  - hellopack
+  - elementor
 sidebar_label: Technikai adatok
 sidebar_position: 1
 ---
 
+import BrowserWindow from "@site/src/components/BrowserWindow";
+import MemberCounter from "@site/src/components/MemberCounter";
 import FontAwesomeIcon from "@site/src/components/FontAwesomeIcon";
 
 # <FontAwesomeIcon icon="fa-sharp fa-solid fa-microchip text-primary" /> Technikai adatok
 
-## Szerver infrastruktúra
+**Szerverek helye:** Európában, Amerikában, Ázsiában és Ausztráliában. Mindig abba a szerverközpontba tesszük a weboldalt, amihez közelebb vannak az oldal látogatói.
 
-| Jellemző | Részletek |
-|----------|-----------|
-| **Szerverek helye** | Európa, Amerika, Ázsia, Ausztrália |
-| **Háttértároló** | NVMe SSD |
-| **Webszerver** | NGINX (alapértelmezett) |
-| **Alternatív webszerver** | NGINX + Apache hibrid (.htaccess támogatás) |
+**Háttértároló:** SSD
 
-:::info Szerver kiválasztás
-Mindig abba a szerverközpontba helyezzük a weboldalt, amelyhez közelebb vannak a látogatóid. Ez biztosítja a lehető leggyorsabb betöltési időt.
-:::
+**Elérhető PHP verziók:** 7.4, 8.0, 8.1, 8.2 (PHP 7.4 alatti verziókat nem támogatjuk többé)
 
-## PHP verziók
+**SQL:** MariaDB, MySQL
 
-| Verzió | Állapot |
-|--------|---------|
-| PHP 8.3 | Elérhető |
-| PHP 8.2 | Elérhető (ajánlott) |
-| PHP 8.1 | Elérhető |
-| PHP 8.0 | Elérhető |
-| PHP 7.4 | Elérhető (elavult) |
+**PHP CLI:** php-cli a fenti php verziókkal elérhető. Sőt, minden szerveren aktív WP-CLI-t is biztosítunk.
 
-:::warning PHP 7.4
-A PHP 7.4 biztonsági támogatása megszűnt. Javasoljuk a PHP 8.1+ verzióra való frissítést.
-:::
+**Webszerver: **NGINX alapértelmezetten (aki .htaccess-t szeretne használni, annak rendelkezésére áll egy NGINX + APACHE hibrid megoldás).
 
-## Adatbázis
+**GIT:** Több GIT szolgáltatót is támogatunk. GitHub, GitLab, Bitbucket és egyedi GIT szerverek
 
-- **MariaDB** (alapértelmezett)
-- **MySQL**
-
-## Fejlesztői eszközök
-
-| Eszköz | Leírás |
-|--------|--------|
-| **PHP CLI** | Minden PHP verzióval elérhető |
-| **WP-CLI** | Előre telepítve minden szerveren |
-| **Composer** | Elérhető |
-| **Node.js** | Kérésre telepíthető |
-
-## Verziókezelés (Git)
-
-Támogatott Git szolgáltatók:
-
-- GitHub
-- GitLab
-- Bitbucket
-- Egyedi Git szerverek
-
-## Szerveroldali cache
-
-| Megoldás | Típus |
-|----------|-------|
-| **Redis** | Object cache |
-| **Memcached** | Object cache |
-| **LiteSpeed Cache** | Full page cache |
-| **OPcache** | PHP opcode cache |
-
-## SSL/TLS
-
-- Ingyenes Let's Encrypt tanúsítvány minden domainhez
-- Automatikus megújítás
-- HTTP/2 és HTTP/3 támogatás
+**Szerveroldali cache rendszerek: **REDIS, Memcached, LiteSpeed

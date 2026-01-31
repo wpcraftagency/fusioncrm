@@ -1,87 +1,41 @@
-# HelloWP Hub
+# kb.nestlywp.com
 
-A [HelloWP.io](https://hellowp.io) hivatalos dokumentációs portálja és tudásbázisa.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-## Tartalom
+### Installation
 
-### Dokumentáció
-- **HelloTools** - Átfogó eszközkészlet WordPress fejlesztőknek
-- **HelloIMG** - Képoptimalizáló API WebP és AVIF támogatással
-- **Üzemeltetés** - WordPress karbantartás és üzemeltetés
-
-### Tudásbázis
-- **Fejlesztői eszközök** - Roots Stack, CI/CD, tesztelés, IDE-k
-- **Hasznos eszközök** - Design, adatbázis, API tesztelés, biztonság
-- **Oktatóanyagok** - Lépésről lépésre útmutatók
-- **Hibaelhárítás** - Gyakori WordPress hibák megoldása
-
-### Súgó
-- Számlázás és előfizetések
-- Partnerprogram
-- Gyakori kérdések
-
-## Technológia
-
-- [Docusaurus 3](https://docusaurus.io/) - Modern statikus dokumentációs keretrendszer
-- [React 19](https://react.dev/) - UI komponensek
-- [Algolia](https://www.algolia.com/) - Keresés
-
-## Fejlesztés
-
-### Követelmények
-
-- Node.js >= 20
-- npm vagy yarn
-
-### Telepítés
-
-```bash
-npm install
+```
+$ yarn
 ```
 
-### Lokális fejlesztés
+### Local Development
 
-```bash
-npm start
+```
+$ yarn start
 ```
 
-A fejlesztői szerver elindul a `http://localhost:3000` címen.
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
 ### Build
 
-```bash
-npm run build
+```
+$ yarn build
 ```
 
-A statikus fájlok a `build` mappába kerülnek.
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-## Docker
+### Deployment
 
-### Build
+Using SSH:
 
-```bash
-docker build -t hub-hellowp .
+```
+$ USE_SSH=true yarn deploy
 ```
 
-### Futtatás
+Not using SSH:
 
-```bash
-docker run -d -p 8080:80 hub-hellowp
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
-A site elérhető lesz: `http://localhost:8080`
-
-## Közreműködés
-
-1. Fork-old a repót
-2. Hozz létre egy feature branch-et (`git checkout -b feature/uj-funkcio`)
-3. Commit-old a változtatásokat (`git commit -m 'Add: új funkció'`)
-4. Push-old a branch-et (`git push origin feature/uj-funkcio`)
-5. Nyiss egy Pull Request-et
-
-## Licensz
-
-A forráskód [MIT](https://opensource.org/licenses/MIT) licensz alatt áll.
-A weboldal tartalma [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licensz alatt áll.
-
-Copyright © [HelloWP.io](https://hellowp.io)
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

@@ -1,43 +1,42 @@
 // @ts-check
-import { themes } from "prism-react-renderer";
-const prismThemes = themes;
+// Note: type annotations allow type checking and IDEs autocompletion
+
+const path = require("path");
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "FusionCRM DOCS",
+  title: "NestlyWP KB",
   tagline: "Dokumentáció és Tudásbázis",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://hub.hellowp.io/",
+  url: "https://kb.nestlywp.com/",
   baseUrl: "/",
 
-  organizationName: "FusionCRM", // Usually your GitHub org/user name.
-  projectName: "support.hellowp.io", // Usually your repo name.
+  organizationName: "nestlywp", // Usually your GitHub org/user name.
+  projectName: "hub.nestlywp", // Usually your repo name.
 
   onBrokenLinks: "throw",
-
-  markdown: {
-    hooks: {
-      onBrokenMarkdownLinks: "warn",
-    },
-  },
+  onBrokenMarkdownLinks: "warn",
 
   i18n: {
     defaultLocale: "hu",
-    locales: ["hu"],
+    locales: ["hu"]
   },
 
   plugins: [
     "docusaurus-plugin-sass",
     [
-      "@docusaurus/plugin-google-tag-manager",
+      '@docusaurus/plugin-google-gtag',
       {
-        containerId: "GTM-5TBMCF6",
+        trackingID: 'GTM-5TBMCF6',
+        anonymizeIP: true,
       },
     ],
   ],
-
+  
   scripts: [
     {
       src: "https://kit.fontawesome.com/11cbb0ec24.js",
@@ -51,18 +50,20 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: "./sidebars.js",
-          editUrl: "https://github.com/hellowpio/hub.hellowp.io/blob/main/",
+          sidebarPath: require.resolve("./sidebars.js"),
+
+          editUrl: "https://github.com/wpcraftagency/hub.nestlywp/blob/main/",
           showLastUpdateAuthor: false,
           showLastUpdateTime: false,
         },
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/hellowpio/hub.hellowp.io/blob/main/",
+          editUrl: "https://github.com/wpcraftagency/hub.nestlywp/blob/main/",
         },
         theme: {
-          customCss: "./src/css/custom.css",
+          customCss: require.resolve("./src/css/custom.css"),
         },
+  
       }),
     ],
   ],
@@ -70,47 +71,42 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: "ujdonsag",
+        content:
+          '<strong>Újdonság:</strong> Elindult a HelloWP Hub oldal! <a href="/hogyan-hasznald-a-hub-oldalt">Hogyan használd a HUB oldalt?</a> 🔥',
+        backgroundColor: "#5991c7",
+        textColor: "#ffffff",
+        isCloseable: true,
+      },
+
       algolia: {
-        appId: "I11ZQJ89FL",
-        apiKey: "6507f02646a676db1462458b97a1cda4",
-        indexName: "HFusionCRM",
+        // The application ID provided by Algolia
+        appId: "PEGF6C8Q8Y",
+        // Public API key: it is safe to commit it
+        apiKey: "44dbebc8d658be083a2adf5913fa8119",
+        indexName: "hellolol",
+        // Optional: see doc section below
         contextualSearch: false,
       },
 
       image: "img/hellowp-hub.png",
       navbar: {
-        title: "FusionCRM",
+        title: "NestlyWP KB",
         logo: {
-          alt: "FusionCRM",
+          alt: "NestlyWP KB",
           src: "img/logo.svg",
         },
         items: [
           {
-            type: "dropdown",
-            label: "Termékek",
+            to: "docs/dokumentacio/",
+            label: "Dokumentació",
             position: "left",
-            items: [
-              {
-                label: "HelloPack",
-                to: "/docs/dokumentacio/hellopack",
-              },
-              {
-                label: "HelloTools",
-                to: "/docs/dokumentacio/hellotools",
-              },
-              {
-                label: "HelloIMG",
-                to: "/docs/dokumentacio/hellotools/helloimg",
-              },
-              {
-                label: "Üzemeltetés",
-                to: "/docs/dokumentacio/uzemeltetes-karbantartas",
-              },
-            ],
+            activeBaseRegex: "docs/(next|v8)",
           },
           {
-            to: "docs/tudasbazis/",
-            label: "Tudásbázis",
+            to: "docs/knowledgebase/",
+            label: "Knowledge base",
             position: "left",
           },
           {
@@ -119,28 +115,12 @@ const config = {
             position: "left",
           },
           {
-            type: "dropdown",
+            to: "docs/kozosseg/discord",
             label: "Közösség",
             position: "left",
-            items: [
-              {
-                label: "Discord",
-                to: "/docs/kozosseg/discord",
-              },
-              {
-                label: "Facebook",
-                to: "/docs/kozosseg/facebook",
-              },
-            ],
           },
           {
-            href: "https://hellowp.io/hu/helloconsole/",
-            label: "Console",
-            position: "right",
-            className: "header-console-link",
-          },
-          {
-            href: "https://github.com/hellowpio/hub.hellowp.io",
+            href: "https://github.com/wpcraftagency/hub.nestlywp",
             label: "GitHub",
             position: "right",
             className: "header-github-link",
@@ -150,44 +130,19 @@ const config = {
       footer: {
         links: [
           {
-            title: "Termékek",
+            title: "Dokumentáció",
             items: [
               {
                 label: "HelloPack",
                 to: "/docs/dokumentacio/hellopack",
               },
               {
-                label: "HelloTools",
-                to: "/docs/dokumentacio/hellotools",
+                label: "Komplett weboldalak",
+                to: "/docs/dokumentacio/komplett-weboldalak",
               },
               {
-                label: "HelloIMG",
-                to: "/docs/dokumentacio/hellotools/helloimg",
-              },
-              {
-                label: "Üzemeltetés",
+                label: "Üzemeltetés és karbantartás",
                 to: "/docs/dokumentacio/uzemeltetes-karbantartas",
-              },
-            ],
-          },
-          {
-            title: "Tudásbázis",
-            items: [
-              {
-                label: "Oktatóanyagok",
-                to: "/docs/tudasbazis/oktatoanyagok",
-              },
-              {
-                label: "Hasznos eszközök",
-                to: "/docs/tudasbazis/hasznos-eszkozok",
-              },
-              {
-                label: "Hibaelhárítás",
-                to: "/docs/tudasbazis/hibaelharitas",
-              },
-              {
-                label: "Fejlesztői eszközök",
-                to: "/docs/tudasbazis/fejlesztoi-eszkozok",
               },
             ],
           },
@@ -195,26 +150,43 @@ const config = {
             title: "Súgó",
             items: [
               {
-                label: "Számlázás és előfizetés",
-                to: "/docs/sugo/szamlazas-es-elofizetesek",
-              },
-              {
                 label: "Partnerprogram",
                 to: "/docs/sugo/partnerprogram",
               },
               {
-                label: "Gyakori kérdések",
-                to: "/docs/sugo/egyeb",
+                label: "Számlázás és előfizetés",
+                to: "/docs/sugo/szamlazas-es-elofizetesek",
               },
               {
-                label: "Hibakeresés és logolás",
-                to: "/docs/tudasbazis/hibaelharitas/wordpress/hibakereses-wordpress-ben",
+                label: "Egyéb",
+                to: "/docs/sugo/egyeb",
+              },
+            ],
+          },
+          {
+            title: "Knowledge base",
+            items: [
+              {
+                label: "Hasznos eszközök",
+                to: "docs/knowledgebase/hasznos-eszkozok",
+              },
+              {
+                label: "Oktatóanyagok",
+                to: "/docs/knowledgebase/oktatoanyagok",
+              },
+              {
+                label: "Hibaelhárítás",
+                to: "/docs/knowledgebase/hibaelharitas",
               },
             ],
           },
           {
             title: "Közösség",
             items: [
+              {
+                label: "Blog",
+                to: "/blog",
+              },
               {
                 label: "Discord",
                 to: "/docs/kozosseg/discord",
@@ -225,51 +197,25 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/hellowpio/hub.hellowp.io",
-              },
-            ],
-          },
-          {
-            title: "FusionCRM",
-            items: [
-              {
-                label: "Főoldal",
-                href: "https://hellowp.io",
-              },
-              {
-                label: "Console",
-                href: "https://hellowp.io/hu/helloconsole/",
-              },
-              {
-                label: "Kapcsolat",
-                href: "https://hellowp.io/hu/kapcsolat/",
-              },
-              {
-                label: "WordPress hírek",
-                href: "https://helloblog.io/hu/",
+                href: "https://github.com/wpcraftagency/hub.nestlywp",
               },
             ],
           },
         ],
         logo: {
-          alt: "FusionCRM",
+          alt: "NestlyWP!",
           src: "img/logo-260-60-color.svg",
           srcDark: "img/logo-260-60-wihte-green.svg",
-          href: "https://hellowp.io",
+          href: "https://nestlywp.com",
         },
-        copyright: `© ${new Date().getFullYear()} TooEarlyBird, LLC <br> A forráskód <a href="/mit-licensz">MIT</a>, a weboldal tartalma <a href="/cc-by-nc-sa-4.0">CC BY NC SA 4.0 license</a> alatt áll.`,
+        copyright: `© ${new Date().getFullYear()} WpCraft Digital Agency, LLC <br> A forráskód <a href="/mit-licensz">MIT</a>, a weboldal tartalma <a href="/cc-by-nc-sa-4.0">CC BY NC SA 4.0 license</a> alatt áll.`,
       },
       prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-        additionalLanguages: ["php", "css", "bash", "json"],
-      },
-      colorMode: {
-        defaultMode: "dark",
-        disableSwitch: true,
-        respectPrefersColorScheme: false,
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+        additionalLanguages: ["php", "css"],
       },
     }),
 };
 
-export default config;
+module.exports = config;

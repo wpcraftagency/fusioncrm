@@ -1,162 +1,86 @@
 ---
 title: Csomagkezelő aktiválása
-description: HelloPack csomagkezelő aktiválása API-kulcs segítségével a prémium bővítmények eléréséhez.
+description: HelloPack csomegkezelő telepítése
 keywords:
   - hellopack
-  - aktiválás
-  - api-kulcs
-  - licenc
 sidebar_label: Csomagkezelő aktiválása
 sidebar_position: 2
 ---
 
+import MemberCounter from "@site/src/components/MemberCounter";
 import FontAwesomeIcon from "@site/src/components/FontAwesomeIcon";
 import BrowserWindow from "@site/src/components/BrowserWindow";
+import CodeBlock from "@theme/CodeBlock";
 
-# <FontAwesomeIcon icon="fa-duotone fa-key text-primary" /> HelloPack aktiválása
+# <FontAwesomeIcon icon="fa-duotone fa-command text-primary" /> HelloPack csomagkezelő aktiválása
 
-A HelloPack telepítése után aktiválnod kell a licencet, hogy hozzáférj a prémium bővítményekhez és témákhoz. Az aktiválás egy API-kulcs létrehozásával és beillesztésével történik.
+Miután telepítetted a HelloPack csomagkezelőt, a következő lépés, hogy aktiváld azt a weboldaladon.
+Ehhez létre kell hozni egy API kulcsot a HelloWP.io oldalán, amit aztán a WordPress weboldaladon a HelloPack csomagkezelőben megadva aktiválhatod a bővítményt. 
 
-<div class="row" style={{marginBottom: '2rem'}}>
-  <div class="col col--4 margin-bottom--sm">
-    <a className="card padding--lg" href="#1-api-kulcs-létrehozása" style={{height: '100%', textDecoration: 'none', color: 'var(--ifm-color-content)'}}>
-      <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center'}}>
-        <FontAwesomeIcon icon="fa-duotone fa-key" size="2x" className="margin-bottom--sm text--primary" />
-        <h3 style={{marginBottom: 0}}>API-kulcs</h3>
-        <small style={{opacity: 0.7}}>Kulcs generálása</small>
-      </div>
-    </a>
-  </div>
-  <div class="col col--4 margin-bottom--sm">
-    <a className="card padding--lg" href="#2-hellopack-aktiválása" style={{height: '100%', textDecoration: 'none', color: 'var(--ifm-color-content)'}}>
-      <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center'}}>
-        <FontAwesomeIcon icon="fa-duotone fa-plug" size="2x" className="margin-bottom--sm text--primary" />
-        <h3 style={{marginBottom: 0}}>Aktiválás</h3>
-        <small style={{opacity: 0.7}}>Kulcs beillesztése</small>
-      </div>
-    </a>
-  </div>
-  <div class="col col--4 margin-bottom--sm">
-    <a className="card padding--lg" href="#hibaelhárítás" style={{height: '100%', textDecoration: 'none', color: 'var(--ifm-color-content)'}}>
-      <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center'}}>
-        <FontAwesomeIcon icon="fa-duotone fa-triangle-exclamation" size="2x" className="margin-bottom--sm text--primary" />
-        <h3 style={{marginBottom: 0}}>Hibaelhárítás</h3>
-        <small style={{opacity: 0.7}}>Gyakori problémák</small>
-      </div>
-    </a>
-  </div>
-</div>
+### 1. HelloPack API-kulcs létrehozása
 
-## 1. API-kulcs létrehozása
+A **HelloConsole** oldalon a bal oldalsó sávban kattints a **HelloPack** feliratra, majd kattints az **API-kulcskészítő** menüpontra, vagy látogass el a következő linkre: https://hellowp.io/hu/helloconsole/hellopack-kozpont/api-creator/
 
-Az aktiváláshoz először generálnod kell egy API-kulcsot, ehhez két megoldás közül választhatsz:
-- **API kulcskészítő varázsló használatával:** A varázsló automatikusan megnyitja az API kulcskészítőt, illetve kitölti a domain név mezőt.
-- **API kulcs manuális létrehozása:** Minden lépést manuálisan kell elvégezned.
-
-
-### API-kulcskészítő varázsló használatával (gyorsabb)
-
-Ez a gyorsabb és kényelmesebb megoldás, mivel a varázsló automatikusan kitölti a szükséges adatokat.
-
-1. **Varázsló indítása:** Lépj be a WordPress vezérlőpultodba, nyisd meg a **HelloPack** menüpontot, majd görgess lejjebb és kattints az **„API-kulcskészítő varázsló"** gombra.
-<BrowserWindow url="https://pelda.hu/wp-admin">
-  <img src="/img/api-varazslo-klikk.png" alt="HelloPack API-kulcs másolás"></img>
-</BrowserWindow>
-2. **Adatok ellenőrzése:** A domain neved automatikusan kitöltődik.
-<BrowserWindow url="https://hellowp.io/hu/helloconsole/hellopack-kozpont/api-creator-v2/">
-  <img src="/img/api-auto-atiranyit.png" alt="HelloPack API-kulcs másolás"></img>
-</BrowserWindow>
-3. **Beállítások (opcionális):**
-   - **Automatikus lejárat:** Beállíthatod, mikor járjon le a kulcs.
-   - **Hozzáférési szint:** Korlátozhatod, hogy a kulcs mely bővítményekhez vagy sablonokhoz biztosítson frissítést (teljes vagy részleges hozzáférés).
-4. **Kulcs létrehozása:** Kattints az **„Új API-kulcs készítése"** gombra.
-5. **Kulcs másolása:** Görgess le az táblázathoz, és másold ki a kulcsot a sárga ikonnal 📋.
-
-<BrowserWindow url="https://hellowp.io/hu/helloconsole/hellopack-kozpont/api-creator-v2/">
-  <img src="/img/api-kulcs-masolasa.png" alt="HelloPack API-kulcs másolás"></img>
-</BrowserWindow>
-6. **HelloPack aktiválása:** Most már csak [aktiválnod kell](#2-hellopack-aktiválása) a HelloPack-ot a létrehozott kulcsoddal. 
-
-### API kulcs manuális létrehozása 
-1. **Belépés:** Lépj be a **HelloConsole**-ba ([https://hellowp.io/hu/helloconsole/](https://hellowp.io/hu/helloconsole/)), és navigálj a **HelloPack** → **API-kulcskészítő** menüpontra.
-<BrowserWindow url="https://hellowp.io/hu/helloconsole/hellopack-kozpont/api-creator/">
-     <img
-       src="/img/api-kulcskeszito-megnyitas-3.png"
-       alt="HelloPack API-kulcskészítő pozíció"
-     ></img>
-   </BrowserWindow>
-2. **Domain megadása:** Add meg a weboldalad domain címét (pl. `pelda-weboldal.hu`).
-   :::warning Figyelem
-   **NE használj** `https://`, `http://` vagy egyéb előtagokat.
-
-   **Elfogadott formátumok:** `domain.hu` | `sub.domain.hu` | `domain.hu/almappa`.
-   :::
-3. **Beállítások (opcionális):**
-   - **Automatikus lejárat:** Beállíthatod, mikor járjon le a kulcs.
-   - **Hozzáférési szint:** Korlátozhatod, hogy a kulcs mely bővítményekhez vagy sablonokhoz biztosítson frissítést (teljes vagy részleges hozzáférés).
-4. **Kulcs létrehozása:** Kattints az **„Új API-kulcs készítése"** gombra.
-5. **Kulcs másolása:** Görgess le az táblázathoz, és másold ki a kulcsot a sárga ikonnal 📋.
-<BrowserWindow url="https://hellowp.io/hu/helloconsole/hellopack-kozpont/api-creator-v2/">
-     <img src="/img/api-kulcs-masolasa.png" alt="HelloPack API-kulcs másolás"></img>
-   </BrowserWindow>
-
-## 2. HelloPack aktiválása
-
-A kimásolt API-kulcsot a WordPress admin felületén kell megadnod.
-
-1. **Navigálj a HelloPack beállításokhoz:** WordPress admin → **HelloPack** menüpontba.
-2. **Illeszd be az API-kulcsot:** Tekerj le, majd másold be a kulcsot az **„API-kulcs"** mezőbe.
-3. **Aktiválás:** Kattints a **„Változtatások mentése"** gombra.
-4. **Ellenőrzés:** Sikeres aktiválás esetén megjelenik a **„Sikeres HelloPack aktiválás!"** üzenet.
-
-<BrowserWindow url="https://weboldalad.hu/wp-admin/admin.php?page=hellopack">
-  <img src="/img/api-kulcs-aktivalasa-3.png" alt="HelloPack aktiválás WordPressben"></img>
+<BrowserWindow url="https://hellowp.io">
+  <img src="/img/hellopack-aktivalas-1.png" alt="HelloPack API-kulcskészítő pozíció"></img>
 </BrowserWindow>
 
-:::success Sikeres aktiválás
-✅ A HelloPack most már aktív a weboldalon!
+**Az API kulcs létrehozásához végezd el az alábbi lépéseket:** 
+1. Add meg weboldalad domain címét, pl.: weboldalamneve.hu *(ne használj https, http vagy egyéb speciális karaktereket)*
 
-**Következő lépések:**
-- 📦 [Bővítmények letöltése →](/docs/dokumentacio/hellopack/bovitmenyek-letoltese)
-- 🔧 [Bővítmények telepítése →](/docs/dokumentacio/hellopack/bovitmenyek-telepitese)
-- 🔄 [Bővítmények frissítése →](/docs/dokumentacio/hellopack/bovitmenyek-frissitese)
+:::warning Figyelem
+
+A domain névnek egyeznie kell a HelloPack csomagkezelő **Domain** című mező tartalmával (www.-t használó domain esetén NE hagyd le a www.-t).
+
 :::
 
-## Hibaelhárítás
+2. Válaszd ki, hogy mely bővítményekhez szeretnél frissítéseket kapni (vagy hagyd meg a **Mindhez** opciót)
+3. Kattints az **Új API-kulcs készítése** gombra.
+4. A létrehozott API kulcs másolásához tekerj az oldal aljára és kattints az aktuális domain névvel egy sorban lévő sárga másolás ikonra.  *(A következő lépésben ezt az API kulcsot másoljuk be a HelloPack bővítmény API-kulcs mezőbe.)*
 
-### Aktiválás sikertelen
 
-Ha a **„Sikertelen aktiválás"** hibaüzenetet kapod:
+<BrowserWindow url="https://hellowp.io">
+  <img src="/img/optimized-API kulcs generalas.gif" alt="HelloPack API-kulcskészítő pozíció"></img>
+</BrowserWindow>
 
-**Ellenőrzési lépések:**
-1. **Domain név egyezés:** Az API-kulcs generálásakor megadott domain pontosan egyezik a WordPress domain-nel?
-2. **HelloPack tesztelő:** Ellenőrizd a HelloPack tesztelő eredményét. Ha valamit pirossal jelez, javítsd az ajánlott értékre.
-3. **API-kulcs helyessége:** A teljes kulcsot kimásoltad, szóközök nélkül?
-4. **Szerver kapcsolat:** A szerver eléri a `hellowp.io` API-t? (Tűzfal ellenőrzés)
-5. **Licenc érvényessége:** Aktív a HelloWP előfizetésed?
 
-### Egyéb hibák
-- **"Maximum activation limit reached":** Túl sok weboldalon aktiváltad már a kulcsot. Töröld a felesleges aktiválásokat a HelloConsole-ban.
-- **API-kulcs nem másolható:** Próbáld manuálisan kijelölni és másolni (Ctrl+C / Cmd+C), vagy használj másik böngészőt.
+### 2. HelloPack bővítmény aktiválása
 
-## Migráció a régi rendszerről
+**WordPress weboldalad vezérlőpultjában** kattints a bal oldali sávban található **HelloPack** menüpontra. 
 
-Ha korábban a main/subAPI rendszert használtad, migráld az új API-kulcs rendszerre:
+1. Másold be a korábban létrehozott API kulcsod az **API-kulcs** mezőbe.
+2. Kattints a **Változtatások Mentése** gombra. 
 
-1. **Helyi beállítások törlése:** WordPress admin → HelloPack → **„Helyi beállítások törlése"**.
-   <BrowserWindow url="https://weboldalad.hu/wp-admin/admin.php?page=hellopack">
-     <img src="/img/helyi-beallitasok-torlese.png" alt="Helyi beállítások törlése"></img>
-   </BrowserWindow>
-2. **Új kulcs létrehozása:** Generálj egy új API-kulcsot az 1. lépés alapján.
-3. **Aktiválás:** Illeszd be és aktiváld az új kulcsot.
-4. **Ellenőrzés:** Futtass egy „Licenc ellenőrzése”-t.
+Sikeres aktiválás esetén, a **Sikeres HelloPack aktiválás!** üzenetet fogod látni. 
 
-:::info Miért migrálj?
-Az új rendszer egyszerűbb, biztonságosabb és gyorsabb aktiválást tesz lehetővé.
+
+<BrowserWindow url="https://weboldalad.hu">
+  <img src="/img/aktivalas-n.gif" alt="HelloPack API-kulcskészítő pozíció"></img>
+</BrowserWindow>
+
+:::warning Ha nem sikerül az aktiválás
+
+Kérlek ellenőrizd, hogy az API kulcs létrehozásakor pontosan azt a domain nevet adtad meg, amit a HelloPack bővítmény aktiválásánál a 2. pontban látsz (ha www.-al kezdődik az oldalad címe, úgy azzal együtt kell API kulcsot létrehoznod).
+
+<BrowserWindow url="https://weboldalad.hu">
+  <img src="/img/aktivalas-figyelem.png" alt="HelloPack API-kulcskészítő pozíció"></img>
+</BrowserWindow>
+
 :::
 
-## További segítség
+### Hogyan migrálj régi main/subAPI rendszerről az új API-kulcsra?
 
-- 📖 [HelloPack követelmények](/docs/dokumentacio/hellopack/kovetelmenyek)
-- 🔧 [Részletes hibaelhárítás](/docs/dokumentacio/hellopack/hibaelharitas)
-- 💬 [Támogatás és közösség](/docs/kozosseg/discord)
+1. **WordPress weboldalad vezérlőpultjában** kattints a bal oldali sávban található **HelloPack** menüpontra. 
+2. Kattints a **Helyi beállítások törlése** gombra. 
+
+<BrowserWindow url="https://hellowp.io">
+  <img src="/img/helyi-beallitasok-torlese.png" alt="HelloPack API-kulcskészítő pozíció"></img>
+</BrowserWindow>
+
+3. Hozz létre egy új API-kulcsot, majd másold ki. *(Részletesebben: [Új API-kulcs létrehozása](/docs/dokumentacio/hellopack/aktivalas#1-hellopack-api-kulcs-létrehozása))*
+4. Másold az új API-kulcsot a HelloPack bővítmény API-kulcs mezőbe, majd kattints az **API-kulcs aktiválása** gombra. *(Részletesebben: [HelloPack aktiválása](/docs/dokumentacio/hellopack/aktivalas#2-hellopack-bővítmény-aktiválása))*
+5. Kattints a **Licensz ellenőrzése** gombra. 
+
+### <FontAwesomeIcon icon="fa-duotone fa-bug text-danger" /> Hibára futottál?
+
+Amennyiben valamilyen hiba történt a HelloPack aktiválása során, akkor nézd át a [HelloPack hibaelhárítási útmutatót](/docs/dokumentacio/hellopack/hibaelharitas).

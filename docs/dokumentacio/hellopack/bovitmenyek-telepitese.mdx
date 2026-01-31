@@ -1,44 +1,21 @@
 ---
 title: Bővítmények telepítése
-description: HelloPack prémium bővítmények telepítése WordPress adminból vagy ZIP fájlból.
+description: HelloPack-os bővítmények telepítése.
 keywords:
   - hellopack
-  - telepítés
-  - bővítmények
-  - install
 sidebar_label: Bővítmények telepítése
-sidebar_position: 4
+sidebar_position: 7
 ---
 
+import MemberCounter from "@site/src/components/MemberCounter";
 import FontAwesomeIcon from "@site/src/components/FontAwesomeIcon";
-import BrowserWindow from "@site/src/components/BrowserWindow";
 
 # <FontAwesomeIcon icon="fa-duotone fa-transporter-3 text-primary" /> Bővítmények telepítése
 
-A HelloPack-ban lévő bővítmények telepítése ugyanolyan egyszerű, mint bármely más WordPress bővítményé.
+A HelloPack-ban lévő bővítmények a szokásos módon telepíthetőek, mint ahogyan a többi WordPress bővítményt is.
 
-## Bővítmények telepítése
+Ha telepíteni szeretnél egy bővítményt, akkor három egyszerű lépést kell metenned:
 
-A bővítményeket egyszerűen és könnyedén tudod telepíteni közvetlenül a Hellopack csoamgkezelővel.
-
-<BrowserWindow url="https://www.weboldaladcime.hu">
-  <img
-    src="/img/bovitmenyek-telepitese.png"
-    alt="HelloPack-bovitmeny-telepites"
-  ></img>
-</BrowserWindow>
-
-### Lépések
-
-1. Jelentkezz be a WordPress admin felületére
-2. A bal oldali menüben keresd meg a **HelloPack** menüpontot
-3. Kattints a HelloPack menüpontra, amely megnyitja a HelloPack irányítópultot, itt egyből a **Bővítmények** menüpontra kerülsz (amennyiben már aktiváldat az API kulcsod)
-
-**A HelloPack menüpontban a következő lehetőségeket találod:**
-
-- **Bővítmények **: Itt láthatod az összes elérhető bővítményt
-- **Sablonok**: Itt találod a letölthető sablonokat (Bricks)
-- **Fordítások**: Itt találod a Hellopack által biztosított magyar fordításokat
-- **Beállítások**: Itt tudod ellenőrizni, hogy a kulcsod aktív-e, valamint a kapcsolatot ellenőrizni ha szükséges
-- **Modulok**: Itt tudod ki-be kapcsolni a Hellopack belső moduljait, valamint a bővímtény modulokat
-- **Tesztelő**: Hiba esetén egy gyors ellenőrző listát kapsz a legalapvetőbb információkkal, amit egyből vágólapra is másolhatsz
+1. Töltsd le a bővítményt .zip formátumban.
+2. Menj a WordPress admin felületére **"Bővítmények" -> "Új bővítmény telepítése"** oldalra, és kattints a **"Feltöltés"** gombra. Itt tudod feltölteni a letöltött .zip fájlt.
+3. Miután feltöltötted a fájlt, kattints a "Telepítés most" gombra. A WordPress most telepíteni fogja a bővítményt, és megjelenik egy üzenet a sikeres telepítésről. Végül aktiválni kell a bővítményt a "Bővítmények" oldalon.
