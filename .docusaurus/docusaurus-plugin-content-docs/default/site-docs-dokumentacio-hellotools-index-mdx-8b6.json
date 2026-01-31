@@ -1,0 +1,38 @@
+{
+  "id": "dokumentacio/hellotools/index",
+  "title": "HelloTools",
+  "description": "HelloTools - Átfogó eszközkészlet WordPress fejlesztőknek. Képoptimalizálás, bővítménykezelés, ütemezett feladatok, státusz monitoring és még sok más.",
+  "source": "@site/docs/dokumentacio/hellotools/index.mdx",
+  "sourceDirName": "dokumentacio/hellotools",
+  "slug": "/dokumentacio/hellotools/",
+  "permalink": "/docs/dokumentacio/hellotools/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellotools/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "HelloTools",
+    "description": "HelloTools - Átfogó eszközkészlet WordPress fejlesztőknek. Képoptimalizálás, bővítménykezelés, ütemezett feladatok, státusz monitoring és még sok más.",
+    "keywords": [
+      "hellotools",
+      "wordpress",
+      "fejlesztői eszközök",
+      "helloimg",
+      "hellopack",
+      "hellocron"
+    ],
+    "sidebar_label": "HelloTools",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dokumentáció",
+    "permalink": "/docs/dokumentacio/"
+  },
+  "next": {
+    "title": "HelloIMG",
+    "permalink": "/docs/dokumentacio/hellotools/helloimg"
+  }
+}

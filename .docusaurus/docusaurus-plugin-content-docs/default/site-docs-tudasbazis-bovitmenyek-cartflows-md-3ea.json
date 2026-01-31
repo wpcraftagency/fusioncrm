@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/cartflows",
+  "title": "CartFlows",
+  "description": "WooCommerce-hez készült checkout- és értékesítési tölcsér építő. Lecseréli az alap pénztárat, és vizuális lépésekből (landing → checkout → upsell → thank you) álló, konverzió‑fókuszú folyamatokat ad.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/cartflows.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/cartflows",
+  "permalink": "/docs/tudasbazis/bovitmenyek/cartflows",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/cartflows.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "CartFlows",
+    "description": "WooCommerce-hez készült checkout- és értékesítési tölcsér építő. Lecseréli az alap pénztárat, és vizuális lépésekből (landing → checkout → upsell → thank you) álló, konverzió‑fókuszú folyamatokat ad.",
+    "sidebar_label": "CartFlows"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CartFlows Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/cartflows-pro"
+  },
+  "next": {
+    "title": "CheckoutWC",
+    "permalink": "/docs/tudasbazis/bovitmenyek/checkoutwc"
+  }
+}

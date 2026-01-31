@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/wordpress/index",
+  "title": "WordPress",
+  "description": "WordPress-es oktatóanyagok",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/wordpress/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/wordpress",
+  "slug": "/tudasbazis/oktatoanyagok/wordpress/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/wordpress/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/wordpress/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "WordPress",
+    "description": "WordPress-es oktatóanyagok",
+    "keywords": [
+      "wordpress"
+    ],
+    "sidebar_label": "WordPress",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WordPress telepítése egy fájl segítségével",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/uzemeltetes/wordpress-telepitese-konnyeden-egy-telepito-fajl-segitsegevel"
+  },
+  "next": {
+    "title": "Child sablon készítése",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon"
+  }
+}

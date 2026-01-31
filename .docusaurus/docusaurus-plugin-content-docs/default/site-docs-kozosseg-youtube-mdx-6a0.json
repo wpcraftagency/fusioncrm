@@ -1,0 +1,30 @@
+{
+  "id": "kozosseg/youtube",
+  "title": "Youtube",
+  "description": "HelloWP!-s Youtube oldalak",
+  "source": "@site/docs/kozosseg/youtube.mdx",
+  "sourceDirName": "kozosseg",
+  "slug": "/kozosseg/youtube",
+  "permalink": "/docs/kozosseg/youtube",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/kozosseg/youtube.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Youtube",
+    "description": "HelloWP!-s Youtube oldalak",
+    "keywords": [
+      "youtube"
+    ],
+    "slug": "youtube",
+    "sidebar_label": "YouTube",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Facebook",
+    "permalink": "/docs/kozosseg/facebook"
+  }
+}

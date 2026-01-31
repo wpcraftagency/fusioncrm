@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluent-forms-pdf-generator",
+  "title": "Fluent Forms PDF Generator",
+  "description": "Ingyenes, hivatalos Fluent Forms kiegészítő, amellyel a beküldött űrlapadatokból automatikus, testreszabott PDF-eket generálhatsz, letölthetsz és e‑mailhez csatolhatsz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluent-forms-pdf-generator.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluent-forms-pdf-generator",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluent-forms-pdf-generator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluent-forms-pdf-generator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fluent Forms PDF Generator",
+    "description": "Ingyenes, hivatalos Fluent Forms kiegészítő, amellyel a beküldött űrlapadatokból automatikus, testreszabott PDF-eket generálhatsz, letölthetsz és e‑mailhez csatolhatsz.",
+    "sidebar_label": "Fluent Forms PDF Generator"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fluent Boards Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-boards-pro"
+  },
+  "next": {
+    "title": "Fluent Forms Pro Add On Pack",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-forms-pro-add-on-pack"
+  }
+}

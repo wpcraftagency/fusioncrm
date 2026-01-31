@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mailchimp-for-woocommerce-memberships",
+  "title": "MailChimp for WooCommerce Memberships",
+  "description": "WooCommerce Memberships tagsági adatok automatikus szinkronja a Mailchimp közönségbe, célzott szegmentálással és életciklus‑kampányokhoz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mailchimp-for-woocommerce-memberships.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mailchimp-for-woocommerce-memberships",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mailchimp-for-woocommerce-memberships",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mailchimp-for-woocommerce-memberships.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MailChimp for WooCommerce Memberships",
+    "description": "WooCommerce Memberships tagsági adatok automatikus szinkronja a Mailchimp közönségbe, célzott szegmentálással és életciklus‑kampányokhoz.",
+    "sidebar_label": "MailChimp for WooCommerce Memberships"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash Multilingual Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-multilingual-integration"
+  },
+  "next": {
+    "title": "MailChimp for WordPress Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mailchimp-for-wordpress-multilingual"
+  }
+}

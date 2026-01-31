@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/slack-for-woocommerce",
+  "title": "Slack for WooCommerce",
+  "description": "Valós idejű Slack-értesítések WooCommerce eseményekhez, testreszabható üzenetekkel és fejlesztői hookokkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/slack-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/slack-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/slack-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/slack-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Slack for WooCommerce",
+    "description": "Valós idejű Slack-értesítések WooCommerce eseményekhez, testreszabható üzenetekkel és fejlesztői hookokkal.",
+    "sidebar_label": "Slack for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SEOPress",
+    "permalink": "/docs/tudasbazis/bovitmenyek/seopress"
+  },
+  "next": {
+    "title": "Slider Revolution",
+    "permalink": "/docs/tudasbazis/bovitmenyek/slider-revolution"
+  }
+}

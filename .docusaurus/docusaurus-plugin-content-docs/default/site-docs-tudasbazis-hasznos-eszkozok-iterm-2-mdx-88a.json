@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/iterm2",
+  "title": "iTerm2 - Terminál macOS-re",
+  "description": "iTerm2 terminál használata macOS-en - a beépített Terminal app legjobb alternatívája fejlesztőknek.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/iterm2.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/iterm2",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/iterm2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/iterm2.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "iTerm2 - Terminál macOS-re",
+    "description": "iTerm2 terminál használata macOS-en - a beépített Terminal app legjobb alternatívája fejlesztőknek.",
+    "keywords": [
+      "iterm2",
+      "terminal",
+      "terminál",
+      "macos",
+      "command line"
+    ],
+    "sidebar_label": "iTerm2",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Insomnia",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/insomnia"
+  },
+  "next": {
+    "title": "Postman",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/postman"
+  }
+}

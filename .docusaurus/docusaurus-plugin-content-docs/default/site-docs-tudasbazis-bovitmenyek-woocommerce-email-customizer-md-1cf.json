@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-email-customizer",
+  "title": "WooCommerce Email Customizer",
+  "description": "Vizuális arculati szerkesztő a WooCommerce tranzakciós e‑mailekhez a WordPress Customizer felületén. A hivatalos kiegészítő már nem kapható.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-email-customizer.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-email-customizer",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-email-customizer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-email-customizer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Email Customizer",
+    "description": "Vizuális arculati szerkesztő a WooCommerce tranzakciós e‑mailekhez a WordPress Customizer felületén. A hivatalos kiegészítő már nem kapható.",
+    "sidebar_label": "WooCommerce Email Customizer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce E-Mail Attachments (by Inoplugs)",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-e-mail-attachments-by-inoplugs"
+  },
+  "next": {
+    "title": "WooCommerce EU VAT Number",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-eu-vat-number"
+  }
+}

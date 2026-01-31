@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/bovitmenyek-frissitese",
+  "title": "Bővítmények frissítése",
+  "description": "HelloPack-os prémium bővítmények és témák frissítése WordPress adminból.",
+  "source": "@site/docs/dokumentacio/hellopack/bovitmenyek-frissitese.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/bovitmenyek-frissitese",
+  "permalink": "/docs/dokumentacio/hellopack/bovitmenyek-frissitese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/bovitmenyek-frissitese.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Bővítmények frissítése",
+    "description": "HelloPack-os prémium bővítmények és témák frissítése WordPress adminból.",
+    "keywords": [
+      "hellopack",
+      "frissítés",
+      "bővítmények",
+      "update"
+    ],
+    "sidebar_label": "Bővítmények frissítése",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bővítmények telepítése",
+    "permalink": "/docs/dokumentacio/hellopack/bovitmenyek-telepitese"
+  },
+  "next": {
+    "title": "Fordításkezelés",
+    "permalink": "/docs/dokumentacio/hellopack/forditaskezeles"
+  }
+}

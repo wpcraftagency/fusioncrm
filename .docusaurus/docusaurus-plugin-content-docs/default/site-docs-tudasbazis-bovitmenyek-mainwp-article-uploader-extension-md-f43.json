@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-article-uploader-extension",
+  "title": "MainWP Article Uploader Extension",
+  "description": "Tömeges cikkfeltöltés és publikálás több, MainWP-hez kapcsolt WordPress oldalon TXT/CSV importtal, előnézettel és ütemezési integrációval.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-article-uploader-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-article-uploader-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-article-uploader-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-article-uploader-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Article Uploader Extension",
+    "description": "Tömeges cikkfeltöltés és publikálás több, MainWP-hez kapcsolt WordPress oldalon TXT/CSV importtal, előnézettel és ütemezési integrációval.",
+    "sidebar_label": "MainWP Article Uploader Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP API Backups Extension - BETA",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-api-backups-extension-beta"
+  },
+  "next": {
+    "title": "MainWP Atarim Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-atarim-extension"
+  }
+}

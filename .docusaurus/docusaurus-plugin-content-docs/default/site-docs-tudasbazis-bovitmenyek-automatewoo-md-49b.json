@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/automatewoo",
+  "title": "AutomateWoo",
+  "description": "WooCommerce‑hez készült automatizálási bővítmény, amellyel eseményekre reagáló munkafolyamatokkal e‑maileket, SMS‑eket és boltfolyamatokat automatizálsz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/automatewoo.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/automatewoo",
+  "permalink": "/docs/tudasbazis/bovitmenyek/automatewoo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/automatewoo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AutomateWoo",
+    "description": "WooCommerce‑hez készült automatizálási bővítmény, amellyel eseményekre reagáló munkafolyamatokkal e‑maileket, SMS‑eket és boltfolyamatokat automatizálsz.",
+    "sidebar_label": "AutomateWoo"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AutomateWoo - Refer A Friend Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/automatewoo-refer-a-friend-add-on"
+  },
+  "next": {
+    "title": "AutomatorWP Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/automatorwp-pro"
+  }
+}

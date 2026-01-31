@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/userpro-5-1-11",
+  "title": "UserPro (5.1.11)",
+  "description": "Prémium WordPress bővítmény front-end felhasználói profilokhoz, regisztrációhoz, bejelentkezéshez és közösségi funkciókhoz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/userpro-5-1-11.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/userpro-5-1-11",
+  "permalink": "/docs/tudasbazis/bovitmenyek/userpro-5-1-11",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/userpro-5-1-11.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "UserPro (5.1.11)",
+    "description": "Prémium WordPress bővítmény front-end felhasználói profilokhoz, regisztrációhoz, bejelentkezéshez és közösségi funkciókhoz.",
+    "sidebar_label": "UserPro (5.1.11)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UpdraftPlus - Backup/Restore",
+    "permalink": "/docs/tudasbazis/bovitmenyek/updraftplus-backup-restore"
+  },
+  "next": {
+    "title": "WebinarPress Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/webinarpress-pro"
+  }
+}

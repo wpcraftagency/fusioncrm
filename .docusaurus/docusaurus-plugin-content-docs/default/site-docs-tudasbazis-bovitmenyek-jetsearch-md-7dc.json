@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetsearch",
+  "title": "JetSearch",
+  "description": "Prémium, AJAX‑alapú WordPress kereső bővítmény élő találatokkal, WooCommerce- és egyedi mező támogatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetsearch.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetsearch",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetsearch",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetsearch.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetSearch",
+    "description": "Prémium, AJAX‑alapú WordPress kereső bővítmény élő találatokkal, WooCommerce- és egyedi mező támogatással.",
+    "sidebar_label": "JetSearch"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetReviews For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetreviews-for-elementor"
+  },
+  "next": {
+    "title": "JetSmartFilters",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetsmartfilters"
+  }
+}

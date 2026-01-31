@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-show-affiliate-coupons",
+  "title": "AffiliateWP - Show Affiliate Coupons",
+  "description": "Kuponok megjelenítése az affiliátoknak az Affiliate Area-ban és shortcode-dal. Egyszerű kuponalapú követés és kevesebb adminisztráció.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-show-affiliate-coupons.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-show-affiliate-coupons",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-show-affiliate-coupons",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-show-affiliate-coupons.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - Show Affiliate Coupons",
+    "description": "Kuponok megjelenítése az affiliátoknak az Affiliate Area-ban és shortcode-dal. Egyszerű kuponalapú követés és kevesebb adminisztráció.",
+    "sidebar_label": "AffiliateWP - Show Affiliate Coupons"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - REST API Extended",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-rest-api-extended"
+  },
+  "next": {
+    "title": "AffiliateWP - Signup Referrals",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-signup-referrals"
+  }
+}

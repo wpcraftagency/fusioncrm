@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-code-snippets-extension",
+  "title": "MainWP Code Snippets Extension",
+  "description": "Központi PHP-kódrészlet-kezelés a MainWP Dashboardból: snippetek futtatása, tárolása és wp-config módosítások több gyermekoldalon.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-code-snippets-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-code-snippets-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-code-snippets-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-code-snippets-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Code Snippets Extension",
+    "description": "Központi PHP-kódrészlet-kezelés a MainWP Dashboardból: snippetek futtatása, tárolása és wp-config módosítások több gyermekoldalon.",
+    "sidebar_label": "MainWP Code Snippets Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Clone Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-clone-extension"
+  },
+  "next": {
+    "title": "MainWP Comments Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-comments-extension"
+  }
+}

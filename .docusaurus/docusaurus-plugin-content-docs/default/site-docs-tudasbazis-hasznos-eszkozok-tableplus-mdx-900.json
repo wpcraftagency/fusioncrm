@@ -1,0 +1,38 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/tableplus",
+  "title": "TablePlus - Modern adatbázis kezelő",
+  "description": "TablePlus telepítése és használata - natív, gyors adatbázis kliens MySQL, PostgreSQL, SQLite és más adatbázisokhoz.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/tableplus.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/tableplus",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/tableplus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/tableplus.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "title": "TablePlus - Modern adatbázis kezelő",
+    "description": "TablePlus telepítése és használata - natív, gyors adatbázis kliens MySQL, PostgreSQL, SQLite és más adatbázisokhoz.",
+    "keywords": [
+      "tableplus",
+      "database",
+      "mysql",
+      "postgresql",
+      "sqlite",
+      "adatbázis"
+    ],
+    "sidebar_label": "TablePlus",
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Postman",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/postman"
+  },
+  "next": {
+    "title": "Toggl Track",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/toggl-track"
+  }
+}

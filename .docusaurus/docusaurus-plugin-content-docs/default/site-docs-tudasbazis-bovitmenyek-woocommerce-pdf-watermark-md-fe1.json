@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-pdf-watermark",
+  "title": "WooCommerce PDF Watermark",
+  "description": "Letölthető PDF-ek automatikus vízjelezése és védelme WooCommerce-ben: szöveges/képes vízjel, jogosultságok és jelszavas védelem.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-pdf-watermark.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-pdf-watermark",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-pdf-watermark",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-pdf-watermark.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce PDF Watermark",
+    "description": "Letölthető PDF-ek automatikus vízjelezése és védelme WooCommerce-ben: szöveges/képes vízjel, jogosultságok és jelszavas védelem.",
+    "sidebar_label": "WooCommerce PDF Watermark"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce PDF Invoices",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-pdf-invoices"
+  },
+  "next": {
+    "title": "WooCommerce Points and Rewards",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-points-and-rewards"
+  }
+}

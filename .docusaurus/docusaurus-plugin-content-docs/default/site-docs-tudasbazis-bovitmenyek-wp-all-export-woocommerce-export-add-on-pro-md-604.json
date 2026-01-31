@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-all-export-woocommerce-export-add-on-pro",
+  "title": "WP All Export - WooCommerce Export Add-On Pro",
+  "description": "Prémium kiegészítő a WP All Exporthoz, amellyel WooCommerce-termékeket, rendeléseket, vásárlókat, kuponokat és értékeléseket exportálhatsz testreszabott CSV/Excel/XML fájlokba és automatizált feedekbe.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-all-export-woocommerce-export-add-on-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-all-export-woocommerce-export-add-on-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-woocommerce-export-add-on-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-all-export-woocommerce-export-add-on-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP All Export - WooCommerce Export Add-On Pro",
+    "description": "Prémium kiegészítő a WP All Exporthoz, amellyel WooCommerce-termékeket, rendeléseket, vásárlókat, kuponokat és értékeléseket exportálhatsz testreszabott CSV/Excel/XML fájlokba és automatizált feedekbe.",
+    "sidebar_label": "WP All Export - WooCommerce Export Add-On Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Export - User Export Add-On Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-user-export-add-on-pro"
+  },
+  "next": {
+    "title": "WP All Import - ACF Add-On",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-acf-add-on"
+  }
+}

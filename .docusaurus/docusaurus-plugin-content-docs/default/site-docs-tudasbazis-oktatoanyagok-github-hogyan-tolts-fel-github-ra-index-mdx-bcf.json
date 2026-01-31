@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/oktatoanyagok/github/hogyan-tolts-fel-github-ra/index",
+  "title": "Hogyan töltsd fel a kódod GitHubra?",
+  "description": "Részletes útmutató a kód feltöltéséhez GitHubra parancssorból és GitHub Desktop segítségével.",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/github/hogyan-tolts-fel-github-ra/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/github/hogyan-tolts-fel-github-ra",
+  "slug": "/tudasbazis/oktatoanyagok/github/hogyan-tolts-fel-github-ra/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/github/hogyan-tolts-fel-github-ra/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/github/hogyan-tolts-fel-github-ra/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Hogyan töltsd fel a kódod GitHubra?",
+    "description": "Részletes útmutató a kód feltöltéséhez GitHubra parancssorból és GitHub Desktop segítségével.",
+    "keywords": [
+      "github",
+      "git",
+      "feltöltés",
+      "push",
+      "repository"
+    ],
+    "sidebar_label": "Kód feltöltése GitHubra",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub kezdőknek",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/github/github-kezdoknek/"
+  },
+  "next": {
+    "title": "Prémium bővítmények",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/"
+  }
+}

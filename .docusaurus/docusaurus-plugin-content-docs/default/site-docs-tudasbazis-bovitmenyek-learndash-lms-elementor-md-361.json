@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-elementor",
+  "title": "LearnDash LMS - Elementor",
+  "description": "Hivatalos kiegészítő, amely mély integrációt ad a LearnDash LMS és az Elementor között, hogy vizuálisan szerkeszthető, egységes sablonokat készíthess kurzus-, lecke-, téma- és kvíz-oldalakhoz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-elementor.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-elementor",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-elementor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-elementor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - Elementor",
+    "description": "Hivatalos kiegészítő, amely mély integrációt ad a LearnDash LMS és az Elementor között, hogy vizuálisan szerkeszthető, egységes sablonokat készíthess kurzus-, lecke-, téma- és kvíz-oldalakhoz.",
+    "sidebar_label": "LearnDash LMS - Elementor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - EDD Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-edd-integration"
+  },
+  "next": {
+    "title": "LearnDash LMS - Event Espresso",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-event-espresso"
+  }
+}

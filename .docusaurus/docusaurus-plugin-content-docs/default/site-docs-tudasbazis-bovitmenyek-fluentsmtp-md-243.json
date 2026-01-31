@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluentsmtp",
+  "title": "FluentSMTP",
+  "description": "Ingyenes, nyílt forráskódú WordPress bővítmény a megbízható e‑mail kézbesítéshez, több szolgáltatóval, okos útvonalválasztással és naplózással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluentsmtp.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluentsmtp",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluentsmtp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluentsmtp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FluentSMTP",
+    "description": "Ingyenes, nyílt forráskódú WordPress bővítmény a megbízható e‑mail kézbesítéshez, több szolgáltatóval, okos útvonalválasztással és naplózással.",
+    "sidebar_label": "FluentSMTP"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FluentCRM Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentcrm-pro"
+  },
+  "next": {
+    "title": "Free Gifts for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/free-gifts-for-woocommerce"
+  }
+}

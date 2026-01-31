@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluentcrm-pro",
+  "title": "FluentCRM Pro",
+  "description": "Önhostolt e-mail marketing és CRM WordPresshez, fejlett automatizációkkal, szegmentálással, jelentésekkel és mély integrációkkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluentcrm-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluentcrm-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluentcrm-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluentcrm-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FluentCRM Pro",
+    "description": "Önhostolt e-mail marketing és CRM WordPresshez, fejlett automatizációkkal, szegmentálással, jelentésekkel és mély integrációkkal.",
+    "sidebar_label": "FluentCRM Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FluentCRM - Marketing Automation For WordPress",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentcrm-marketing-automation-for-wordpress"
+  },
+  "next": {
+    "title": "FluentSMTP",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentsmtp"
+  }
+}

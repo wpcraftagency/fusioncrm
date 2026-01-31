@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/white-label",
+  "title": "White-label",
+  "description": "HelloPack white-label funkció használata saját márkaidentitáshoz.",
+  "source": "@site/docs/dokumentacio/hellopack/white-label.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/white-label",
+  "permalink": "/docs/dokumentacio/hellopack/white-label",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/white-label.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "White-label",
+    "description": "HelloPack white-label funkció használata saját márkaidentitáshoz.",
+    "keywords": [
+      "hellopack",
+      "white-label",
+      "testreszabás",
+      "branding"
+    ],
+    "sidebar_label": "Csomagkezelő White-label",
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rendszerkövetelmények",
+    "permalink": "/docs/dokumentacio/hellopack/kovetelmenyek"
+  },
+  "next": {
+    "title": "Csomagkezelő CLI parancsok",
+    "permalink": "/docs/dokumentacio/hellopack/cli-parancsok"
+  }
+}

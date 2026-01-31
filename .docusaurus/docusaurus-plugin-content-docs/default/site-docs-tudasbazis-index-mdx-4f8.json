@@ -1,0 +1,35 @@
+{
+  "id": "tudasbazis/index",
+  "title": "Tudásbázis",
+  "description": "Tudásbázis - oktatóanyagok, útmutatók és hasznos eszközök webfejlesztéshez",
+  "source": "@site/docs/tudasbazis/index.mdx",
+  "sourceDirName": "tudasbazis",
+  "slug": "/tudasbazis/",
+  "permalink": "/docs/tudasbazis/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Tudásbázis",
+    "description": "Tudásbázis - oktatóanyagok, útmutatók és hasznos eszközök webfejlesztéshez",
+    "keywords": [
+      "tudásbázis",
+      "oktatóanyagok",
+      "hasznos eszközök"
+    ],
+    "sidebar_label": "Tudásbázis",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Előfizetés korábbi megújítása + kedvezmény felhasználása",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-korabbi-megujitasa-kedvezmeny-felhasznalasa"
+  },
+  "next": {
+    "title": "Bővítmények",
+    "permalink": "/docs/tudasbazis/bovitmenyek/"
+  }
+}

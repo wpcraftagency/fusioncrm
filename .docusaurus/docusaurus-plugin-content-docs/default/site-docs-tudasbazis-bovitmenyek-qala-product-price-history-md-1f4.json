@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/qala-product-price-history",
+  "title": "Qala Product Price History",
+  "description": "WooCommerce-kiegészítő az árak automatikus naplózásához és a 30 napos legalacsonyabb ár megjelenítéséhez az Omnibus-megfelelésért.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/qala-product-price-history.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/qala-product-price-history",
+  "permalink": "/docs/tudasbazis/bovitmenyek/qala-product-price-history",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/qala-product-price-history.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Qala Product Price History",
+    "description": "WooCommerce-kiegészítő az árak automatikus naplózásához és a 30 napos legalacsonyabb ár megjelenítéséhez az Omnibus-megfelelésért.",
+    "sidebar_label": "Qala Product Price History"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Products Linked by Variations for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/products-linked-by-variations-for-woocommerce"
+  },
+  "next": {
+    "title": "QuadMenu PRO",
+    "permalink": "/docs/tudasbazis/bovitmenyek/quadmenu-pro"
+  }
+}

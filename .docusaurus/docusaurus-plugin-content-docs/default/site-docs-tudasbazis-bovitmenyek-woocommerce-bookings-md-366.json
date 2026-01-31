@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-bookings",
+  "title": "WooCommerce Bookings",
+  "description": "Hivatalos WooCommerce kiterjesztés időpontok, bérlések és helyfoglalások értékesítéséhez rugalmas elérhetőséggel, árazással és naptárintegrációval.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-bookings.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-bookings",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-bookings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-bookings.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Bookings",
+    "description": "Hivatalos WooCommerce kiterjesztés időpontok, bérlések és helyfoglalások értékesítéséhez rugalmas elérhetőséggel, árazással és naptárintegrációval.",
+    "sidebar_label": "WooCommerce Bookings"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Back In Stock Notifications",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-back-in-stock-notifications"
+  },
+  "next": {
+    "title": "WooCommerce Bulk Stock Management",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-bulk-stock-management"
+  }
+}

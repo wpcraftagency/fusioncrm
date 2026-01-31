@@ -1,0 +1,39 @@
+{
+  "id": "dokumentacio/uzemeltetes-karbantartas/hozzaferes-a-szerverhez",
+  "title": "Hozzáférés a szerverhez",
+  "description": "Szerver hozzáférési lehetőségek - Git deploy, sFTP és fájlkezelés.",
+  "source": "@site/docs/dokumentacio/uzemeltetes-karbantartas/hozzaferes-a-szerverhez.mdx",
+  "sourceDirName": "dokumentacio/uzemeltetes-karbantartas",
+  "slug": "/dokumentacio/uzemeltetes-karbantartas/hozzaferes-a-szerverhez",
+  "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/hozzaferes-a-szerverhez",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/uzemeltetes-karbantartas/hozzaferes-a-szerverhez.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Hozzáférés a szerverhez",
+    "description": "Szerver hozzáférési lehetőségek - Git deploy, sFTP és fájlkezelés.",
+    "authors": [
+      "trueqap"
+    ],
+    "keywords": [
+      "szerver hozzáférés",
+      "sftp",
+      "git deploy",
+      "fájlkezelés"
+    ],
+    "sidebar_label": "Hozzáférés a szerverhez",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technikai adatok",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/technikai-adatok"
+  },
+  "next": {
+    "title": "Cloudflare regisztráció és hozzáférés",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/cloudflare-regisztracio-hozzaferes"
+  }
+}

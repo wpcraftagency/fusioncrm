@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-save-form-progress",
+  "title": "JetFormBuilder Save Form Progress",
+  "description": "Pro kiegészítő, amely automatikusan elmenti az űrlapok kitöltési állapotát a böngészőben, így megszakítás után is ott folytathatod, ahol abbahagytad.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-save-form-progress.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-save-form-progress",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-save-form-progress",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-save-form-progress.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder Save Form Progress",
+    "description": "Pro kiegészítő, amely automatikusan elmenti az űrlapok kitöltési állapotát a böngészőben, így megszakítás után is ott folytathatod, ahol abbahagytad.",
+    "sidebar_label": "JetFormBuilder Save Form Progress"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder PDF Attachment",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-pdf-attachment"
+  },
+  "next": {
+    "title": "JetFormBuilder Schedule Forms",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-schedule-forms"
+  }
+}

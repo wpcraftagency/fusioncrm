@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/uzemeltetes-karbantartas/technikai-adatok",
+  "title": "Technikai adatok",
+  "description": "HelloWP szerverek technikai specifikációi és elérhető szolgáltatások.",
+  "source": "@site/docs/dokumentacio/uzemeltetes-karbantartas/technikai-adatok.mdx",
+  "sourceDirName": "dokumentacio/uzemeltetes-karbantartas",
+  "slug": "/dokumentacio/uzemeltetes-karbantartas/technikai-adatok",
+  "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/technikai-adatok",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/uzemeltetes-karbantartas/technikai-adatok.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Technikai adatok",
+    "description": "HelloWP szerverek technikai specifikációi és elérhető szolgáltatások.",
+    "keywords": [
+      "szerver",
+      "php",
+      "technikai adatok",
+      "infrastruktúra"
+    ],
+    "sidebar_label": "Technikai adatok",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Üzemeltetés és karbantartás",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/"
+  },
+  "next": {
+    "title": "Hozzáférés a szerverhez",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/hozzaferes-a-szerverhez"
+  }
+}

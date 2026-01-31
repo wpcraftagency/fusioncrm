@@ -1,0 +1,27 @@
+{
+  "id": "sugo/szamlazas-es-elofizetesek/elofizetes-lemondasa",
+  "title": "Előfizetés lemondása",
+  "description": "A lemondás egyszerű: Belépés után kattints a nevedre (jobb fent) vagy Fiókom (lent középen) menüpont és Előfizetések menüpont. Válaszd ki, hogy melyik előfizetést szeretnéd lemondani, majd Megtekintés gomb és itt a Lemondás gomb. Amennyiben a lemondás sikeres, akkor a megrendelés állapota Lemondva lesz.",
+  "source": "@site/docs/sugo/szamlazas-es-elofizetesek/elofizetes-lemondasa.md",
+  "sourceDirName": "sugo/szamlazas-es-elofizetesek",
+  "slug": "/sugo/szamlazas-es-elofizetesek/elofizetes-lemondasa",
+  "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-lemondasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/szamlazas-es-elofizetesek/elofizetes-lemondasa.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Előfizetés elindítása",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-elofizetes"
+  },
+  "next": {
+    "title": "Előfizetés újraaktiválása",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-ujraaktivalasa"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/analytify-email-notifications",
+  "title": "Analytify Email Notifications",
+  "description": "Analytify Pro kiegészítő, amely ütemezett, testreszabható GA4 e-mail jelentéseket és valós idejű riasztásokat küld több címzettnek.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/analytify-email-notifications.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/analytify-email-notifications",
+  "permalink": "/docs/tudasbazis/bovitmenyek/analytify-email-notifications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/analytify-email-notifications.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Analytify Email Notifications",
+    "description": "Analytify Pro kiegészítő, amely ütemezett, testreszabható GA4 e-mail jelentéseket és valós idejű riasztásokat küld több címzettnek.",
+    "sidebar_label": "Analytify Email Notifications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Analytify Easy Digital Downloads",
+    "permalink": "/docs/tudasbazis/bovitmenyek/analytify-easy-digital-downloads"
+  },
+  "next": {
+    "title": "Analytify Goals (Key Events)",
+    "permalink": "/docs/tudasbazis/bovitmenyek/analytify-goals-key-events"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-tooltip",
+  "title": "MB Tooltip",
+  "description": "Meta Box kiegészítő, amellyel súgó buborékokat (tooltipeket) adhatsz az admin űrlapok egyedi mezőihez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-tooltip.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-tooltip",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-tooltip",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-tooltip.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Tooltip",
+    "description": "Meta Box kiegészítő, amellyel súgó buborékokat (tooltipeket) adhatsz az admin űrlapok egyedi mezőihez.",
+    "sidebar_label": "MB Tooltip"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Testimonials",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-testimonials"
+  },
+  "next": {
+    "title": "MB User Avatar",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-user-avatar"
+  }
+}

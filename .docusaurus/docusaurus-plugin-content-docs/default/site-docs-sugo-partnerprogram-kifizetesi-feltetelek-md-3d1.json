@@ -1,0 +1,27 @@
+{
+  "id": "sugo/partnerprogram/kifizetesi-feltetelek",
+  "title": "Kifizetési feltételek",
+  "description": "Egyedülálló módon, 30%-ot fizetünk a partnernek minden generált és kifizetett vásárlás után, amennyiben elérte a partner összbevétele az 50.000 Ft-ot. Az 50.000 Ft-os határig 20%-ot fizetünk. A jutalék akkor kerül jóváírásra, amikor a vásárlás után a teljes fizetendő vételár megérkezik és elszámolásra kerül. Bankkártyás vásárlás esetében ez azonnal megtörténik, átutalással történő vásárlás esetén pedig az összeg számlánkra történő beérkezésekor. A folyamatban levő tranzakciókra vonatkozó és a kifizetésre váró, már jóváírt jutalékok összege megtekinthető a Partnerprogram kezelőfelületen.",
+  "source": "@site/docs/sugo/partnerprogram/kifizetesi-feltetelek.md",
+  "sourceDirName": "sugo/partnerprogram",
+  "slug": "/sugo/partnerprogram/kifizetesi-feltetelek",
+  "permalink": "/docs/sugo/partnerprogram/kifizetesi-feltetelek",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/partnerprogram/kifizetesi-feltetelek.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Regisztráció",
+    "permalink": "/docs/sugo/partnerprogram/regisztracio"
+  },
+  "next": {
+    "title": "Partnerprogram központ",
+    "permalink": "/docs/sugo/partnerprogram/kozpont"
+  }
+}

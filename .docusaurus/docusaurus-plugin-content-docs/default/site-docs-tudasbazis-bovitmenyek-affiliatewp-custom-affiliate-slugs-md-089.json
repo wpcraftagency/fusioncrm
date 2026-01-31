@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-custom-affiliate-slugs",
+  "title": "AffiliateWP - Custom Affiliate Slugs",
+  "description": "Pro szintű AffiliateWP-kiegészítő, amellyel az affiliált partnerek a felhasználónév/ID helyett egyedi, könnyen megjegyezhető slugot használhatnak a hivatkozásaikban.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-custom-affiliate-slugs.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-custom-affiliate-slugs",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-custom-affiliate-slugs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-custom-affiliate-slugs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - Custom Affiliate Slugs",
+    "description": "Pro szintű AffiliateWP-kiegészítő, amellyel az affiliált partnerek a felhasználónév/ID helyett egyedi, könnyen megjegyezhető slugot használhatnak a hivatkozásaikban.",
+    "sidebar_label": "AffiliateWP - Custom Affiliate Slugs"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - Allowed Products",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-allowed-products"
+  },
+  "next": {
+    "title": "AffiliateWP - Direct Link Tracking",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-direct-link-tracking"
+  }
+}

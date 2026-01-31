@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/meta-box-show-hide",
+  "title": "Meta Box Show Hide",
+  "description": "Feltételes megjelenítés/elrejtés meta box szinten, valós időben a WordPress szerkesztőben a Meta Box keretrendszerhez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/meta-box-show-hide.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/meta-box-show-hide",
+  "permalink": "/docs/tudasbazis/bovitmenyek/meta-box-show-hide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/meta-box-show-hide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Meta Box Show Hide",
+    "description": "Feltételes megjelenítés/elrejtés meta box szinten, valós időben a WordPress szerkesztőben a Meta Box keretrendszerhez.",
+    "sidebar_label": "Meta Box Show Hide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meta Box Geolocation",
+    "permalink": "/docs/tudasbazis/bovitmenyek/meta-box-geolocation"
+  },
+  "next": {
+    "title": "Meta Box Template",
+    "permalink": "/docs/tudasbazis/bovitmenyek/meta-box-template"
+  }
+}

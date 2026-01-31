@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/quadmenu",
+  "title": "QuadMenu",
+  "description": "Reszponzív, drag‑and‑drop alapú mega menü bővítmény WordPresshez horizontális, vertikális, off‑canvas és összehajtható elrendezésekkel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/quadmenu.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/quadmenu",
+  "permalink": "/docs/tudasbazis/bovitmenyek/quadmenu",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/quadmenu.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "QuadMenu",
+    "description": "Reszponzív, drag‑and‑drop alapú mega menü bővítmény WordPresshez horizontális, vertikális, off‑canvas és összehajtható elrendezésekkel.",
+    "sidebar_label": "QuadMenu"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "QuadMenu PRO",
+    "permalink": "/docs/tudasbazis/bovitmenyek/quadmenu-pro"
+  },
+  "next": {
+    "title": "Request a Quote for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/request-a-quote-for-woocommerce"
+  }
+}

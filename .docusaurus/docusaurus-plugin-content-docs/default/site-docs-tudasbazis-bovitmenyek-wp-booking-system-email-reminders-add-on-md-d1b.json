@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-email-reminders-add-on",
+  "title": "WP Booking System - Email Reminders Add-on",
+  "description": "Automatizált emlékeztető és követő e-mail értesítések a WP Booking System-ben; ma már a fő bővítmény részeként működik.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-email-reminders-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-email-reminders-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-email-reminders-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-email-reminders-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Email Reminders Add-on",
+    "description": "Automatizált emlékeztető és követő e-mail értesítések a WP Booking System-ben; ma már a fő bővítmény részeként működik.",
+    "sidebar_label": "WP Booking System - Email Reminders Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Customers",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-customers"
+  },
+  "next": {
+    "title": "WP Booking System - GoPay Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-gopay-add-on"
+  }
+}

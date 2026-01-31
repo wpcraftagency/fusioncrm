@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetengine-trim-string-callback",
+  "title": "JetEngine - Trim string callback",
+  "description": "JetEngine külső modul, amellyel dinamikus szövegeket vághatsz le szavak vagy karakterek szerint a Dynamic Field kimenetében.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetengine-trim-string-callback.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetengine-trim-string-callback",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-trim-string-callback",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetengine-trim-string-callback.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetEngine - Trim string callback",
+    "description": "JetEngine külső modul, amellyel dinamikus szövegeket vághatsz le szavak vagy karakterek szerint a Dynamic Field kimenetében.",
+    "sidebar_label": "JetEngine - Trim string callback"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetEngine Post Expiration Period Module",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-post-expiration-period-module"
+  },
+  "next": {
+    "title": "JetEngine",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine"
+  }
+}

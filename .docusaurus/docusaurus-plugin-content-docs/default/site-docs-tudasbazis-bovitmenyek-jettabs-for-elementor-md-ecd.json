@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jettabs-for-elementor",
+  "title": "JetTabs For Elementor",
+  "description": "Prémium tartalomszervező bővítmény Elementorhoz: fülek, akkordionok és váltó blokkok dinamikus, újrahasznosítható elrendezésekhez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jettabs-for-elementor.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jettabs-for-elementor",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jettabs-for-elementor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jettabs-for-elementor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetTabs For Elementor",
+    "description": "Prémium tartalomszervező bővítmény Elementorhoz: fülek, akkordionok és váltó blokkok dinamikus, újrahasznosítható elrendezésekhez.",
+    "sidebar_label": "JetTabs For Elementor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetStyleManager",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetstylemanager"
+  },
+  "next": {
+    "title": "JetThemeCore",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetthemecore"
+  }
+}

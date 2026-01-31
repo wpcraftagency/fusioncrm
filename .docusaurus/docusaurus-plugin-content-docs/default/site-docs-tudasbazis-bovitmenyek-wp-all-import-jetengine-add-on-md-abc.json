@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-all-import-jetengine-add-on",
+  "title": "WP All Import - JetEngine Add-On",
+  "description": "JetEngine mezők és CCT-k importja/exportja WP All Import/Export környezetben – repeaterek, galériák, relációk és automatizálás támogatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-all-import-jetengine-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-all-import-jetengine-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-jetengine-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-all-import-jetengine-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP All Import - JetEngine Add-On",
+    "description": "JetEngine mezők és CCT-k importja/exportja WP All Import/Export környezetben – repeaterek, galériák, relációk és automatizálás támogatással.",
+    "sidebar_label": "WP All Import - JetEngine Add-On"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Import - Gravity Forms Add-On",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-gravity-forms-add-on"
+  },
+  "next": {
+    "title": "WP All Import - Link Cloaking Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-link-cloaking-add-on"
+  }
+}

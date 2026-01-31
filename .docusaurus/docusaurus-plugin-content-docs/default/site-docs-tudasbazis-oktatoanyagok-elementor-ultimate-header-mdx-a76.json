@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/elementor/Ultimate Header",
+  "title": "Ultimate Header",
+  "description": "Elementor fejléc sablon készítése - Áttetszőség, animációk, scroll triggerek",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/elementor/Ultimate Header.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/elementor",
+  "slug": "/tudasbazis/oktatoanyagok/elementor/Ultimate Header",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/Ultimate Header",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/elementor/Ultimate Header.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Ultimate Header",
+    "description": "Elementor fejléc sablon készítése - Áttetszőség, animációk, scroll triggerek",
+    "keywords": [
+      "elementor, fejléc, ultimate, header"
+    ],
+    "sidebar_label": "Ultimate Header",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Elementor toggle widget",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/Toggle widget lapozás"
+  },
+  "next": {
+    "title": "Elementor űrlap",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/elementor-urlap-checkbox-limitacio"
+  }
+}

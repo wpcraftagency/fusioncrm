@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/acorn",
+  "title": "Acorn",
+  "description": "Laravel komponensek WordPress témákban és pluginokban a Roots Acorn segítségével.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/acorn.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/acorn",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/acorn",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/acorn.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Acorn",
+    "description": "Laravel komponensek WordPress témákban és pluginokban a Roots Acorn segítségével.",
+    "keywords": [
+      "acorn",
+      "roots",
+      "laravel",
+      "wordpress",
+      "blade"
+    ],
+    "sidebar_label": "Acorn",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fejlesztői eszközök",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/"
+  },
+  "next": {
+    "title": "Adminer",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/adminer"
+  }
+}

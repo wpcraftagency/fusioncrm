@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-direct-link-tracking",
+  "title": "AffiliateWP - Direct Link Tracking",
+  "description": "Pro kiegészítő az AffiliateWP-hez, amely domain‑alapú hozzárendeléssel teszi lehetővé a paraméter nélküli, közvetlen affiliate linkelést.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-direct-link-tracking.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-direct-link-tracking",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-direct-link-tracking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-direct-link-tracking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - Direct Link Tracking",
+    "description": "Pro kiegészítő az AffiliateWP-hez, amely domain‑alapú hozzárendeléssel teszi lehetővé a paraméter nélküli, közvetlen affiliate linkelést.",
+    "sidebar_label": "AffiliateWP - Direct Link Tracking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - Custom Affiliate Slugs",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-custom-affiliate-slugs"
+  },
+  "next": {
+    "title": "AffiliateWP - Lifetime Commissions",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-lifetime-commissions"
+  }
+}

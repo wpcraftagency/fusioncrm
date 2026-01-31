@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetthemecore",
+  "title": "JetThemeCore",
+  "description": "Vizuális theme builder Elementorhoz és Gutenberghez: sablonok (fejléc, lábléc, Single, Archive, Woo) létrehozása, feltételekhez kötése és központi kezelése.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetthemecore.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetthemecore",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetthemecore",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetthemecore.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetThemeCore",
+    "description": "Vizuális theme builder Elementorhoz és Gutenberghez: sablonok (fejléc, lábléc, Single, Archive, Woo) létrehozása, feltételekhez kötése és központi kezelése.",
+    "sidebar_label": "JetThemeCore"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetTabs For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jettabs-for-elementor"
+  },
+  "next": {
+    "title": "JetTricks",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jettricks"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wpforms-multilingual",
+  "title": "WPForms Multilingual",
+  "description": "WPML hivatalos kiegészítője, amellyel a WPForms űrlapokat teljes körűen, automatizált vagy manuális folyamattal több nyelven kezelheted.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wpforms-multilingual.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wpforms-multilingual",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wpforms-multilingual",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wpforms-multilingual.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WPForms Multilingual",
+    "description": "WPML hivatalos kiegészítője, amellyel a WPForms űrlapokat teljes körűen, automatizált vagy manuális folyamattal több nyelven kezelheted.",
+    "sidebar_label": "WPForms Multilingual"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WPBakery Page Builder",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpbakery-page-builder"
+  },
+  "next": {
+    "title": "WPML All Import",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-all-import"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-memberships",
+  "title": "WooCommerce Memberships",
+  "description": "Prémium WooCommerce-bővítmény tagsági rendszerekhez: tartalom- és termékhozzáférés, kedvezmények, drip tartalom, tagfelület és integrációk egy helyen.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-memberships.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-memberships",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-memberships",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-memberships.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Memberships",
+    "description": "Prémium WooCommerce-bővítmény tagsági rendszerekhez: tartalom- és termékhozzáférés, kedvezmények, drip tartalom, tagfelület és integrációk egy helyen.",
+    "sidebar_label": "WooCommerce Memberships"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Measurement Price Calculator",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-measurement-price-calculator"
+  },
+  "next": {
+    "title": "WooCommerce Min/Max Quantities",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-min-max-quantities"
+  }
+}

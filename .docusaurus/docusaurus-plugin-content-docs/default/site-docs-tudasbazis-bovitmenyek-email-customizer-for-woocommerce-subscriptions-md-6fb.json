@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/email-customizer-for-woocommerce-subscriptions",
+  "title": "Email Customizer for WooCommerce Subscriptions",
+  "description": "Vizuális szerkesztővel testreszabhatod a WooCommerce Subscriptions összes előfizetéses e-mailjét a YayMail felületén, kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/email-customizer-for-woocommerce-subscriptions.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/email-customizer-for-woocommerce-subscriptions",
+  "permalink": "/docs/tudasbazis/bovitmenyek/email-customizer-for-woocommerce-subscriptions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/email-customizer-for-woocommerce-subscriptions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Email Customizer for WooCommerce Subscriptions",
+    "description": "Vizuális szerkesztővel testreszabhatod a WooCommerce Subscriptions összes előfizetéses e-mailjét a YayMail felületén, kódolás nélkül.",
+    "sidebar_label": "Email Customizer for WooCommerce Subscriptions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Email Customizer for AutomateWoo",
+    "permalink": "/docs/tudasbazis/bovitmenyek/email-customizer-for-automatewoo"
+  },
+  "next": {
+    "title": "Fluent Boards Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-boards-pro"
+  }
+}

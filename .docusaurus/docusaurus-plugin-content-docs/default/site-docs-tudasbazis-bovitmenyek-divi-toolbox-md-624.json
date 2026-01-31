@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/divi-toolbox",
+  "title": "Divi Toolbox",
+  "description": "Divi-specifikus WordPress bővítmény, amely száz+ testreszabási opciót ad a Divi témához – kódolás nélkül, egy központi felületen.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/divi-toolbox.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/divi-toolbox",
+  "permalink": "/docs/tudasbazis/bovitmenyek/divi-toolbox",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/divi-toolbox.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Divi Toolbox",
+    "description": "Divi-specifikus WordPress bővítmény, amely száz+ testreszabási opciót ad a Divi témához – kódolás nélkül, egy központi felületen.",
+    "sidebar_label": "Divi Toolbox"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Divi Supreme Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/divi-supreme-pro"
+  },
+  "next": {
+    "title": "DiviPasswords",
+    "permalink": "/docs/tudasbazis/bovitmenyek/divipasswords"
+  }
+}

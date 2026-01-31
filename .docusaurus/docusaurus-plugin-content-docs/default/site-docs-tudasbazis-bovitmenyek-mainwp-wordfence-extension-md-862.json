@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-wordfence-extension",
+  "title": "MainWP Wordfence Extension",
+  "description": "MainWP-kiegészítő, amellyel a Wordfence Security beállításait, vizsgálatait és forgalmi nézeteit központilag kezelheted minden csatlakoztatott WordPress-oldalon.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-wordfence-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-wordfence-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-wordfence-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-wordfence-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Wordfence Extension",
+    "description": "MainWP-kiegészítő, amellyel a Wordfence Security beállításait, vizsgálatait és forgalmi nézeteit központilag kezelheted minden csatlakoztatott WordPress-oldalon.",
+    "sidebar_label": "MainWP Wordfence Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP WooCommerce Status Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-status-extension"
+  },
+  "next": {
+    "title": "MainWP WordPress SEO Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-wordpress-seo-extension"
+  }
+}

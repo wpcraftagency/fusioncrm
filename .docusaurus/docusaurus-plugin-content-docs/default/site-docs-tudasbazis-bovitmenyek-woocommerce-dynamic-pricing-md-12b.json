@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-dynamic-pricing",
+  "title": "WooCommerce Dynamic Pricing",
+  "description": "Prémium szabálymotor WooCommerce-hez mennyiségi, BOGO, kategória-, szerepkör- és rendelésérték-alapú kedvezményekhez – kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-dynamic-pricing.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-dynamic-pricing",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-dynamic-pricing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-dynamic-pricing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Dynamic Pricing",
+    "description": "Prémium szabálymotor WooCommerce-hez mennyiségi, BOGO, kategória-, szerepkör- és rendelésérték-alapú kedvezményekhez – kódolás nélkül.",
+    "sidebar_label": "WooCommerce Dynamic Pricing"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Deposits",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-deposits"
+  },
+  "next": {
+    "title": "WooCommerce E-Mail Attachments (by Inoplugs)",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-e-mail-attachments-by-inoplugs"
+  }
+}

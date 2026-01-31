@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-hubspot-action",
+  "title": "JetFormBuilder HubSpot Action",
+  "description": "JetFormBuilder Pro kiegészítő, amely HubSpot Post Submit Actiont ad az űrlapokhoz, és a beküldött adatokat automatikusan a HubSpot CRM-be szinkronizálja.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-hubspot-action.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-hubspot-action",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-hubspot-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-hubspot-action.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder HubSpot Action",
+    "description": "JetFormBuilder Pro kiegészítő, amely HubSpot Post Submit Actiont ad az űrlapokhoz, és a beküldött adatokat automatikusan a HubSpot CRM-be szinkronizálja.",
+    "sidebar_label": "JetFormBuilder HubSpot Action"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder Hierarchical Select",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-hierarchical-select"
+  },
+  "next": {
+    "title": "JetFormBuilder Limit Form Responses",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-limit-form-responses"
+  }
+}

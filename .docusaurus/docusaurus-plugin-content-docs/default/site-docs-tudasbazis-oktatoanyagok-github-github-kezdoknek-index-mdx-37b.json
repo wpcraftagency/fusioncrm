@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/oktatoanyagok/github/github-kezdoknek/index",
+  "title": "GitHub kezdőknek",
+  "description": "Átfogó útmutató a Git és GitHub használatához WordPress fejlesztőknek.",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/github/github-kezdoknek/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/github/github-kezdoknek",
+  "slug": "/tudasbazis/oktatoanyagok/github/github-kezdoknek/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/github/github-kezdoknek/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/github/github-kezdoknek/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "title": "GitHub kezdőknek",
+    "description": "Átfogó útmutató a Git és GitHub használatához WordPress fejlesztőknek.",
+    "keywords": [
+      "github",
+      "git",
+      "verziókezelés",
+      "wordpress"
+    ],
+    "sidebar_label": "GitHub kezdőknek",
+    "sidebar_position": 0
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Github",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/github/"
+  },
+  "next": {
+    "title": "Kód feltöltése GitHubra",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/github/hogyan-tolts-fel-github-ra/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluentcart",
+  "title": "FluentCart",
+  "description": "Önhostolt, WordPress‑alapú e‑kereskedelmi bővítmény fizikai, digitális és licencelt termékekhez, villámgyors checkouttal és fejlesztőbarát bővíthetőséggel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluentcart.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluentcart",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluentcart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluentcart.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FluentCart",
+    "description": "Önhostolt, WordPress‑alapú e‑kereskedelmi bővítmény fizikai, digitális és licencelt termékekhez, villámgyors checkouttal és fejlesztőbarát bővíthetőséggel.",
+    "sidebar_label": "FluentCart"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FluentCart Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentcart-pro"
+  },
+  "next": {
+    "title": "FluentCommunity Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentcommunity-pro"
+  }
+}

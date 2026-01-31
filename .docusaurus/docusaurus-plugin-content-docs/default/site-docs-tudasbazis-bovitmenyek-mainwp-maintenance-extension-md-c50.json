@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-maintenance-extension",
+  "title": "MainWP Maintenance Extension",
+  "description": "Prémium MainWP kiegészítő központi adatbázis‑karbantartáshoz és ‑optimalizáláshoz több WordPress oldalon, kézi és ütemezett futtatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-maintenance-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-maintenance-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-maintenance-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-maintenance-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Maintenance Extension",
+    "description": "Prémium MainWP kiegészítő központi adatbázis‑karbantartáshoz és ‑optimalizáláshoz több WordPress oldalon, kézi és ütemezett futtatással.",
+    "sidebar_label": "MainWP Maintenance Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Lighthouse Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-lighthouse-extension"
+  },
+  "next": {
+    "title": "MainWP Matomo Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-matomo-extension"
+  }
+}

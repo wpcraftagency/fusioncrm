@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ninja-forms-conditional-logic",
+  "title": "Ninja Forms - Conditional Logic",
+  "description": "Prémium kiegészítő a Ninja Forms-hoz, amellyel feltételek alapján dinamikusan jeleníthetsz meg mezőket, futtathatsz műveleteket és személyre szabhatod az űrlapélményt.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ninja-forms-conditional-logic.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ninja-forms-conditional-logic",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-conditional-logic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ninja-forms-conditional-logic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ninja Forms - Conditional Logic",
+    "description": "Prémium kiegészítő a Ninja Forms-hoz, amellyel feltételek alapján dinamikusan jeleníthetsz meg mezőket, futtathatsz műveleteket és személyre szabhatod az űrlapélményt.",
+    "sidebar_label": "Ninja Forms - Conditional Logic"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms - ActiveCampaign",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-activecampaign"
+  },
+  "next": {
+    "title": "Ninja Forms - Excel Export",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-excel-export"
+  }
+}

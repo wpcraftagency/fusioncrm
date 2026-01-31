@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/notes-for-learndash",
+  "title": "Notes for LearnDash",
+  "description": "Beépített jegyzetelés és oktató–tanuló kommunikáció a LearnDash kurzusokban, rövidkódokkal és testreszabással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/notes-for-learndash.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/notes-for-learndash",
+  "permalink": "/docs/tudasbazis/bovitmenyek/notes-for-learndash",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/notes-for-learndash.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Notes for LearnDash",
+    "description": "Beépített jegyzetelés és oktató–tanuló kommunikáció a LearnDash kurzusokban, rövidkódokkal és testreszabással.",
+    "sidebar_label": "Notes for LearnDash"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms - Zapier",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-zapier"
+  },
+  "next": {
+    "title": "OxyExtras",
+    "permalink": "/docs/tudasbazis/bovitmenyek/oxyextras"
+  }
+}

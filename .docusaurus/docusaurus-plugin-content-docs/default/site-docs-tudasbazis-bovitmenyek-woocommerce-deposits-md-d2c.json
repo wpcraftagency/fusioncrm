@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-deposits",
+  "title": "WooCommerce Deposits",
+  "description": "Hivatalos WooCommerce bővítmény előleg- és részletfizetéshez; rugalmas szabályokkal és tiszta vevői kommunikációval.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-deposits.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-deposits",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-deposits",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-deposits.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Deposits",
+    "description": "Hivatalos WooCommerce bővítmény előleg- és részletfizetéshez; rugalmas szabályokkal és tiszta vevői kommunikációval.",
+    "sidebar_label": "WooCommerce Deposits"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Cost of Goods",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-cost-of-goods"
+  },
+  "next": {
+    "title": "WooCommerce Dynamic Pricing",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-dynamic-pricing"
+  }
+}

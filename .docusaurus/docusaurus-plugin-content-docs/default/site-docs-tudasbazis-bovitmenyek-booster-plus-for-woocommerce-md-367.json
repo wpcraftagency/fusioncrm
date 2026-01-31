@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/booster-plus-for-woocommerce",
+  "title": "Booster Plus for WooCommerce",
+  "description": "Moduláris, mindent‑egyben WooCommerce eszköztár 100+ modullal az árazás, pénznemek, checkout, számlázás és admin feladatok kezelésére.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/booster-plus-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/booster-plus-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/booster-plus-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/booster-plus-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Booster Plus for WooCommerce",
+    "description": "Moduláris, mindent‑egyben WooCommerce eszköztár 100+ modullal az árazás, pénznemek, checkout, számlázás és admin feladatok kezelésére.",
+    "sidebar_label": "Booster Plus for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Boilerplate Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/boilerplate-extension"
+  },
+  "next": {
+    "title": "Bought Together for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/bought-together-for-woocommerce"
+  }
+}

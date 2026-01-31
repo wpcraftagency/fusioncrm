@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/seopress",
+  "title": "SEOPress",
+  "description": "All‑in‑one SEO bővítmény WordPresshez technikai és tartalmi optimalizáláshoz, sémákkal, átirányításokkal, AI‑funkciókkal és gyors indexeléssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/seopress.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/seopress",
+  "permalink": "/docs/tudasbazis/bovitmenyek/seopress",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/seopress.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SEOPress",
+    "description": "All‑in‑one SEO bővítmény WordPresshez technikai és tartalmi optimalizáláshoz, sémákkal, átirányításokkal, AI‑funkciókkal és gyors indexeléssel.",
+    "sidebar_label": "SEOPress"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SEOPress PRO",
+    "permalink": "/docs/tudasbazis/bovitmenyek/seopress-pro"
+  },
+  "next": {
+    "title": "Slack for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/slack-for-woocommerce"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-team-control",
+  "title": "MainWP Team Control",
+  "description": "Szerepkör-alapú, finomhangolt hozzáférés-kezelés a MainWP Dashboardhoz ügynökségeknek és csapatoknak.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-team-control.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-team-control",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-team-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-team-control.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Team Control",
+    "description": "Szerepkör-alapú, finomhangolt hozzáférés-kezelés a MainWP Dashboardhoz ügynökségeknek és csapatoknak.",
+    "sidebar_label": "MainWP Team Control"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Sucuri Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-sucuri-extension"
+  },
+  "next": {
+    "title": "MainWP Time Capsule Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-time-capsule-extension"
+  }
+}

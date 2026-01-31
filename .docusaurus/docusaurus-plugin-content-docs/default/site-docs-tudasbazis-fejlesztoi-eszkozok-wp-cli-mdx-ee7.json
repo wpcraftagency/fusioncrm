@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/wp-cli",
+  "title": "WP-CLI",
+  "description": "WordPress parancssori kezelése WP-CLI segítségével.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/wp-cli.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/wp-cli",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/wp-cli",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/wp-cli.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 25,
+  "frontMatter": {
+    "title": "WP-CLI",
+    "description": "WordPress parancssori kezelése WP-CLI segítségével.",
+    "keywords": [
+      "wp-cli",
+      "cli",
+      "parancssori",
+      "wordpress",
+      "automatizálás"
+    ],
+    "sidebar_label": "WP-CLI",
+    "sidebar_position": 25
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WordPress Playground",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/wordpress-playground"
+  },
+  "next": {
+    "title": "WPackagist",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/wpackagist"
+  }
+}

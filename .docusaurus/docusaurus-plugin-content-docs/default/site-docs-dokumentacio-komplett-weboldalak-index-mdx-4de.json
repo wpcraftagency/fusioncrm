@@ -1,0 +1,33 @@
+{
+  "id": "dokumentacio/komplett-weboldalak/index",
+  "title": "Komplett weboldalak",
+  "description": "Komplett weboldalak kezelése",
+  "source": "@site/docs/dokumentacio/komplett-weboldalak/index.mdx",
+  "sourceDirName": "dokumentacio/komplett-weboldalak",
+  "slug": "/dokumentacio/komplett-weboldalak/",
+  "permalink": "/docs/dokumentacio/komplett-weboldalak/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/komplett-weboldalak/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Komplett weboldalak",
+    "description": "Komplett weboldalak kezelése",
+    "keywords": [
+      "dokumentacio"
+    ],
+    "sidebar_label": "Komplett weboldalak",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Composer",
+    "permalink": "/docs/dokumentacio/hellopack/composer"
+  },
+  "next": {
+    "title": "Divi weboldalak kezelése",
+    "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/"
+  }
+}

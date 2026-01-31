@@ -1,0 +1,33 @@
+{
+  "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/index",
+  "title": "Divi komplett weboldalak",
+  "description": "Divi komplett weboldalak kezelése",
+  "source": "@site/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/index.mdx",
+  "sourceDirName": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak",
+  "slug": "/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/",
+  "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Divi komplett weboldalak",
+    "description": "Divi komplett weboldalak kezelése",
+    "keywords": [
+      "divi"
+    ],
+    "sidebar_label": "Divi weboldalak kezelése",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Komplett weboldalak",
+    "permalink": "/docs/dokumentacio/komplett-weboldalak/"
+  },
+  "next": {
+    "title": "API kulcs aktiválása",
+    "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-api-kulcs-aktivalasa"
+  }
+}

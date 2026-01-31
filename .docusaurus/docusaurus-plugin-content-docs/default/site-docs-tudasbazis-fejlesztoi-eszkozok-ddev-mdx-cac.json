@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/ddev",
+  "title": "DDEV",
+  "description": "Docker-alapú lokális WordPress fejlesztői környezet DDEV segítségével.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/ddev.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/ddev",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/ddev",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/ddev.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "DDEV",
+    "description": "Docker-alapú lokális WordPress fejlesztői környezet DDEV segítségével.",
+    "keywords": [
+      "ddev",
+      "docker",
+      "lokális fejlesztés",
+      "wordpress",
+      "php"
+    ],
+    "sidebar_label": "DDEV",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cursor",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/cursor"
+  },
+  "next": {
+    "title": "Composer",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/composer"
+  }
+}

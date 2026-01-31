@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-eu-vat-number",
+  "title": "WooCommerce EU VAT Number",
+  "description": "Hivatalos WooCommerce kiegészítő EU-s adószám-kezeléshez: VIES-ellenőrzés, automatikus ÁFA-mentesség B2B-hez és digitális ÁFA-bizonyítékok gyűjtése.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-eu-vat-number.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-eu-vat-number",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-eu-vat-number",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-eu-vat-number.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce EU VAT Number",
+    "description": "Hivatalos WooCommerce kiegészítő EU-s adószám-kezeléshez: VIES-ellenőrzés, automatikus ÁFA-mentesség B2B-hez és digitális ÁFA-bizonyítékok gyűjtése.",
+    "sidebar_label": "WooCommerce EU VAT Number"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Email Customizer",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-email-customizer"
+  },
+  "next": {
+    "title": "WooCommerce Google Analytics Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-google-analytics-pro"
+  }
+}

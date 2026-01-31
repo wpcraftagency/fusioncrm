@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/hibaelharitas",
+  "title": "Csomagkezelő hibaelhárítása",
+  "description": "HelloPack csomagkezelő gyakori hibák és megoldásaik.",
+  "source": "@site/docs/dokumentacio/hellopack/hibaelharitas.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/hibaelharitas",
+  "permalink": "/docs/dokumentacio/hellopack/hibaelharitas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/hibaelharitas.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Csomagkezelő hibaelhárítása",
+    "description": "HelloPack csomagkezelő gyakori hibák és megoldásaik.",
+    "keywords": [
+      "hellopack",
+      "hibaelhárítás",
+      "troubleshooting",
+      "hiba"
+    ],
+    "sidebar_label": "Csomagkezelő hibaelhárítása",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fordításkezelés",
+    "permalink": "/docs/dokumentacio/hellopack/forditaskezeles"
+  },
+  "next": {
+    "title": "Bővítmények kezelésének kikapcsolása",
+    "permalink": "/docs/dokumentacio/hellopack/kezeles-kikapcsolasa"
+  }
+}

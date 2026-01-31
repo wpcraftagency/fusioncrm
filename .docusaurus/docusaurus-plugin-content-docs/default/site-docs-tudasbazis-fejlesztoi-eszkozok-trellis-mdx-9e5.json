@@ -1,0 +1,38 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/trellis",
+  "title": "Trellis",
+  "description": "Automatizált WordPress LEMP stack szerverkonfiguráció és deployment Ansible segítségével.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/trellis.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/trellis",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/trellis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/trellis.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "title": "Trellis",
+    "description": "Automatizált WordPress LEMP stack szerverkonfiguráció és deployment Ansible segítségével.",
+    "keywords": [
+      "trellis",
+      "roots",
+      "ansible",
+      "wordpress",
+      "devops",
+      "deployment"
+    ],
+    "sidebar_label": "Trellis",
+    "sidebar_position": 21
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sage",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/sage"
+  },
+  "next": {
+    "title": "Vite",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/vite"
+  }
+}

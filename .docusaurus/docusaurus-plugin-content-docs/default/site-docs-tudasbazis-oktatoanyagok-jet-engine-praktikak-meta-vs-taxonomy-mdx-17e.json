@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/JetEngine/Praktikák/Meta vs taxonomy",
+  "title": "Meta field vs Taxonomy",
+  "description": "Mikor hasznos a meta fields (egyedi mező), és mikor inkább a Taxonómiák?",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/Meta vs taxonomy.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/JetEngine/Praktikák",
+  "slug": "/tudasbazis/oktatoanyagok/JetEngine/Praktikák/Meta vs taxonomy",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/Meta vs taxonomy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/Meta vs taxonomy.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Meta field vs Taxonomy",
+    "description": "Mikor hasznos a meta fields (egyedi mező), és mikor inkább a Taxonómiák?",
+    "keywords": [
+      "jetengine, cpt, cct, elementor"
+    ],
+    "sidebar_label": "Meta vs Taxonomy",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Praktikák",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/"
+  },
+  "next": {
+    "title": "All-in-One WP Migration",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/all-in-one-wp-migration/"
+  }
+}

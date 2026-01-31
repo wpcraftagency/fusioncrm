@@ -1,0 +1,33 @@
+{
+  "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/regi-divi-api-kulcs-felulirasa-egy-uj-api-kulccsal",
+  "title": "Régi Divi API kulcs felülírása",
+  "description": "Régi Divi API kulcs felülírása egy új API kulccsal",
+  "source": "@site/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/regi-divi-api-kulcs-felulirasa-egy-uj-api-kulccsal.mdx",
+  "sourceDirName": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak",
+  "slug": "/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/regi-divi-api-kulcs-felulirasa-egy-uj-api-kulccsal",
+  "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/regi-divi-api-kulcs-felulirasa-egy-uj-api-kulccsal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/regi-divi-api-kulcs-felulirasa-egy-uj-api-kulccsal.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Régi Divi API kulcs felülírása",
+    "description": "Régi Divi API kulcs felülírása egy új API kulccsal",
+    "keywords": [
+      "dokumentacio"
+    ],
+    "sidebar_label": "Régi API kulcs felülírása egy új API kulccsal",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Komplett weboldal telepítés",
+    "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/komplett-divi-weboldal-telepitese"
+  },
+  "next": {
+    "title": "Telepítése AiO WP Migration bővítmény segítségével",
+    "permalink": "/docs/dokumentacio/komplett-weboldalak/komplett-weboldal-telepitese-all-in-one-wp-migration-bovitmeny-segitsegevel"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/hibaelharitas/premium-bovitmenyek/index",
+  "title": "Prémium bővítmények",
+  "description": "Prémium bővítmények hibaelhárítása",
+  "source": "@site/docs/tudasbazis/hibaelharitas/premium-bovitmenyek/index.mdx",
+  "sourceDirName": "tudasbazis/hibaelharitas/premium-bovitmenyek",
+  "slug": "/tudasbazis/hibaelharitas/premium-bovitmenyek/",
+  "permalink": "/docs/tudasbazis/hibaelharitas/premium-bovitmenyek/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hibaelharitas/premium-bovitmenyek/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Prémium bővítmények",
+    "description": "Prémium bővítmények hibaelhárítása",
+    "keywords": [
+      "github"
+    ],
+    "sidebar_label": "Prémium bővítmények",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cURL error 60: SSL certificate hiba",
+    "permalink": "/docs/tudasbazis/hibaelharitas/cURL-error-60"
+  },
+  "next": {
+    "title": "LearnDash Quiz karakterkészlet problémák megoldása",
+    "permalink": "/docs/tudasbazis/hibaelharitas/premium-bovitmenyek/learndash-quiz-karakterkeszlet-problemak-megoldasa"
+  }
+}

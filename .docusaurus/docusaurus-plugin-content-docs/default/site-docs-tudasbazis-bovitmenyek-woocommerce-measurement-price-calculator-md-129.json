@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-measurement-price-calculator",
+  "title": "WooCommerce Measurement Price Calculator",
+  "description": "Mérésalapú árazás és készletkezelés WooCommerce-ben: hossz, terület, térfogat, tömeg vagy egyedi dimenziók alapján számolt árak.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-measurement-price-calculator.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-measurement-price-calculator",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-measurement-price-calculator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-measurement-price-calculator.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Measurement Price Calculator",
+    "description": "Mérésalapú árazás és készletkezelés WooCommerce-ben: hossz, terület, térfogat, tömeg vagy egyedi dimenziók alapján számolt árak.",
+    "sidebar_label": "WooCommerce Measurement Price Calculator"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce MailChimp Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-mailchimp-integration"
+  },
+  "next": {
+    "title": "WooCommerce Memberships",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-memberships"
+  }
+}

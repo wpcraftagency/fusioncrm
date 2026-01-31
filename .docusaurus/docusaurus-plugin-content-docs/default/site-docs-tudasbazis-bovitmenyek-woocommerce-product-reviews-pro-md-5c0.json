@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-product-reviews-pro",
+  "title": "WooCommerce Product Reviews Pro",
+  "description": "Professzionális, Amazon‑stílusú értékelések, kérdések, fotók/videók és fejlett moderálás a WooCommerce‑hez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-product-reviews-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-product-reviews-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-reviews-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-product-reviews-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Product Reviews Pro",
+    "description": "Professzionális, Amazon‑stílusú értékelések, kérdések, fotók/videók és fejlett moderálás a WooCommerce‑hez.",
+    "sidebar_label": "WooCommerce Product Reviews Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Product Recommendations",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-recommendations"
+  },
+  "next": {
+    "title": "WooCommerce Product Vendors",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-vendors"
+  }
+}

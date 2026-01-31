@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluent-forms-pro-add-on-pack",
+  "title": "Fluent Forms Pro Add On Pack",
+  "description": "Haladó űrlapfunkciók, fizetés, integrációk és riportok a Fluent Forms ingyenes bővítményhez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluent-forms-pro-add-on-pack.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluent-forms-pro-add-on-pack",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluent-forms-pro-add-on-pack",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluent-forms-pro-add-on-pack.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fluent Forms Pro Add On Pack",
+    "description": "Haladó űrlapfunkciók, fizetés, integrációk és riportok a Fluent Forms ingyenes bővítményhez.",
+    "sidebar_label": "Fluent Forms Pro Add On Pack"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fluent Forms PDF Generator",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-forms-pdf-generator"
+  },
+  "next": {
+    "title": "Fluent Forms Signature Addon",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-forms-signature-addon"
+  }
+}

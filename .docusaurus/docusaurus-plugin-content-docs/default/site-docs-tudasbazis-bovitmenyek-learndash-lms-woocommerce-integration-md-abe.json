@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-woocommerce-integration",
+  "title": "LearnDash LMS - WooCommerce Integration",
+  "description": "Hivatalos, ingyenes LearnDash kiegészítő, amellyel kurzusokat és csoportokat WooCommerce termékként adhatsz el, automatikus beiratással és hozzáférés-kezeléssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-woocommerce-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-woocommerce-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-woocommerce-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-woocommerce-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - WooCommerce Integration",
+    "description": "Hivatalos, ingyenes LearnDash kiegészítő, amellyel kurzusokat és csoportokat WooCommerce termékként adhatsz el, automatikus beiratással és hozzáférés-kezeléssel.",
+    "sidebar_label": "LearnDash LMS - WooCommerce Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - ThriveCart Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-thrivecart-integration"
+  },
+  "next": {
+    "title": "LearnDash LMS - Zapier Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-zapier-integration"
+  }
+}

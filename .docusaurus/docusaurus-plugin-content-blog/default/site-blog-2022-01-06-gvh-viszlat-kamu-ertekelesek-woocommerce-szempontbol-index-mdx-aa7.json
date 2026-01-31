@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/2022/01/06/gvh-viszlat-kamu-ertekelesek-woocommerce-szempontbol",
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/blog/2022-01-06-gvh-viszlat-kamu-ertekelesek-woocommerce-szempontbol/index.mdx",
+  "source": "@site/blog/2022-01-06-gvh-viszlat-kamu-ertekelesek-woocommerce-szempontbol/index.mdx",
+  "title": "GVH: Viszlát kamu értékelések!? WooCommerce szempontból",
+  "description": "Hogyan szabályozzuk a szabályozhatatlant?",
+  "date": "2022-01-12T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "gvh",
+      "permalink": "/blog/tags/gvh"
+    },
+    {
+      "inline": true,
+      "label": "komment",
+      "permalink": "/blog/tags/komment"
+    }
+  ],
+  "readingTime": 3.21,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Trueqap",
+      "title": "Engineer @ HelloWP!",
+      "url": "https://github.com/trueqap",
+      "imageURL": "https://github.com/trueqap.png",
+      "key": "trueqap",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "title": "GVH: Viszlát kamu értékelések!? WooCommerce szempontból",
+    "authors": [
+      "trueqap"
+    ],
+    "tags": [
+      "gvh",
+      "komment"
+    ],
+    "image": "./img/201019113559-amazon-reviews-lead-1024x575.jpg",
+    "date": "2022-01-12T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Kaphatok egy phpMyAdmin-t?",
+    "permalink": "/blog/2021/05/13/kaphatok-egy-phpmyadmin-t"
+  }
+}

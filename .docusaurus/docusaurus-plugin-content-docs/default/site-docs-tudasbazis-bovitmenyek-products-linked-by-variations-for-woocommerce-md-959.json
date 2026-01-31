@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/products-linked-by-variations-for-woocommerce",
+  "title": "Products Linked by Variations for WooCommerce",
+  "description": "Különálló WooCommerce termékek összekapcsolása közös attribútumok alapján, swatch-szerű választóval és automatikus átirányítással a megfelelő termékoldalra.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/products-linked-by-variations-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/products-linked-by-variations-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/products-linked-by-variations-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/products-linked-by-variations-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Products Linked by Variations for WooCommerce",
+    "description": "Különálló WooCommerce termékek összekapcsolása közös attribútumok alapján, swatch-szerű választóval és automatikus átirányítással a megfelelő termékoldalra.",
+    "sidebar_label": "Products Linked by Variations for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product Video for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/product-video-for-woocommerce"
+  },
+  "next": {
+    "title": "Qala Product Price History",
+    "permalink": "/docs/tudasbazis/bovitmenyek/qala-product-price-history"
+  }
+}

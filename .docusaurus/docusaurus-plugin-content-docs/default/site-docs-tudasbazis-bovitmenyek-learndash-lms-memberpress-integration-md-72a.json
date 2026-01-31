@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-memberpress-integration",
+  "title": "LearnDash LMS - MemberPress Integration",
+  "description": "Hivatalos LearnDash kiegészítő, amely a MemberPress tagsági szinteket a LearnDash tanfolyam-hozzáféréssel kapcsolja össze, automatikus be- és leiratkozással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-memberpress-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-memberpress-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-memberpress-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-memberpress-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - MemberPress Integration",
+    "description": "Hivatalos LearnDash kiegészítő, amely a MemberPress tagsági szinteket a LearnDash tanfolyam-hozzáféréssel kapcsolja össze, automatikus be- és leiratkozással.",
+    "sidebar_label": "LearnDash LMS - MemberPress Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - Integrity",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-integrity"
+  },
+  "next": {
+    "title": "LearnDash LMS - Migration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-migration"
+  }
+}

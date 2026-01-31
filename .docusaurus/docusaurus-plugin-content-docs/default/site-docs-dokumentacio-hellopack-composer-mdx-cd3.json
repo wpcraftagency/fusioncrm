@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/composer",
+  "title": "Composer",
+  "description": "HelloPack bővítmények és témák telepítése Composer csomagkezelővel.",
+  "source": "@site/docs/dokumentacio/hellopack/composer.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/composer",
+  "permalink": "/docs/dokumentacio/hellopack/composer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/composer.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "title": "Composer",
+    "description": "HelloPack bővítmények és témák telepítése Composer csomagkezelővel.",
+    "keywords": [
+      "hellopack",
+      "composer",
+      "függőségkezelő",
+      "php"
+    ],
+    "sidebar_label": "Composer",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Csomagkezelő CLI parancsok",
+    "permalink": "/docs/dokumentacio/hellopack/cli-parancsok"
+  },
+  "next": {
+    "title": "Komplett weboldalak",
+    "permalink": "/docs/dokumentacio/komplett-weboldalak/"
+  }
+}

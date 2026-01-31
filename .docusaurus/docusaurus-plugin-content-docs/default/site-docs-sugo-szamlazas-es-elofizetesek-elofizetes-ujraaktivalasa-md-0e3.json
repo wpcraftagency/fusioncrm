@@ -1,0 +1,27 @@
+{
+  "id": "sugo/szamlazas-es-elofizetesek/elofizetes-ujraaktivalasa",
+  "title": "Előfizetés újraaktiválása",
+  "description": "Lejárt az előfizetésed, vagy bármilyen ok miatt nem tudta megújítani a rendszer? Semmi probléma, könnyedén folytathatod az előfizetést.",
+  "source": "@site/docs/sugo/szamlazas-es-elofizetesek/elofizetes-ujraaktivalasa.md",
+  "sourceDirName": "sugo/szamlazas-es-elofizetesek",
+  "slug": "/sugo/szamlazas-es-elofizetesek/elofizetes-ujraaktivalasa",
+  "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-ujraaktivalasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/szamlazas-es-elofizetesek/elofizetes-ujraaktivalasa.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Előfizetés lemondása",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-lemondasa"
+  },
+  "next": {
+    "title": "Előfizetéshez kapcsolódó kártya cseréje",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizeteshez-kapcsolodo-kartya-csereje"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/analytify-easy-digital-downloads",
+  "title": "Analytify Easy Digital Downloads",
+  "description": "GA4-alapú e‑kereskedelmi mérés és riportok Easy Digital Downloads áruházakhoz az Analytify Pro integrált moduljaként, közvetlenül a WordPress adminban.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/analytify-easy-digital-downloads.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/analytify-easy-digital-downloads",
+  "permalink": "/docs/tudasbazis/bovitmenyek/analytify-easy-digital-downloads",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/analytify-easy-digital-downloads.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Analytify Easy Digital Downloads",
+    "description": "GA4-alapú e‑kereskedelmi mérés és riportok Easy Digital Downloads áruházakhoz az Analytify Pro integrált moduljaként, közvetlenül a WordPress adminban.",
+    "sidebar_label": "Analytify Easy Digital Downloads"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Amelia",
+    "permalink": "/docs/tudasbazis/bovitmenyek/amelia"
+  },
+  "next": {
+    "title": "Analytify Email Notifications",
+    "permalink": "/docs/tudasbazis/bovitmenyek/analytify-email-notifications"
+  }
+}

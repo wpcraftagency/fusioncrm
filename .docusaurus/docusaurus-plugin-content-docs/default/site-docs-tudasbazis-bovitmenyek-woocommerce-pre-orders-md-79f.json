@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-pre-orders",
+  "title": "WooCommerce Pre-Orders",
+  "description": "Hivatalos WooCommerce kiegészítő előrendelésekhez: időzített fizetés, megjelenési dátum, automatikus terhelés és átlátható ügyfélkommunikáció.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-pre-orders.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-pre-orders",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-pre-orders",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-pre-orders.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Pre-Orders",
+    "description": "Hivatalos WooCommerce kiegészítő előrendelésekhez: időzített fizetés, megjelenési dátum, automatikus terhelés és átlátható ügyfélkommunikáció.",
+    "sidebar_label": "WooCommerce Pre-Orders"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Points and Rewards",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-points-and-rewards"
+  },
+  "next": {
+    "title": "WooCommerce Price Per Unit PRO",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-price-per-unit-pro"
+  }
+}

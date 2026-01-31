@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/checkoutwc",
+  "title": "CheckoutWC",
+  "description": "Konverzióra optimalizált WooCommerce pénztár-sablon és eszközkészlet, amely gyorsabb, egyszerűbb, mobilbarát checkoutot ad, növelve a bevételt.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/checkoutwc.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/checkoutwc",
+  "permalink": "/docs/tudasbazis/bovitmenyek/checkoutwc",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/checkoutwc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "CheckoutWC",
+    "description": "Konverzióra optimalizált WooCommerce pénztár-sablon és eszközkészlet, amely gyorsabb, egyszerűbb, mobilbarát checkoutot ad, növelve a bevételt.",
+    "sidebar_label": "CheckoutWC"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CartFlows",
+    "permalink": "/docs/tudasbazis/bovitmenyek/cartflows"
+  },
+  "next": {
+    "title": "Complianz Privacy Suite (GDPR/CCPA) premium",
+    "permalink": "/docs/tudasbazis/bovitmenyek/complianz-privacy-suite-gdpr-ccpa-premium"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-favorite-posts",
+  "title": "MB Favorite Posts",
+  "description": "Kedvenc/mentés gomb és felhasználói kedvenclista WordPress‑hez; automatikus gomb, rövidkódok, vendég és bejelentkezett támogatás.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-favorite-posts.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-favorite-posts",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-favorite-posts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-favorite-posts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Favorite Posts",
+    "description": "Kedvenc/mentés gomb és felhasználói kedvenclista WordPress‑hez; automatikus gomb, rövidkódok, vendég és bejelentkezett támogatás.",
+    "sidebar_label": "MB Favorite Posts"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Custom Table",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-custom-table"
+  },
+  "next": {
+    "title": "MB Frontend Submission",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-frontend-submission"
+  }
+}

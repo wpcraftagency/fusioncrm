@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-atarim-extension",
+  "title": "MainWP Atarim Extension",
+  "description": "Kétirányú integráció a MainWP és az Atarim között vizuális ügyfél‑visszajelzéshez, feladatkezeléshez és riportoláshoz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-atarim-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-atarim-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-atarim-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-atarim-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Atarim Extension",
+    "description": "Kétirányú integráció a MainWP és az Atarim között vizuális ügyfél‑visszajelzéshez, feladatkezeléshez és riportoláshoz.",
+    "sidebar_label": "MainWP Atarim Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Article Uploader Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-article-uploader-extension"
+  },
+  "next": {
+    "title": "MainWP Buddy Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-buddy-extension"
+  }
+}

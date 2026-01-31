@@ -1,0 +1,37 @@
+{
+  "id": "dokumentacio/hellopack/forditaskezeles",
+  "title": "Fordításkezelés",
+  "description": "HelloPack központosított fordításkezelő rendszer használata",
+  "source": "@site/docs/dokumentacio/hellopack/forditaskezeles.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/forditaskezeles",
+  "permalink": "/docs/dokumentacio/hellopack/forditaskezeles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/forditaskezeles.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Fordításkezelés",
+    "description": "HelloPack központosított fordításkezelő rendszer használata",
+    "keywords": [
+      "hellopack",
+      "fordítás",
+      "translation",
+      "nyelvi fájlok",
+      "loco translate"
+    ],
+    "sidebar_label": "Fordításkezelés",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bővítmények frissítése",
+    "permalink": "/docs/dokumentacio/hellopack/bovitmenyek-frissitese"
+  },
+  "next": {
+    "title": "Csomagkezelő hibaelhárítása",
+    "permalink": "/docs/dokumentacio/hellopack/hibaelharitas"
+  }
+}

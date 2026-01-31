@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/esbuild",
+  "title": "esbuild",
+  "description": "Ultra-gyors JavaScript és CSS bundler WordPress projektekhez.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/esbuild.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/esbuild",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/esbuild",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/esbuild.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "esbuild",
+    "description": "Ultra-gyors JavaScript és CSS bundler WordPress projektekhez.",
+    "keywords": [
+      "esbuild",
+      "bundler",
+      "javascript",
+      "css",
+      "wordpress"
+    ],
+    "sidebar_label": "esbuild",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DevKinsta",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/devkinsta"
+  },
+  "next": {
+    "title": "Firefox Developer Edition",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/bongeszo-firefox-developer-edition"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "sugo/partnerprogram/partnerlink",
+  "title": "Partnerlink",
+  "description": "A partnerlink segítségével követheted a hivatkozásaidat és a jutalékodat. A partnerlinket a HelloConsole-ban találod meg.",
+  "source": "@site/docs/sugo/partnerprogram/partnerlink.md",
+  "sourceDirName": "sugo/partnerprogram",
+  "slug": "/sugo/partnerprogram/partnerlink",
+  "permalink": "/docs/sugo/partnerprogram/partnerlink",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/partnerprogram/partnerlink.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Partnerazonosítód",
+    "permalink": "/docs/sugo/partnerprogram/partnerazonositod"
+  },
+  "next": {
+    "title": "Szabályzat",
+    "permalink": "/docs/sugo/partnerprogram/szabalyzat"
+  }
+}

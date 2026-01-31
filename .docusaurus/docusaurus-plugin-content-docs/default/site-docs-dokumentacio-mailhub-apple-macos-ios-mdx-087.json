@@ -1,0 +1,37 @@
+{
+  "id": "dokumentacio/mailhub/apple-macos-ios",
+  "title": "Levelezés beállítása Apple eszközökön",
+  "description": "MailHub email fiók beállítása iPhone, iPad és Mac eszközökön.",
+  "source": "@site/docs/dokumentacio/mailhub/apple-macos-ios.mdx",
+  "sourceDirName": "dokumentacio/mailhub",
+  "slug": "/dokumentacio/mailhub/apple-macos-ios",
+  "permalink": "/docs/dokumentacio/mailhub/apple-macos-ios",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/mailhub/apple-macos-ios.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Levelezés beállítása Apple eszközökön",
+    "description": "MailHub email fiók beállítása iPhone, iPad és Mac eszközökön.",
+    "keywords": [
+      "mailhub",
+      "apple",
+      "iphone",
+      "mac",
+      "ios"
+    ],
+    "sidebar_label": "Apple macOS / iOS",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manuális beállítás",
+    "permalink": "/docs/dokumentacio/mailhub/levelezes-beallitasa"
+  },
+  "next": {
+    "title": "Android",
+    "permalink": "/docs/dokumentacio/mailhub/android"
+  }
+}

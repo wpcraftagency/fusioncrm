@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-user-login-action",
+  "title": "JetFormBuilder User Login Action",
+  "description": "JetFormBuilder Pro kiegészítő, amellyel kódolás nélkül, űrlapból jelentkeztetheted be a felhasználókat, és felépítheted a teljes login + jelszó‑visszaállítás folyamatot.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-user-login-action.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-user-login-action",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-user-login-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-user-login-action.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder User Login Action",
+    "description": "JetFormBuilder Pro kiegészítő, amellyel kódolás nélkül, űrlapból jelentkeztetheted be a felhasználókat, és felépítheted a teljes login + jelszó‑visszaállítás folyamatot.",
+    "sidebar_label": "JetFormBuilder User Login Action"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder Stripe Gateway",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-stripe-gateway"
+  },
+  "next": {
+    "title": "JetFormBuilder WooCommerce Cart & Checkout Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-woocommerce-cart-checkout-action"
+  }
+}

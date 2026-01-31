@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ninja-forms-file-uploads",
+  "title": "Ninja Forms - File Uploads",
+  "description": "Hivatalos Ninja Forms kiegészítő fájlfeltöltéshez: típus-, méret- és darabszám-korlátokkal, médiatárba vagy felhőbe mentéssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ninja-forms-file-uploads.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ninja-forms-file-uploads",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-file-uploads",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ninja-forms-file-uploads.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ninja Forms - File Uploads",
+    "description": "Hivatalos Ninja Forms kiegészítő fájlfeltöltéshez: típus-, méret- és darabszám-korlátokkal, médiatárba vagy felhőbe mentéssel.",
+    "sidebar_label": "Ninja Forms - File Uploads"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms - Excel Export",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-excel-export"
+  },
+  "next": {
+    "title": "Ninja Forms - Layout & Styles",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-layout-styles"
+  }
+}

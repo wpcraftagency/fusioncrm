@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-course-reviews",
+  "title": "LearnDash Course Reviews",
+  "description": "Tanulói értékelések és vélemények a LearnDash kurzusoldalakon, 1–5 csillagos rendszerrel és WordPress-alapú moderálással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-course-reviews.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-course-reviews",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-course-reviews",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-course-reviews.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash Course Reviews",
+    "description": "Tanulói értékelések és vélemények a LearnDash kurzusoldalakon, 1–5 csillagos rendszerrel és WordPress-alapú moderálással.",
+    "sidebar_label": "LearnDash Course Reviews"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetWooBuilder For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetwoobuilder-for-elementor"
+  },
+  "next": {
+    "title": "LearnDash LMS - 2Checkout Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-2checkout-integration"
+  }
+}

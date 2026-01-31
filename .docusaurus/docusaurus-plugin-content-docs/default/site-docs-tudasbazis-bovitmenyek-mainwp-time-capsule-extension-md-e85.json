@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-time-capsule-extension",
+  "title": "MainWP Time Capsule Extension",
+  "description": "Hivatalos MainWP kiegészítő, amellyel a WP Time Capsule mentéseket és staginget egy központi Dashboardból vezérelhetsz minden kapcsolt WordPress-oldalon.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-time-capsule-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-time-capsule-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-time-capsule-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-time-capsule-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Time Capsule Extension",
+    "description": "Hivatalos MainWP kiegészítő, amellyel a WP Time Capsule mentéseket és staginget egy központi Dashboardból vezérelhetsz minden kapcsolt WordPress-oldalon.",
+    "sidebar_label": "MainWP Time Capsule Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Team Control",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-team-control"
+  },
+  "next": {
+    "title": "MainWP UpdraftPlus Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-updraftplus-extension"
+  }
+}

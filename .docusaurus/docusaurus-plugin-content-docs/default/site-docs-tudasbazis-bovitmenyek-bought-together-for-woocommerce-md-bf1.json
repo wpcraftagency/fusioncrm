@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/bought-together-for-woocommerce",
+  "title": "Bought Together for WooCommerce",
+  "description": "Fizetős WooCommerce-bővítmény, amellyel „Gyakran együtt vásárolt” szekciót jeleníthetsz meg a termékoldalakon, egykattintásos kosárba tétellel a kosárérték növeléséért.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/bought-together-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/bought-together-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/bought-together-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/bought-together-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Bought Together for WooCommerce",
+    "description": "Fizetős WooCommerce-bővítmény, amellyel „Gyakran együtt vásárolt” szekciót jeleníthetsz meg a termékoldalakon, egykattintásos kosárba tétellel a kosárérték növeléséért.",
+    "sidebar_label": "Bought Together for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Booster Plus for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/booster-plus-for-woocommerce"
+  },
+  "next": {
+    "title": "Buy Again for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/buy-again-for-woocommerce"
+  }
+}

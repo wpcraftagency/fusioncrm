@@ -1,0 +1,34 @@
+{
+  "id": "dokumentacio/marketing/Facebook/facebook-hozzaferes-adasa",
+  "title": "Facebook vállalkozáskezelő hozzáférés megadása",
+  "description": "Facebook vállalkozáskezelő hozzáférés megadása",
+  "source": "@site/docs/dokumentacio/marketing/Facebook/facebook-hozzaferes-adasa.mdx",
+  "sourceDirName": "dokumentacio/marketing/Facebook",
+  "slug": "/dokumentacio/marketing/Facebook/facebook-hozzaferes-adasa",
+  "permalink": "/docs/dokumentacio/marketing/Facebook/facebook-hozzaferes-adasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/marketing/Facebook/facebook-hozzaferes-adasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Facebook vállalkozáskezelő hozzáférés megadása",
+    "description": "Facebook vállalkozáskezelő hozzáférés megadása",
+    "keywords": [
+      "facebook",
+      "vállalkozáskezelő"
+    ],
+    "sidebar_label": "Vállalkozáskezelő hozzáférés megadása",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Facebook",
+    "permalink": "/docs/dokumentacio/marketing/Facebook/"
+  },
+  "next": {
+    "title": "Vállalkozáskezelő létrehozása és beállítása",
+    "permalink": "/docs/dokumentacio/marketing/Facebook/facebook-vallalkozaskezelo-letrehozasa"
+  }
+}

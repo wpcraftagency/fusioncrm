@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system",
+  "title": "WP Booking System",
+  "description": "Könnyű, napi alapú foglalási naptár és űrlapkezelő WordPresshez, online fizetéssel, értesítésekkel és iCalendar szinkronnal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System",
+    "description": "Könnyű, napi alapú foglalási naptár és űrlapkezelő WordPresshez, online fizetéssel, értesítésekkel és iCalendar szinkronnal.",
+    "sidebar_label": "WP Booking System"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - WooCommerce Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-woocommerce-add-on"
+  },
+  "next": {
+    "title": "WP Grid Builder - Beaver Builder",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-beaver-builder"
+  }
+}

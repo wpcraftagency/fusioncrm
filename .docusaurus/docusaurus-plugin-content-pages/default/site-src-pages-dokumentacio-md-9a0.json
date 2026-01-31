@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/dokumentacio",
+  "source": "@site/src/pages/dokumentacio.md",
+  "title": "Hogyan használd a Hub oldalt?",
+  "description": "Megújult a HelloWP! dokumentációs oldala. A jövőben nagyobb hangsúlyt fogunk fektetni a kommunikációra. Ennek a lesz a központi helye a HelloWP Hub.",
+  "frontMatter": {},
+  "unlisted": false
+}

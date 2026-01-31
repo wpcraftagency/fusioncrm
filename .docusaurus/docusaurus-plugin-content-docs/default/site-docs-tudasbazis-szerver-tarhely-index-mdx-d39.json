@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/szerver-tarhely/index",
+  "title": "Szerver, tárhely és domain tippek és trükkök",
+  "description": "Szerver, tárhely és domain tippek és trükkök",
+  "source": "@site/docs/tudasbazis/szerver-tarhely/index.mdx",
+  "sourceDirName": "tudasbazis/szerver-tarhely",
+  "slug": "/tudasbazis/szerver-tarhely/",
+  "permalink": "/docs/tudasbazis/szerver-tarhely/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/szerver-tarhely/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Szerver, tárhely és domain tippek és trükkök",
+    "description": "Szerver, tárhely és domain tippek és trükkök",
+    "keywords": [
+      "hibaelharitas"
+    ],
+    "sidebar_label": "Szerver, tárhely és domain",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cron job beállítása",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/cron-job-beallitasa"
+  },
+  "next": {
+    "title": "Ajánlott tárhelybeállítások",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/"
+  }
+}

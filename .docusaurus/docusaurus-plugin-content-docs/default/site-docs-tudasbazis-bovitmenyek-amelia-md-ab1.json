@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/amelia",
+  "title": "Amelia",
+  "description": "Minden‑az‑egyben WordPress bővítmény online időpont‑ és eseményfoglaláshoz, fizetésekkel, értesítésekkel, naptár‑szinkronnal és ügyfél/munkatárs felületekkel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/amelia.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/amelia",
+  "permalink": "/docs/tudasbazis/bovitmenyek/amelia",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/amelia.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Amelia",
+    "description": "Minden‑az‑egyben WordPress bővítmény online időpont‑ és eseményfoglaláshoz, fizetésekkel, értesítésekkel, naptár‑szinkronnal és ügyfél/munkatárs felületekkel.",
+    "sidebar_label": "Amelia"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "All-in-One WP Migration URL Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/all-in-one-wp-migration-url-extension"
+  },
+  "next": {
+    "title": "Analytify Easy Digital Downloads",
+    "permalink": "/docs/tudasbazis/bovitmenyek/analytify-easy-digital-downloads"
+  }
+}

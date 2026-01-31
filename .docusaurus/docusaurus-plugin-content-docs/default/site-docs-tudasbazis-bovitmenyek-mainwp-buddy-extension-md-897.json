@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-buddy-extension",
+  "title": "MainWP Buddy Extension",
+  "description": "Központi irányítás a Solid Backups (Legacy) / BackupBuddy mentésekhez a MainWP-ből – több webhely egységes, biztonságos mentéskezelése.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-buddy-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-buddy-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-buddy-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-buddy-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Buddy Extension",
+    "description": "Központi irányítás a Solid Backups (Legacy) / BackupBuddy mentésekhez a MainWP-ből – több webhely egységes, biztonságos mentéskezelése.",
+    "sidebar_label": "MainWP Buddy Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Atarim Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-atarim-extension"
+  },
+  "next": {
+    "title": "MainWP Bulk Settings Manager Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-bulk-settings-manager-extension"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wpbakery-page-builder",
+  "title": "WPBakery Page Builder",
+  "description": "Prémium, drag‑and‑drop oldalépítő WordPresshez, amellyel kódolás nélkül készíthetsz professzionális, reszponzív elrendezéseket.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wpbakery-page-builder.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wpbakery-page-builder",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wpbakery-page-builder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wpbakery-page-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WPBakery Page Builder",
+    "description": "Prémium, drag‑and‑drop oldalépítő WordPresshez, amellyel kódolás nélkül készíthetsz professzionális, reszponzív elrendezéseket.",
+    "sidebar_label": "WPBakery Page Builder"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Rocket",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-rocket"
+  },
+  "next": {
+    "title": "WPForms Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpforms-multilingual"
+  }
+}

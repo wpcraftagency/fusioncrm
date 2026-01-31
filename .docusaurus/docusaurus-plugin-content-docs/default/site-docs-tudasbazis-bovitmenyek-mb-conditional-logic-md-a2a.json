@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-conditional-logic",
+  "title": "MB Conditional Logic",
+  "description": "Prémium Meta Box kiegészítő, amellyel feltételalapon vezérelheted meta boxok, egyedi mezők és admin elemek megjelenését a WordPressben.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-conditional-logic.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-conditional-logic",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-conditional-logic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-conditional-logic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Conditional Logic",
+    "description": "Prémium Meta Box kiegészítő, amellyel feltételalapon vezérelheted meta boxok, egyedi mezők és admin elemek megjelenését a WordPressben.",
+    "sidebar_label": "MB Conditional Logic"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Builder",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-builder"
+  },
+  "next": {
+    "title": "MB Custom Table",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-custom-table"
+  }
+}

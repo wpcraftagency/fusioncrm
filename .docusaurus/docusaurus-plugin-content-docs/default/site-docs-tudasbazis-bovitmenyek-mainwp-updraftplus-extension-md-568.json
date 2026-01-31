@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-updraftplus-extension",
+  "title": "MainWP UpdraftPlus Extension",
+  "description": "Központi vezérlés az UpdraftPlus mentésekhez: beállítás, ütemezés, indítás és visszaállítás elérése a MainWP Dashboardból több gyerekoldalon.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-updraftplus-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-updraftplus-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-updraftplus-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-updraftplus-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP UpdraftPlus Extension",
+    "description": "Központi vezérlés az UpdraftPlus mentésekhez: beállítás, ütemezés, indítás és visszaállítás elérése a MainWP Dashboardból több gyerekoldalon.",
+    "sidebar_label": "MainWP UpdraftPlus Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Time Capsule Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-time-capsule-extension"
+  },
+  "next": {
+    "title": "MainWP URL Extractor Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-url-extractor-extension"
+  }
+}

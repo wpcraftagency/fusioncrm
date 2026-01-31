@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-wordpress-seo-extension",
+  "title": "MainWP WordPress SEO Extension",
+  "description": "A MainWP Yoast SEO Extension központi irányítást ad a Yoast SEO-beállításokhoz és SEO-metákhoz több WordPress-oldalon, közvetlenül a MainWP irányítópultról.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-wordpress-seo-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-wordpress-seo-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-wordpress-seo-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-wordpress-seo-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP WordPress SEO Extension",
+    "description": "A MainWP Yoast SEO Extension központi irányítást ad a Yoast SEO-beállításokhoz és SEO-metákhoz több WordPress-oldalon, közvetlenül a MainWP irányítópultról.",
+    "sidebar_label": "MainWP WordPress SEO Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Wordfence Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-wordfence-extension"
+  },
+  "next": {
+    "title": "MainWP WP Compress Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-wp-compress-extension"
+  }
+}

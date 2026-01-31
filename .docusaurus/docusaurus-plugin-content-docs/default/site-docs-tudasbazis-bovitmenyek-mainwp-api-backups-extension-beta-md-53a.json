@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-api-backups-extension-beta",
+  "title": "MainWP API Backups Extension - BETA",
+  "description": "Host-API-kon keresztül indítható, központi backup és visszaállítás a MainWP Dashboardból, eredetileg BETA bővítményként, ma már a Core részeként.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-api-backups-extension-beta.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-api-backups-extension-beta",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-api-backups-extension-beta",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-api-backups-extension-beta.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP API Backups Extension - BETA",
+    "description": "Host-API-kon keresztül indítható, központi backup és visszaállítás a MainWP Dashboardból, eredetileg BETA bővítményként, ma már a Core részeként.",
+    "sidebar_label": "MainWP API Backups Extension - BETA"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Advanced Uptime Monitor Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-advanced-uptime-monitor-integration"
+  },
+  "next": {
+    "title": "MainWP Article Uploader Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-article-uploader-extension"
+  }
+}

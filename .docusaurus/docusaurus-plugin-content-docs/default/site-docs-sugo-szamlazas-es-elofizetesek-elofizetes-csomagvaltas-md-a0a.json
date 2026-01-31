@@ -1,0 +1,27 @@
+{
+  "id": "sugo/szamlazas-es-elofizetesek/elofizetes-csomagvaltas",
+  "title": "Előfizetés csomagváltás",
+  "description": "Az előfizetéseket bármikor átállíthatod egy másik csomagra. Ehhez csak annyit kell tenned, hogy a HelloConsole-ban kiválasztod a megfelelő előfizetést, majd a Csomagváltás gombra kattintasz. Ezután válaszd ki, hogy melyik csomagra szeretnéd átállítani az előfizetést és kattints a Csomagváltás gombra.",
+  "source": "@site/docs/sugo/szamlazas-es-elofizetesek/elofizetes-csomagvaltas.md",
+  "sourceDirName": "sugo/szamlazas-es-elofizetesek",
+  "slug": "/sugo/szamlazas-es-elofizetesek/elofizetes-csomagvaltas",
+  "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-csomagvaltas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/szamlazas-es-elofizetesek/elofizetes-csomagvaltas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Számla javítás/korrekció",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/szamla-javitas-korrekcio"
+  },
+  "next": {
+    "title": "Előfizetés elindítása",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-elofizetes"
+  }
+}

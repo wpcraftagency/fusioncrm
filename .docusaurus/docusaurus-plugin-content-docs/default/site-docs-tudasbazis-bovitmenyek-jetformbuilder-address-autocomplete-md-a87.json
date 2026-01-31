@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-address-autocomplete",
+  "title": "JetFormBuilder Address Autocomplete",
+  "description": "PRO kiegészítő a JetFormBuilderhez, amely Google-alapú, valós idejű címajánlást és automatikus címkitöltést ad az űrlapmezőkhöz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-address-autocomplete.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-address-autocomplete",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-address-autocomplete",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-address-autocomplete.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder Address Autocomplete",
+    "description": "PRO kiegészítő a JetFormBuilderhez, amely Google-alapú, valós idejű címajánlást és automatikus címkitöltést ad az űrlapmezőkhöz.",
+    "sidebar_label": "JetFormBuilder Address Autocomplete"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetEngine",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine"
+  },
+  "next": {
+    "title": "JetFormBuilder Advanced Color Picker",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-advanced-color-picker"
+  }
+}

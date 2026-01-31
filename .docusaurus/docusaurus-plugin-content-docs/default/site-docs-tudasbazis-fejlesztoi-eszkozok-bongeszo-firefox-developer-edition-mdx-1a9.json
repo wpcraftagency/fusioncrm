@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/bongeszo-firefox-developer-edition",
+  "title": "Firefox Developer Edition",
+  "description": "A webfejlesztők számára készült Firefox böngésző fejlett eszközökkel és funkciókkal.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/bongeszo-firefox-developer-edition.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/bongeszo-firefox-developer-edition",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/bongeszo-firefox-developer-edition",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/bongeszo-firefox-developer-edition.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Firefox Developer Edition",
+    "description": "A webfejlesztők számára készült Firefox böngésző fejlett eszközökkel és funkciókkal.",
+    "keywords": [
+      "firefox",
+      "developer",
+      "böngésző",
+      "devtools",
+      "webfejlesztés"
+    ],
+    "sidebar_label": "Firefox Developer Edition",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "esbuild",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/esbuild"
+  },
+  "next": {
+    "title": "GitHub Actions",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/github-actions"
+  }
+}

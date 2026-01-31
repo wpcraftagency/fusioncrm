@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-affiliate-area-shortcodes",
+  "title": "AffiliateWP - Affiliate Area Shortcodes",
+  "description": "Hivatalos AffiliateWP-kiegészítő, amellyel 20+ rövidkóddal bárhová beágyazhatod az Affiliate Area tartalmait és adatait, és teljesen egyedi partneri irányítópultot építhetsz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-area-shortcodes.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-affiliate-area-shortcodes",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-area-shortcodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-area-shortcodes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - Affiliate Area Shortcodes",
+    "description": "Hivatalos AffiliateWP-kiegészítő, amellyel 20+ rövidkóddal bárhová beágyazhatod az Affiliate Area tartalmait és adatait, és teljesen egyedi partneri irányítópultot építhetsz.",
+    "sidebar_label": "AffiliateWP - Affiliate Area Shortcodes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Custom Fields PRO",
+    "permalink": "/docs/tudasbazis/bovitmenyek/advanced-custom-fields-pro"
+  },
+  "next": {
+    "title": "AffiliateWP - Affiliate Dashboard Sharing",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-dashboard-sharing"
+  }
+}

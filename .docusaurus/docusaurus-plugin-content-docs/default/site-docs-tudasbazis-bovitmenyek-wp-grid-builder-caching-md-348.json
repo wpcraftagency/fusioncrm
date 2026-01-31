@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-grid-builder-caching",
+  "title": "WP Grid Builder - Caching",
+  "description": "Hivatalos WP Grid Builder kiegészítő, amely a rácsok és facettek aszinkron lekérdezéseit gyorsítótárazza a villámgyors szűréshez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-grid-builder-caching.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-grid-builder-caching",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-caching",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-grid-builder-caching.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Grid Builder - Caching",
+    "description": "Hivatalos WP Grid Builder kiegészítő, amely a rácsok és facettek aszinkron lekérdezéseit gyorsítótárazza a villámgyors szűréshez.",
+    "sidebar_label": "WP Grid Builder - Caching"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Grid Builder - Bricks",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-bricks"
+  },
+  "next": {
+    "title": "WP Grid Builder - Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-elementor"
+  }
+}

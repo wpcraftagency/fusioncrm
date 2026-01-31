@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-booking-manager",
+  "title": "WP Booking System - Booking Manager",
+  "description": "A WP Booking System hivatalos kiegészítője, amely egy központi felületen kezeli az összes naptár összes foglalását – listanézetben és naptárnézetben, szűréssel és exporttal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-booking-manager.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-booking-manager",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-booking-manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-booking-manager.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Booking Manager",
+    "description": "A WP Booking System hivatalos kiegészítője, amely egy központi felületen kezeli az összes naptár összes foglalását – listanézetben és naptárnézetben, szűréssel és exporttal.",
+    "sidebar_label": "WP Booking System - Booking Manager"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Authorize.Net Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-authorize-net-add-on"
+  },
+  "next": {
+    "title": "WP Booking System - Calendar Organiser",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-calendar-organiser"
+  }
+}

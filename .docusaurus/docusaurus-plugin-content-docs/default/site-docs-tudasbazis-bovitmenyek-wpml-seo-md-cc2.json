@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wpml-seo",
+  "title": "WPML SEO",
+  "description": "A WPML‑hez készült kiegészítő, amely teljes többnyelvű SEO‑kompatibilitást ad a Yoast SEO és Rank Math bővítményekhez: fordítható SEO‑mezők, helyes hreflang és sitemap kezelés.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wpml-seo.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wpml-seo",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wpml-seo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wpml-seo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WPML SEO",
+    "description": "A WPML‑hez készült kiegészítő, amely teljes többnyelvű SEO‑kompatibilitást ad a Yoast SEO és Rank Math bővítményekhez: fordítható SEO‑mezők, helyes hreflang és sitemap kezelés.",
+    "sidebar_label": "WPML SEO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WPML Multilingual & Multicurrency for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-multilingual-multicurrency-for-woocommerce"
+  },
+  "next": {
+    "title": "WPML String Translation",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-string-translation"
+  }
+}

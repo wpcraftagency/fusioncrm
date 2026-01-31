@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-migration",
+  "title": "LearnDash LMS - Migration",
+  "description": "Hivatalos, ingyenes LearnDash add‑on, amellyel más WordPress‑es LMS‑ekből egykattintásosan viheted át a kurzustartalmat LearnDash‑be.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-migration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-migration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-migration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-migration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - Migration",
+    "description": "Hivatalos, ingyenes LearnDash add‑on, amellyel más WordPress‑es LMS‑ekből egykattintásosan viheted át a kurzustartalmat LearnDash‑be.",
+    "sidebar_label": "LearnDash LMS - Migration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - MemberPress Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-memberpress-integration"
+  },
+  "next": {
+    "title": "LearnDash LMS - Notifications",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-notifications"
+  }
+}

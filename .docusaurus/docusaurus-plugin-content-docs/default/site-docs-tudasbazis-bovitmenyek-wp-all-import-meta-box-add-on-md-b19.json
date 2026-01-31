@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-all-import-meta-box-add-on",
+  "title": "WP All Import - Meta Box Add-On",
+  "description": "Hivatalos kiegészítő, amellyel a WP All Import drag-and-drop felületén bármely Meta Box mezőbe importálhatsz adatokat CSV/XML/Excel forrásokból.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-all-import-meta-box-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-all-import-meta-box-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-meta-box-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-all-import-meta-box-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP All Import - Meta Box Add-On",
+    "description": "Hivatalos kiegészítő, amellyel a WP All Import drag-and-drop felületén bármely Meta Box mezőbe importálhatsz adatokat CSV/XML/Excel forrásokból.",
+    "sidebar_label": "WP All Import - Meta Box Add-On"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Import - Link Cloaking Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-link-cloaking-add-on"
+  },
+  "next": {
+    "title": "WP All Import Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-pro"
+  }
+}

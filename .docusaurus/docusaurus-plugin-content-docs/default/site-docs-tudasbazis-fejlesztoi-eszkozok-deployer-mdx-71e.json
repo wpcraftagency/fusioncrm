@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/deployer",
+  "title": "Deployer",
+  "description": "Automatizált WordPress deployment Deployer PHP segítségével.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/deployer.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/deployer",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/deployer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/deployer.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Deployer",
+    "description": "Automatizált WordPress deployment Deployer PHP segítségével.",
+    "keywords": [
+      "deployer",
+      "deployment",
+      "automatizálás",
+      "wordpress",
+      "php"
+    ],
+    "sidebar_label": "Deployer",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Debug Bar",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/debug-bar"
+  },
+  "next": {
+    "title": "DevKinsta",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/devkinsta"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-formless-actions-endpoints",
+  "title": "JetFormBuilder Formless Actions Endpoints",
+  "description": "JetFormBuilder PRO kiegészítő, amellyel a beküldés utáni műveleteket látható űrlap nélkül, gombbal vagy API-végponttal futtathatod.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-formless-actions-endpoints.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-formless-actions-endpoints",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-formless-actions-endpoints",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-formless-actions-endpoints.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder Formless Actions Endpoints",
+    "description": "JetFormBuilder PRO kiegészítő, amellyel a beküldés utáni műveleteket látható űrlap nélkül, gombbal vagy API-végponttal futtathatod.",
+    "sidebar_label": "JetFormBuilder Formless Actions Endpoints"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder ConvertKit Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-convertkit-action"
+  },
+  "next": {
+    "title": "JetFormBuilder Hierarchical Select",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-hierarchical-select"
+  }
+}

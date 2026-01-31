@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetstylemanager",
+  "title": "JetStyleManager",
+  "description": "Ingyenes, nyílt forráskódú bővítmény, amely vizuális stíluskezelőt ad a Gutenberghez a JetPlugins blokkokhoz, reszponzív vezérlésekkel és fejlesztői API-val.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetstylemanager.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetstylemanager",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetstylemanager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetstylemanager.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetStyleManager",
+    "description": "Ingyenes, nyílt forráskódú bővítmény, amely vizuális stíluskezelőt ad a Gutenberghez a JetPlugins blokkokhoz, reszponzív vezérlésekkel és fejlesztői API-val.",
+    "sidebar_label": "JetStyleManager"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetSmartFilters",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetsmartfilters"
+  },
+  "next": {
+    "title": "JetTabs For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jettabs-for-elementor"
+  }
+}

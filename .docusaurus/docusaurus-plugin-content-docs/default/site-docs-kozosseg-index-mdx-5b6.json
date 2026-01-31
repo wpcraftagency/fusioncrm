@@ -1,0 +1,33 @@
+{
+  "id": "kozosseg/index",
+  "title": "Közösség",
+  "description": "Közösség",
+  "source": "@site/docs/kozosseg/index.mdx",
+  "sourceDirName": "kozosseg",
+  "slug": "/kozosseg/",
+  "permalink": "/docs/kozosseg/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/kozosseg/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 42,
+  "frontMatter": {
+    "title": "Közösség",
+    "description": "Közösség",
+    "keywords": [
+      "dokumentacio"
+    ],
+    "sidebar_label": "Közösség",
+    "sidebar_position": 42
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Xdebug",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/xdebug"
+  },
+  "next": {
+    "title": "Discord",
+    "permalink": "/docs/kozosseg/discord"
+  }
+}

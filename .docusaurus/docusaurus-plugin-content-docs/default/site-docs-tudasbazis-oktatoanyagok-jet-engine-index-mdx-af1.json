@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/oktatoanyagok/JetEngine/index",
+  "title": "JetEngine",
+  "description": "JetEngine - Dinamikus tartalom kezelő bővítmény Elementorhoz és Gutenberghez.",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/JetEngine/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/JetEngine",
+  "slug": "/tudasbazis/oktatoanyagok/JetEngine/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/JetEngine/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "JetEngine",
+    "description": "JetEngine - Dinamikus tartalom kezelő bővítmény Elementorhoz és Gutenberghez.",
+    "keywords": [
+      "JetEngine",
+      "CPT",
+      "CCT",
+      "Elementor"
+    ],
+    "sidebar_label": "JetEngine",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workflow készítése",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/AutomateWoo/workflow-keszitese"
+  },
+  "next": {
+    "title": "Áttekintés",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/JetEngine Áttekintő"
+  }
+}

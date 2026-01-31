@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/generateblocks-pro",
+  "title": "GenerateBlocks Pro",
+  "description": "Prémium kiegészítő a GenerateBlocks-hoz, amellyel a Gutenberg szerkesztőből gyors, kódszegény és professzionális oldalépítőt varázsolsz, globális stílusokkal, overlay panelekkel és fejlett reszponzív vezérléssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/generateblocks-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/generateblocks-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/generateblocks-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/generateblocks-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "GenerateBlocks Pro",
+    "description": "Prémium kiegészítő a GenerateBlocks-hoz, amellyel a Gutenberg szerkesztőből gyors, kódszegény és professzionális oldalépítőt varázsolsz, globális stílusokkal, overlay panelekkel és fejlett reszponzív vezérléssel.",
+    "sidebar_label": "GenerateBlocks Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gAppointments",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gappointments"
+  },
+  "next": {
+    "title": "GenerateBlocks",
+    "permalink": "/docs/tudasbazis/bovitmenyek/generateblocks"
+  }
+}

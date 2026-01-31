@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/phpcs-wpcs",
+  "title": "PHP_CodeSniffer + WPCS",
+  "description": "WordPress kódolási szabványok betartása PHP_CodeSniffer és WordPress Coding Standards segítségével.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/phpcs-wpcs.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/phpcs-wpcs",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/phpcs-wpcs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/phpcs-wpcs.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "title": "PHP_CodeSniffer + WPCS",
+    "description": "WordPress kódolási szabványok betartása PHP_CodeSniffer és WordPress Coding Standards segítségével.",
+    "keywords": [
+      "phpcs",
+      "wpcs",
+      "coding standards",
+      "wordpress",
+      "kódminőség"
+    ],
+    "sidebar_label": "PHP_CodeSniffer + WPCS",
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Pest",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/pest"
+  },
+  "next": {
+    "title": "PHPStan",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/phpstan"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-gopay-add-on",
+  "title": "WP Booking System - GoPay Add-on",
+  "description": "Natív GoPay fizetési átjáró a WP Booking System foglalási űrlaphoz, kártyás és banki átutalásos online fizetés CEE piacokra, WooCommerce nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-gopay-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-gopay-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-gopay-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-gopay-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - GoPay Add-on",
+    "description": "Natív GoPay fizetési átjáró a WP Booking System foglalási űrlaphoz, kártyás és banki átutalásos online fizetés CEE piacokra, WooCommerce nélkül.",
+    "sidebar_label": "WP Booking System - GoPay Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Email Reminders Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-email-reminders-add-on"
+  },
+  "next": {
+    "title": "WP Booking System - Inventory",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-inventory"
+  }
+}

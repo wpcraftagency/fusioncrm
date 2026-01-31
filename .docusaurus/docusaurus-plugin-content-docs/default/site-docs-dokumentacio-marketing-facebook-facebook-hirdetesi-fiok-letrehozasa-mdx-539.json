@@ -1,0 +1,35 @@
+{
+  "id": "dokumentacio/marketing/Facebook/facebook-hirdetesi-fiok-letrehozasa",
+  "title": "Facebook hirdetési fiók létrehozása és beállítása",
+  "description": "Facebook hirdetési fiók létrehozása és beállítása",
+  "source": "@site/docs/dokumentacio/marketing/Facebook/facebook-hirdetesi-fiok-letrehozasa.mdx",
+  "sourceDirName": "dokumentacio/marketing/Facebook",
+  "slug": "/dokumentacio/marketing/Facebook/facebook-hirdetesi-fiok-letrehozasa",
+  "permalink": "/docs/dokumentacio/marketing/Facebook/facebook-hirdetesi-fiok-letrehozasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/marketing/Facebook/facebook-hirdetesi-fiok-letrehozasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Facebook hirdetési fiók létrehozása és beállítása",
+    "description": "Facebook hirdetési fiók létrehozása és beállítása",
+    "keywords": [
+      "facebook",
+      "vállalkozáskezelő",
+      "hirdetési fiók"
+    ],
+    "sidebar_label": "Hirdetési fiók létrehozása és beállítása",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vállalkozáskezelő létrehozása és beállítása",
+    "permalink": "/docs/dokumentacio/marketing/Facebook/facebook-vallalkozaskezelo-letrehozasa"
+  },
+  "next": {
+    "title": "Facebook oldal létrehozása",
+    "permalink": "/docs/dokumentacio/marketing/Facebook/facebook-oldal-letrehozasa"
+  }
+}

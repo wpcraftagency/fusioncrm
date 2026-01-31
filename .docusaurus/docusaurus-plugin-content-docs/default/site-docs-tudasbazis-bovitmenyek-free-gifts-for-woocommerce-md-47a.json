@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/free-gifts-for-woocommerce",
+  "title": "Free Gifts for WooCommerce",
+  "description": "Ingyenes ajándéktermékek kiosztása szabályok alapján WooCommerce-ben – két elterjedt megoldással (GIFTiT és Flintop).",
+  "source": "@site/docs/tudasbazis/bovitmenyek/free-gifts-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/free-gifts-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/free-gifts-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/free-gifts-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Free Gifts for WooCommerce",
+    "description": "Ingyenes ajándéktermékek kiosztása szabályok alapján WooCommerce-ben – két elterjedt megoldással (GIFTiT és Flintop).",
+    "sidebar_label": "Free Gifts for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FluentSMTP",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentsmtp"
+  },
+  "next": {
+    "title": "gAppointments",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gappointments"
+  }
+}

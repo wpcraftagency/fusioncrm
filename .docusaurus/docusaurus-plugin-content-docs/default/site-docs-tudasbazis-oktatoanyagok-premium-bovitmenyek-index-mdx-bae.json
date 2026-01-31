@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/premium-bovitmenyek/index",
+  "title": "Prémium bővítmények",
+  "description": "Prémium bővítmények tippek és trükkök",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/premium-bovitmenyek",
+  "slug": "/tudasbazis/oktatoanyagok/premium-bovitmenyek/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Prémium bővítmények",
+    "description": "Prémium bővítmények tippek és trükkök",
+    "keywords": [
+      "github"
+    ],
+    "sidebar_label": "Prémium bővítmények",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kód feltöltése GitHubra",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/github/hogyan-tolts-fel-github-ra/"
+  },
+  "next": {
+    "title": "CheckoutWC: Adószám hozzáadása a pénztár oldalhoz",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/checkoutwc-adoszam-hozzaadasa-a-penztar-oldalhoz"
+  }
+}

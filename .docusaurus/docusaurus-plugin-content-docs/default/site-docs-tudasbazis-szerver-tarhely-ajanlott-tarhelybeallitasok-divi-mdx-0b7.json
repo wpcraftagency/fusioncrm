@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/divi",
+  "title": "Divi ajánlott tárhelybeállítások",
+  "description": "Divi téma rendszerkövetelményei és ajánlott szerver beállítások 2025-ben.",
+  "source": "@site/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/divi.mdx",
+  "sourceDirName": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok",
+  "slug": "/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/divi",
+  "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/divi",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/divi.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Divi ajánlott tárhelybeállítások",
+    "description": "Divi téma rendszerkövetelményei és ajánlott szerver beállítások 2025-ben.",
+    "keywords": [
+      "divi",
+      "tárhelybeállítások",
+      "php beállítások",
+      "elegant themes"
+    ],
+    "sidebar_label": "Divi",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WordPress",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/wordpress"
+  },
+  "next": {
+    "title": "Elementor",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/elementor"
+  }
+}

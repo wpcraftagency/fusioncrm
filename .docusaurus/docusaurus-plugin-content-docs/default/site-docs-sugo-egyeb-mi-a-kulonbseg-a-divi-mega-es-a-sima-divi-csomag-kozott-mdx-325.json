@@ -1,0 +1,27 @@
+{
+  "id": "sugo/egyeb/mi-a-kulonbseg-a-divi-mega-es-a-sima-divi-csomag-kozott",
+  "title": "Mi a különbség a Divi mega és a sima Divi csomag között?",
+  "description": "A HelloWP két csomagban nyújt támogatást a DIVI-hez:",
+  "source": "@site/docs/sugo/egyeb/mi-a-kulonbseg-a-divi-mega-es-a-sima-divi-csomag-kozott.mdx",
+  "sourceDirName": "sugo/egyeb",
+  "slug": "/sugo/egyeb/mi-a-kulonbseg-a-divi-mega-es-a-sima-divi-csomag-kozott",
+  "permalink": "/docs/sugo/egyeb/mi-a-kulonbseg-a-divi-mega-es-a-sima-divi-csomag-kozott",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/egyeb/mi-a-kulonbseg-a-divi-mega-es-a-sima-divi-csomag-kozott.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Egyéb",
+    "permalink": "/docs/sugo/egyeb/"
+  },
+  "next": {
+    "title": "White-label termék",
+    "permalink": "/docs/sugo/egyeb/white-label"
+  }
+}

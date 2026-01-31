@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/request-a-quote-for-woocommerce",
+  "title": "Request a Quote for WooCommerce",
+  "description": "Ajánlatkérő (RFQ) bővítmény WooCommerce-hez: tételek ajánlatkosárba helyezése, testreszabható űrlap, állapotkezelés és megrendeléssé alakítás – kifejezetten B2B és egyedi árazású esetekhez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/request-a-quote-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/request-a-quote-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/request-a-quote-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/request-a-quote-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Request a Quote for WooCommerce",
+    "description": "Ajánlatkérő (RFQ) bővítmény WooCommerce-hez: tételek ajánlatkosárba helyezése, testreszabható űrlap, állapotkezelés és megrendeléssé alakítás – kifejezetten B2B és egyedi árazású esetekhez.",
+    "sidebar_label": "Request a Quote for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "QuadMenu",
+    "permalink": "/docs/tudasbazis/bovitmenyek/quadmenu"
+  },
+  "next": {
+    "title": "Restrict Content Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/restrict-content-pro"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/gtmetrix",
+  "title": "GTmetrix - Weboldal sebességteszt",
+  "description": "GTmetrix használata weboldalak teljesítményének mérésére és optimalizálására - Core Web Vitals és Lighthouse metrikák.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/gtmetrix.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/gtmetrix",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/gtmetrix",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/gtmetrix.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "GTmetrix - Weboldal sebességteszt",
+    "description": "GTmetrix használata weboldalak teljesítményének mérésére és optimalizálására - Core Web Vitals és Lighthouse metrikák.",
+    "keywords": [
+      "gtmetrix",
+      "speed test",
+      "weboldal sebesség",
+      "core web vitals",
+      "lighthouse",
+      "teljesítmény"
+    ],
+    "sidebar_label": "GTmetrix",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Desktop",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/github-desktop"
+  },
+  "next": {
+    "title": "Insomnia",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/insomnia"
+  }
+}

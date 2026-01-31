@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/JetEngine/Praktikák/index",
+  "title": "JetEngine praktikák",
+  "description": "JetEngine technikák és praktikák",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/JetEngine/Praktikák",
+  "slug": "/tudasbazis/oktatoanyagok/JetEngine/Praktikák/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "JetEngine praktikák",
+    "description": "JetEngine technikák és praktikák",
+    "keywords": [
+      "JetEngine"
+    ],
+    "sidebar_label": "Praktikák",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetEngine CCT relations",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/jetengine-cct-relations-jfb"
+  },
+  "next": {
+    "title": "Meta vs Taxonomy",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/Meta vs taxonomy"
+  }
+}

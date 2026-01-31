@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-grid-builder-beaver-builder",
+  "title": "WP Grid Builder - Beaver Builder",
+  "description": "Hivatalos integrációs kiegészítő a WP Grid Builder és a Beaver Builder összekapcsolására, drag‑and‑drop rácsokkal és facetes szűréssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-grid-builder-beaver-builder.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-grid-builder-beaver-builder",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-beaver-builder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-grid-builder-beaver-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Grid Builder - Beaver Builder",
+    "description": "Hivatalos integrációs kiegészítő a WP Grid Builder és a Beaver Builder összekapcsolására, drag‑and‑drop rácsokkal és facetes szűréssel.",
+    "sidebar_label": "WP Grid Builder - Beaver Builder"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system"
+  },
+  "next": {
+    "title": "WP Grid Builder - Bricks",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-bricks"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/index",
+  "title": "Hasznos eszközök",
+  "description": "Hasznos eszközök webfejlesztéshez.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/index.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Hasznos eszközök",
+    "description": "Hasznos eszközök webfejlesztéshez.",
+    "keywords": [
+      "hibaelharitas"
+    ],
+    "sidebar_label": "Hasznos eszközök",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Zapier Integration for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/zapier-integration-for-woocommerce"
+  },
+  "next": {
+    "title": "1Password",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/1password"
+  }
+}

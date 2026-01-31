@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-admin-columns",
+  "title": "MB Admin Columns",
+  "description": "Meta Box prémium kiegészítő, amellyel az admin listanézetekben oszlopokban jelenítheted meg a Meta Box-szal felvett egyedi mezők értékeit, rendezhető/kereshető/szűrhető formában.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-admin-columns.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-admin-columns",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-admin-columns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-admin-columns.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Admin Columns",
+    "description": "Meta Box prémium kiegészítő, amellyel az admin listanézetekben oszlopokban jelenítheted meg a Meta Box-szal felvett egyedi mezők értékeit, rendezhető/kereshető/szűrhető formában.",
+    "sidebar_label": "MB Admin Columns"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP WP Compress Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-wp-compress-extension"
+  },
+  "next": {
+    "title": "MB Blocks",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-blocks"
+  }
+}

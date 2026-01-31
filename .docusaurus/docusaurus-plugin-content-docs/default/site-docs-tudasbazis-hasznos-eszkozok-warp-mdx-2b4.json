@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/warp",
+  "title": "Warp - Modern terminál AI-val",
+  "description": "Warp terminál használata - a modern fejlesztői terminál AI asszisztenssel, Windows, macOS és Linux támogatással.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/warp.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/warp",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/warp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/warp.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "title": "Warp - Modern terminál AI-val",
+    "description": "Warp terminál használata - a modern fejlesztői terminál AI asszisztenssel, Windows, macOS és Linux támogatással.",
+    "keywords": [
+      "warp",
+      "terminal",
+      "terminál",
+      "ai",
+      "command line"
+    ],
+    "sidebar_label": "Warp",
+    "sidebar_position": 16
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Toggl Track",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/toggl-track"
+  },
+  "next": {
+    "title": "Hibaelhárítás",
+    "permalink": "/docs/tudasbazis/hibaelharitas/"
+  }
+}

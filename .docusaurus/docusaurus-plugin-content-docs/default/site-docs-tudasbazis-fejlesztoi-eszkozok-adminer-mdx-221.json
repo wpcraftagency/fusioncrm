@@ -1,0 +1,39 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/adminer",
+  "title": "Adminer - Adatbázis kezelő",
+  "description": "Adminer telepítése és részletes használati útmutató - egyetlen PHP fájl az adatbázisok kezeléséhez, phpMyAdmin alternatíva WordPress fejlesztőknek.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/adminer.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/adminer",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/adminer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/adminer.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Adminer - Adatbázis kezelő",
+    "description": "Adminer telepítése és részletes használati útmutató - egyetlen PHP fájl az adatbázisok kezeléséhez, phpMyAdmin alternatíva WordPress fejlesztőknek.",
+    "keywords": [
+      "adminer",
+      "database",
+      "mysql",
+      "postgresql",
+      "phpmyadmin",
+      "adatbázis",
+      "wordpress"
+    ],
+    "sidebar_label": "Adminer",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Acorn",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/acorn"
+  },
+  "next": {
+    "title": "Bedrock",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/bedrock"
+  }
+}

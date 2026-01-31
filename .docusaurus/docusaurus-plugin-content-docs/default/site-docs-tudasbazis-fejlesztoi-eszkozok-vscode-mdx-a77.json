@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/vscode",
+  "title": "Visual Studio Code",
+  "description": "A legnépszerűbb kódszerkesztő WordPress fejlesztéshez, hasznos bővítményekkel és beállításokkal.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/vscode.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/vscode",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/vscode",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/vscode.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 23,
+  "frontMatter": {
+    "title": "Visual Studio Code",
+    "description": "A legnépszerűbb kódszerkesztő WordPress fejlesztéshez, hasznos bővítményekkel és beállításokkal.",
+    "keywords": [
+      "vscode",
+      "visual studio code",
+      "ide",
+      "kódszerkesztő",
+      "wordpress fejlesztés"
+    ],
+    "sidebar_label": "VS Code",
+    "sidebar_position": 23
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vite",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/vite"
+  },
+  "next": {
+    "title": "WordPress Playground",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/wordpress-playground"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/uzemeltetes-karbantartas/mi-nem-tartozik-bele-az-uzemeltetesbe",
+  "title": "Mi nem tartozik bele az üzemeltetésbe?",
+  "description": "HelloWP üzemeltetési szolgáltatás tartalma és korlátai - mit tartalmaz és mit nem.",
+  "source": "@site/docs/dokumentacio/uzemeltetes-karbantartas/mi-nem-tartozik-bele-az-uzemeltetesbe.mdx",
+  "sourceDirName": "dokumentacio/uzemeltetes-karbantartas",
+  "slug": "/dokumentacio/uzemeltetes-karbantartas/mi-nem-tartozik-bele-az-uzemeltetesbe",
+  "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/mi-nem-tartozik-bele-az-uzemeltetesbe",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/uzemeltetes-karbantartas/mi-nem-tartozik-bele-az-uzemeltetesbe.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Mi nem tartozik bele az üzemeltetésbe?",
+    "description": "HelloWP üzemeltetési szolgáltatás tartalma és korlátai - mit tartalmaz és mit nem.",
+    "keywords": [
+      "üzemeltetés",
+      "szolgáltatás",
+      "karbantartás",
+      "fejlesztés"
+    ],
+    "sidebar_label": "Mi nem tartozik bele az üzemeltetésbe?",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Levelezés beállítása",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/levelezes-beallitasa"
+  },
+  "next": {
+    "title": "Súgó",
+    "permalink": "/docs/sugo/"
+  }
+}

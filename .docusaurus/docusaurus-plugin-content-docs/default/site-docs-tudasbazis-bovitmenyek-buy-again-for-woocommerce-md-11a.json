@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/buy-again-for-woocommerce",
+  "title": "Buy Again for WooCommerce",
+  "description": "Prémium WooCommerce kiegészítő, amellyel a vásárlóid egy kattintással újravásárolhatják korábbi termékeiket a Saját fiókból és a rendelés részletei oldalról, testreszabható Buy Again listával és emlékeztető e-mailekkel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/buy-again-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/buy-again-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/buy-again-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/buy-again-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Buy Again for WooCommerce",
+    "description": "Prémium WooCommerce kiegészítő, amellyel a vásárlóid egy kattintással újravásárolhatják korábbi termékeiket a Saját fiókból és a rendelés részletei oldalról, testreszabható Buy Again listával és emlékeztető e-mailekkel.",
+    "sidebar_label": "Buy Again for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bought Together for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/bought-together-for-woocommerce"
+  },
+  "next": {
+    "title": "CartFlows Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/cartflows-pro"
+  }
+}

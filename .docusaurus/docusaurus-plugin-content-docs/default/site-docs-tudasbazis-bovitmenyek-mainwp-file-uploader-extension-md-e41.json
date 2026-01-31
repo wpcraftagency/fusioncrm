@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-file-uploader-extension",
+  "title": "MainWP File Uploader Extension",
+  "description": "Pro kiegészítő a MainWP-hez: egyetlen Dashboardból tölthetsz fel fájlokat tömegesen több Child Site-ra, célkönyvtár-megadással, felülírás-kezeléssel és részletes visszajelzéssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-file-uploader-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-file-uploader-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-file-uploader-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-file-uploader-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP File Uploader Extension",
+    "description": "Pro kiegészítő a MainWP-hez: egyetlen Dashboardból tölthetsz fel fájlokat tömegesen több Child Site-ra, célkönyvtár-megadással, felülírás-kezeléssel és részletes visszajelzéssel.",
+    "sidebar_label": "MainWP File Uploader Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Favorites Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-favorites-extension"
+  },
+  "next": {
+    "title": "MainWP Google Analytics Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-google-analytics-extension"
+  }
+}

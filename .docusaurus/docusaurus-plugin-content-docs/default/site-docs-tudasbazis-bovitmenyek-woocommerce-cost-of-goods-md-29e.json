@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-cost-of-goods",
+  "title": "WooCommerce Cost of Goods",
+  "description": "Prémium bővítmény WooCommerce-hez termékköltség-kezeléssel, pontos profit-riportokkal és készletértékeléssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-cost-of-goods.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-cost-of-goods",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-cost-of-goods",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-cost-of-goods.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Cost of Goods",
+    "description": "Prémium bővítmény WooCommerce-hez termékköltség-kezeléssel, pontos profit-riportokkal és készletértékeléssel.",
+    "sidebar_label": "WooCommerce Cost of Goods"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Conditional Shipping and Payments",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-conditional-shipping-and-payments"
+  },
+  "next": {
+    "title": "WooCommerce Deposits",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-deposits"
+  }
+}

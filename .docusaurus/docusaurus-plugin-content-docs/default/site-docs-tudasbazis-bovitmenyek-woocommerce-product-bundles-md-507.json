@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-product-bundles",
+  "title": "WooCommerce Product Bundles",
+  "description": "Csomagtermékek létrehozása és értékesítése rugalmas árazással, készlet- és szállítási szabályokkal WooCommerce-ben.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-product-bundles.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-product-bundles",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-bundles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-product-bundles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Product Bundles",
+    "description": "Csomagtermékek létrehozása és értékesítése rugalmas árazással, készlet- és szállítási szabályokkal WooCommerce-ben.",
+    "sidebar_label": "WooCommerce Product Bundles"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Product Add-Ons",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-add-ons"
+  },
+  "next": {
+    "title": "WooCommerce Product Recommendations",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-recommendations"
+  }
+}

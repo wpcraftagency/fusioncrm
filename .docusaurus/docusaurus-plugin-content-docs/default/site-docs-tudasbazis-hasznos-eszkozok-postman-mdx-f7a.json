@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/postman",
+  "title": "Postman - API fejlesztői platform",
+  "description": "Postman API platform használata - API-k tervezése, tesztelése és dokumentálása egyszerűen.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/postman.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/postman",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/postman",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/postman.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "title": "Postman - API fejlesztői platform",
+    "description": "Postman API platform használata - API-k tervezése, tesztelése és dokumentálása egyszerűen.",
+    "keywords": [
+      "postman",
+      "api",
+      "api testing",
+      "rest api",
+      "graphql"
+    ],
+    "sidebar_label": "Postman",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iTerm2",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/iterm2"
+  },
+  "next": {
+    "title": "TablePlus",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/tableplus"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-woocommerce-status-extension",
+  "title": "MainWP WooCommerce Status Extension",
+  "description": "Hivatalos MainWP kiegészítő, amely egy központi irányítópulton mutatja a WooCommerce áruházak fő állapotait és kulcsmutatóit, gyors beavatkozási lehetőségekkel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-status-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-woocommerce-status-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-status-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-status-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP WooCommerce Status Extension",
+    "description": "Hivatalos MainWP kiegészítő, amely egy központi irányítópulton mutatja a WooCommerce áruházak fő állapotait és kulcsmutatóit, gyors beavatkozási lehetőségekkel.",
+    "sidebar_label": "MainWP WooCommerce Status Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP WooCommerce Shortcuts Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-shortcuts-extension"
+  },
+  "next": {
+    "title": "MainWP Wordfence Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-wordfence-extension"
+  }
+}

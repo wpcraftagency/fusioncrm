@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/woocommerce",
+  "title": "WooCommerce ajánlott tárhelybeállítások",
+  "description": "WooCommerce webáruház rendszerkövetelményei és ajánlott szerver beállítások 2025-ben.",
+  "source": "@site/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/woocommerce.mdx",
+  "sourceDirName": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok",
+  "slug": "/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/woocommerce",
+  "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/woocommerce.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "WooCommerce ajánlott tárhelybeállítások",
+    "description": "WooCommerce webáruház rendszerkövetelményei és ajánlott szerver beállítások 2025-ben.",
+    "keywords": [
+      "woocommerce",
+      "webáruház",
+      "tárhelybeállítások",
+      "php beállítások",
+      "e-commerce"
+    ],
+    "sidebar_label": "WooCommerce",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kadence",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/kadence"
+  },
+  "next": {
+    "title": "Fejlesztői eszközök",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/"
+  }
+}

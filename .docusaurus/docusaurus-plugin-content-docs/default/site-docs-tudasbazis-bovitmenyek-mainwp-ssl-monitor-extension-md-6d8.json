@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-ssl-monitor-extension",
+  "title": "MainWP SSL Monitor Extension",
+  "description": "Központi SSL-tanúsítvány monitorozás MainWP-ből ütemezett ellenőrzéssel, e-mailes riasztásokkal és részletes tanúsítvány-információkkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-ssl-monitor-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-ssl-monitor-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-ssl-monitor-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-ssl-monitor-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP SSL Monitor Extension",
+    "description": "Központi SSL-tanúsítvány monitorozás MainWP-ből ütemezett ellenőrzéssel, e-mailes riasztásokkal és részletes tanúsítvány-információkkal.",
+    "sidebar_label": "MainWP SSL Monitor Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Pro Reports Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-pro-reports-extension"
+  },
+  "next": {
+    "title": "MainWP Staging Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-staging-extension"
+  }
+}

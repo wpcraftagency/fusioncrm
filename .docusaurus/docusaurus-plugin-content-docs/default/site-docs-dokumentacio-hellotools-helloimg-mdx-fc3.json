@@ -1,0 +1,39 @@
+{
+  "id": "dokumentacio/hellotools/helloimg",
+  "title": "HelloIMG – Képoptimalizáló",
+  "description": "HelloIMG képoptimalizáló API - Akár 90%-os méretcsökkentés minőségromlás nélkül. WebP és AVIF támogatás.",
+  "source": "@site/docs/dokumentacio/hellotools/helloimg.mdx",
+  "sourceDirName": "dokumentacio/hellotools",
+  "slug": "/dokumentacio/hellotools/helloimg",
+  "permalink": "/docs/dokumentacio/hellotools/helloimg",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellotools/helloimg.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "HelloIMG – Képoptimalizáló",
+    "description": "HelloIMG képoptimalizáló API - Akár 90%-os méretcsökkentés minőségromlás nélkül. WebP és AVIF támogatás.",
+    "keywords": [
+      "helloimg",
+      "hellotools",
+      "képoptimalizálás",
+      "webp",
+      "avif",
+      "wordpress",
+      "api"
+    ],
+    "sidebar_label": "HelloIMG",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HelloTools",
+    "permalink": "/docs/dokumentacio/hellotools/"
+  },
+  "next": {
+    "title": "HelloPack",
+    "permalink": "/docs/dokumentacio/hellotools/hellopack"
+  }
+}

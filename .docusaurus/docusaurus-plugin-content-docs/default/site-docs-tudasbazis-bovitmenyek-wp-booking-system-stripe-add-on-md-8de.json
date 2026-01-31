@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-stripe-add-on",
+  "title": "WP Booking System - Stripe Add-on",
+  "description": "Prémium kiegészítő a WP Booking Systemhez, amely Stripe kártyás és walletes fizetést (Apple Pay, Google Pay) ad a foglalási űrlaphoz, előautorizációval, részfizetéssel és visszatérítésekkel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-stripe-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-stripe-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-stripe-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-stripe-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Stripe Add-on",
+    "description": "Prémium kiegészítő a WP Booking Systemhez, amely Stripe kártyás és walletes fizetést (Apple Pay, Google Pay) ad a foglalási űrlaphoz, előautorizációval, részfizetéssel és visszatérítésekkel.",
+    "sidebar_label": "WP Booking System - Stripe Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Square Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-square-add-on"
+  },
+  "next": {
+    "title": "WP Booking System - WooCommerce Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-woocommerce-add-on"
+  }
+}

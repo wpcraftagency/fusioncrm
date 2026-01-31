@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluent-support",
+  "title": "Fluent Support",
+  "description": "Önhosztolt helpdesk és jegykezelő rendszer WordPresshez: gyors, integrált és skálázható support a saját webhelyeden.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluent-support.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluent-support",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluent-support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluent-support.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fluent Support",
+    "description": "Önhosztolt helpdesk és jegykezelő rendszer WordPresshez: gyors, integrált és skálázható support a saját webhelyeden.",
+    "sidebar_label": "Fluent Support"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fluent Support Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-support-pro"
+  },
+  "next": {
+    "title": "FluentBooking - Appointment Scheduling & Booking Solution",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentbooking-appointment-scheduling-booking-solution"
+  }
+}

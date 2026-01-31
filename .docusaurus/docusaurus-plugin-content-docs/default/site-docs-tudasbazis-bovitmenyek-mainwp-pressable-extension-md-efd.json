@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-pressable-extension",
+  "title": "MainWP Pressable Extension",
+  "description": "MainWP Pro kiegészítő, amellyel a Pressable hosztingon futó WordPress-oldalaidat a MainWP irányítópultból, a Pressable API-n keresztül menedzselheted – külön belépés nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-pressable-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-pressable-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-pressable-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-pressable-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Pressable Extension",
+    "description": "MainWP Pro kiegészítő, amellyel a Pressable hosztingon futó WordPress-oldalaidat a MainWP irányítópultból, a Pressable API-n keresztül menedzselheted – külön belépés nélkül.",
+    "sidebar_label": "MainWP Pressable Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Post Plus Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-post-plus-extension"
+  },
+  "next": {
+    "title": "MainWP Pro Reports Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-pro-reports-extension"
+  }
+}

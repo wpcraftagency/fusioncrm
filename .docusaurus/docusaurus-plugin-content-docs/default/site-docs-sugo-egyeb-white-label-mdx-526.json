@@ -1,0 +1,33 @@
+{
+  "id": "sugo/egyeb/white-label",
+  "title": "White-label termék",
+  "description": "Hogyan működik a white-label termék?",
+  "source": "@site/docs/sugo/egyeb/white-label.mdx",
+  "sourceDirName": "sugo/egyeb",
+  "slug": "/sugo/egyeb/white-label",
+  "permalink": "/docs/sugo/egyeb/white-label",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/egyeb/white-label.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "White-label termék",
+    "description": "Hogyan működik a white-label termék?",
+    "keywords": [
+      "github"
+    ],
+    "sidebar_label": "White-label termék",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mi a különbség a Divi mega és a sima Divi csomag között?",
+    "permalink": "/docs/sugo/egyeb/mi-a-kulonbseg-a-divi-mega-es-a-sima-divi-csomag-kozott"
+  },
+  "next": {
+    "title": "Partnerprogram",
+    "permalink": "/docs/sugo/partnerprogram/"
+  }
+}

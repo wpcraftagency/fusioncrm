@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/mailhub/microsoft-outlook",
+  "title": "Levelezés beállítása Microsoft Outlook-ban",
+  "description": "MailHub email fiók beállítása Microsoft Outlook levelezőprogramban Windows és macOS rendszeren.",
+  "source": "@site/docs/dokumentacio/mailhub/microsoft-outlook.mdx",
+  "sourceDirName": "dokumentacio/mailhub",
+  "slug": "/dokumentacio/mailhub/microsoft-outlook",
+  "permalink": "/docs/dokumentacio/mailhub/microsoft-outlook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/mailhub/microsoft-outlook.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Levelezés beállítása Microsoft Outlook-ban",
+    "description": "MailHub email fiók beállítása Microsoft Outlook levelezőprogramban Windows és macOS rendszeren.",
+    "keywords": [
+      "mailhub",
+      "outlook",
+      "microsoft",
+      "email beállítás"
+    ],
+    "sidebar_label": "Microsoft Outlook",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Android",
+    "permalink": "/docs/dokumentacio/mailhub/android"
+  },
+  "next": {
+    "title": "Mozilla Thunderbird",
+    "permalink": "/docs/dokumentacio/mailhub/mozilla-thunderbird"
+  }
+}

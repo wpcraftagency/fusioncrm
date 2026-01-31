@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/oktatoanyagok/elementor/Toggle widget lapozás",
+  "title": "Elementor toggle widget - Lapozás funkció",
+  "description": "Az Elementor toggle widget kiegészítése lapozó és navigációs funkcióval",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/elementor/Toggle widget lapozás.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/elementor",
+  "slug": "/tudasbazis/oktatoanyagok/elementor/Toggle widget lapozás",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/Toggle widget lapozás",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/elementor/Toggle widget lapozás.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Elementor toggle widget - Lapozás funkció",
+    "description": "Az Elementor toggle widget kiegészítése lapozó és navigációs funkcióval",
+    "keywords": [
+      "elementor",
+      "toggle widget",
+      "lapozás",
+      "jQuery"
+    ],
+    "sidebar_label": "Elementor toggle widget",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Elementor Flex konténer",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/Elementor flex konténer"
+  },
+  "next": {
+    "title": "Ultimate Header",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/Ultimate Header"
+  }
+}

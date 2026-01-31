@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-sucuri-extension",
+  "title": "MainWP Sucuri Extension",
+  "description": "Ingyenes MainWP-kiegészítő, amellyel a Sucuri SiteCheck távoli vizsgálóját integrálva kézi kártevő- és blacklist‑ellenőrzést futtathatsz a kezelt WordPress‑oldalaidon.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-sucuri-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-sucuri-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-sucuri-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-sucuri-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Sucuri Extension",
+    "description": "Ingyenes MainWP-kiegészítő, amellyel a Sucuri SiteCheck távoli vizsgálóját integrálva kézi kártevő- és blacklist‑ellenőrzést futtathatsz a kezelt WordPress‑oldalaidon.",
+    "sidebar_label": "MainWP Sucuri Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Staging Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-staging-extension"
+  },
+  "next": {
+    "title": "MainWP Team Control",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-team-control"
+  }
+}

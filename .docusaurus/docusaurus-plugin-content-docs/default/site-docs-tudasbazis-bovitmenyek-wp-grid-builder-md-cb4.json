@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-grid-builder",
+  "title": "WP Grid Builder",
+  "description": "Prémium WordPress bővítmény egységes grid-elrendezéshez, carouselhez és fejlett, facettált szűréshez – nagy teljesítménnyel és vizuális szerkesztéssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-grid-builder.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-grid-builder",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-grid-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Grid Builder",
+    "description": "Prémium WordPress bővítmény egységes grid-elrendezéshez, carouselhez és fejlett, facettált szűréshez – nagy teljesítménnyel és vizuális szerkesztéssel.",
+    "sidebar_label": "WP Grid Builder"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Grid Builder - Pods",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-pods"
+  },
+  "next": {
+    "title": "WP Rocket Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-rocket-integration"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/yoast-seo-woocommerce",
+  "title": "Yoast SEO: WooCommerce",
+  "description": "Prémium kiegészítő WooCommerce webáruházakhoz a Yoast SEO alapjaira építve: termék-séma, azonosítók, metaadatok, breadcrumb és sitemap finomhangolása.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/yoast-seo-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/yoast-seo-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/yoast-seo-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/yoast-seo-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Yoast SEO: WooCommerce",
+    "description": "Prémium kiegészítő WooCommerce webáruházakhoz a Yoast SEO alapjaira építve: termék-séma, azonosítók, metaadatok, breadcrumb és sitemap finomhangolása.",
+    "sidebar_label": "Yoast SEO: WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Yoast SEO Premium",
+    "permalink": "/docs/tudasbazis/bovitmenyek/yoast-seo-premium"
+  },
+  "next": {
+    "title": "Zapier Integration for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/zapier-integration-for-woocommerce"
+  }
+}

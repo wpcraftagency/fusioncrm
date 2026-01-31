@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluentbooking-appointment-scheduling-booking-solution",
+  "title": "FluentBooking - Appointment Scheduling & Booking Solution",
+  "description": "WordPress-alapú időpontfoglaló bővítmény egyéni, csoportos és csapat (round-robin) találkozókhoz, fizetésekkel, értesítésekkel és kétirányú naptárszinkronnal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluentbooking-appointment-scheduling-booking-solution.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluentbooking-appointment-scheduling-booking-solution",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluentbooking-appointment-scheduling-booking-solution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluentbooking-appointment-scheduling-booking-solution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FluentBooking - Appointment Scheduling & Booking Solution",
+    "description": "WordPress-alapú időpontfoglaló bővítmény egyéni, csoportos és csapat (round-robin) találkozókhoz, fizetésekkel, értesítésekkel és kétirányú naptárszinkronnal.",
+    "sidebar_label": "FluentBooking - Appointment Scheduling & Booking Solution"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fluent Support",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-support"
+  },
+  "next": {
+    "title": "FluentBooking Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentbooking-pro"
+  }
+}

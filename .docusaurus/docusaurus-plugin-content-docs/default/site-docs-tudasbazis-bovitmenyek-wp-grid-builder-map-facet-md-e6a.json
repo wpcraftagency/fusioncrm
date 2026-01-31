@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-grid-builder-map-facet",
+  "title": "WP Grid Builder - Map Facet",
+  "description": "Interaktív térképfacet a WP Grid Builderhez. Google/Mapbox/Leaflet támogatás, geolokáció, marker‑klaszterezés és távolság szerinti rendezés kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-grid-builder-map-facet.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-grid-builder-map-facet",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-map-facet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-grid-builder-map-facet.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Grid Builder - Map Facet",
+    "description": "Interaktív térképfacet a WP Grid Builderhez. Google/Mapbox/Leaflet támogatás, geolokáció, marker‑klaszterezés és távolság szerinti rendezés kódolás nélkül.",
+    "sidebar_label": "WP Grid Builder - Map Facet"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Grid Builder - LearnDash",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-learndash"
+  },
+  "next": {
+    "title": "WP Grid Builder - Meta Box",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-meta-box"
+  }
+}

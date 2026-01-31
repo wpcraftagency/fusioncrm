@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-points-and-rewards",
+  "title": "WooCommerce Points and Rewards",
+  "description": "Pont alapú hűségprogram WooCommerce-hez: jutalmazd a vásárlásokat és műveleteket pontokkal, majd engedd a vevőknek kedvezményre váltani.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-points-and-rewards.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-points-and-rewards",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-points-and-rewards",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-points-and-rewards.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Points and Rewards",
+    "description": "Pont alapú hűségprogram WooCommerce-hez: jutalmazd a vásárlásokat és műveleteket pontokkal, majd engedd a vevőknek kedvezményre váltani.",
+    "sidebar_label": "WooCommerce Points and Rewards"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce PDF Watermark",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-pdf-watermark"
+  },
+  "next": {
+    "title": "WooCommerce Pre-Orders",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-pre-orders"
+  }
+}

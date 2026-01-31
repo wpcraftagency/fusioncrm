@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/boilerplate-extension",
+  "title": "Boilerplate Extension",
+  "description": "MainWP Pro kiegészítő ismétlődő oldalak és bejegyzések központi kezeléséhez, tokenalapú személyre szabással több WordPress webhelyen.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/boilerplate-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/boilerplate-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/boilerplate-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/boilerplate-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Boilerplate Extension",
+    "description": "MainWP Pro kiegészítő ismétlődő oldalak és bejegyzések központi kezeléséhez, tokenalapú személyre szabással több WordPress webhelyen.",
+    "sidebar_label": "Boilerplate Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AutomatorWP",
+    "permalink": "/docs/tudasbazis/bovitmenyek/automatorwp"
+  },
+  "next": {
+    "title": "Booster Plus for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/booster-plus-for-woocommerce"
+  }
+}

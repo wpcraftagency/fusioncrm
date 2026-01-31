@@ -1,0 +1,27 @@
+{
+  "id": "sugo/partnerprogram/regisztracio",
+  "title": "Regisztráció",
+  "description": "A HelloWP! partnerprogramba való regisztráció ingyenes. A regisztrációt a Partnerprogram oldalon található Csatlakozz a partnerprogramhoz! űrlapon keresztül teheted meg.",
+  "source": "@site/docs/sugo/partnerprogram/regisztracio.md",
+  "sourceDirName": "sugo/partnerprogram",
+  "slug": "/sugo/partnerprogram/regisztracio",
+  "permalink": "/docs/sugo/partnerprogram/regisztracio",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/partnerprogram/regisztracio.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Partnerprogram",
+    "permalink": "/docs/sugo/partnerprogram/"
+  },
+  "next": {
+    "title": "Kifizetési feltételek",
+    "permalink": "/docs/sugo/partnerprogram/kifizetesi-feltetelek"
+  }
+}

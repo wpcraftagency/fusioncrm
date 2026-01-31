@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/index",
+  "title": "Github",
+  "description": "Ajánlott tárhelybeállítások",
+  "source": "@site/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/index.mdx",
+  "sourceDirName": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok",
+  "slug": "/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/",
+  "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Github",
+    "description": "Ajánlott tárhelybeállítások",
+    "keywords": [
+      "github"
+    ],
+    "sidebar_label": "Ajánlott tárhelybeállítások",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Szerver, tárhely és domain",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/"
+  },
+  "next": {
+    "title": "WordPress",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/wordpress"
+  }
+}

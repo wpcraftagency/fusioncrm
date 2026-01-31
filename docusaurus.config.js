@@ -4,7 +4,7 @@ const prismThemes = themes;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "HelloWP Hub",
+  title: "FusionCRM DOCS",
   tagline: "Dokumentáció és Tudásbázis",
   favicon: "img/favicon.ico",
 

@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/wordpress/child-sablon-function-php-fajljanak-a-modositasa",
+  "title": "Child sablon function.php fájljának a módosítása",
+  "description": "Child sablon function.php fájljának a módosítása",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon-function-php-fajljanak-a-modositasa.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/wordpress",
+  "slug": "/tudasbazis/oktatoanyagok/wordpress/child-sablon-function-php-fajljanak-a-modositasa",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon-function-php-fajljanak-a-modositasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon-function-php-fajljanak-a-modositasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Child sablon function.php fájljának a módosítása",
+    "description": "Child sablon function.php fájljának a módosítása",
+    "keywords": [
+      "github"
+    ],
+    "sidebar_label": "Child sablon function.php fájljának a módosítása",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Child sablon készítése",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon"
+  },
+  "next": {
+    "title": "WP All Import/Export",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/"
+  }
+}

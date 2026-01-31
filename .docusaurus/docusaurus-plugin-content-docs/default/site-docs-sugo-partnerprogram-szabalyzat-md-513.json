@@ -1,0 +1,27 @@
+{
+  "id": "sugo/partnerprogram/szabalyzat",
+  "title": "Szabályzat",
+  "description": "A Hello WP! partnerprogram lehetőséget ad mindenki számára, hogy egy partnerlinken keresztül anyagi ráfordítás nélkül, pénzt kereshessen az interneten. A Partnerprogramhoz való csatlakozás jelentkezés és előzetes jóváhagyás után",
+  "source": "@site/docs/sugo/partnerprogram/szabalyzat.md",
+  "sourceDirName": "sugo/partnerprogram",
+  "slug": "/sugo/partnerprogram/szabalyzat",
+  "permalink": "/docs/sugo/partnerprogram/szabalyzat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/partnerprogram/szabalyzat.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Partnerlink",
+    "permalink": "/docs/sugo/partnerprogram/partnerlink"
+  },
+  "next": {
+    "title": "Számla",
+    "permalink": "/docs/sugo/partnerprogram/szamla"
+  }
+}

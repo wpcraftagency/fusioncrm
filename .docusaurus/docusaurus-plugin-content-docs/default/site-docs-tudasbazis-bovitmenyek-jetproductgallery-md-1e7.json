@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetproductgallery",
+  "title": "JetProductGallery",
+  "description": "Prémium galériabővítmény WooCommerce termékek képeihez és videóihoz, Elementorral és Gutenberggel, 4 testreszabható elrendezéssel, lightbox-szal és variációtámogatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetproductgallery.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetproductgallery",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetproductgallery",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetproductgallery.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetProductGallery",
+    "description": "Prémium galériabővítmény WooCommerce termékek képeihez és videóihoz, Elementorral és Gutenberggel, 4 testreszabható elrendezéssel, lightbox-szal és variációtámogatással.",
+    "sidebar_label": "JetProductGallery"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetPopup",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetpopup"
+  },
+  "next": {
+    "title": "JetProductTables",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetproducttables"
+  }
+}

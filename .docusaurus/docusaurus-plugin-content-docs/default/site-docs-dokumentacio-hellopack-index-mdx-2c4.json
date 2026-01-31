@@ -1,0 +1,37 @@
+{
+  "id": "dokumentacio/hellopack/index",
+  "title": "HelloPack",
+  "description": "HelloPack csomagkezelő - prémium WordPress bővítmények és témák kezelése egyszerűen.",
+  "source": "@site/docs/dokumentacio/hellopack/index.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/",
+  "permalink": "/docs/dokumentacio/hellopack/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "HelloPack",
+    "description": "HelloPack csomagkezelő - prémium WordPress bővítmények és témák kezelése egyszerűen.",
+    "keywords": [
+      "hellopack",
+      "csomagkezelő",
+      "wordpress",
+      "bővítmények",
+      "prémium"
+    ],
+    "sidebar_label": "HelloPack",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HelloCron",
+    "permalink": "/docs/dokumentacio/hellotools/hellocron"
+  },
+  "next": {
+    "title": "Csomagkezelő letöltése és telepítése",
+    "permalink": "/docs/dokumentacio/hellopack/letoltes-telepites"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-2checkout-integration",
+  "title": "LearnDash LMS - 2Checkout Integration",
+  "description": "Hivatalos LearnDash-kiegészítő a kurzusok közvetlen értékesítéséhez a 2Checkout (Verifone) fizetési átjárón keresztül, automatikus beiratással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-2checkout-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-2checkout-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-2checkout-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-2checkout-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - 2Checkout Integration",
+    "description": "Hivatalos LearnDash-kiegészítő a kurzusok közvetlen értékesítéséhez a 2Checkout (Verifone) fizetési átjárón keresztül, automatikus beiratással.",
+    "sidebar_label": "LearnDash LMS - 2Checkout Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash Course Reviews",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-course-reviews"
+  },
+  "next": {
+    "title": "LearnDash LMS - Achievements",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-achievements"
+  }
+}

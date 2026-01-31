@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetblocks-for-elementor",
+  "title": "JetBlocks For Elementor",
+  "description": "Prémium Elementor kiegészítő fejlécek és láblécek építéséhez, speciális navigációs és azonosítási widgetekkel, kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetblocks-for-elementor.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetblocks-for-elementor",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetblocks-for-elementor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetblocks-for-elementor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetBlocks For Elementor",
+    "description": "Prémium Elementor kiegészítő fejlécek és láblécek építéséhez, speciális navigációs és azonosítási widgetekkel, kódolás nélkül.",
+    "sidebar_label": "JetBlocks For Elementor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jet Appointments Booking",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jet-appointments-booking"
+  },
+  "next": {
+    "title": "JetBlog For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetblog-for-elementor"
+  }
+}

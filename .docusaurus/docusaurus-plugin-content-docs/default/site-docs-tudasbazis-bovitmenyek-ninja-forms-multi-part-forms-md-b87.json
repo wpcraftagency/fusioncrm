@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ninja-forms-multi-part-forms",
+  "title": "Ninja Forms - Multi-Part Forms",
+  "description": "Hosszú űrlapokat több, egymást követő lépésre bonthatsz, haladásjelzővel, morzsamenüvel és részszintű validációval.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ninja-forms-multi-part-forms.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ninja-forms-multi-part-forms",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-multi-part-forms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ninja-forms-multi-part-forms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ninja Forms - Multi-Part Forms",
+    "description": "Hosszú űrlapokat több, egymást követő lépésre bonthatsz, haladásjelzővel, morzsamenüvel és részszintű validációval.",
+    "sidebar_label": "Ninja Forms - Multi-Part Forms"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms - Layout & Styles",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-layout-styles"
+  },
+  "next": {
+    "title": "Ninja Forms Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-multilingual"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/oxygen",
+  "title": "Oxygen",
+  "description": "Fejlesztőközpontú vizuális site builder WordPresshez: téma nélkül építhetsz teljes webhelyet, dinamikus adatokkal, komponensekkel és modern workflow-val.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/oxygen.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/oxygen",
+  "permalink": "/docs/tudasbazis/bovitmenyek/oxygen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/oxygen.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Oxygen",
+    "description": "Fejlesztőközpontú vizuális site builder WordPresshez: téma nélkül építhetsz teljes webhelyet, dinamikus adatokkal, komponensekkel és modern workflow-val.",
+    "sidebar_label": "Oxygen"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Oxygen Gutenberg Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/oxygen-gutenberg-integration"
+  },
+  "next": {
+    "title": "Perfmatters",
+    "permalink": "/docs/tudasbazis/bovitmenyek/perfmatters"
+  }
+}

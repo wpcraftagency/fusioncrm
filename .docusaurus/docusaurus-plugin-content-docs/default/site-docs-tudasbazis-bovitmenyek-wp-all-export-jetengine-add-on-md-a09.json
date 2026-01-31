@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-all-export-jetengine-add-on",
+  "title": "WP All Export - JetEngine Add-On",
+  "description": "WP All Export Pro kiegészítő, amellyel a JetEngine egyedi mezőit (Meta Boxes, CCT-k, kapcsolatok, repeater) strukturáltan exportálhatod CSV, Excel és XML formátumba.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-all-export-jetengine-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-all-export-jetengine-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-jetengine-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-all-export-jetengine-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP All Export - JetEngine Add-On",
+    "description": "WP All Export Pro kiegészítő, amellyel a JetEngine egyedi mezőit (Meta Boxes, CCT-k, kapcsolatok, repeater) strukturáltan exportálhatod CSV, Excel és XML formátumba.",
+    "sidebar_label": "WP All Export - JetEngine Add-On"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Export - Gravity Forms Add-On",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-gravity-forms-add-on"
+  },
+  "next": {
+    "title": "WP All Export - Meta Box Add-On",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-meta-box-add-on"
+  }
+}

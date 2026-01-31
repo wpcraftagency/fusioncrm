@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-clone-extension",
+  "title": "MainWP Clone Extension",
+  "description": "A MainWP hivatalos kiegészítője, amellyel teljes WordPress-oldalakat klónozhatsz és villámgyorsan duplikálhatsz MainWP-felügyelet alatt.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-clone-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-clone-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-clone-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-clone-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Clone Extension",
+    "description": "A MainWP hivatalos kiegészítője, amellyel teljes WordPress-oldalakat klónozhatsz és villámgyorsan duplikálhatsz MainWP-felügyelet alatt.",
+    "sidebar_label": "MainWP Clone Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Cache Control Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-cache-control-extension"
+  },
+  "next": {
+    "title": "MainWP Code Snippets Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-code-snippets-extension"
+  }
+}

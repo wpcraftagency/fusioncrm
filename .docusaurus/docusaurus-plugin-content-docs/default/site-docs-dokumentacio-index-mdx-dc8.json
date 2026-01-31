@@ -1,0 +1,29 @@
+{
+  "id": "dokumentacio/index",
+  "title": "Dokumentáció",
+  "description": "Dokumentáció",
+  "source": "@site/docs/dokumentacio/index.mdx",
+  "sourceDirName": "dokumentacio",
+  "slug": "/dokumentacio/",
+  "permalink": "/docs/dokumentacio/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Dokumentáció",
+    "description": "Dokumentáció",
+    "keywords": [
+      "dokumentacio"
+    ],
+    "sidebar_label": "Dokumentáció",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "HelloTools",
+    "permalink": "/docs/dokumentacio/hellotools/"
+  }
+}

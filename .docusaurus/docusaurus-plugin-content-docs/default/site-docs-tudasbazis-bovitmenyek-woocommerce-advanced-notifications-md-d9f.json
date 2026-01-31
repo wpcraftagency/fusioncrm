@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-advanced-notifications",
+  "title": "WooCommerce Advanced Notifications",
+  "description": "Szerepkör- és termékalapú e‑mail értesítések WooCommerce‑ben: a megfelelő partnereknek küldött, célzott rendelési és készletinformációk, finoman szabályozható tartalommal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-advanced-notifications.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-advanced-notifications",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-advanced-notifications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-advanced-notifications.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Advanced Notifications",
+    "description": "Szerepkör- és termékalapú e‑mail értesítések WooCommerce‑ben: a megfelelő partnereknek küldött, célzott rendelési és készletinformációk, finoman szabályozható tartalommal.",
+    "sidebar_label": "WooCommerce Advanced Notifications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Additional Variation Images",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-additional-variation-images"
+  },
+  "next": {
+    "title": "WooCommerce All Products for Subscriptions",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-all-products-for-subscriptions"
+  }
+}

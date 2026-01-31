@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-the-events-calendar-integration",
+  "title": "LearnDash LMS - The Events Calendar Integration",
+  "description": "Hivatalos LearnDash integráció, amellyel az esemény-regisztráció vagy jegyvásárlás automatikus beiratkozást ad a kapcsolt LearnDash kurzusokba vagy csoportokba.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-the-events-calendar-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-the-events-calendar-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-the-events-calendar-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-the-events-calendar-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - The Events Calendar Integration",
+    "description": "Hivatalos LearnDash integráció, amellyel az esemény-regisztráció vagy jegyvásárlás automatikus beiratkozást ad a kapcsolt LearnDash kurzusokba vagy csoportokba.",
+    "sidebar_label": "LearnDash LMS - The Events Calendar Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - Samcart Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-samcart-integration"
+  },
+  "next": {
+    "title": "LearnDash LMS - ThriveCart Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-thrivecart-integration"
+  }
+}

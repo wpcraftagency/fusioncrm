@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-blocks",
+  "title": "MB Blocks",
+  "description": "PHP‑alapú Gutenberg blokkfejlesztés Meta Box mezőkkel, React és build‑lánc nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-blocks.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-blocks",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-blocks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-blocks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Blocks",
+    "description": "PHP‑alapú Gutenberg blokkfejlesztés Meta Box mezőkkel, React és build‑lánc nélkül.",
+    "sidebar_label": "MB Blocks"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Admin Columns",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-admin-columns"
+  },
+  "next": {
+    "title": "MB Builder",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-builder"
+  }
+}

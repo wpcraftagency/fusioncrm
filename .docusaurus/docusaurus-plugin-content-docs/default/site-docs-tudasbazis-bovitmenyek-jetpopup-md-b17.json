@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetpopup",
+  "title": "JetPopup",
+  "description": "Prémium WordPress felugró‑ablak készítő Elementorhoz és Gutenberghez; célzott, időzített, animált popupok kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetpopup.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetpopup",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetpopup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetpopup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetPopup",
+    "description": "Prémium WordPress felugró‑ablak készítő Elementorhoz és Gutenberghez; célzott, időzített, animált popupok kódolás nélkül.",
+    "sidebar_label": "JetPopup"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetMenu",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetmenu"
+  },
+  "next": {
+    "title": "JetProductGallery",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetproductgallery"
+  }
+}

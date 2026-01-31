@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-thrivecart-integration",
+  "title": "LearnDash LMS - ThriveCart Integration",
+  "description": "Hivatalos LearnDash kiegészítő, amellyel a kurzusaidat a ThriveCart pénztárával értékesítheted – automatikus beiratással, csomagokkal és promóciókkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-thrivecart-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-thrivecart-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-thrivecart-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-thrivecart-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - ThriveCart Integration",
+    "description": "Hivatalos LearnDash kiegészítő, amellyel a kurzusaidat a ThriveCart pénztárával értékesítheted – automatikus beiratással, csomagokkal és promóciókkal.",
+    "sidebar_label": "LearnDash LMS - ThriveCart Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - The Events Calendar Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-the-events-calendar-integration"
+  },
+  "next": {
+    "title": "LearnDash LMS - WooCommerce Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-woocommerce-integration"
+  }
+}

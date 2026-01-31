@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-wishlists",
+  "title": "WooCommerce WishLists",
+  "description": "Prémium WooCommerce bővítmény kívánságlistákhoz: korlátlan listák, megosztás, vendég- és regisztrált mód, rugalmas UI és admin eszközök.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-wishlists.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-wishlists",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-wishlists",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-wishlists.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce WishLists",
+    "description": "Prémium WooCommerce bővítmény kívánságlistákhoz: korlátlan listák, megosztás, vendég- és regisztrált mód, rugalmas UI és admin eszközök.",
+    "sidebar_label": "WooCommerce WishLists"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Warranty Requests",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-warranty-requests"
+  },
+  "next": {
+    "title": "WooCommerce WS Form PRO Product Add-Ons",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-ws-form-pro-product-add-ons"
+  }
+}

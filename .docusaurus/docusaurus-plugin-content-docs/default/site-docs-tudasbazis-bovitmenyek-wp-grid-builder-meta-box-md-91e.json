@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-grid-builder-meta-box",
+  "title": "WP Grid Builder - Meta Box",
+  "description": "Hivatalos kiegészítő, amely natív Meta Box mezőtámogatást ad a WP Grid Builder rácsaihoz, kártyáihoz és facet-alapú szűrőihez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-grid-builder-meta-box.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-grid-builder-meta-box",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-meta-box",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-grid-builder-meta-box.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Grid Builder - Meta Box",
+    "description": "Hivatalos kiegészítő, amely natív Meta Box mezőtámogatást ad a WP Grid Builder rácsaihoz, kártyáihoz és facet-alapú szűrőihez.",
+    "sidebar_label": "WP Grid Builder - Meta Box"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Grid Builder - Map Facet",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-map-facet"
+  },
+  "next": {
+    "title": "WP Grid Builder - Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-multilingual"
+  }
+}

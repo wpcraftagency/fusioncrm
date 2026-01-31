@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-recurring-referrals",
+  "title": "AffiliateWP - Recurring Referrals",
+  "description": "Automatikus partnerjutalék a teljes előfizetési életciklusra: a megújítási fizetések után is jutalmat kapsz az AffiliateWP-ben.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-recurring-referrals.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-recurring-referrals",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-recurring-referrals",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-recurring-referrals.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - Recurring Referrals",
+    "description": "Automatikus partnerjutalék a teljes előfizetési életciklusra: a megújítási fizetések után is jutalmat kapsz az AffiliateWP-ben.",
+    "sidebar_label": "AffiliateWP - Recurring Referrals"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - PayPal Payouts",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-paypal-payouts"
+  },
+  "next": {
+    "title": "AffiliateWP - REST API Extended",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-rest-api-extended"
+  }
+}

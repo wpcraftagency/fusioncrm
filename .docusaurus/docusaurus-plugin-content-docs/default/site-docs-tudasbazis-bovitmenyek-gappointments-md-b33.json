@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/gappointments",
+  "title": "gAppointments",
+  "description": "Prémium Gravity Forms-kiegészítő online időpontfoglaláshoz: szolgáltatások, szolgáltatók, naptár és fizetés egy űrlapfolyamatban.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/gappointments.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/gappointments",
+  "permalink": "/docs/tudasbazis/bovitmenyek/gappointments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/gappointments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "gAppointments",
+    "description": "Prémium Gravity Forms-kiegészítő online időpontfoglaláshoz: szolgáltatások, szolgáltatók, naptár és fizetés egy űrlapfolyamatban.",
+    "sidebar_label": "gAppointments"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Free Gifts for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/free-gifts-for-woocommerce"
+  },
+  "next": {
+    "title": "GenerateBlocks Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/generateblocks-pro"
+  }
+}

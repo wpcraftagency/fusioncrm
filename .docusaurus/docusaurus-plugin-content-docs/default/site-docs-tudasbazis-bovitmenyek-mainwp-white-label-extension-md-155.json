@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-white-label-extension",
+  "title": "MainWP White Label Extension",
+  "description": "MainWP Pro kiegészítő ügynökségeknek és fejlesztőknek: átbrandelés, WordPress admin testreszabás, hozzáférés-korlátozás és beépített ügyféltámogatás a kliensoldali MainWP Child fölött.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-white-label-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-white-label-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-white-label-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-white-label-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP White Label Extension",
+    "description": "MainWP Pro kiegészítő ügynökségeknek és fejlesztőknek: átbrandelés, WordPress admin testreszabás, hozzáférés-korlátozás és beépített ügyféltámogatás a kliensoldali MainWP Child fölött.",
+    "sidebar_label": "MainWP White Label Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Vulnerability Checker Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-vulnerability-checker-extension"
+  },
+  "next": {
+    "title": "MainWP WooCommerce Shortcuts Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-shortcuts-extension"
+  }
+}

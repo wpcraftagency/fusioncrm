@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-e-mail-attachments-by-inoplugs",
+  "title": "WooCommerce E-Mail Attachments (by Inoplugs)",
+  "description": "WooCommerce bővítmény, amellyel tetszőleges fájlokat csatolhatsz a bolt által küldött e‑mailekhez, nyelvfüggő mellékletekkel, CC/BCC és médiatárral integrált kezelés mellett.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-e-mail-attachments-by-inoplugs.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-e-mail-attachments-by-inoplugs",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-e-mail-attachments-by-inoplugs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-e-mail-attachments-by-inoplugs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce E-Mail Attachments (by Inoplugs)",
+    "description": "WooCommerce bővítmény, amellyel tetszőleges fájlokat csatolhatsz a bolt által küldött e‑mailekhez, nyelvfüggő mellékletekkel, CC/BCC és médiatárral integrált kezelés mellett.",
+    "sidebar_label": "WooCommerce E-Mail Attachments (by Inoplugs)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Dynamic Pricing",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-dynamic-pricing"
+  },
+  "next": {
+    "title": "WooCommerce Email Customizer",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-email-customizer"
+  }
+}

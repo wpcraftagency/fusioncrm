@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-mailpoet-action",
+  "title": "JetFormBuilder MailPoet Action",
+  "description": "PRO kiegészítő a JetFormBuilderhez, amely a MailPoet hírlevélrendszerrel integrálja az űrlapokat: feliratkozók automatikus létrehozása, listakezelés, double opt‑in és mezőtérképezés.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-mailpoet-action.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-mailpoet-action",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-mailpoet-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-mailpoet-action.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder MailPoet Action",
+    "description": "PRO kiegészítő a JetFormBuilderhez, amely a MailPoet hírlevélrendszerrel integrálja az űrlapokat: feliratkozók automatikus létrehozása, listakezelés, double opt‑in és mezőtérképezés.",
+    "sidebar_label": "JetFormBuilder MailPoet Action"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder MailerLite Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-mailerlite-action"
+  },
+  "next": {
+    "title": "JetFormBuilder Moosend Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-moosend-action"
+  }
+}

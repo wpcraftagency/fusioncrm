@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-include-exclude",
+  "title": "MB Include Exclude",
+  "description": "Meta Box kiegészítő feltételes megjelenítéshez: teljes meta box csoportokat mutathatsz vagy rejthetsz admin felületeken include/exclude szabályokkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-include-exclude.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-include-exclude",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-include-exclude",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-include-exclude.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Include Exclude",
+    "description": "Meta Box kiegészítő feltételes megjelenítéshez: teljes meta box csoportokat mutathatsz vagy rejthetsz admin felületeken include/exclude szabályokkal.",
+    "sidebar_label": "MB Include Exclude"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Group",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-group"
+  },
+  "next": {
+    "title": "MB Revision",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-revision"
+  }
+}

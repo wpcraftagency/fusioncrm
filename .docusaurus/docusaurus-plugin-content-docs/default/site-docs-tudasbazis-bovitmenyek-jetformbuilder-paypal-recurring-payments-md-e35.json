@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-paypal-recurring-payments",
+  "title": "JetFormBuilder PayPal Recurring payments",
+  "description": "PRO kiegészítő JetFormBuilderhez, amellyel előfizetéses (ismétlődő) PayPal-fizetéseket építhetsz WordPress űrlapokba, és az előfizetéseket a WordPress adminban kezelheted.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-paypal-recurring-payments.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-paypal-recurring-payments",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-paypal-recurring-payments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-paypal-recurring-payments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder PayPal Recurring payments",
+    "description": "PRO kiegészítő JetFormBuilderhez, amellyel előfizetéses (ismétlődő) PayPal-fizetéseket építhetsz WordPress űrlapokba, és az előfizetéseket a WordPress adminban kezelheted.",
+    "sidebar_label": "JetFormBuilder PayPal Recurring payments"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder Moosend Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-moosend-action"
+  },
+  "next": {
+    "title": "JetFormBuilder PDF Attachment",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-pdf-attachment"
+  }
+}

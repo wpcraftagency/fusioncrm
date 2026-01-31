@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/top-bar-for-woocommerce",
+  "title": "Top Bar for WooCommerce",
+  "description": "Prémium WooCommerce-kiegészítő értesítési sávokhoz: időzítés, célzás, visszaszámláló és CTA-gombok a konverziók növeléséhez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/top-bar-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/top-bar-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/top-bar-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/top-bar-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Top Bar for WooCommerce",
+    "description": "Prémium WooCommerce-kiegészítő értesítési sávokhoz: időzítés, célzás, visszaszámláló és CTA-gombok a konverziók növeléséhez.",
+    "sidebar_label": "Top Bar for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Plus Addons for Elementor - Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/the-plus-addons-for-elementor-pro"
+  },
+  "next": {
+    "title": "TranslatePress - Business",
+    "permalink": "/docs/tudasbazis/bovitmenyek/translatepress-business"
+  }
+}

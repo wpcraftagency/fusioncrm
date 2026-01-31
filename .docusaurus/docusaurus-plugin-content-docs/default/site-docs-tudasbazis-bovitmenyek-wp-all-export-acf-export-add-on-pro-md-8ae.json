@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-all-export-acf-export-add-on-pro",
+  "title": "WP All Export - ACF Export Add-On Pro",
+  "description": "ACF mezők precíz és ütemezhető exportja WordPressből CSV/XLSX/XML és Google Sheets formátumba, repeater/flexible/relációs mezők teljes támogatásával.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-all-export-acf-export-add-on-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-all-export-acf-export-add-on-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-acf-export-add-on-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-all-export-acf-export-add-on-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP All Export - ACF Export Add-On Pro",
+    "description": "ACF mezők precíz és ütemezhető exportja WordPressből CSV/XLSX/XML és Google Sheets formátumba, repeater/flexible/relációs mezők teljes támogatásával.",
+    "sidebar_label": "WP All Export - ACF Export Add-On Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce WS Form PRO Product Add-Ons",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-ws-form-pro-product-add-ons"
+  },
+  "next": {
+    "title": "WP All Export - Gravity Forms Add-On",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-gravity-forms-add-on"
+  }
+}

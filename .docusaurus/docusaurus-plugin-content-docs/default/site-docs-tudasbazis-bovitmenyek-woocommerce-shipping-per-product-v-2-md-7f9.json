@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-shipping-per-product-v2",
+  "title": "WooCommerce Shipping Per Product v2",
+  "description": "Prémium WooCommerce bővítmény, amellyel termékenként és variációnként, helyalapon szabott szállítási díjakat állíthatsz be – önálló módként vagy más díjakhoz hozzáadva.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-shipping-per-product-v2.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-shipping-per-product-v2",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-shipping-per-product-v2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-shipping-per-product-v2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Shipping Per Product v2",
+    "description": "Prémium WooCommerce bővítmény, amellyel termékenként és variációnként, helyalapon szabott szállítási díjakat állíthatsz be – önálló módként vagy más díjakhoz hozzáadva.",
+    "sidebar_label": "WooCommerce Shipping Per Product v2"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Sequential Order Numbers Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-sequential-order-numbers-pro"
+  },
+  "next": {
+    "title": "WooCommerce Smart Coupons",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-smart-coupons"
+  }
+}

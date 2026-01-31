@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/yaymail-pro-woocommerce-email-customizer",
+  "title": "YayMail Pro - WooCommerce Email Customizer",
+  "description": "Vizuális, drag-and-drop email-szerkesztő WooCommerce-hez, amellyel kódolás nélkül készíthetsz márkaazonos tranzakciós email sablonokat és integrálhatsz külső bővítményekből származó adatokat.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/yaymail-pro-woocommerce-email-customizer.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/yaymail-pro-woocommerce-email-customizer",
+  "permalink": "/docs/tudasbazis/bovitmenyek/yaymail-pro-woocommerce-email-customizer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/yaymail-pro-woocommerce-email-customizer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "YayMail Pro - WooCommerce Email Customizer",
+    "description": "Vizuális, drag-and-drop email-szerkesztő WooCommerce-hez, amellyel kódolás nélkül készíthetsz márkaazonos tranzakciós email sablonokat és integrálhatsz külső bővítményekből származó adatokat.",
+    "sidebar_label": "YayMail Pro - WooCommerce Email Customizer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WPML String Translation",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-string-translation"
+  },
+  "next": {
+    "title": "YITH Infinite Scrolling Premium",
+    "permalink": "/docs/tudasbazis/bovitmenyek/yith-infinite-scrolling-premium"
+  }
+}

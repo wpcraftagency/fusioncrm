@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-local-pickup-plus",
+  "title": "WooCommerce Local Pickup Plus",
+  "description": "Prémium WooCommerce bővítmény több átvételi hely, időpontfoglalás, termék‑ és kategóriaszintű szabályok, díjak és adózás kezelésére.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-local-pickup-plus.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-local-pickup-plus",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-local-pickup-plus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-local-pickup-plus.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Local Pickup Plus",
+    "description": "Prémium WooCommerce bővítmény több átvételi hely, időpontfoglalás, termék‑ és kategóriaszintű szabályok, díjak és adózás kezelésére.",
+    "sidebar_label": "WooCommerce Local Pickup Plus"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Google Product Feed",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-google-product-feed"
+  },
+  "next": {
+    "title": "WooCommerce MailChimp Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-mailchimp-integration"
+  }
+}

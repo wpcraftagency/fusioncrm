@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/oktatoanyagok/uzemeltetes/wordpress-telepitese-konnyeden-egy-telepito-fajl-segitsegevel",
+  "title": "WordPress telepítése egy fájl segítségével",
+  "description": "WordPress telepítése könnyedén, egy telepítő fájl segítségével",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/uzemeltetes/wordpress-telepitese-konnyeden-egy-telepito-fajl-segitsegevel.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/uzemeltetes",
+  "slug": "/tudasbazis/oktatoanyagok/uzemeltetes/wordpress-telepitese-konnyeden-egy-telepito-fajl-segitsegevel",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/uzemeltetes/wordpress-telepitese-konnyeden-egy-telepito-fajl-segitsegevel",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/uzemeltetes/wordpress-telepitese-konnyeden-egy-telepito-fajl-segitsegevel.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "WordPress telepítése egy fájl segítségével",
+    "description": "WordPress telepítése könnyedén, egy telepítő fájl segítségével",
+    "keywords": [
+      "wordpress",
+      "telepítés",
+      "php",
+      "tárhely"
+    ],
+    "sidebar_label": "WordPress telepítése egy fájl segítségével",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Üzemeltetés és karbantartás",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/uzemeltetes/"
+  },
+  "next": {
+    "title": "WordPress",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/wordpress/"
+  }
+}

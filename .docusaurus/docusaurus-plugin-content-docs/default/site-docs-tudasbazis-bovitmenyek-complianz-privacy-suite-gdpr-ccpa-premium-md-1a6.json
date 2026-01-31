@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/complianz-privacy-suite-gdpr-ccpa-premium",
+  "title": "Complianz Privacy Suite (GDPR/CCPA) premium",
+  "description": "WordPress‑natív, önállóan futó beleegyezéskezelő és privacy suite több joghatóságra, fejlett sütivizsgálattal, regionális bannerekkel és jogi dokumentumgenerálással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/complianz-privacy-suite-gdpr-ccpa-premium.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/complianz-privacy-suite-gdpr-ccpa-premium",
+  "permalink": "/docs/tudasbazis/bovitmenyek/complianz-privacy-suite-gdpr-ccpa-premium",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/complianz-privacy-suite-gdpr-ccpa-premium.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Complianz Privacy Suite (GDPR/CCPA) premium",
+    "description": "WordPress‑natív, önállóan futó beleegyezéskezelő és privacy suite több joghatóságra, fejlett sütivizsgálattal, regionális bannerekkel és jogi dokumentumgenerálással.",
+    "sidebar_label": "Complianz Privacy Suite (GDPR/CCPA) premium"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CheckoutWC",
+    "permalink": "/docs/tudasbazis/bovitmenyek/checkoutwc"
+  },
+  "next": {
+    "title": "Contact Form 7 Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/contact-form-7-multilingual"
+  }
+}

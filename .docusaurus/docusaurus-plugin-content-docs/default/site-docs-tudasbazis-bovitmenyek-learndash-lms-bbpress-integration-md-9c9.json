@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-bbpress-integration",
+  "title": "LearnDash LMS - bbPress Integration",
+  "description": "Hivatalos LearnDash kiegészítő, amellyel bbPress fórumokat társíthatsz kurzusokhoz és csoportokhoz, automatikus hozzáférés-kezeléssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-bbpress-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-bbpress-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-bbpress-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-bbpress-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - bbPress Integration",
+    "description": "Hivatalos LearnDash kiegészítő, amellyel bbPress fórumokat társíthatsz kurzusokhoz és csoportokhoz, automatikus hozzáférés-kezeléssel.",
+    "sidebar_label": "LearnDash LMS - bbPress Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - Achievements",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-achievements"
+  },
+  "next": {
+    "title": "LearnDash LMS - Certificate Builder",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-certificate-builder"
+  }
+}

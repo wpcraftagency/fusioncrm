@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-advanced-uptime-monitor-integration",
+  "title": "MainWP Advanced Uptime Monitor Integration",
+  "description": "Ingyenes MainWP-kiegészítő, amellyel több uptime szolgáltató monitorait egyetlen irányítópulton kezelheted, és pontosan láthatod az összes Child Site elérhetőségét.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-advanced-uptime-monitor-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-advanced-uptime-monitor-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-advanced-uptime-monitor-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-advanced-uptime-monitor-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Advanced Uptime Monitor Integration",
+    "description": "Ingyenes MainWP-kiegészítő, amellyel több uptime szolgáltató monitorait egyetlen irányítópulton kezelheted, és pontosan láthatod az összes Child Site elérhetőségét.",
+    "sidebar_label": "MainWP Advanced Uptime Monitor Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MailChimp for WordPress Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mailchimp-for-wordpress-multilingual"
+  },
+  "next": {
+    "title": "MainWP API Backups Extension - BETA",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-api-backups-extension-beta"
+  }
+}

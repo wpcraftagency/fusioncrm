@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/analytify-utm-campaigns-tracking",
+  "title": "Analytify UTM Campaigns Tracking",
+  "description": "UTM-alapú kampánykövetés és elemzés közvetlenül a WordPress adminból, GA4-adatokra építve, egységes UTM-építéssel és kampányriportokkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/analytify-utm-campaigns-tracking.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/analytify-utm-campaigns-tracking",
+  "permalink": "/docs/tudasbazis/bovitmenyek/analytify-utm-campaigns-tracking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/analytify-utm-campaigns-tracking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Analytify UTM Campaigns Tracking",
+    "description": "UTM-alapú kampánykövetés és elemzés közvetlenül a WordPress adminból, GA4-adatokra építve, egységes UTM-építéssel és kampányriportokkal.",
+    "sidebar_label": "Analytify UTM Campaigns Tracking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Analytify Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/analytify-pro"
+  },
+  "next": {
+    "title": "Analytify WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/analytify-woocommerce"
+  }
+}

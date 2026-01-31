@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-product-vendors",
+  "title": "WooCommerce Product Vendors",
+  "description": "A WooCommerce áruházadat több‑eladós piactérré alakítja: vendorok, jutalékok, automatizált vagy manuális kifizetések, riportok és piactér‑megjelenítés.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-product-vendors.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-product-vendors",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-vendors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-product-vendors.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Product Vendors",
+    "description": "A WooCommerce áruházadat több‑eladós piactérré alakítja: vendorok, jutalékok, automatizált vagy manuális kifizetések, riportok és piactér‑megjelenítés.",
+    "sidebar_label": "WooCommerce Product Vendors"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Product Reviews Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-reviews-pro"
+  },
+  "next": {
+    "title": "WooCommerce Sequential Order Numbers Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-sequential-order-numbers-pro"
+  }
+}

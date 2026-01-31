@@ -1,0 +1,27 @@
+{
+  "id": "sugo/szamlazas-es-elofizetesek/szamlazasi-adat-modositas",
+  "title": "Számlázási adatok módosítása",
+  "description": "Számlázási adatokat egyszerűen a Console felületen módosíthatsz. Ehhez csak be kell lépned a HelloWP! oldalra és a jobb felső sarokban kattints a nevedre. Ezután válaszd ki a Számlázási adatok menüpontot.",
+  "source": "@site/docs/sugo/szamlazas-es-elofizetesek/szamlazasi-adat-modositas.md",
+  "sourceDirName": "sugo/szamlazas-es-elofizetesek",
+  "slug": "/sugo/szamlazas-es-elofizetesek/szamlazasi-adat-modositas",
+  "permalink": "/docs/sugo/szamlazas-es-elofizetesek/szamlazasi-adat-modositas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/szamlazas-es-elofizetesek/szamlazasi-adat-modositas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manuális bankkártya terhelés",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/manualis-bankkartya-terheles"
+  },
+  "next": {
+    "title": "Előfizetés korábbi megújítása + kedvezmény felhasználása",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-korabbi-megujitasa-kedvezmeny-felhasznalasa"
+  }
+}

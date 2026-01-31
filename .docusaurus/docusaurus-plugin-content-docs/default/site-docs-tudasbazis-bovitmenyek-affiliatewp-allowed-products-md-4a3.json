@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-allowed-products",
+  "title": "AffiliateWP - Allowed Products",
+  "description": "Affiliate termékjutalékok termékszintű, ID-alapú engedélyezése: csak a megadott termékek után képződik jutalék.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-allowed-products.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-allowed-products",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-allowed-products",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-allowed-products.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - Allowed Products",
+    "description": "Affiliate termékjutalékok termékszintű, ID-alapú engedélyezése: csak a megadott termékek után képződik jutalék.",
+    "sidebar_label": "AffiliateWP - Allowed Products"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - Affiliate Portal",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-portal"
+  },
+  "next": {
+    "title": "AffiliateWP - Custom Affiliate Slugs",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-custom-affiliate-slugs"
+  }
+}

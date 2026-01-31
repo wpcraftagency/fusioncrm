@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-multiple-currencies",
+  "title": "WP Booking System - Multiple Currencies",
+  "description": "Prémium kiegészítő a WP Booking Systemhez, amely több pénznemet kezel a foglalási űrlapon, és a fizetést a kiválasztott devizában indítja, automatikus vagy kézi árfolyammal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-multiple-currencies.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-multiple-currencies",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-multiple-currencies",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-multiple-currencies.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Multiple Currencies",
+    "description": "Prémium kiegészítő a WP Booking Systemhez, amely több pénznemet kezel a foglalási űrlapon, és a fizetést a kiválasztott devizában indítja, automatikus vagy kézi árfolyammal.",
+    "sidebar_label": "WP Booking System - Multiple Currencies"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Mollie",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-mollie"
+  },
+  "next": {
+    "title": "WP Booking System - PayPal Buttons Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-paypal-buttons-add-on"
+  }
+}

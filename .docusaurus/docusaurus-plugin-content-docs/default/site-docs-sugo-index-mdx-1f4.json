@@ -1,0 +1,33 @@
+{
+  "id": "sugo/index",
+  "title": "Súgó",
+  "description": "Súgó",
+  "source": "@site/docs/sugo/index.mdx",
+  "sourceDirName": "sugo",
+  "slug": "/sugo/",
+  "permalink": "/docs/sugo/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Súgó",
+    "description": "Súgó",
+    "keywords": [
+      "sugo"
+    ],
+    "sidebar_label": "Súgó",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mi nem tartozik bele az üzemeltetésbe?",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/mi-nem-tartozik-bele-az-uzemeltetesbe"
+  },
+  "next": {
+    "title": "Egyéb",
+    "permalink": "/docs/sugo/egyeb/"
+  }
+}

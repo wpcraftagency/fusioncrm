@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-pdf-invoices",
+  "title": "WooCommerce PDF Invoices",
+  "description": "Automatikus, testreszabható PDF számlák generálása és csatolása WooCommerce rendelésekhez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-pdf-invoices.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-pdf-invoices",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-pdf-invoices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-pdf-invoices.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce PDF Invoices",
+    "description": "Automatikus, testreszabható PDF számlák generálása és csatolása WooCommerce rendelésekhez.",
+    "sidebar_label": "WooCommerce PDF Invoices"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Payment Gateway Based Fees",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-payment-gateway-based-fees"
+  },
+  "next": {
+    "title": "WooCommerce PDF Watermark",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-pdf-watermark"
+  }
+}

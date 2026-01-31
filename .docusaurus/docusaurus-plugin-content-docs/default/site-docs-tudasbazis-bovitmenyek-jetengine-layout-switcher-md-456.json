@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetengine-layout-switcher",
+  "title": "JetEngine - Layout Switcher",
+  "description": "Frontend nézetváltó az Elementorban készült JetEngine Listing Griden: rács, lista és egyedi elrendezések egy kattintással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetengine-layout-switcher.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetengine-layout-switcher",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-layout-switcher",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetengine-layout-switcher.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetEngine - Layout Switcher",
+    "description": "Frontend nézetváltó az Elementorban készült JetEngine Listing Griden: rács, lista és egyedi elrendezések egy kattintással.",
+    "sidebar_label": "JetEngine - Layout Switcher"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetEngine - Get attachment file link by ID",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-get-attachment-file-link-by-id"
+  },
+  "next": {
+    "title": "JetEngine Post Expiration Period Module",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-post-expiration-period-module"
+  }
+}

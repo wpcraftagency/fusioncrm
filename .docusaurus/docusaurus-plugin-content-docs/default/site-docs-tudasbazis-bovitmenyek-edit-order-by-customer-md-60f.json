@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/edit-order-by-customer",
+  "title": "Edit Order by Customer",
+  "description": "WooCommerce-kiegészítő, amellyel a vevők előre meghatározott státuszokban utólag szerkeszthetik a rendeléseiket (címek, termékek, fizetési és szállítási mód), admin kontrollal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/edit-order-by-customer.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/edit-order-by-customer",
+  "permalink": "/docs/tudasbazis/bovitmenyek/edit-order-by-customer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/edit-order-by-customer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Edit Order by Customer",
+    "description": "WooCommerce-kiegészítő, amellyel a vevők előre meghatározott státuszokban utólag szerkeszthetik a rendeléseiket (címek, termékek, fizetési és szállítási mód), admin kontrollal.",
+    "sidebar_label": "Edit Order by Customer"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dynamic.ooo - Dynamic Content for Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/dynamic-ooo-dynamic-content-for-elementor"
+  },
+  "next": {
+    "title": "Elementor Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/elementor-pro"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/gravity-smtp",
+  "title": "Gravity SMTP",
+  "description": "WordPress‑hez készült SMTP/API e‑mail küldő bővítmény, amely kiváltja a PHP mail() hívást, javítja a kézbesíthetőséget, és központi naplózást, jelentéseket ad.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/gravity-smtp.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/gravity-smtp",
+  "permalink": "/docs/tudasbazis/bovitmenyek/gravity-smtp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/gravity-smtp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gravity SMTP",
+    "description": "WordPress‑hez készült SMTP/API e‑mail küldő bővítmény, amely kiváltja a PHP mail() hívást, javítja a kézbesíthetőséget, és központi naplózást, jelentéseket ad.",
+    "sidebar_label": "Gravity SMTP"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gravity Forms",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gravity-forms"
+  },
+  "next": {
+    "title": "Jet Appointments Booking",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jet-appointments-booking"
+  }
+}

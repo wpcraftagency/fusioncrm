@@ -1,0 +1,39 @@
+{
+  "id": "dokumentacio/hellotools/hellocron",
+  "title": "HelloCron – Felhőalapú cron-kezelő",
+  "description": "HelloCron - Időzített HTTP kérések egyszerűen. Hozz létre időzített CRON kéréseket webhook-okhoz, API-khoz és automatizáláshoz.",
+  "source": "@site/docs/dokumentacio/hellotools/hellocron.mdx",
+  "sourceDirName": "dokumentacio/hellotools",
+  "slug": "/dokumentacio/hellotools/hellocron",
+  "permalink": "/docs/dokumentacio/hellotools/hellocron",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellotools/hellocron.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "HelloCron – Felhőalapú cron-kezelő",
+    "description": "HelloCron - Időzített HTTP kérések egyszerűen. Hozz létre időzített CRON kéréseket webhook-okhoz, API-khoz és automatizáláshoz.",
+    "keywords": [
+      "hellocron",
+      "hellotools",
+      "cron",
+      "ütemezés",
+      "wordpress",
+      "http kérés",
+      "webhook"
+    ],
+    "sidebar_label": "HelloCron",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HelloPack",
+    "permalink": "/docs/dokumentacio/hellotools/hellopack"
+  },
+  "next": {
+    "title": "HelloPack",
+    "permalink": "/docs/dokumentacio/hellopack/"
+  }
+}

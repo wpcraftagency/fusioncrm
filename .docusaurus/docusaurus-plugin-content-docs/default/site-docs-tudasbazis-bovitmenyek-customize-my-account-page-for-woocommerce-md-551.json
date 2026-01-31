@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/customize-my-account-page-for-woocommerce",
+  "title": "Customize My Account Page For Woocommerce",
+  "description": "Prémium WooCommerce bővítmény, amellyel teljesen testre szabhatod a „Saját fiók” oldal menüjét, tartalmát és megjelenését – kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/customize-my-account-page-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/customize-my-account-page-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/customize-my-account-page-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/customize-my-account-page-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Customize My Account Page For Woocommerce",
+    "description": "Prémium WooCommerce bővítmény, amellyel teljesen testre szabhatod a „Saját fiók” oldal menüjét, tartalmát és megjelenését – kódolás nélkül.",
+    "sidebar_label": "Customize My Account Page For Woocommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Custom User Registration Fields for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/custom-user-registration-fields-for-woocommerce"
+  },
+  "next": {
+    "title": "Divi Menu Cart",
+    "permalink": "/docs/tudasbazis/bovitmenyek/divi-menu-cart"
+  }
+}

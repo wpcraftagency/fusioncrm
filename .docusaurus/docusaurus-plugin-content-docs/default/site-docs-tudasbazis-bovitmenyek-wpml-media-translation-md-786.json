@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wpml-media-translation",
+  "title": "WPML Media Translation",
+  "description": "WPML kiegészítő a WordPress médiáinak (képek, videók, PDF-ek) többnyelvű kezeléséhez: nyelvenként eltérő fájlok és média metaadatok fordítása.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wpml-media-translation.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wpml-media-translation",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wpml-media-translation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wpml-media-translation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WPML Media Translation",
+    "description": "WPML kiegészítő a WordPress médiáinak (képek, videók, PDF-ek) többnyelvű kezeléséhez: nyelvenként eltérő fájlok és média metaadatok fordítása.",
+    "sidebar_label": "WPML Media Translation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WPML CMS Navigation",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-cms-navigation"
+  },
+  "next": {
+    "title": "WPML Multilingual CMS",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-multilingual-cms"
+  }
+}

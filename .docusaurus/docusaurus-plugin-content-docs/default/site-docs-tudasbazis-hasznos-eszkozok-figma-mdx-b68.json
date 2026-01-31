@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/figma",
+  "title": "Figma - UI/UX tervezés",
+  "description": "Figma használata UI/UX tervezéshez és prototípus készítéshez - kollaboratív design tool böngészőben.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/figma.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/figma",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/figma",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/figma.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Figma - UI/UX tervezés",
+    "description": "Figma használata UI/UX tervezéshez és prototípus készítéshez - kollaboratív design tool böngészőben.",
+    "keywords": [
+      "figma",
+      "ui design",
+      "ux design",
+      "prototípus",
+      "design tool"
+    ],
+    "sidebar_label": "Figma",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Coolors",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/coolors"
+  },
+  "next": {
+    "title": "Font Awesome",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/font-awesome"
+  }
+}

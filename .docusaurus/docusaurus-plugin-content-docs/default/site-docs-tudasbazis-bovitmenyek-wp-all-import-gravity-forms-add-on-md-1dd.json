@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-all-import-gravity-forms-add-on",
+  "title": "WP All Import - Gravity Forms Add-On",
+  "description": "WP All Import kiegészítő, amellyel CSV/Excel/XML fájlokból közvetlenül létező Gravity Forms űrlapokba importálhatsz bejegyzéseket, rugalmas mezőtérképezéssel és ütemezéssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-all-import-gravity-forms-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-all-import-gravity-forms-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-gravity-forms-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-all-import-gravity-forms-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP All Import - Gravity Forms Add-On",
+    "description": "WP All Import kiegészítő, amellyel CSV/Excel/XML fájlokból közvetlenül létező Gravity Forms űrlapokba importálhatsz bejegyzéseket, rugalmas mezőtérképezéssel és ütemezéssel.",
+    "sidebar_label": "WP All Import - Gravity Forms Add-On"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Import - ACF Add-On",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-acf-add-on"
+  },
+  "next": {
+    "title": "WP All Import - JetEngine Add-On",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-jetengine-add-on"
+  }
+}

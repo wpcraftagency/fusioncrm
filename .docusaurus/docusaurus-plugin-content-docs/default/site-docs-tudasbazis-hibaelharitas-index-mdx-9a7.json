@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/hibaelharitas/index",
+  "title": "Hibaelhárítás",
+  "description": "Hibaelhárítás",
+  "source": "@site/docs/tudasbazis/hibaelharitas/index.mdx",
+  "sourceDirName": "tudasbazis/hibaelharitas",
+  "slug": "/tudasbazis/hibaelharitas/",
+  "permalink": "/docs/tudasbazis/hibaelharitas/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hibaelharitas/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Hibaelhárítás",
+    "description": "Hibaelhárítás",
+    "keywords": [
+      "hibaelharitas"
+    ],
+    "sidebar_label": "Hibaelhárítás",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Warp",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/warp"
+  },
+  "next": {
+    "title": "cURL error 60: SSL certificate hiba",
+    "permalink": "/docs/tudasbazis/hibaelharitas/cURL-error-60"
+  }
+}

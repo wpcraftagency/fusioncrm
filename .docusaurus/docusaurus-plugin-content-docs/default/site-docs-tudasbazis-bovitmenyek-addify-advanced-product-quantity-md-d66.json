@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/addify-advanced-product-quantity",
+  "title": "Addify - Advanced Product Quantity",
+  "description": "Prémium WooCommerce bővítmény a termék- és kosármennyiségek szabályalapú irányítására: min/max, lépésköz, fix és lista-alapú, valamint decimális mennyiségek kezelésével.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/addify-advanced-product-quantity.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/addify-advanced-product-quantity",
+  "permalink": "/docs/tudasbazis/bovitmenyek/addify-advanced-product-quantity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/addify-advanced-product-quantity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Addify - Advanced Product Quantity",
+    "description": "Prémium WooCommerce bővítmény a termék- és kosármennyiségek szabályalapú irányítására: min/max, lépésköz, fix és lista-alapú, valamint decimális mennyiségek kezelésével.",
+    "sidebar_label": "Addify - Advanced Product Quantity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Account Funds for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/account-funds-for-woocommerce"
+  },
+  "next": {
+    "title": "Admin Menu Editor Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/admin-menu-editor-pro"
+  }
+}

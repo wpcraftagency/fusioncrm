@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-invoices",
+  "title": "WP Booking System - Invoices",
+  "description": "Prémium kiegészítő, amely automatikus, testreszabható PDF‑számlát generál minden WP Booking System foglaláshoz, e‑mail csatolási és EU e‑számla opcióval.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-invoices.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-invoices",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-invoices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-invoices.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Invoices",
+    "description": "Prémium kiegészítő, amely automatikus, testreszabható PDF‑számlát generál minden WP Booking System foglaláshoz, e‑mail csatolási és EU e‑számla opcióval.",
+    "sidebar_label": "WP Booking System - Invoices"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Inventory",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-inventory"
+  },
+  "next": {
+    "title": "WP Booking System - Mollie",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-mollie"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/letoltes-telepites",
+  "title": "Letöltés és telepítés",
+  "description": "HelloPack csomagkezelő letöltése és telepítése WordPress weboldalra.",
+  "source": "@site/docs/dokumentacio/hellopack/letoltes-telepites.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/letoltes-telepites",
+  "permalink": "/docs/dokumentacio/hellopack/letoltes-telepites",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/letoltes-telepites.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Letöltés és telepítés",
+    "description": "HelloPack csomagkezelő letöltése és telepítése WordPress weboldalra.",
+    "keywords": [
+      "hellopack",
+      "letöltés",
+      "telepítés",
+      "install"
+    ],
+    "sidebar_label": "Csomagkezelő letöltése és telepítése",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HelloPack",
+    "permalink": "/docs/dokumentacio/hellopack/"
+  },
+  "next": {
+    "title": "Csomagkezelő aktiválása",
+    "permalink": "/docs/dokumentacio/hellopack/aktivalas"
+  }
+}

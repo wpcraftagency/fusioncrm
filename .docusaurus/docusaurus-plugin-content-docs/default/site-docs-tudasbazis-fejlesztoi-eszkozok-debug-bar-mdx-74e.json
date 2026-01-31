@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/debug-bar",
+  "title": "Debug Bar",
+  "description": "WordPress fejlesztői debug panel a Debug Bar bővítménnyel.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/debug-bar.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/debug-bar",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/debug-bar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/debug-bar.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Debug Bar",
+    "description": "WordPress fejlesztői debug panel a Debug Bar bővítménnyel.",
+    "keywords": [
+      "debug bar",
+      "debug",
+      "wordpress",
+      "fejlesztés"
+    ],
+    "sidebar_label": "Debug Bar",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Composer",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/composer"
+  },
+  "next": {
+    "title": "Deployer",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/deployer"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-product-add-ons",
+  "title": "WooCommerce Product Add-Ons",
+  "description": "Hivatalos WooCommerce kiegészítő, amellyel termékeidhez egyedi, ingyenes vagy fizetős opciókat adhatsz rugalmas árazással, globális vagy termékszintű kezeléssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-product-add-ons.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-product-add-ons",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-add-ons",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-product-add-ons.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Product Add-Ons",
+    "description": "Hivatalos WooCommerce kiegészítő, amellyel termékeidhez egyedi, ingyenes vagy fizetős opciókat adhatsz rugalmas árazással, globális vagy termékszintű kezeléssel.",
+    "sidebar_label": "WooCommerce Product Add-Ons"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Product Add-Ons Ultimate",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-add-ons-ultimate"
+  },
+  "next": {
+    "title": "WooCommerce Product Bundles",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-bundles"
+  }
+}

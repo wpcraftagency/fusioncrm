@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetelements-for-elementor",
+  "title": "JetElements For Elementor",
+  "description": "Prémium Elementor‑kiegészítő 45 kész widgettel vizuális, tartalmi és integrációs elemekhez – kódolás nélkül, gyorsan.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetelements-for-elementor.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetelements-for-elementor",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetelements-for-elementor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetelements-for-elementor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetElements For Elementor",
+    "description": "Prémium Elementor‑kiegészítő 45 kész widgettel vizuális, tartalmi és integrációs elemekhez – kódolás nélkül, gyorsan.",
+    "sidebar_label": "JetElements For Elementor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetCompareWishlist For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetcomparewishlist-for-elementor"
+  },
+  "next": {
+    "title": "JetEngine - Custom visibility conditions",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-custom-visibility-conditions"
+  }
+}

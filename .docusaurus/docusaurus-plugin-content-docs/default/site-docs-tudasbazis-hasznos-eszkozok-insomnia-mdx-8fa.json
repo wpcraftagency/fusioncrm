@@ -1,0 +1,38 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/insomnia",
+  "title": "Insomnia - API kliens fejlesztőknek",
+  "description": "Kong Insomnia API kliens használata - REST, GraphQL, gRPC és WebSocket API-k tesztelése.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/insomnia.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/insomnia",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/insomnia",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/insomnia.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "Insomnia - API kliens fejlesztőknek",
+    "description": "Kong Insomnia API kliens használata - REST, GraphQL, gRPC és WebSocket API-k tesztelése.",
+    "keywords": [
+      "insomnia",
+      "api client",
+      "rest api",
+      "graphql",
+      "grpc",
+      "kong"
+    ],
+    "sidebar_label": "Insomnia",
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GTmetrix",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/gtmetrix"
+  },
+  "next": {
+    "title": "iTerm2",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/iterm2"
+  }
+}

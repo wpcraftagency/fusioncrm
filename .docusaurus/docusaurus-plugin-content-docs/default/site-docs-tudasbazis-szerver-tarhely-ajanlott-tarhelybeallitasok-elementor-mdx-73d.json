@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/elementor",
+  "title": "Elementor ajánlott tárhelybeállítások",
+  "description": "Elementor rendszerkövetelményei és ajánlott szerver beállítások 2025-ben.",
+  "source": "@site/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/elementor.mdx",
+  "sourceDirName": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok",
+  "slug": "/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/elementor",
+  "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/elementor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/elementor.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Elementor ajánlott tárhelybeállítások",
+    "description": "Elementor rendszerkövetelményei és ajánlott szerver beállítások 2025-ben.",
+    "keywords": [
+      "elementor",
+      "tárhelybeállítások",
+      "php beállítások",
+      "page builder"
+    ],
+    "sidebar_label": "Elementor",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Divi",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/divi"
+  },
+  "next": {
+    "title": "Kadence",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/kadence"
+  }
+}

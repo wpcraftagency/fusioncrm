@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-affiliate-portal",
+  "title": "AffiliateWP - Affiliate Portal",
+  "description": "Teljes képernyős, témától független affiliate felület az AffiliateWP-hez: gyors, egységes és mobilbarát portál a partnereknek.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-portal.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-affiliate-portal",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-portal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-portal.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - Affiliate Portal",
+    "description": "Teljes képernyős, témától független affiliate felület az AffiliateWP-hez: gyors, egységes és mobilbarát portál a partnereknek.",
+    "sidebar_label": "AffiliateWP - Affiliate Portal"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - Affiliate Dashboard Sharing",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-dashboard-sharing"
+  },
+  "next": {
+    "title": "AffiliateWP - Allowed Products",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-allowed-products"
+  }
+}

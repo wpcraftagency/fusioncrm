@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ultimate-addons-for-elementor-pro",
+  "title": "Ultimate Addons for Elementor Pro",
+  "description": "Haladó Elementor‑kiegészítő nagy teljesítményű widgetekkel, sablonokkal és produktivitási eszközökkel – ügynökségeknek és haladó felhasználóknak.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ultimate-addons-for-elementor-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ultimate-addons-for-elementor-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ultimate-addons-for-elementor-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ultimate-addons-for-elementor-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ultimate Addons for Elementor Pro",
+    "description": "Haladó Elementor‑kiegészítő nagy teljesítményű widgetekkel, sablonokkal és produktivitási eszközökkel – ügynökségeknek és haladó felhasználóknak.",
+    "sidebar_label": "Ultimate Addons for Elementor Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutor LMS Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/tutor-lms-pro"
+  },
+  "next": {
+    "title": "UpdraftPlus - Backup/Restore",
+    "permalink": "/docs/tudasbazis/bovitmenyek/updraftplus-backup-restore"
+  }
+}

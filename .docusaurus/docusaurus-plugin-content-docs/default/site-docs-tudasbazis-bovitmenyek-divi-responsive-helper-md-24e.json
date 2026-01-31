@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/divi-responsive-helper",
+  "title": "Divi Responsive Helper",
+  "description": "Reszponzív finomhangoló eszköztár a Divihez: több mint 50 célzott beállítás töréspontokhoz, tipográfiához, rácselrendezéshez és menükhöz – kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/divi-responsive-helper.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/divi-responsive-helper",
+  "permalink": "/docs/tudasbazis/bovitmenyek/divi-responsive-helper",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/divi-responsive-helper.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Divi Responsive Helper",
+    "description": "Reszponzív finomhangoló eszköztár a Divihez: több mint 50 célzott beállítás töréspontokhoz, tipográfiához, rácselrendezéshez és menükhöz – kódolás nélkül.",
+    "sidebar_label": "Divi Responsive Helper"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Divi Menu Cart",
+    "permalink": "/docs/tudasbazis/bovitmenyek/divi-menu-cart"
+  },
+  "next": {
+    "title": "Divi Supreme Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/divi-supreme-pro"
+  }
+}

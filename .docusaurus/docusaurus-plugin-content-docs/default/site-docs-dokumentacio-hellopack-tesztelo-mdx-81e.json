@@ -1,0 +1,34 @@
+{
+  "id": "dokumentacio/hellopack/tesztelo",
+  "title": "Tesztelő",
+  "description": "HelloPack csomagkezelő tesztelése",
+  "source": "@site/docs/dokumentacio/hellopack/tesztelo.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/tesztelo",
+  "permalink": "/docs/dokumentacio/hellopack/tesztelo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/tesztelo.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Tesztelő",
+    "description": "HelloPack csomagkezelő tesztelése",
+    "keywords": [
+      "hellopack",
+      "tesztelés"
+    ],
+    "sidebar_label": "Csomagkezelő tesztelő",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bővítmények letöltése",
+    "permalink": "/docs/dokumentacio/hellopack/bovitmenyek-letoltese"
+  },
+  "next": {
+    "title": "Bővítmények telepítése",
+    "permalink": "/docs/dokumentacio/hellopack/bovitmenyek-telepitese"
+  }
+}

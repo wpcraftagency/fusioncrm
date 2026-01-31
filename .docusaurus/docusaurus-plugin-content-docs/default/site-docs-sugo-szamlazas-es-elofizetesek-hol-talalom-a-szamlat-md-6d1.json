@@ -1,0 +1,27 @@
+{
+  "id": "sugo/szamlazas-es-elofizetesek/hol-talalom-a-szamlat",
+  "title": "Hol találom a számlát?",
+  "description": "A HelloWP! minden rendelés után számlát állít ki, amit könnyedén (és bármikor) elérsz a Console oldalon keresztül.",
+  "source": "@site/docs/sugo/szamlazas-es-elofizetesek/hol-talalom-a-szamlat.md",
+  "sourceDirName": "sugo/szamlazas-es-elofizetesek",
+  "slug": "/sugo/szamlazas-es-elofizetesek/hol-talalom-a-szamlat",
+  "permalink": "/docs/sugo/szamlazas-es-elofizetesek/hol-talalom-a-szamlat",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/szamlazas-es-elofizetesek/hol-talalom-a-szamlat.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adószámok",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/adoszamok"
+  },
+  "next": {
+    "title": "Számla javítás/korrekció",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/szamla-javitas-korrekcio"
+  }
+}

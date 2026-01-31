@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-user-profile",
+  "title": "MB User Profile",
+  "description": "Frontend regisztrációt, bejelentkezést és profil‑szerkesztést ad a WordPresshez, a Meta Box felhasználói mezőinek teljes támogatásával.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-user-profile.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-user-profile",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-user-profile",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-user-profile.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB User Profile",
+    "description": "Frontend regisztrációt, bejelentkezést és profil‑szerkesztést ad a WordPresshez, a Meta Box felhasználói mezőinek teljes támogatásával.",
+    "sidebar_label": "MB User Profile"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB User Avatar",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-user-avatar"
+  },
+  "next": {
+    "title": "Meta Box Columns",
+    "permalink": "/docs/tudasbazis/bovitmenyek/meta-box-columns"
+  }
+}

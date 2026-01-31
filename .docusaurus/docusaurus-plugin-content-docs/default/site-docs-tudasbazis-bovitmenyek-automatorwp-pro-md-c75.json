@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/automatorwp-pro",
+  "title": "AutomatorWP Pro",
+  "description": "No‑code automatizálási motor WordPresshez: triggerekből és akciókból építesz folyamatokat, a Pro csomag pedig minden prémium funkciót és integrációt egyben ad.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/automatorwp-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/automatorwp-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/automatorwp-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/automatorwp-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AutomatorWP Pro",
+    "description": "No‑code automatizálási motor WordPresshez: triggerekből és akciókból építesz folyamatokat, a Pro csomag pedig minden prémium funkciót és integrációt egyben ad.",
+    "sidebar_label": "AutomatorWP Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AutomateWoo",
+    "permalink": "/docs/tudasbazis/bovitmenyek/automatewoo"
+  },
+  "next": {
+    "title": "AutomatorWP",
+    "permalink": "/docs/tudasbazis/bovitmenyek/automatorwp"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dokumentacio/marketing/Google/google-ads-fiok-letrehozasa",
+  "title": "Google Ads fiók létrehozása",
+  "description": "Google Ads hirdetési fiók létrehozása és beállítása lépésről lépésre.",
+  "source": "@site/docs/dokumentacio/marketing/Google/google-ads-fiok-letrehozasa.mdx",
+  "sourceDirName": "dokumentacio/marketing/Google",
+  "slug": "/dokumentacio/marketing/Google/google-ads-fiok-letrehozasa",
+  "permalink": "/docs/dokumentacio/marketing/Google/google-ads-fiok-letrehozasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/marketing/Google/google-ads-fiok-letrehozasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Google Ads fiók létrehozása",
+    "description": "Google Ads hirdetési fiók létrehozása és beállítása lépésről lépésre.",
+    "keywords": [
+      "google ads",
+      "hirdetés",
+      "ppc"
+    ],
+    "sidebar_label": "Google Ads fiók létrehozása",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Google",
+    "permalink": "/docs/dokumentacio/marketing/Google/"
+  },
+  "next": {
+    "title": "Google Ads hozzáférés megadása",
+    "permalink": "/docs/dokumentacio/marketing/Google/google-ads-hozzafere-adasa"
+  }
+}

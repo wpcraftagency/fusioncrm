@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-zapier-integration",
+  "title": "LearnDash LMS - Zapier Integration",
+  "description": "Hivatalos LearnDash kiegészítő, amellyel no-code automatizmusokkal kapcsolhatod össze a LearnDash eseményeit és műveleteit több ezer külső alkalmazással a Zapieren keresztül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-zapier-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-zapier-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-zapier-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-zapier-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - Zapier Integration",
+    "description": "Hivatalos LearnDash kiegészítő, amellyel no-code automatizmusokkal kapcsolhatod össze a LearnDash eseményeit és műveleteit több ezer külső alkalmazással a Zapieren keresztül.",
+    "sidebar_label": "LearnDash LMS - Zapier Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - WooCommerce Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-woocommerce-integration"
+  },
+  "next": {
+    "title": "LearnDash LMS",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms"
+  }
+}

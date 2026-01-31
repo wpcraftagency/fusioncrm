@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/gravity-forms-product-add-ons-for-woocommerce",
+  "title": "Gravity Forms Product Add-Ons for WooCommerce",
+  "description": "WooCommerce kiterjesztés, amellyel Gravity Forms űrlapokat kapcsolhatsz termékekhez, hogy dinamikus árazást, feltételes logikát és fájlfeltöltést hozz a termékoldalra.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/gravity-forms-product-add-ons-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/gravity-forms-product-add-ons-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/gravity-forms-product-add-ons-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/gravity-forms-product-add-ons-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gravity Forms Product Add-Ons for WooCommerce",
+    "description": "WooCommerce kiterjesztés, amellyel Gravity Forms űrlapokat kapcsolhatsz termékekhez, hogy dinamikus árazást, feltételes logikát és fájlfeltöltést hozz a termékoldalra.",
+    "sidebar_label": "Gravity Forms Product Add-Ons for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gravity Forms Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gravity-forms-multilingual"
+  },
+  "next": {
+    "title": "Gravity Forms",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gravity-forms"
+  }
+}

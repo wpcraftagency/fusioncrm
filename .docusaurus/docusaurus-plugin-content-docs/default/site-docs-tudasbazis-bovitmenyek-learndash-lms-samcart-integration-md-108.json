@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-samcart-integration",
+  "title": "LearnDash LMS - Samcart Integration",
+  "description": "Hivatalos LearnDash kiegészítő, amely a SamCart vásárlásait automatikus LearnDash kurzus-hozzáféréssé alakítja, fiók‑létrehozással és beiratással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-samcart-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-samcart-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-samcart-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-samcart-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - Samcart Integration",
+    "description": "Hivatalos LearnDash kiegészítő, amely a SamCart vásárlásait automatikus LearnDash kurzus-hozzáféréssé alakítja, fiók‑létrehozással és beiratással.",
+    "sidebar_label": "LearnDash LMS - Samcart Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - Restrict Content Pro Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-restrict-content-pro-integration"
+  },
+  "next": {
+    "title": "LearnDash LMS - The Events Calendar Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-the-events-calendar-integration"
+  }
+}

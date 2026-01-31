@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/updraftplus-backup-restore",
+  "title": "UpdraftPlus - Backup/Restore",
+  "description": "WordPress-hez készült biztonsági mentő és visszaállító bővítmény, ütemezéssel, távoli tárhelyekkel és alap költöztetéssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/updraftplus-backup-restore.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/updraftplus-backup-restore",
+  "permalink": "/docs/tudasbazis/bovitmenyek/updraftplus-backup-restore",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/updraftplus-backup-restore.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "UpdraftPlus - Backup/Restore",
+    "description": "WordPress-hez készült biztonsági mentő és visszaállító bővítmény, ütemezéssel, távoli tárhelyekkel és alap költöztetéssel.",
+    "sidebar_label": "UpdraftPlus - Backup/Restore"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ultimate Addons for Elementor Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ultimate-addons-for-elementor-pro"
+  },
+  "next": {
+    "title": "UserPro (5.1.11)",
+    "permalink": "/docs/tudasbazis/bovitmenyek/userpro-5-1-11"
+  }
+}

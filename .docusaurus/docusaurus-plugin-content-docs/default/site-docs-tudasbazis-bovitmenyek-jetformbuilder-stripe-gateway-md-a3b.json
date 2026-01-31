@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-stripe-gateway",
+  "title": "JetFormBuilder Stripe Gateway",
+  "description": "JetFormBuilder PRO kiegészítő Stripe Checkout-integrációval egyösszegű és előfizetéses fizetésekhez, webhookos szinkronnal és adminisztrációval.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-stripe-gateway.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-stripe-gateway",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-stripe-gateway",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-stripe-gateway.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder Stripe Gateway",
+    "description": "JetFormBuilder PRO kiegészítő Stripe Checkout-integrációval egyösszegű és előfizetéses fizetésekhez, webhookos szinkronnal és adminisztrációval.",
+    "sidebar_label": "JetFormBuilder Stripe Gateway"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder Select Autocomplete",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-select-autocomplete"
+  },
+  "next": {
+    "title": "JetFormBuilder User Login Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-user-login-action"
+  }
+}

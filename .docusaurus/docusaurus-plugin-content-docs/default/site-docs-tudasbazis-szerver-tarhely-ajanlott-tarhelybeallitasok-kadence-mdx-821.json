@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/kadence",
+  "title": "Kadence ajánlott tárhelybeállítások",
+  "description": "Kadence téma és Kadence Blocks rendszerkövetelményei és ajánlott szerver beállítások 2025-ben.",
+  "source": "@site/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/kadence.mdx",
+  "sourceDirName": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok",
+  "slug": "/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/kadence",
+  "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/kadence",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/kadence.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Kadence ajánlott tárhelybeállítások",
+    "description": "Kadence téma és Kadence Blocks rendszerkövetelményei és ajánlott szerver beállítások 2025-ben.",
+    "keywords": [
+      "kadence",
+      "kadence blocks",
+      "tárhelybeállítások",
+      "php beállítások"
+    ],
+    "sidebar_label": "Kadence",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Elementor",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/elementor"
+  },
+  "next": {
+    "title": "WooCommerce",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/woocommerce"
+  }
+}

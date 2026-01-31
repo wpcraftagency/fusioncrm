@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-all-export-gravity-forms-add-on",
+  "title": "WP All Export - Gravity Forms Add-On",
+  "description": "Kiegészítő a Gravity Forms űrlapbejegyzéseinek rugalmas exportálásához CSV, Excel vagy XML formátumba a WP All Export felületéről.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-all-export-gravity-forms-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-all-export-gravity-forms-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-gravity-forms-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-all-export-gravity-forms-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP All Export - Gravity Forms Add-On",
+    "description": "Kiegészítő a Gravity Forms űrlapbejegyzéseinek rugalmas exportálásához CSV, Excel vagy XML formátumba a WP All Export felületéről.",
+    "sidebar_label": "WP All Export - Gravity Forms Add-On"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Export - ACF Export Add-On Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-acf-export-add-on-pro"
+  },
+  "next": {
+    "title": "WP All Export - JetEngine Add-On",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-jetengine-add-on"
+  }
+}

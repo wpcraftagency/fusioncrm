@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/index",
+  "title": "Oktatóanyagok",
+  "description": "Oktatóanyagok",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok",
+  "slug": "/tudasbazis/oktatoanyagok/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Oktatóanyagok",
+    "description": "Oktatóanyagok",
+    "keywords": [
+      "oktatoanyagok"
+    ],
+    "sidebar_label": "Oktatóanyagok",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sablon telepítési hiba",
+    "permalink": "/docs/tudasbazis/hibaelharitas/wordpress/sablon-telepitesi-hiba"
+  },
+  "next": {
+    "title": "AutomateWoo",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/AutomateWoo/"
+  }
+}

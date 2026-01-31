@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/elementor-pro",
+  "title": "Elementor Pro",
+  "description": "Az Elementor Pro a népszerű Elementor oldalépítő prémium kiegészítője: teljes Theme Builder, űrlap‑ és popup‑készítő, WooCommerce‑sablonozás, dinamikus tartalom és haladó jogosultságok.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/elementor-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/elementor-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/elementor-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/elementor-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Elementor Pro",
+    "description": "Az Elementor Pro a népszerű Elementor oldalépítő prémium kiegészítője: teljes Theme Builder, űrlap‑ és popup‑készítő, WooCommerce‑sablonozás, dinamikus tartalom és haladó jogosultságok.",
+    "sidebar_label": "Elementor Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Edit Order by Customer",
+    "permalink": "/docs/tudasbazis/bovitmenyek/edit-order-by-customer"
+  },
+  "next": {
+    "title": "Email Customizer for AutomateWoo",
+    "permalink": "/docs/tudasbazis/bovitmenyek/email-customizer-for-automatewoo"
+  }
+}

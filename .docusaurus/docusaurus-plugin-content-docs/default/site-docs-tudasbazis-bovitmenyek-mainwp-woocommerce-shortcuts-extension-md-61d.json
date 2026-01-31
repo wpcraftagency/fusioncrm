@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-woocommerce-shortcuts-extension",
+  "title": "MainWP WooCommerce Shortcuts Extension",
+  "description": "Ingyenes MainWP-kiegészítő, amely WooCommerce admin oldalakhoz gyorshivatkozásokat ad a Dashboardból, így egy kattintással eléred a Child site-ok rendeléseit, termékeit és beállításait.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-shortcuts-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-woocommerce-shortcuts-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-shortcuts-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-shortcuts-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP WooCommerce Shortcuts Extension",
+    "description": "Ingyenes MainWP-kiegészítő, amely WooCommerce admin oldalakhoz gyorshivatkozásokat ad a Dashboardból, így egy kattintással eléred a Child site-ok rendeléseit, termékeit és beállításait.",
+    "sidebar_label": "MainWP WooCommerce Shortcuts Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP White Label Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-white-label-extension"
+  },
+  "next": {
+    "title": "MainWP WooCommerce Status Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-status-extension"
+  }
+}

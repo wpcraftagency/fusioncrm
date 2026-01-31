@@ -1,0 +1,34 @@
+{
+  "id": "dokumentacio/marketing/Facebook/facebook-vallalkozaskezelo-letrehozasa",
+  "title": "Facebook vállalkozáskezelő létrehozása és beállítása",
+  "description": "Facebook vállalkozáskezelő létrehozása és beállítása",
+  "source": "@site/docs/dokumentacio/marketing/Facebook/facebook-vallalkozaskezelo-letrehozasa.mdx",
+  "sourceDirName": "dokumentacio/marketing/Facebook",
+  "slug": "/dokumentacio/marketing/Facebook/facebook-vallalkozaskezelo-letrehozasa",
+  "permalink": "/docs/dokumentacio/marketing/Facebook/facebook-vallalkozaskezelo-letrehozasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/marketing/Facebook/facebook-vallalkozaskezelo-letrehozasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Facebook vállalkozáskezelő létrehozása és beállítása",
+    "description": "Facebook vállalkozáskezelő létrehozása és beállítása",
+    "keywords": [
+      "facebook",
+      "vállalkozáskezelő"
+    ],
+    "sidebar_label": "Vállalkozáskezelő létrehozása és beállítása",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vállalkozáskezelő hozzáférés megadása",
+    "permalink": "/docs/dokumentacio/marketing/Facebook/facebook-hozzaferes-adasa"
+  },
+  "next": {
+    "title": "Hirdetési fiók létrehozása és beállítása",
+    "permalink": "/docs/dokumentacio/marketing/Facebook/facebook-hirdetesi-fiok-letrehozasa"
+  }
+}

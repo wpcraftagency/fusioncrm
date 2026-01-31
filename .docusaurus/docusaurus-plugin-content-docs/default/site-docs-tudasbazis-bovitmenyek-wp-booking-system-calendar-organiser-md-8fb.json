@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-calendar-organiser",
+  "title": "WP Booking System - Calendar Organiser",
+  "description": "Prémium kiegészítő a WP Booking Systemhez: naptárak kategorizálása a gyorsabb, átláthatóbb adminisztrációért.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-calendar-organiser.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-calendar-organiser",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-calendar-organiser",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-calendar-organiser.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Calendar Organiser",
+    "description": "Prémium kiegészítő a WP Booking Systemhez: naptárak kategorizálása a gyorsabb, átláthatóbb adminisztrációért.",
+    "sidebar_label": "WP Booking System - Calendar Organiser"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Booking Manager",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-booking-manager"
+  },
+  "next": {
+    "title": "WP Booking System - Contracts",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-contracts"
+  }
+}

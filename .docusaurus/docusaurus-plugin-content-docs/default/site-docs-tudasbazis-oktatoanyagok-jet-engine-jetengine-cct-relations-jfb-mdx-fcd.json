@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/oktatoanyagok/JetEngine/jetengine-cct-relations-jfb",
+  "title": "JetEngine - JetFormBuilder CCT relations készítése",
+  "description": "JetEngine CCT Relations - Hogyan kössünk össze egy CPT-t és egy CCT-t a JetFormBuilder segítségével",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/JetEngine/jetengine-cct-relations-jfb.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/JetEngine",
+  "slug": "/tudasbazis/oktatoanyagok/JetEngine/jetengine-cct-relations-jfb",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/jetengine-cct-relations-jfb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/JetEngine/jetengine-cct-relations-jfb.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "JetEngine - JetFormBuilder CCT relations készítése",
+    "description": "JetEngine CCT Relations - Hogyan kössünk össze egy CPT-t és egy CCT-t a JetFormBuilder segítségével",
+    "keywords": [
+      "jetengine",
+      "cct",
+      "relations",
+      "jetformbuilder"
+    ],
+    "sidebar_label": "JetEngine CCT relations",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Áttekintés",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/JetEngine Áttekintő"
+  },
+  "next": {
+    "title": "Praktikák",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/"
+  }
+}

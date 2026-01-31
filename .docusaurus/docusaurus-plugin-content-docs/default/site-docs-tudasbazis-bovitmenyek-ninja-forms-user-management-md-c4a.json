@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ninja-forms-user-management",
+  "title": "Ninja Forms - User Management",
+  "description": "Prémium Ninja Forms kiegészítő, amellyel regisztrációt, bejelentkezést, profilfrissítést és beküldés-hozzáférést adhatsz kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ninja-forms-user-management.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ninja-forms-user-management",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-user-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ninja-forms-user-management.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ninja Forms - User Management",
+    "description": "Prémium Ninja Forms kiegészítő, amellyel regisztrációt, bejelentkezést, profilfrissítést és beküldés-hozzáférést adhatsz kódolás nélkül.",
+    "sidebar_label": "Ninja Forms - User Management"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms - Stripe",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-stripe"
+  },
+  "next": {
+    "title": "Ninja Forms - Webhooks",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-webhooks"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/elementor/index",
+  "title": "Elementor",
+  "description": "Elementor",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/elementor/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/elementor",
+  "slug": "/tudasbazis/oktatoanyagok/elementor/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/elementor/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Elementor",
+    "description": "Elementor",
+    "keywords": [
+      "elementor"
+    ],
+    "sidebar_label": "Elementor",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "All-in-One WP Migration URL költöztetés",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/all-in-one-wp-migration/all-in-one-wp-migration-url-koltoztetes"
+  },
+  "next": {
+    "title": "Elementor Workflow",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/Elementor Workflow hatékonyság"
+  }
+}

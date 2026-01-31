@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-name-your-price",
+  "title": "WooCommerce Name Your Price",
+  "description": "Hivatalos WooCommerce kiegészítő, amellyel a vásárló adhatja meg az árat – javasolt, minimum és maximum összeghatárokkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-name-your-price.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-name-your-price",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-name-your-price",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-name-your-price.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Name Your Price",
+    "description": "Hivatalos WooCommerce kiegészítő, amellyel a vásárló adhatja meg az árat – javasolt, minimum és maximum összeghatárokkal.",
+    "sidebar_label": "WooCommerce Name Your Price"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Min/Max Quantities",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-min-max-quantities"
+  },
+  "next": {
+    "title": "WooCommerce One Page Checkout",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-one-page-checkout"
+  }
+}

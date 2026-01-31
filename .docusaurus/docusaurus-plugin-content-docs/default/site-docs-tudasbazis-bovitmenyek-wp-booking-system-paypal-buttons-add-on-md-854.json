@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-paypal-buttons-add-on",
+  "title": "WP Booking System - PayPal Buttons Add-on",
+  "description": "Prémium kiegészítő a WP Booking Systemhez, amellyel PayPal Smart Payment Buttons segítségével azonnali online (PayPal vagy bankkártyás) fizetést fogadhatsz a foglalási űrlapodon.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-paypal-buttons-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-paypal-buttons-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-paypal-buttons-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-paypal-buttons-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - PayPal Buttons Add-on",
+    "description": "Prémium kiegészítő a WP Booking Systemhez, amellyel PayPal Smart Payment Buttons segítségével azonnali online (PayPal vagy bankkártyás) fizetést fogadhatsz a foglalási űrlapodon.",
+    "sidebar_label": "WP Booking System - PayPal Buttons Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Multiple Currencies",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-multiple-currencies"
+  },
+  "next": {
+    "title": "WP Booking System - Pricelabs",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-pricelabs"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-order-status-manager",
+  "title": "WooCommerce Order Status Manager",
+  "description": "Egyedi rendelési státuszok létrehozása és kezelése WooCommerce-ben, műveletgombokkal, e-mailekkel és riporttámogatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-order-status-manager.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-order-status-manager",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-order-status-manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-order-status-manager.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Order Status Manager",
+    "description": "Egyedi rendelési státuszok létrehozása és kezelése WooCommerce-ben, műveletgombokkal, e-mailekkel és riporttámogatással.",
+    "sidebar_label": "WooCommerce Order Status Manager"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce One Page Checkout",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-one-page-checkout"
+  },
+  "next": {
+    "title": "WooCommerce Payment Gateway Based Fees",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-payment-gateway-based-fees"
+  }
+}

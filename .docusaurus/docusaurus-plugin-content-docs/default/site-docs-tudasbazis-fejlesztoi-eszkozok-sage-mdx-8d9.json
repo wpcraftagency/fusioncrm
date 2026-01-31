@@ -1,0 +1,38 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/sage",
+  "title": "Sage",
+  "description": "Modern WordPress téma fejlesztési keretrendszer Laravel Blade templating-gel és modern frontend tooling-gal.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/sage.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/sage",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/sage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/sage.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "title": "Sage",
+    "description": "Modern WordPress téma fejlesztési keretrendszer Laravel Blade templating-gel és modern frontend tooling-gal.",
+    "keywords": [
+      "sage",
+      "roots",
+      "wordpress",
+      "tema",
+      "blade",
+      "vite"
+    ],
+    "sidebar_label": "Sage",
+    "sidebar_position": 20
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Query Monitor",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/query-monitor"
+  },
+  "next": {
+    "title": "Trellis",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/trellis"
+  }
+}

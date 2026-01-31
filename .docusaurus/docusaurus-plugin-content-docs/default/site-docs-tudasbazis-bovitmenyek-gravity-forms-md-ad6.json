@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/gravity-forms",
+  "title": "Gravity Forms",
+  "description": "Prémium WordPress űrlap‑ és adatrekord‑kezelő, amellyel kódolás nélkül építhetsz összetett űrlapokat, fogadhatsz fizetéseket és automatizálhatod a folyamataidat.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/gravity-forms.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/gravity-forms",
+  "permalink": "/docs/tudasbazis/bovitmenyek/gravity-forms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/gravity-forms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gravity Forms",
+    "description": "Prémium WordPress űrlap‑ és adatrekord‑kezelő, amellyel kódolás nélkül építhetsz összetett űrlapokat, fogadhatsz fizetéseket és automatizálhatod a folyamataidat.",
+    "sidebar_label": "Gravity Forms"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gravity Forms Product Add-Ons for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gravity-forms-product-add-ons-for-woocommerce"
+  },
+  "next": {
+    "title": "Gravity SMTP",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gravity-smtp"
+  }
+}

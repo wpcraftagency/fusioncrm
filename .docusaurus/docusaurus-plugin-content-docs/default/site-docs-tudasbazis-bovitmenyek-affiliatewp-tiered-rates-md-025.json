@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-tiered-rates",
+  "title": "AffiliateWP - Tiered Rates",
+  "description": "Teljesítményalapú, sávos jutalékrendszer az AffiliateWP-hez, amely automatikusan magasabb rátát ad a küszöbök elérése után.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-tiered-rates.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-tiered-rates",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-tiered-rates",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-tiered-rates.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - Tiered Rates",
+    "description": "Teljesítményalapú, sávos jutalékrendszer az AffiliateWP-hez, amely automatikusan magasabb rátát ad a küszöbök elérése után.",
+    "sidebar_label": "AffiliateWP - Tiered Rates"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - Store Credit",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-store-credit"
+  },
+  "next": {
+    "title": "AffiliateWP - WooCommerce Redirect Affiliates",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-woocommerce-redirect-affiliates"
+  }
+}

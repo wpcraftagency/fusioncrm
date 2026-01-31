@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-all-import-link-cloaking-add-on",
+  "title": "WP All Import - Link Cloaking Add-on",
+  "description": "Automatikus affiliate- és külső link-álcázás a WP All Import folyamatában, egységes, saját domaint használó útvonalakkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-all-import-link-cloaking-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-all-import-link-cloaking-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-link-cloaking-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-all-import-link-cloaking-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP All Import - Link Cloaking Add-on",
+    "description": "Automatikus affiliate- és külső link-álcázás a WP All Import folyamatában, egységes, saját domaint használó útvonalakkal.",
+    "sidebar_label": "WP All Import - Link Cloaking Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Import - JetEngine Add-On",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-jetengine-add-on"
+  },
+  "next": {
+    "title": "WP All Import - Meta Box Add-On",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-meta-box-add-on"
+  }
+}

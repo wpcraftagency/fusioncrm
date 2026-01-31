@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetengine",
+  "title": "JetEngine",
+  "description": "Dinamikus tartalom- és adatmodell-bővítmény WordPresshez: CPT/CCT, relációk, lekérdezések, listázások és felhasználói funkciók egy ökoszisztémában.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetengine.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetengine",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetengine",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetengine.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetEngine",
+    "description": "Dinamikus tartalom- és adatmodell-bővítmény WordPresshez: CPT/CCT, relációk, lekérdezések, listázások és felhasználói funkciók egy ökoszisztémában.",
+    "sidebar_label": "JetEngine"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetEngine - Trim string callback",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-trim-string-callback"
+  },
+  "next": {
+    "title": "JetFormBuilder Address Autocomplete",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-address-autocomplete"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/polylang-pro",
+  "title": "Polylang Pro",
+  "description": "Prémium többnyelvűségi bővítmény WordPresshez, DeepL integrációval, URL‑slug fordítással, XLIFF/PO folyamattal és SEO támogatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/polylang-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/polylang-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/polylang-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/polylang-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Polylang Pro",
+    "description": "Prémium többnyelvűségi bővítmény WordPresshez, DeepL integrációval, URL‑slug fordítással, XLIFF/PO folyamattal és SEO támogatással.",
+    "sidebar_label": "Polylang Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Polylang for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/polylang-for-woocommerce"
+  },
+  "next": {
+    "title": "Product Dynamic Pricing and Discounts",
+    "permalink": "/docs/tudasbazis/bovitmenyek/product-dynamic-pricing-and-discounts"
+  }
+}

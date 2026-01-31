@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/uzemeltetes/index",
+  "title": "Üzemeltetés és karbantartás",
+  "description": "Üzemeltetés és karbantartás tippek és trükkök",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/uzemeltetes/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/uzemeltetes",
+  "slug": "/tudasbazis/oktatoanyagok/uzemeltetes/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/uzemeltetes/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/uzemeltetes/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Üzemeltetés és karbantartás",
+    "description": "Üzemeltetés és karbantartás tippek és trükkök",
+    "keywords": [
+      "github"
+    ],
+    "sidebar_label": "Üzemeltetés és karbantartás",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SMS értesítés Amelia bővítményben",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/sms-ertesites-amelia-bovitmenyben"
+  },
+  "next": {
+    "title": "WordPress telepítése egy fájl segítségével",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/uzemeltetes/wordpress-telepitese-konnyeden-egy-telepito-fajl-segitsegevel"
+  }
+}

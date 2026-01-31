@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-woocommerce-add-on",
+  "title": "WP Booking System - WooCommerce Add-on",
+  "description": "A WP Booking System foglalásaid kifizetését a WooCommerce pénztárán kezeli, így elérheted a WooCommerce fizetési kapuit és testreszabhatod a teljes folyamatot.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-woocommerce-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-woocommerce-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-woocommerce-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-woocommerce-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - WooCommerce Add-on",
+    "description": "A WP Booking System foglalásaid kifizetését a WooCommerce pénztárán kezeli, így elérheted a WooCommerce fizetési kapuit és testreszabhatod a teljes folyamatot.",
+    "sidebar_label": "WP Booking System - WooCommerce Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Stripe Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-stripe-add-on"
+  },
+  "next": {
+    "title": "WP Booking System",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system"
+  }
+}

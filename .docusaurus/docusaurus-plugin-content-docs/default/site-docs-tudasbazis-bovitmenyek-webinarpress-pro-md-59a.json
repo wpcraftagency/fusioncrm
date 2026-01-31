@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/webinarpress-pro",
+  "title": "WebinarPress Pro",
+  "description": "Minden egyben webinar‑megoldás WordPresshez: élő és automatizált webinárok, fizetős hozzáférés, valós idejű interakciók és teljes funnel egyetlen bővítményben.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/webinarpress-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/webinarpress-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/webinarpress-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/webinarpress-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WebinarPress Pro",
+    "description": "Minden egyben webinar‑megoldás WordPresshez: élő és automatizált webinárok, fizetős hozzáférés, valós idejű interakciók és teljes funnel egyetlen bővítményben.",
+    "sidebar_label": "WebinarPress Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UserPro (5.1.11)",
+    "permalink": "/docs/tudasbazis/bovitmenyek/userpro-5-1-11"
+  },
+  "next": {
+    "title": "Wholesale For WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wholesale-for-woocommerce"
+  }
+}

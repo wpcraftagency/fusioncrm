@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/phpunit",
+  "title": "PHPUnit",
+  "description": "PHP unit tesztelés WordPress bővítményekhez és témákhoz PHPUnit-tal.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/phpunit.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/phpunit",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/phpunit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/phpunit.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "title": "PHPUnit",
+    "description": "PHP unit tesztelés WordPress bővítményekhez és témákhoz PHPUnit-tal.",
+    "keywords": [
+      "phpunit",
+      "testing",
+      "php",
+      "wordpress",
+      "unit test"
+    ],
+    "sidebar_label": "PHPUnit",
+    "sidebar_position": 17
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PhpStorm",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/phpstorm"
+  },
+  "next": {
+    "title": "Playwright",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/playwright"
+  }
+}

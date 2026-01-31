@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetengine-post-expiration-period-module",
+  "title": "JetEngine Post Expiration Period Module",
+  "description": "Ingyenes JetEngine kiegészítő, amellyel lejárati időt adhatsz a űrlappal beküldött bejegyzésekhez, és lejáratkor automatikusan Vázlatra állíthatod vagy a Lomtárba helyezheted őket.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetengine-post-expiration-period-module.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetengine-post-expiration-period-module",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-post-expiration-period-module",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetengine-post-expiration-period-module.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetEngine Post Expiration Period Module",
+    "description": "Ingyenes JetEngine kiegészítő, amellyel lejárati időt adhatsz a űrlappal beküldött bejegyzésekhez, és lejáratkor automatikusan Vázlatra állíthatod vagy a Lomtárba helyezheted őket.",
+    "sidebar_label": "JetEngine Post Expiration Period Module"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetEngine - Layout Switcher",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-layout-switcher"
+  },
+  "next": {
+    "title": "JetEngine - Trim string callback",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-trim-string-callback"
+  }
+}

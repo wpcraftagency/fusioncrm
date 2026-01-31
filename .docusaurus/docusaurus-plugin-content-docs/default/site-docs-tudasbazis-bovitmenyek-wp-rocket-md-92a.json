@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-rocket",
+  "title": "WP Rocket",
+  "description": "Prémium WordPress teljesítménybővítmény: gyorsítótárazás és front‑end optimalizálások a betöltési idő és a Core Web Vitals javításáért.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-rocket.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-rocket",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-rocket",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-rocket.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Rocket",
+    "description": "Prémium WordPress teljesítménybővítmény: gyorsítótárazás és front‑end optimalizálások a betöltési idő és a Core Web Vitals javításáért.",
+    "sidebar_label": "WP Rocket"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Rocket Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-rocket-integration"
+  },
+  "next": {
+    "title": "WPBakery Page Builder",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpbakery-page-builder"
+  }
+}

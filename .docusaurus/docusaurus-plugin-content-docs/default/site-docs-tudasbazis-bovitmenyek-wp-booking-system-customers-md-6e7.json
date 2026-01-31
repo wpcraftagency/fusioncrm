@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-customers",
+  "title": "WP Booking System - Customers",
+  "description": "Prémium kiegészítő a WP Booking Systemhez: a foglalásokból automatikusan ügyféllistát és részletes ügyfélstatisztikát készít, mini‑CRM nézetet adva a WordPress Vezérlőpulton.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-customers.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-customers",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-customers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-customers.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Customers",
+    "description": "Prémium kiegészítő a WP Booking Systemhez: a foglalásokból automatikusan ügyféllistát és részletes ügyfélstatisztikát készít, mini‑CRM nézetet adva a WordPress Vezérlőpulton.",
+    "sidebar_label": "WP Booking System - Customers"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Coupons & Discounts Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-coupons-discounts-add-on"
+  },
+  "next": {
+    "title": "WP Booking System - Email Reminders Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-email-reminders-add-on"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-gravityforms-integration",
+  "title": "LearnDash LMS - GravityForms Integration",
+  "description": "Hivatalos LearnDash kiegészítő a Gravity Forms és a LearnDash összekapcsolásához: egyedi regisztráció, fizetés és automatikus kurzusbeiratás.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-gravityforms-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-gravityforms-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-gravityforms-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-gravityforms-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - GravityForms Integration",
+    "description": "Hivatalos LearnDash kiegészítő a Gravity Forms és a LearnDash összekapcsolásához: egyedi regisztráció, fizetés és automatikus kurzusbeiratás.",
+    "sidebar_label": "LearnDash LMS - GravityForms Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - Event Espresso",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-event-espresso"
+  },
+  "next": {
+    "title": "LearnDash LMS - Integrity",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-integrity"
+  }
+}

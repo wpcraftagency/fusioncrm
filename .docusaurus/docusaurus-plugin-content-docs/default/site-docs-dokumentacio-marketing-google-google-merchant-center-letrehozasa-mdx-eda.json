@@ -1,0 +1,35 @@
+{
+  "id": "dokumentacio/marketing/Google/google-merchant-center-letrehozasa",
+  "title": "Google Merchant Center fiók létrehozása",
+  "description": "Google Merchant Center fiók létrehozása webáruházak számára a Google Shopping hirdetésekhez.",
+  "source": "@site/docs/dokumentacio/marketing/Google/google-merchant-center-letrehozasa.mdx",
+  "sourceDirName": "dokumentacio/marketing/Google",
+  "slug": "/dokumentacio/marketing/Google/google-merchant-center-letrehozasa",
+  "permalink": "/docs/dokumentacio/marketing/Google/google-merchant-center-letrehozasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/marketing/Google/google-merchant-center-letrehozasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Google Merchant Center fiók létrehozása",
+    "description": "Google Merchant Center fiók létrehozása webáruházak számára a Google Shopping hirdetésekhez.",
+    "keywords": [
+      "google merchant center",
+      "google shopping",
+      "webáruház"
+    ],
+    "sidebar_label": "Google Merchant Center fiók létrehozása",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Google Analytics hozzáférés megadása",
+    "permalink": "/docs/dokumentacio/marketing/Google/google-analytics-hozzaferes-adasa"
+  },
+  "next": {
+    "title": "Google Merchant Center hozzáférés adása",
+    "permalink": "/docs/dokumentacio/marketing/Google/google-merchant-center-hozzaferes-adasa"
+  }
+}

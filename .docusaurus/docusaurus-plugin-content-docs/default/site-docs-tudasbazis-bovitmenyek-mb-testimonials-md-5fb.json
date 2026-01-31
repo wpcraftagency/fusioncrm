@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-testimonials",
+  "title": "MB Testimonials",
+  "description": "Meta Box‑alapú WordPress kiegészítő ügyfélvélemények gyors rögzítéséhez és megjelenítéséhez rács vagy csúszka nézetben, sablonokkal és shortcode‑dal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-testimonials.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-testimonials",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-testimonials",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-testimonials.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Testimonials",
+    "description": "Meta Box‑alapú WordPress kiegészítő ügyfélvélemények gyors rögzítéséhez és megjelenítéséhez rács vagy csúszka nézetben, sablonokkal és shortcode‑dal.",
+    "sidebar_label": "MB Testimonials"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Term Meta",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-term-meta"
+  },
+  "next": {
+    "title": "MB Tooltip",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-tooltip"
+  }
+}

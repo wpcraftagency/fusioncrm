@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/account-funds-for-woocommerce",
+  "title": "Account Funds for WooCommerce",
+  "description": "Prémium WooCommerce kiegészítő, amellyel bolti pénztárcát (store credit) adhatsz a vásárlóidnak, részfizetéssel, visszatérítéssel és automatizált jutalmakkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/account-funds-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/account-funds-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/account-funds-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/account-funds-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Account Funds for WooCommerce",
+    "description": "Prémium WooCommerce kiegészítő, amellyel bolti pénztárcát (store credit) adhatsz a vásárlóidnak, részfizetéssel, visszatérítéssel és automatizált jutalmakkal.",
+    "sidebar_label": "Account Funds for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bővítmények",
+    "permalink": "/docs/tudasbazis/bovitmenyek/"
+  },
+  "next": {
+    "title": "Addify - Advanced Product Quantity",
+    "permalink": "/docs/tudasbazis/bovitmenyek/addify-advanced-product-quantity"
+  }
+}

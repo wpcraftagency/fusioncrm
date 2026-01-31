@@ -1,0 +1,35 @@
+{
+  "id": "dokumentacio/marketing/Google/google-ads-hozzafere-adasa",
+  "title": "Google Ads hozzáférés megadása",
+  "description": "Google Ads fiókhoz való hozzáférés megadása munkatársak vagy ügynökségek számára.",
+  "source": "@site/docs/dokumentacio/marketing/Google/google-ads-hozzafere-adasa.mdx",
+  "sourceDirName": "dokumentacio/marketing/Google",
+  "slug": "/dokumentacio/marketing/Google/google-ads-hozzafere-adasa",
+  "permalink": "/docs/dokumentacio/marketing/Google/google-ads-hozzafere-adasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/marketing/Google/google-ads-hozzafere-adasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Google Ads hozzáférés megadása",
+    "description": "Google Ads fiókhoz való hozzáférés megadása munkatársak vagy ügynökségek számára.",
+    "keywords": [
+      "google ads",
+      "hozzáférés",
+      "jogosultság"
+    ],
+    "sidebar_label": "Google Ads hozzáférés megadása",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Google Ads fiók létrehozása",
+    "permalink": "/docs/dokumentacio/marketing/Google/google-ads-fiok-letrehozasa"
+  },
+  "next": {
+    "title": "Google Analytics fiók létrehozása",
+    "permalink": "/docs/dokumentacio/marketing/Google/google-analytics-letrehozasa"
+  }
+}

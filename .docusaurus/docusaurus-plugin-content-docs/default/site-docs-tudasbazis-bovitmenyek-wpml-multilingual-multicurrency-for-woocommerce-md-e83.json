@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wpml-multilingual-multicurrency-for-woocommerce",
+  "title": "WPML Multilingual & Multicurrency for WooCommerce",
+  "description": "Hivatalos WPML-kiegészítő WooCommerce-hez: ingyenes többvalutás működés, WPML-lel együtt teljes többnyelvű webáruház.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wpml-multilingual-multicurrency-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wpml-multilingual-multicurrency-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wpml-multilingual-multicurrency-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wpml-multilingual-multicurrency-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WPML Multilingual & Multicurrency for WooCommerce",
+    "description": "Hivatalos WPML-kiegészítő WooCommerce-hez: ingyenes többvalutás működés, WPML-lel együtt teljes többnyelvű webáruház.",
+    "sidebar_label": "WPML Multilingual & Multicurrency for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WPML Multilingual CMS",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-multilingual-cms"
+  },
+  "next": {
+    "title": "WPML SEO",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-seo"
+  }
+}

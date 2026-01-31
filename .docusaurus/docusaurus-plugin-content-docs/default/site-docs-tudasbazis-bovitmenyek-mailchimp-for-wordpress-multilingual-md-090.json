@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mailchimp-for-wordpress-multilingual",
+  "title": "MailChimp for WordPress Multilingual",
+  "description": "A WPML és a Mailchimp for WordPress közötti hivatalos összekötő, amellyel az MC4WP feliratkozó űrlapok és üzenetek teljes körűen fordíthatók és egységesen kezelhetők.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mailchimp-for-wordpress-multilingual.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mailchimp-for-wordpress-multilingual",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mailchimp-for-wordpress-multilingual",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mailchimp-for-wordpress-multilingual.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MailChimp for WordPress Multilingual",
+    "description": "A WPML és a Mailchimp for WordPress közötti hivatalos összekötő, amellyel az MC4WP feliratkozó űrlapok és üzenetek teljes körűen fordíthatók és egységesen kezelhetők.",
+    "sidebar_label": "MailChimp for WordPress Multilingual"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MailChimp for WooCommerce Memberships",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mailchimp-for-woocommerce-memberships"
+  },
+  "next": {
+    "title": "MainWP Advanced Uptime Monitor Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-advanced-uptime-monitor-integration"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-url-extractor-extension",
+  "title": "MainWP URL Extractor Extension",
+  "description": "Pro kiegészítő a MainWP Dashboardhoz: URL‑ek és metaadatok tömeges kinyerése több WordPress webhelyről, testreszabható formátumban, CSV/TXT exporttal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-url-extractor-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-url-extractor-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-url-extractor-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-url-extractor-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP URL Extractor Extension",
+    "description": "Pro kiegészítő a MainWP Dashboardhoz: URL‑ek és metaadatok tömeges kinyerése több WordPress webhelyről, testreszabható formátumban, CSV/TXT exporttal.",
+    "sidebar_label": "MainWP URL Extractor Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP UpdraftPlus Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-updraftplus-extension"
+  },
+  "next": {
+    "title": "MainWP Virusdie Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-virusdie-extension"
+  }
+}

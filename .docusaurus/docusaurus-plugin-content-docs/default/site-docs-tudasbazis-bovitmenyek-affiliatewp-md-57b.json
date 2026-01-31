@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp",
+  "title": "AffiliateWP",
+  "description": "Prémium, self‑hosted affiliate program-kezelő WordPresshez, megbízható első fél cookie‑alapú követéssel és automatizált kifizetésekkel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP",
+    "description": "Prémium, self‑hosted affiliate program-kezelő WordPresshez, megbízható első fél cookie‑alapú követéssel és automatizált kifizetésekkel.",
+    "sidebar_label": "AffiliateWP"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - WooCommerce Redirect Affiliates",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-woocommerce-redirect-affiliates"
+  },
+  "next": {
+    "title": "All-in-One WP Migration and Backup",
+    "permalink": "/docs/tudasbazis/bovitmenyek/all-in-one-wp-migration-and-backup"
+  }
+}

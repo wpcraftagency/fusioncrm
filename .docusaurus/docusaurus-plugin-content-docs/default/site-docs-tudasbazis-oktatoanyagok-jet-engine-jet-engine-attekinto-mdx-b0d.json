@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/oktatoanyagok/JetEngine/JetEngine Áttekintő",
+  "title": "JetEngine - Áttekintés",
+  "description": "Mi az a JetEngine, milyen funkciókat tartalmaz, milyen típusú oldalakat és rendszereket készíthetünk vele.",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/JetEngine/JetEngine Áttekintő.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/JetEngine",
+  "slug": "/tudasbazis/oktatoanyagok/JetEngine/JetEngine Áttekintő",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/JetEngine Áttekintő",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/JetEngine/JetEngine Áttekintő.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "JetEngine - Áttekintés",
+    "description": "Mi az a JetEngine, milyen funkciókat tartalmaz, milyen típusú oldalakat és rendszereket készíthetünk vele.",
+    "keywords": [
+      "jetengine",
+      "cpt",
+      "cct",
+      "elementor"
+    ],
+    "sidebar_label": "Áttekintés",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetEngine",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/"
+  },
+  "next": {
+    "title": "JetEngine CCT relations",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/jetengine-cct-relations-jfb"
+  }
+}

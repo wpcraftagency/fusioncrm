@@ -1,0 +1,35 @@
+{
+  "id": "dokumentacio/marketing/Google/google-merchant-center-hozzaferes-adasa",
+  "title": "Google Merchant Center hozzáférés adása",
+  "description": "Google Merchant Center fiókhoz való hozzáférés megadása munkatársak vagy ügynökségek számára.",
+  "source": "@site/docs/dokumentacio/marketing/Google/google-merchant-center-hozzaferes-adasa.mdx",
+  "sourceDirName": "dokumentacio/marketing/Google",
+  "slug": "/dokumentacio/marketing/Google/google-merchant-center-hozzaferes-adasa",
+  "permalink": "/docs/dokumentacio/marketing/Google/google-merchant-center-hozzaferes-adasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/marketing/Google/google-merchant-center-hozzaferes-adasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Google Merchant Center hozzáférés adása",
+    "description": "Google Merchant Center fiókhoz való hozzáférés megadása munkatársak vagy ügynökségek számára.",
+    "keywords": [
+      "google merchant center",
+      "hozzáférés",
+      "shopping"
+    ],
+    "sidebar_label": "Google Merchant Center hozzáférés adása",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Google Merchant Center fiók létrehozása",
+    "permalink": "/docs/dokumentacio/marketing/Google/google-merchant-center-letrehozasa"
+  },
+  "next": {
+    "title": "MailHub",
+    "permalink": "/docs/dokumentacio/mailhub/"
+  }
+}

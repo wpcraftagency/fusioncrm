@@ -1,0 +1,37 @@
+{
+  "id": "dokumentacio/uzemeltetes-karbantartas/levelezes-beallitasa",
+  "title": "Levelezés beállítása",
+  "description": "Email fiók beállítása különböző levelezőprogramokban - POP3, IMAP és SMTP konfiguráció.",
+  "source": "@site/docs/dokumentacio/uzemeltetes-karbantartas/levelezes-beallitasa.mdx",
+  "sourceDirName": "dokumentacio/uzemeltetes-karbantartas",
+  "slug": "/dokumentacio/uzemeltetes-karbantartas/levelezes-beallitasa",
+  "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/levelezes-beallitasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/uzemeltetes-karbantartas/levelezes-beallitasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Levelezés beállítása",
+    "description": "Email fiók beállítása különböző levelezőprogramokban - POP3, IMAP és SMTP konfiguráció.",
+    "keywords": [
+      "email beállítás",
+      "levelezés",
+      "pop3",
+      "imap",
+      "smtp"
+    ],
+    "sidebar_label": "Levelezés beállítása",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cloudflare regisztráció és hozzáférés",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/cloudflare-regisztracio-hozzaferes"
+  },
+  "next": {
+    "title": "Mi nem tartozik bele az üzemeltetésbe?",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/mi-nem-tartozik-bele-az-uzemeltetesbe"
+  }
+}

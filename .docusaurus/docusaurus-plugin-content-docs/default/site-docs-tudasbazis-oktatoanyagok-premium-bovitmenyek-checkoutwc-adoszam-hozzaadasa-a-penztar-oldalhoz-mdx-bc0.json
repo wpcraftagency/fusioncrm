@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/oktatoanyagok/premium-bovitmenyek/checkoutwc-adoszam-hozzaadasa-a-penztar-oldalhoz",
+  "title": "CheckoutWC: Adószám hozzáadása a pénztár oldalhoz",
+  "description": "CheckoutWC: Adószám hozzáadása a pénztár oldalhoz",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/checkoutwc-adoszam-hozzaadasa-a-penztar-oldalhoz.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/premium-bovitmenyek",
+  "slug": "/tudasbazis/oktatoanyagok/premium-bovitmenyek/checkoutwc-adoszam-hozzaadasa-a-penztar-oldalhoz",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/checkoutwc-adoszam-hozzaadasa-a-penztar-oldalhoz",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/checkoutwc-adoszam-hozzaadasa-a-penztar-oldalhoz.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "CheckoutWC: Adószám hozzáadása a pénztár oldalhoz",
+    "description": "CheckoutWC: Adószám hozzáadása a pénztár oldalhoz",
+    "keywords": [
+      "checkoutwc",
+      "woocommerce",
+      "adószám",
+      "pénztár"
+    ],
+    "sidebar_label": "CheckoutWC: Adószám hozzáadása a pénztár oldalhoz",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prémium bővítmények",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/"
+  },
+  "next": {
+    "title": "SMS értesítés Amelia bővítményben",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/sms-ertesites-amelia-bovitmenyben"
+  }
+}

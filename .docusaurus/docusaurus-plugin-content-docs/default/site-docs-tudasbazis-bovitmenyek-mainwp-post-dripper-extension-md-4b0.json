@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-post-dripper-extension",
+  "title": "MainWP Post Dripper Extension",
+  "description": "Pro kiegészítő a MainWP-hez, amellyel bejegyzéseket és oldalakat ütemezetten, „csöpögtetve” publikálhatsz több összekapcsolt WordPress-oldalra a központi irányítópultról.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-post-dripper-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-post-dripper-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-post-dripper-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-post-dripper-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Post Dripper Extension",
+    "description": "Pro kiegészítő a MainWP-hez, amellyel bejegyzéseket és oldalakat ütemezetten, „csöpögtetve” publikálhatsz több összekapcsolt WordPress-oldalra a központi irányítópultról.",
+    "sidebar_label": "MainWP Post Dripper Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Matomo Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-matomo-extension"
+  },
+  "next": {
+    "title": "MainWP Post Plus Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-post-plus-extension"
+  }
+}

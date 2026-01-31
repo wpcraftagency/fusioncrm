@@ -1,0 +1,27 @@
+{
+  "id": "sugo/partnerprogram/partnerazonositod",
+  "title": "Partnerazonosítód",
+  "description": "A partnerazonosító az a szám, amivel a HelloWP! partnerprogramban való részvételhez és a jutalék kifizetéséhez szükséges.",
+  "source": "@site/docs/sugo/partnerprogram/partnerazonositod.md",
+  "sourceDirName": "sugo/partnerprogram",
+  "slug": "/sugo/partnerprogram/partnerazonositod",
+  "permalink": "/docs/sugo/partnerprogram/partnerazonositod",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/partnerprogram/partnerazonositod.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Partnerprogram központ",
+    "permalink": "/docs/sugo/partnerprogram/kozpont"
+  },
+  "next": {
+    "title": "Partnerlink",
+    "permalink": "/docs/sugo/partnerprogram/partnerlink"
+  }
+}

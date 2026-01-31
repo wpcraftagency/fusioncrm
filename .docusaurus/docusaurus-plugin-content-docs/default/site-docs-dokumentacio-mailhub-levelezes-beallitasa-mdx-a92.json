@@ -1,0 +1,37 @@
+{
+  "id": "dokumentacio/mailhub/levelezes-beallitasa",
+  "title": "Levelezés manuális beállítása",
+  "description": "MailHub email fiók manuális beállítása - IMAP, POP3 és SMTP szerver adatok.",
+  "source": "@site/docs/dokumentacio/mailhub/levelezes-beallitasa.mdx",
+  "sourceDirName": "dokumentacio/mailhub",
+  "slug": "/dokumentacio/mailhub/levelezes-beallitasa",
+  "permalink": "/docs/dokumentacio/mailhub/levelezes-beallitasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/mailhub/levelezes-beallitasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Levelezés manuális beállítása",
+    "description": "MailHub email fiók manuális beállítása - IMAP, POP3 és SMTP szerver adatok.",
+    "keywords": [
+      "mailhub",
+      "email beállítás",
+      "imap",
+      "pop3",
+      "smtp"
+    ],
+    "sidebar_label": "Manuális beállítás",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MailHub",
+    "permalink": "/docs/dokumentacio/mailhub/"
+  },
+  "next": {
+    "title": "Apple macOS / iOS",
+    "permalink": "/docs/dokumentacio/mailhub/apple-macos-ios"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/vite",
+  "title": "Vite",
+  "description": "Modern és gyors frontend build eszköz WordPress témákhoz és bővítményekhez.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/vite.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/vite",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/vite",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/vite.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 22,
+  "frontMatter": {
+    "title": "Vite",
+    "description": "Modern és gyors frontend build eszköz WordPress témákhoz és bővítményekhez.",
+    "keywords": [
+      "vite",
+      "build tool",
+      "javascript",
+      "css",
+      "wordpress"
+    ],
+    "sidebar_label": "Vite",
+    "sidebar_position": 22
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trellis",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/trellis"
+  },
+  "next": {
+    "title": "VS Code",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/vscode"
+  }
+}

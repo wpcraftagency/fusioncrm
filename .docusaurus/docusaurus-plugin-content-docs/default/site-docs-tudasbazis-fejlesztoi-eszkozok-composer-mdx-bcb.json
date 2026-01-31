@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/composer",
+  "title": "Composer",
+  "description": "PHP függőségkezelő eszköz WordPress projektekhez - pluginok, témák és könyvtárak kezelése.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/composer.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/composer",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/composer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/composer.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Composer",
+    "description": "PHP függőségkezelő eszköz WordPress projektekhez - pluginok, témák és könyvtárak kezelése.",
+    "keywords": [
+      "composer",
+      "php",
+      "függőségkezelő",
+      "csomagkezelő",
+      "wordpress"
+    ],
+    "sidebar_label": "Composer",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DDEV",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/ddev"
+  },
+  "next": {
+    "title": "Debug Bar",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/debug-bar"
+  }
+}

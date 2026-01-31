@@ -1,0 +1,33 @@
+{
+  "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-frissitese",
+  "title": "Divi frissítése",
+  "description": "Divi frissítése",
+  "source": "@site/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-frissitese.mdx",
+  "sourceDirName": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak",
+  "slug": "/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-frissitese",
+  "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-frissitese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-frissitese.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Divi frissítése",
+    "description": "Divi frissítése",
+    "keywords": [
+      "divi"
+    ],
+    "sidebar_label": "Frissítése",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Builder telepítése",
+    "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-builder-telepitese"
+  },
+  "next": {
+    "title": "Header és Footer importálása",
+    "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-header-es-footer-importalasa"
+  }
+}

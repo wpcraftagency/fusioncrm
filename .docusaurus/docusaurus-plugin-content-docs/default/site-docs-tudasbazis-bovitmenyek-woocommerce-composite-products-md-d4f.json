@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-composite-products",
+  "title": "WooCommerce Composite Products",
+  "description": "Hivatalos WooCommerce kiterjesztés összetett, komponensekből felépülő, raktárkezelt, konfigurálható termékekhez – precíz árazással, készlet- és szállításlogikával.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-composite-products.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-composite-products",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-composite-products",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-composite-products.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Composite Products",
+    "description": "Hivatalos WooCommerce kiterjesztés összetett, komponensekből felépülő, raktárkezelt, konfigurálható termékekhez – precíz árazással, készlet- és szállításlogikával.",
+    "sidebar_label": "WooCommerce Composite Products"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Checkout Field Editor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-checkout-field-editor"
+  },
+  "next": {
+    "title": "WooCommerce Conditional Shipping and Payments",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-conditional-shipping-and-payments"
+  }
+}

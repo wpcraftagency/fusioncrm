@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/github-desktop",
+  "title": "GitHub Desktop - Vizuális Git kezelő",
+  "description": "GitHub Desktop telepítése és használata - Git verziókezelés egyszerűen, grafikus felülettel.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/github-desktop.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/github-desktop",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/github-desktop",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/github-desktop.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "GitHub Desktop - Vizuális Git kezelő",
+    "description": "GitHub Desktop telepítése és használata - Git verziókezelés egyszerűen, grafikus felülettel.",
+    "keywords": [
+      "github desktop",
+      "git",
+      "verziókezelés",
+      "version control"
+    ],
+    "sidebar_label": "GitHub Desktop",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Copilot",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/github-copilot"
+  },
+  "next": {
+    "title": "GTmetrix",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/gtmetrix"
+  }
+}

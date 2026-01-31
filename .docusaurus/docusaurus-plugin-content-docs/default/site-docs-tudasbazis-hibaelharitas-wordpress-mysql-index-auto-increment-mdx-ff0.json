@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/hibaelharitas/wordpress/mysql-index-auto-increment",
+  "title": "WordPress-es hibaelhárítás",
+  "description": "WordPress-es hibaelhárítás",
+  "source": "@site/docs/tudasbazis/hibaelharitas/wordpress/mysql-index-auto-increment.mdx",
+  "sourceDirName": "tudasbazis/hibaelharitas/wordpress",
+  "slug": "/tudasbazis/hibaelharitas/wordpress/mysql-index-auto-increment",
+  "permalink": "/docs/tudasbazis/hibaelharitas/wordpress/mysql-index-auto-increment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hibaelharitas/wordpress/mysql-index-auto-increment.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "WordPress-es hibaelhárítás",
+    "description": "WordPress-es hibaelhárítás",
+    "keywords": [
+      "hibaelharitas"
+    ],
+    "sidebar_label": "MySQL index és auto_increment hiba javítása",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bővítmény telepítési hiba",
+    "permalink": "/docs/tudasbazis/hibaelharitas/wordpress/bovitmeny-telepitesi-hiba"
+  },
+  "next": {
+    "title": "Sablon telepítési hiba",
+    "permalink": "/docs/tudasbazis/hibaelharitas/wordpress/sablon-telepitesi-hiba"
+  }
+}

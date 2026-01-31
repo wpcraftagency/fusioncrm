@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-advanced-booking-restrictions-add-on",
+  "title": "WP Booking System - Advanced Booking Restrictions Add-on",
+  "description": "Foglalási korlátozások űrlap‑szinten: minimum/maximum éjszaka, changeover napok, előfoglalási ablak, turnaround idő és szezonális szabályok.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-advanced-booking-restrictions-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-advanced-booking-restrictions-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-advanced-booking-restrictions-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-advanced-booking-restrictions-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Advanced Booking Restrictions Add-on",
+    "description": "Foglalási korlátozások űrlap‑szinten: minimum/maximum éjszaka, changeover napok, előfoglalási ablak, turnaround idő és szezonális szabályok.",
+    "sidebar_label": "WP Booking System - Advanced Booking Restrictions Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Import - WooCommerce Import Add-On Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-woocommerce-import-add-on-pro"
+  },
+  "next": {
+    "title": "WP Booking System - Authorize.Net Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-authorize-net-add-on"
+  }
+}

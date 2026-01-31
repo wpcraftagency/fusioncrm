@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-comments-extension",
+  "title": "MainWP Comments Extension",
+  "description": "Központi kommentmoderálás több WordPress-webhelyen a MainWP Dashboardból, tömeges műveletekkel és fejlett szűréssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-comments-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-comments-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-comments-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-comments-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Comments Extension",
+    "description": "Központi kommentmoderálás több WordPress-webhelyen a MainWP Dashboardból, tömeges műveletekkel és fejlett szűréssel.",
+    "sidebar_label": "MainWP Comments Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Code Snippets Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-code-snippets-extension"
+  },
+  "next": {
+    "title": "MainWP Custom Dashboard Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-custom-dashboard-extension"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/teams-for-woocommerce-memberships",
+  "title": "Teams for WooCommerce Memberships",
+  "description": "WooCommerce-kiegészítő, amellyel egyéni tagságok helyett csapatoknak/csoportoknak adhatsz hozzáférést, központosított számlázással és helykezeléssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/teams-for-woocommerce-memberships.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/teams-for-woocommerce-memberships",
+  "permalink": "/docs/tudasbazis/bovitmenyek/teams-for-woocommerce-memberships",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/teams-for-woocommerce-memberships.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Teams for WooCommerce Memberships",
+    "description": "WooCommerce-kiegészítő, amellyel egyéni tagságok helyett csapatoknak/csoportoknak adhatsz hozzáférést, központosított számlázással és helykezeléssel.",
+    "sidebar_label": "Teams for WooCommerce Memberships"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Solid Security Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/solid-security-pro"
+  },
+  "next": {
+    "title": "Termageddon for MainWP",
+    "permalink": "/docs/tudasbazis/bovitmenyek/termageddon-for-mainwp"
+  }
+}

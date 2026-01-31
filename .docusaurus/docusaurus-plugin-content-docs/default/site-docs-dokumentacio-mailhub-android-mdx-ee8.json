@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/mailhub/android",
+  "title": "Levelezés beállítása Android eszközökön",
+  "description": "MailHub email fiók beállítása Android telefonokon és tableteken.",
+  "source": "@site/docs/dokumentacio/mailhub/android.mdx",
+  "sourceDirName": "dokumentacio/mailhub",
+  "slug": "/dokumentacio/mailhub/android",
+  "permalink": "/docs/dokumentacio/mailhub/android",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/mailhub/android.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Levelezés beállítása Android eszközökön",
+    "description": "MailHub email fiók beállítása Android telefonokon és tableteken.",
+    "keywords": [
+      "mailhub",
+      "android",
+      "email beállítás",
+      "mobil"
+    ],
+    "sidebar_label": "Android",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Apple macOS / iOS",
+    "permalink": "/docs/dokumentacio/mailhub/apple-macos-ios"
+  },
+  "next": {
+    "title": "Microsoft Outlook",
+    "permalink": "/docs/dokumentacio/mailhub/microsoft-outlook"
+  }
+}

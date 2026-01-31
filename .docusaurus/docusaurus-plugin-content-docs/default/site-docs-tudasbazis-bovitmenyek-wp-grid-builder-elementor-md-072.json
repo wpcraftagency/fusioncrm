@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-grid-builder-elementor",
+  "title": "WP Grid Builder - Elementor",
+  "description": "Prémium rácselrendezés és facettás szűrés WordPresshez, natív Elementor-integrációval (Grid és Facet widgetek).",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-grid-builder-elementor.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-grid-builder-elementor",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-elementor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-grid-builder-elementor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Grid Builder - Elementor",
+    "description": "Prémium rácselrendezés és facettás szűrés WordPresshez, natív Elementor-integrációval (Grid és Facet widgetek).",
+    "sidebar_label": "WP Grid Builder - Elementor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Grid Builder - Caching",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-caching"
+  },
+  "next": {
+    "title": "WP Grid Builder - LearnDash",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-learndash"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dokumentacio/uzemeltetes-karbantartas/cloudflare-regisztracio-hozzaferes",
+  "title": "Cloudflare regisztráció és hozzáférés megadása",
+  "description": "Ebben az útmutatóban megmutatjuk hogyan tudsz Cloudflare fiókot létrehozni és hozzáférést adni a részünkre.",
+  "source": "@site/docs/dokumentacio/uzemeltetes-karbantartas/cloudflare-regisztracio-hozzaferes.mdx",
+  "sourceDirName": "dokumentacio/uzemeltetes-karbantartas",
+  "slug": "/dokumentacio/uzemeltetes-karbantartas/cloudflare-regisztracio-hozzaferes",
+  "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/cloudflare-regisztracio-hozzaferes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/uzemeltetes-karbantartas/cloudflare-regisztracio-hozzaferes.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Cloudflare regisztráció és hozzáférés megadása",
+    "description": "Ebben az útmutatóban megmutatjuk hogyan tudsz Cloudflare fiókot létrehozni és hozzáférést adni a részünkre.",
+    "keywords": [
+      "cloudflare",
+      "cloudflare regisztráció",
+      "cloudflare hozzáférés"
+    ],
+    "sidebar_label": "Cloudflare regisztráció és hozzáférés",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hozzáférés a szerverhez",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/hozzaferes-a-szerverhez"
+  },
+  "next": {
+    "title": "Levelezés beállítása",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/levelezes-beallitasa"
+  }
+}

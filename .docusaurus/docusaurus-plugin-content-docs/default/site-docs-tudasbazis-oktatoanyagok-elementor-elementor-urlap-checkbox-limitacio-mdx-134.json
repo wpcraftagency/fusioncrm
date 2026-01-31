@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/oktatoanyagok/elementor/elementor-urlap-checkbox-limitacio",
+  "title": "Elementor űrlap - Checkbox limitáció",
+  "description": "Elementor űrlap - hogyan állítsuk be, hogy csak limitált számban tudjanak a látogatók bejelölni Checkboxokat",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/elementor/elementor-urlap-checkbox-limitacio.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/elementor",
+  "slug": "/tudasbazis/oktatoanyagok/elementor/elementor-urlap-checkbox-limitacio",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/elementor-urlap-checkbox-limitacio",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/elementor/elementor-urlap-checkbox-limitacio.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Elementor űrlap - Checkbox limitáció",
+    "description": "Elementor űrlap - hogyan állítsuk be, hogy csak limitált számban tudjanak a látogatók bejelölni Checkboxokat",
+    "keywords": [
+      "elementor",
+      "űrlap",
+      "checkbox",
+      "jQuery"
+    ],
+    "sidebar_label": "Elementor űrlap",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ultimate Header",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/Ultimate Header"
+  },
+  "next": {
+    "title": "Github",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/github/"
+  }
+}

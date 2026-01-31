@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/custom-user-registration-fields-for-woocommerce",
+  "title": "Custom User Registration Fields for WooCommerce",
+  "description": "Fizetős WooCommerce-kiegészítő az egyedi regisztrációs mezők, szerepkör-választó, jóváhagyás és értesítések kezelésére – B2C és B2B folyamatokhoz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/custom-user-registration-fields-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/custom-user-registration-fields-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/custom-user-registration-fields-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/custom-user-registration-fields-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Custom User Registration Fields for WooCommerce",
+    "description": "Fizetős WooCommerce-kiegészítő az egyedi regisztrációs mezők, szerepkör-választó, jóváhagyás és értesítések kezelésére – B2C és B2B folyamatokhoz.",
+    "sidebar_label": "Custom User Registration Fields for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Custom Stock Status",
+    "permalink": "/docs/tudasbazis/bovitmenyek/custom-stock-status"
+  },
+  "next": {
+    "title": "Customize My Account Page For Woocommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/customize-my-account-page-for-woocommerce"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/yoast-seo-premium",
+  "title": "Yoast SEO Premium",
+  "description": "A Yoast SEO fizetős kiadása WordPresshez, amely automatizálja a technikai SEO-t, AI‑val segíti a tartalom-optimalizálást, és munkafolyamatokat ad a jobb láthatóságért.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/yoast-seo-premium.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/yoast-seo-premium",
+  "permalink": "/docs/tudasbazis/bovitmenyek/yoast-seo-premium",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/yoast-seo-premium.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Yoast SEO Premium",
+    "description": "A Yoast SEO fizetős kiadása WordPresshez, amely automatizálja a technikai SEO-t, AI‑val segíti a tartalom-optimalizálást, és munkafolyamatokat ad a jobb láthatóságért.",
+    "sidebar_label": "Yoast SEO Premium"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "YITH WooCommerce Ajax Product Filter Premium",
+    "permalink": "/docs/tudasbazis/bovitmenyek/yith-woocommerce-ajax-product-filter-premium"
+  },
+  "next": {
+    "title": "Yoast SEO: WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/yoast-seo-woocommerce"
+  }
+}

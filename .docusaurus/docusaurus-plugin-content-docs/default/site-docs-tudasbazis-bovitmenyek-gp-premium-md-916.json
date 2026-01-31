@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/gp-premium",
+  "title": "GP Premium",
+  "description": "Moduláris prémium kiegészítő a GeneratePress témához: blokk‑alapú sablonépítés, fejlett elrendezés- és stílusvezérlés, valamint gyors indulást segítő kezdőoldal-könyvtár.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/gp-premium.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/gp-premium",
+  "permalink": "/docs/tudasbazis/bovitmenyek/gp-premium",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/gp-premium.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "GP Premium",
+    "description": "Moduláris prémium kiegészítő a GeneratePress témához: blokk‑alapú sablonépítés, fejlett elrendezés- és stílusvezérlés, valamint gyors indulást segítő kezdőoldal-könyvtár.",
+    "sidebar_label": "GP Premium"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GenerateBlocks",
+    "permalink": "/docs/tudasbazis/bovitmenyek/generateblocks"
+  },
+  "next": {
+    "title": "Gravity Forms Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gravity-forms-multilingual"
+  }
+}

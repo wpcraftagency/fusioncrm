@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/coolors",
+  "title": "Coolors - Színpaletta generátor",
+  "description": "Coolors használata színpaletták generálásához és kezeléséhez - a leggyorsabb színpaletta generátor designereknek.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/coolors.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/coolors",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/coolors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/coolors.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Coolors - Színpaletta generátor",
+    "description": "Coolors használata színpaletták generálásához és kezeléséhez - a leggyorsabb színpaletta generátor designereknek.",
+    "keywords": [
+      "coolors",
+      "color palette",
+      "színpaletta",
+      "design",
+      "colors"
+    ],
+    "sidebar_label": "Coolors",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bitwarden",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/bitwarden"
+  },
+  "next": {
+    "title": "Figma",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/figma"
+  }
+}

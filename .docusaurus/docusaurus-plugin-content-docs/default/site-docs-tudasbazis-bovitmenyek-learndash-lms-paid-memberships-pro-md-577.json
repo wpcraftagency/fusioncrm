@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-paid-memberships-pro",
+  "title": "LearnDash LMS - Paid Memberships Pro",
+  "description": "Hivatalos, ingyenes integráció, amellyel a LearnDash kurzusokat tagsági szintekhez rendelheted a Paid Memberships Pro segítségével; automatikus beíratás, előfizetések és hozzáférés-kezelés.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-paid-memberships-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-paid-memberships-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-paid-memberships-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-paid-memberships-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - Paid Memberships Pro",
+    "description": "Hivatalos, ingyenes integráció, amellyel a LearnDash kurzusokat tagsági szintekhez rendelheted a Paid Memberships Pro segítségével; automatikus beíratás, előfizetések és hozzáférés-kezelés.",
+    "sidebar_label": "LearnDash LMS - Paid Memberships Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - Notifications",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-notifications"
+  },
+  "next": {
+    "title": "LearnDash LMS - Restrict Content Pro Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-restrict-content-pro-integration"
+  }
+}

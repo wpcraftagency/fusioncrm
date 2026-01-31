@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetproducttables",
+  "title": "JetProductTables",
+  "description": "Prémium WooCommerce-kiegészítő rugalmas, reszponzív terméktáblákhoz – fejlett szűréssel, rendezéssel, variációkezeléssel és mobil‑specifikus nézetekkel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetproducttables.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetproducttables",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetproducttables",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetproducttables.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetProductTables",
+    "description": "Prémium WooCommerce-kiegészítő rugalmas, reszponzív terméktáblákhoz – fejlett szűréssel, rendezéssel, variációkezeléssel és mobil‑specifikus nézetekkel.",
+    "sidebar_label": "JetProductTables"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetProductGallery",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetproductgallery"
+  },
+  "next": {
+    "title": "JetReviews For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetreviews-for-elementor"
+  }
+}

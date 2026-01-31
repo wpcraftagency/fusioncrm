@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-integrity",
+  "title": "LearnDash LMS - Integrity",
+  "description": "Hivatalos, ingyenes LearnDash kiegészítő a kurzusoldalak integritásának védelmére: hotlink‑védelem, párhuzamos bejelentkezés tiltása, tartalom‑másolás gátlása és reCAPTCHA.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-integrity.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-integrity",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-integrity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-integrity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - Integrity",
+    "description": "Hivatalos, ingyenes LearnDash kiegészítő a kurzusoldalak integritásának védelmére: hotlink‑védelem, párhuzamos bejelentkezés tiltása, tartalom‑másolás gátlása és reCAPTCHA.",
+    "sidebar_label": "LearnDash LMS - Integrity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - GravityForms Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-gravityforms-integration"
+  },
+  "next": {
+    "title": "LearnDash LMS - MemberPress Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-memberpress-integration"
+  }
+}

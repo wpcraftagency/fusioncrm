@@ -1,0 +1,27 @@
+{
+  "id": "sugo/partnerprogram/kozpont",
+  "title": "Partnerprogram központ",
+  "description": "A HelloWP! partnerprogramjában résztvevők számára külön weboldalt hoztunk létre. Ez a Partnerprogram központ.",
+  "source": "@site/docs/sugo/partnerprogram/kozpont.md",
+  "sourceDirName": "sugo/partnerprogram",
+  "slug": "/sugo/partnerprogram/kozpont",
+  "permalink": "/docs/sugo/partnerprogram/kozpont",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/partnerprogram/kozpont.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kifizetési feltételek",
+    "permalink": "/docs/sugo/partnerprogram/kifizetesi-feltetelek"
+  },
+  "next": {
+    "title": "Partnerazonosítód",
+    "permalink": "/docs/sugo/partnerprogram/partnerazonositod"
+  }
+}

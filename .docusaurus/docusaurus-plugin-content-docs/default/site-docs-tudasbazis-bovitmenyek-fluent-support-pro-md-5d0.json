@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluent-support-pro",
+  "title": "Fluent Support Pro",
+  "description": "Önhosztolt, WordPress‑alapú helpdesk és ügyfélszolgálati rendszer. A Pro kiegészítő haladó automatizálással, e‑mail pipinggel, riportokkal és integrációkkal bővíti a core funkciókat.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluent-support-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluent-support-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluent-support-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluent-support-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fluent Support Pro",
+    "description": "Önhosztolt, WordPress‑alapú helpdesk és ügyfélszolgálati rendszer. A Pro kiegészítő haladó automatizálással, e‑mail pipinggel, riportokkal és integrációkkal bővíti a core funkciókat.",
+    "sidebar_label": "Fluent Support Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fluent Forms",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-forms"
+  },
+  "next": {
+    "title": "Fluent Support",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-support"
+  }
+}

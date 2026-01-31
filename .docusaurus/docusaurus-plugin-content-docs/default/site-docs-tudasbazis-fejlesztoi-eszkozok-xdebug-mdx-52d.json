@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/xdebug",
+  "title": "Xdebug",
+  "description": "PHP debug és profiling Xdebug segítségével WordPress fejlesztéshez.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/xdebug.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/xdebug",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/xdebug",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/xdebug.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 27,
+  "frontMatter": {
+    "title": "Xdebug",
+    "description": "PHP debug és profiling Xdebug segítségével WordPress fejlesztéshez.",
+    "keywords": [
+      "xdebug",
+      "debug",
+      "php",
+      "profiling",
+      "wordpress"
+    ],
+    "sidebar_label": "Xdebug",
+    "sidebar_position": 27
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WPackagist",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/wpackagist"
+  },
+  "next": {
+    "title": "Közösség",
+    "permalink": "/docs/kozosseg/"
+  }
+}

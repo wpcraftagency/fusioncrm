@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/aktivalas",
+  "title": "Csomagkezelő aktiválása",
+  "description": "HelloPack csomagkezelő aktiválása API-kulcs segítségével a prémium bővítmények eléréséhez.",
+  "source": "@site/docs/dokumentacio/hellopack/aktivalas.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/aktivalas",
+  "permalink": "/docs/dokumentacio/hellopack/aktivalas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/aktivalas.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Csomagkezelő aktiválása",
+    "description": "HelloPack csomagkezelő aktiválása API-kulcs segítségével a prémium bővítmények eléréséhez.",
+    "keywords": [
+      "hellopack",
+      "aktiválás",
+      "api-kulcs",
+      "licenc"
+    ],
+    "sidebar_label": "Csomagkezelő aktiválása",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Csomagkezelő letöltése és telepítése",
+    "permalink": "/docs/dokumentacio/hellopack/letoltes-telepites"
+  },
+  "next": {
+    "title": "Bővítmények letöltése",
+    "permalink": "/docs/dokumentacio/hellopack/bovitmenyek-letoltese"
+  }
+}

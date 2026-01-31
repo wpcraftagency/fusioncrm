@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-bulk-settings-manager-extension",
+  "title": "MainWP Bulk Settings Manager Extension",
+  "description": "MainWP kiegészítő, amellyel a WordPress Core, bővítmények és témák beállításait tömegesen, központilag oszthatod ki több különálló webhelyre.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-bulk-settings-manager-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-bulk-settings-manager-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-bulk-settings-manager-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-bulk-settings-manager-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Bulk Settings Manager Extension",
+    "description": "MainWP kiegészítő, amellyel a WordPress Core, bővítmények és témák beállításait tömegesen, központilag oszthatod ki több különálló webhelyre.",
+    "sidebar_label": "MainWP Bulk Settings Manager Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Buddy Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-buddy-extension"
+  },
+  "next": {
+    "title": "MainWP Cache Control Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-cache-control-extension"
+  }
+}

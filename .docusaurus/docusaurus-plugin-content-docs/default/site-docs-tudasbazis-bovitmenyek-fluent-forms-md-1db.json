@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluent-forms",
+  "title": "Fluent Forms",
+  "description": "Modern, gyors WordPress űrlapkészítő: drag-and-drop, feltételes logika, fizetések, riportok és 60+ integráció – kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluent-forms.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluent-forms",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluent-forms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluent-forms.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fluent Forms",
+    "description": "Modern, gyors WordPress űrlapkészítő: drag-and-drop, feltételes logika, fizetések, riportok és 60+ integráció – kódolás nélkül.",
+    "sidebar_label": "Fluent Forms"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fluent Forms Signature Addon",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-forms-signature-addon"
+  },
+  "next": {
+    "title": "Fluent Support Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-support-pro"
+  }
+}

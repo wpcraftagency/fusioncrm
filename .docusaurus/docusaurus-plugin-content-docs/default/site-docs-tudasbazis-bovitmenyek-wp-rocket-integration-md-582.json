@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-rocket-integration",
+  "title": "WP Rocket Integration",
+  "description": "MainWP kiegészítő a WP Rocket központi, tömeges kezeléséhez több WordPress webhelyen.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-rocket-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-rocket-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-rocket-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-rocket-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Rocket Integration",
+    "description": "MainWP kiegészítő a WP Rocket központi, tömeges kezeléséhez több WordPress webhelyen.",
+    "sidebar_label": "WP Rocket Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Grid Builder",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-grid-builder"
+  },
+  "next": {
+    "title": "WP Rocket",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-rocket"
+  }
+}

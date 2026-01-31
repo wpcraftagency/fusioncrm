@@ -1,0 +1,55 @@
+{
+  "permalink": "/blog/2021/03/20/gyors-bankkartyas-fizetes-woocommerce-re-paylike",
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/blog/2021-03-20-gyors-bankkartyas-fizetes-woocommerce-re-paylike/index.mdx",
+  "source": "@site/blog/2021-03-20-gyors-bankkartyas-fizetes-woocommerce-re-paylike/index.mdx",
+  "title": "Gyors bankkártyás fizetés WooCommerce-re: PayLike",
+  "description": "Hogyan szabályozzuk a szabályozhatatlant?",
+  "date": "2021-03-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "online fizetés",
+      "permalink": "/blog/tags/online-fizetes"
+    },
+    {
+      "inline": true,
+      "label": "bankkártyás fizetés",
+      "permalink": "/blog/tags/bankkartyas-fizetes"
+    },
+    {
+      "inline": true,
+      "label": "paylike",
+      "permalink": "/blog/tags/paylike"
+    }
+  ],
+  "readingTime": 3.16,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Trueqap",
+      "title": "Engineer @ HelloWP!",
+      "url": "https://github.com/trueqap",
+      "imageURL": "https://github.com/trueqap.png",
+      "key": "trueqap",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "title": "Gyors bankkártyás fizetés WooCommerce-re: PayLike",
+    "authors": [
+      "trueqap"
+    ],
+    "tags": [
+      "online fizetés",
+      "bankkártyás fizetés",
+      "paylike"
+    ],
+    "image": "./img/paylike-1-768x269.jpeg",
+    "date": "2021-03-20T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Kaphatok egy phpMyAdmin-t?",
+    "permalink": "/blog/2021/05/13/kaphatok-egy-phpmyadmin-t"
+  }
+}

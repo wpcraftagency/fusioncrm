@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/seopress-pro",
+  "title": "SEOPress PRO",
+  "description": "Prémium kiegészítő a SEOPress Free-hez: mindent‑egyben on‑site SEO, AI‑val, sémákkal, átirányításokkal, auditokkal és WooCommerce/lokális SEO-val.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/seopress-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/seopress-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/seopress-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/seopress-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "SEOPress PRO",
+    "description": "Prémium kiegészítő a SEOPress Free-hez: mindent‑egyben on‑site SEO, AI‑val, sémákkal, átirányításokkal, auditokkal és WooCommerce/lokális SEO-val.",
+    "sidebar_label": "SEOPress PRO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Restrict Content Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/restrict-content-pro"
+  },
+  "next": {
+    "title": "SEOPress",
+    "permalink": "/docs/tudasbazis/bovitmenyek/seopress"
+  }
+}

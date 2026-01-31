@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/bovitmenyek-telepitese",
+  "title": "Bővítmények telepítése",
+  "description": "HelloPack prémium bővítmények telepítése WordPress adminból vagy ZIP fájlból.",
+  "source": "@site/docs/dokumentacio/hellopack/bovitmenyek-telepitese.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/bovitmenyek-telepitese",
+  "permalink": "/docs/dokumentacio/hellopack/bovitmenyek-telepitese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/bovitmenyek-telepitese.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Bővítmények telepítése",
+    "description": "HelloPack prémium bővítmények telepítése WordPress adminból vagy ZIP fájlból.",
+    "keywords": [
+      "hellopack",
+      "telepítés",
+      "bővítmények",
+      "install"
+    ],
+    "sidebar_label": "Bővítmények telepítése",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Csomagkezelő tesztelő",
+    "permalink": "/docs/dokumentacio/hellopack/tesztelo"
+  },
+  "next": {
+    "title": "Bővítmények frissítése",
+    "permalink": "/docs/dokumentacio/hellopack/bovitmenyek-frissitese"
+  }
+}

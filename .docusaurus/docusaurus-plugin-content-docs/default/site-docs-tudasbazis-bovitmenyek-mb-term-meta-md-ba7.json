@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-term-meta",
+  "title": "MB Term Meta",
+  "description": "Meta Box kiegészítő taxonómia-termek egyedi mezőihez: egységes szintaxis, natív WordPress term meta API és letisztult admin UI.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-term-meta.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-term-meta",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-term-meta",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-term-meta.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Term Meta",
+    "description": "Meta Box kiegészítő taxonómia-termek egyedi mezőihez: egységes szintaxis, natív WordPress term meta API és letisztult admin UI.",
+    "sidebar_label": "MB Term Meta"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Tabs",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-tabs"
+  },
+  "next": {
+    "title": "MB Testimonials",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-testimonials"
+  }
+}

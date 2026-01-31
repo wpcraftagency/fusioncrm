@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/analytify-pro",
+  "title": "Analytify Pro",
+  "description": "Google Analytics 4 integráció és riportfelület WordPresshez: valós idejű, e‑kereskedelmi, kampány- és űrlapkövetéssel, közvetlenül a WP-adminban.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/analytify-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/analytify-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/analytify-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/analytify-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Analytify Pro",
+    "description": "Google Analytics 4 integráció és riportfelület WordPresshez: valós idejű, e‑kereskedelmi, kampány- és űrlapkövetéssel, közvetlenül a WP-adminban.",
+    "sidebar_label": "Analytify Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Analytify Goals (Key Events)",
+    "permalink": "/docs/tudasbazis/bovitmenyek/analytify-goals-key-events"
+  },
+  "next": {
+    "title": "Analytify UTM Campaigns Tracking",
+    "permalink": "/docs/tudasbazis/bovitmenyek/analytify-utm-campaigns-tracking"
+  }
+}

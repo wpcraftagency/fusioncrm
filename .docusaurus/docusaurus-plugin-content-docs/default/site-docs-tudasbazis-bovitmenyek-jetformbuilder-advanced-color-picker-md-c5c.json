@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-advanced-color-picker",
+  "title": "JetFormBuilder Advanced Color Picker",
+  "description": "Pro kiegészítő a JetFormBuilderhez: rugalmas színmentés (HEX/RGB), átlátszóság és fejlett UI a Color Picker mezőhöz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-advanced-color-picker.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-advanced-color-picker",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-advanced-color-picker",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-advanced-color-picker.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder Advanced Color Picker",
+    "description": "Pro kiegészítő a JetFormBuilderhez: rugalmas színmentés (HEX/RGB), átlátszóság és fejlett UI a Color Picker mezőhöz.",
+    "sidebar_label": "JetFormBuilder Advanced Color Picker"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder Address Autocomplete",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-address-autocomplete"
+  },
+  "next": {
+    "title": "JetFormBuilder ConvertKit Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-convertkit-action"
+  }
+}

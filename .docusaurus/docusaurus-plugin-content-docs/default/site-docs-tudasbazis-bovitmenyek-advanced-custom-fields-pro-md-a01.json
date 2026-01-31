@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/advanced-custom-fields-pro",
+  "title": "Advanced Custom Fields PRO",
+  "description": "Fizetős, önálló WordPress bővítmény, amellyel strukturált, egyedi mezőket és összetett tartalommodelleket hozhatsz létre – Repeaterrel, Flexible Contenttel, opcióoldalakkal és ACF Blocks-szal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/advanced-custom-fields-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/advanced-custom-fields-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/advanced-custom-fields-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/advanced-custom-fields-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Advanced Custom Fields PRO",
+    "description": "Fizetős, önálló WordPress bővítmény, amellyel strukturált, egyedi mezőket és összetett tartalommodelleket hozhatsz létre – Repeaterrel, Flexible Contenttel, opcióoldalakkal és ACF Blocks-szal.",
+    "sidebar_label": "Advanced Custom Fields PRO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Advanced Custom Fields Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/advanced-custom-fields-multilingual"
+  },
+  "next": {
+    "title": "AffiliateWP - Affiliate Area Shortcodes",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-area-shortcodes"
+  }
+}

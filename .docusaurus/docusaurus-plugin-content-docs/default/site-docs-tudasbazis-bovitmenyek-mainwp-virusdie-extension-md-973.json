@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-virusdie-extension",
+  "title": "MainWP Virusdie Extension",
+  "description": "Hivatalos MainWP-kiegészítő a Virusdie felhőalapú webhelybiztonság integrálásához: automatikus szkennelés, értesítések és riportok egy helyen.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-virusdie-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-virusdie-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-virusdie-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-virusdie-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Virusdie Extension",
+    "description": "Hivatalos MainWP-kiegészítő a Virusdie felhőalapú webhelybiztonság integrálásához: automatikus szkennelés, értesítések és riportok egy helyen.",
+    "sidebar_label": "MainWP Virusdie Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP URL Extractor Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-url-extractor-extension"
+  },
+  "next": {
+    "title": "MainWP Vulnerability Checker Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-vulnerability-checker-extension"
+  }
+}

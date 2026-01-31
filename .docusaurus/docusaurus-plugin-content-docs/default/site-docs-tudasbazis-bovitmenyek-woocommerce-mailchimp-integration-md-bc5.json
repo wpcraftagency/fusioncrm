@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-mailchimp-integration",
+  "title": "WooCommerce MailChimp Integration",
+  "description": "Korábban hivatalos WooCommerce-kiegészítő a Mailchimp-feliratkozások és rendelési adatok összekapcsolására; ma már visszavont, utódja a Mailchimp for WooCommerce.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-mailchimp-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-mailchimp-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-mailchimp-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-mailchimp-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce MailChimp Integration",
+    "description": "Korábban hivatalos WooCommerce-kiegészítő a Mailchimp-feliratkozások és rendelési adatok összekapcsolására; ma már visszavont, utódja a Mailchimp for WooCommerce.",
+    "sidebar_label": "WooCommerce MailChimp Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Local Pickup Plus",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-local-pickup-plus"
+  },
+  "next": {
+    "title": "WooCommerce Measurement Price Calculator",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-measurement-price-calculator"
+  }
+}

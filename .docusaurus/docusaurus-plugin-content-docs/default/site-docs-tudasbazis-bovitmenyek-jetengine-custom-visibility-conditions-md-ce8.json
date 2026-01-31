@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetengine-custom-visibility-conditions",
+  "title": "JetEngine - Custom visibility conditions",
+  "description": "Ingyenes JetEngine kiegészítő, amely két új láthatósági feltételt ad a Dynamic Visibility modulhoz: bejegyzés-státusz és szerzőség alapján vezérelt megjelenítés.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetengine-custom-visibility-conditions.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetengine-custom-visibility-conditions",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-custom-visibility-conditions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetengine-custom-visibility-conditions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetEngine - Custom visibility conditions",
+    "description": "Ingyenes JetEngine kiegészítő, amely két új láthatósági feltételt ad a Dynamic Visibility modulhoz: bejegyzés-státusz és szerzőség alapján vezérelt megjelenítés.",
+    "sidebar_label": "JetEngine - Custom visibility conditions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetElements For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetelements-for-elementor"
+  },
+  "next": {
+    "title": "JetEngine - dynamic charts builder",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-dynamic-charts-builder"
+  }
+}

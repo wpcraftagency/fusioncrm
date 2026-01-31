@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-event-espresso",
+  "title": "LearnDash LMS - Event Espresso",
+  "description": "Hivatalos integráció, amely az Event Espresso regisztrációt automatikus beiratkozássá alakítja a LearnDash kurzusokba.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-event-espresso.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-event-espresso",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-event-espresso",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-event-espresso.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - Event Espresso",
+    "description": "Hivatalos integráció, amely az Event Espresso regisztrációt automatikus beiratkozássá alakítja a LearnDash kurzusokba.",
+    "sidebar_label": "LearnDash LMS - Event Espresso"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-elementor"
+  },
+  "next": {
+    "title": "LearnDash LMS - GravityForms Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-gravityforms-integration"
+  }
+}

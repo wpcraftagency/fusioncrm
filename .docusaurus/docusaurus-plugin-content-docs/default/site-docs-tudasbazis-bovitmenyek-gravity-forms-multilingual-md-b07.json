@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/gravity-forms-multilingual",
+  "title": "Gravity Forms Multilingual",
+  "description": "Hivatalos WPML-integráció a Gravity Forms űrlapok többnyelvű kezeléséhez: egy forrásűrlap, fordítások az ATE-ben, helyes megjelenítés nyelvváltáskor.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/gravity-forms-multilingual.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/gravity-forms-multilingual",
+  "permalink": "/docs/tudasbazis/bovitmenyek/gravity-forms-multilingual",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/gravity-forms-multilingual.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Gravity Forms Multilingual",
+    "description": "Hivatalos WPML-integráció a Gravity Forms űrlapok többnyelvű kezeléséhez: egy forrásűrlap, fordítások az ATE-ben, helyes megjelenítés nyelvváltáskor.",
+    "sidebar_label": "Gravity Forms Multilingual"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GP Premium",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gp-premium"
+  },
+  "next": {
+    "title": "Gravity Forms Product Add-Ons for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gravity-forms-product-add-ons-for-woocommerce"
+  }
+}

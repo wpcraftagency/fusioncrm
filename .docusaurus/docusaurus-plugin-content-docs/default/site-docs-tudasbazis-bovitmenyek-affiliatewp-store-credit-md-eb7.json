@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-store-credit",
+  "title": "AffiliateWP - Store Credit",
+  "description": "Affiliate jutalékokat készpénz helyett áruházi egyenlegként kezelhetsz, amit az affiliáltak közvetlenül a saját webáruházadban költhetnek el.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-store-credit.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-store-credit",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-store-credit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-store-credit.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - Store Credit",
+    "description": "Affiliate jutalékokat készpénz helyett áruházi egyenlegként kezelhetsz, amit az affiliáltak közvetlenül a saját webáruházadban költhetnek el.",
+    "sidebar_label": "AffiliateWP - Store Credit"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - Signup Referrals",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-signup-referrals"
+  },
+  "next": {
+    "title": "AffiliateWP - Tiered Rates",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-tiered-rates"
+  }
+}

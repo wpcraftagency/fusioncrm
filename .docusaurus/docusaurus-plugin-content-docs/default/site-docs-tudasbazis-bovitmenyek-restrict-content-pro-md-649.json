@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/restrict-content-pro",
+  "title": "Restrict Content Pro",
+  "description": "WordPress tagsági és tartalom-hozzáférés kezelő bővítmény, amellyel előfizetéseket értékesíthetsz és tartalmat korlátozhatsz.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/restrict-content-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/restrict-content-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/restrict-content-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/restrict-content-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Restrict Content Pro",
+    "description": "WordPress tagsági és tartalom-hozzáférés kezelő bővítmény, amellyel előfizetéseket értékesíthetsz és tartalmat korlátozhatsz.",
+    "sidebar_label": "Restrict Content Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Request a Quote for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/request-a-quote-for-woocommerce"
+  },
+  "next": {
+    "title": "SEOPress PRO",
+    "permalink": "/docs/tudasbazis/bovitmenyek/seopress-pro"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-paypal-payouts",
+  "title": "AffiliateWP - PayPal Payouts",
+  "description": "Affiliate jutalékok 1-kattintásos kifizetése a WordPress adminból, a PayPal Payouts (REST) API-val.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-paypal-payouts.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-paypal-payouts",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-paypal-payouts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-paypal-payouts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - PayPal Payouts",
+    "description": "Affiliate jutalékok 1-kattintásos kifizetése a WordPress adminból, a PayPal Payouts (REST) API-val.",
+    "sidebar_label": "AffiliateWP - PayPal Payouts"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - Multi-Tier Commissions",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-multi-tier-commissions"
+  },
+  "next": {
+    "title": "AffiliateWP - Recurring Referrals",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-recurring-referrals"
+  }
+}

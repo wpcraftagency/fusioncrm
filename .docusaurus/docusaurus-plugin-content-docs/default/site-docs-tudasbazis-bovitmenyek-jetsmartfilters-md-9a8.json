@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetsmartfilters",
+  "title": "JetSmartFilters",
+  "description": "Dinamikus, AJAX-alapú, facettált szűrőrendszer WordPresshez, amely Elementorral, Gutenberggel és Bricks-szel működik, teljes WooCommerce-támogatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetsmartfilters.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetsmartfilters",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetsmartfilters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetsmartfilters.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetSmartFilters",
+    "description": "Dinamikus, AJAX-alapú, facettált szűrőrendszer WordPresshez, amely Elementorral, Gutenberggel és Bricks-szel működik, teljes WooCommerce-támogatással.",
+    "sidebar_label": "JetSmartFilters"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetSearch",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetsearch"
+  },
+  "next": {
+    "title": "JetStyleManager",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetstylemanager"
+  }
+}

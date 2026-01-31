@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-additional-variation-images",
+  "title": "WooCommerce Additional Variation Images",
+  "description": "Hivatalos Woo-bővítmény, amellyel minden termékvariációdhoz korlátlan képgalériát adhatsz, és a képek a kiválasztott variációval együtt váltanak.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-additional-variation-images.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-additional-variation-images",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-additional-variation-images",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-additional-variation-images.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Additional Variation Images",
+    "description": "Hivatalos Woo-bővítmény, amellyel minden termékvariációdhoz korlátlan képgalériát adhatsz, és a képek a kiválasztott variációval együtt váltanak.",
+    "sidebar_label": "WooCommerce Additional Variation Images"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Wholesale For WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wholesale-for-woocommerce"
+  },
+  "next": {
+    "title": "WooCommerce Advanced Notifications",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-advanced-notifications"
+  }
+}

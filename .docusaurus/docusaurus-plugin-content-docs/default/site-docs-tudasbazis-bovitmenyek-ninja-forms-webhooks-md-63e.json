@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ninja-forms-webhooks",
+  "title": "Ninja Forms - Webhooks",
+  "description": "A Ninja Forms hivatalos Webhooks kiegészítője, amellyel űrlapadataidat HTTP kéréssel tetszőleges külső végpontra küldheted, kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ninja-forms-webhooks.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ninja-forms-webhooks",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-webhooks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ninja-forms-webhooks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ninja Forms - Webhooks",
+    "description": "A Ninja Forms hivatalos Webhooks kiegészítője, amellyel űrlapadataidat HTTP kéréssel tetszőleges külső végpontra küldheted, kódolás nélkül.",
+    "sidebar_label": "Ninja Forms - Webhooks"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms - User Management",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-user-management"
+  },
+  "next": {
+    "title": "Ninja Forms - Zapier",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-zapier"
+  }
+}

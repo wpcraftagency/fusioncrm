@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-product-recommendations",
+  "title": "WooCommerce Product Recommendations",
+  "description": "Hivatalos WooCommerce bővítmény szabály- és adatvezérelt termékajánlásokhoz, sokféle elhelyezéssel, feltételekkel és beépített analitikával.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-product-recommendations.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-product-recommendations",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-recommendations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-product-recommendations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Product Recommendations",
+    "description": "Hivatalos WooCommerce bővítmény szabály- és adatvezérelt termékajánlásokhoz, sokféle elhelyezéssel, feltételekkel és beépített analitikával.",
+    "sidebar_label": "WooCommerce Product Recommendations"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Product Bundles",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-bundles"
+  },
+  "next": {
+    "title": "WooCommerce Product Reviews Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-product-reviews-pro"
+  }
+}

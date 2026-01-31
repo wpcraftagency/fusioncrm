@@ -1,0 +1,33 @@
+{
+  "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/kesz-divi-szekciok-importalsa",
+  "title": "Kész Divi szekciók importálása",
+  "description": "Kész Divi szekciók importálása",
+  "source": "@site/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/kesz-divi-szekciok-importalsa.mdx",
+  "sourceDirName": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak",
+  "slug": "/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/kesz-divi-szekciok-importalsa",
+  "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/kesz-divi-szekciok-importalsa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/kesz-divi-szekciok-importalsa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Kész Divi szekciók importálása",
+    "description": "Kész Divi szekciók importálása",
+    "keywords": [
+      "dokumentacio"
+    ],
+    "sidebar_label": "Kész szekciók importálása",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sablon telepítése",
+    "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-sablon-telepitese"
+  },
+  "next": {
+    "title": "Komplett weboldal telepítés",
+    "permalink": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/komplett-divi-weboldal-telepitese"
+  }
+}

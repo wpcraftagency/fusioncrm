@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-payment-gateway-based-fees",
+  "title": "WooCommerce Payment Gateway Based Fees",
+  "description": "Prémium WooCommerce-kiegészítő, amellyel fizetési mód alapján automatikus felárakat adhatsz a rendeléshez, kosár- és termékszinten, adózással és Blocks támogatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-payment-gateway-based-fees.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-payment-gateway-based-fees",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-payment-gateway-based-fees",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-payment-gateway-based-fees.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Payment Gateway Based Fees",
+    "description": "Prémium WooCommerce-kiegészítő, amellyel fizetési mód alapján automatikus felárakat adhatsz a rendeléshez, kosár- és termékszinten, adózással és Blocks támogatással.",
+    "sidebar_label": "WooCommerce Payment Gateway Based Fees"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Order Status Manager",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-order-status-manager"
+  },
+  "next": {
+    "title": "WooCommerce PDF Invoices",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-pdf-invoices"
+  }
+}

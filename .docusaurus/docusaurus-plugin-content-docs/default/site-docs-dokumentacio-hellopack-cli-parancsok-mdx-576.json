@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/cli-parancsok",
+  "title": "CLI parancsok",
+  "description": "HelloPack WP-CLI parancsok - licenc, bővítmény és téma kezelés parancssorból.",
+  "source": "@site/docs/dokumentacio/hellopack/cli-parancsok.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/cli-parancsok",
+  "permalink": "/docs/dokumentacio/hellopack/cli-parancsok",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/cli-parancsok.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "CLI parancsok",
+    "description": "HelloPack WP-CLI parancsok - licenc, bővítmény és téma kezelés parancssorból.",
+    "keywords": [
+      "hellopack",
+      "cli",
+      "wp-cli",
+      "parancssor"
+    ],
+    "sidebar_label": "Csomagkezelő CLI parancsok",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Csomagkezelő White-label",
+    "permalink": "/docs/dokumentacio/hellopack/white-label"
+  },
+  "next": {
+    "title": "Composer",
+    "permalink": "/docs/dokumentacio/hellopack/composer"
+  }
+}

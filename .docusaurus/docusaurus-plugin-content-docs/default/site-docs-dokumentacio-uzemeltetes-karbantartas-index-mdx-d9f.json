@@ -1,0 +1,38 @@
+{
+  "id": "dokumentacio/uzemeltetes-karbantartas/index",
+  "title": "Üzemeltetés és karbantartás",
+  "description": "HelloWP üzemeltetési szolgáltatás - professzionális WordPress tárhely és karbantartás egy csomagban.",
+  "source": "@site/docs/dokumentacio/uzemeltetes-karbantartas/index.mdx",
+  "sourceDirName": "dokumentacio/uzemeltetes-karbantartas",
+  "slug": "/dokumentacio/uzemeltetes-karbantartas/",
+  "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/uzemeltetes-karbantartas/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Üzemeltetés és karbantartás",
+    "description": "HelloWP üzemeltetési szolgáltatás - professzionális WordPress tárhely és karbantartás egy csomagban.",
+    "keywords": [
+      "üzemeltetés",
+      "karbantartás",
+      "szerver",
+      "hosting",
+      "wordpress tárhely",
+      "woocommerce tárhely"
+    ],
+    "sidebar_label": "Üzemeltetés és karbantartás",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Windows Mail",
+    "permalink": "/docs/dokumentacio/mailhub/windows-mail"
+  },
+  "next": {
+    "title": "Technikai adatok",
+    "permalink": "/docs/dokumentacio/uzemeltetes-karbantartas/technikai-adatok"
+  }
+}

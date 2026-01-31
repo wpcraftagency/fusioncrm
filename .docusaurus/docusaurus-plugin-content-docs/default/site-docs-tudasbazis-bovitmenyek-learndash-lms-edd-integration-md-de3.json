@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-edd-integration",
+  "title": "LearnDash LMS - EDD Integration",
+  "description": "Hivatalos LearnDash kiegészítő, amellyel az Easy Digital Downloads áruházon keresztül értékesítheted a LearnDash-kurzusokat, automatikus beiratással és széles fizetési kaputámogatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-edd-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-edd-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-edd-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-edd-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - EDD Integration",
+    "description": "Hivatalos LearnDash kiegészítő, amellyel az Easy Digital Downloads áruházon keresztül értékesítheted a LearnDash-kurzusokat, automatikus beiratással és széles fizetési kaputámogatással.",
+    "sidebar_label": "LearnDash LMS - EDD Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - Course Grid",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-course-grid"
+  },
+  "next": {
+    "title": "LearnDash LMS - Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-elementor"
+  }
+}

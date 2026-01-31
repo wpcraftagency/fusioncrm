@@ -1,0 +1,27 @@
+{
+  "id": "sugo/partnerprogram/szamla",
+  "title": "Számla",
+  "description": "A számla feltöltése után a HelloWP! csapata ellenőrzi a számlát, majd a jutalék kifizetésére kerül sor.",
+  "source": "@site/docs/sugo/partnerprogram/szamla.md",
+  "sourceDirName": "sugo/partnerprogram",
+  "slug": "/sugo/partnerprogram/szamla",
+  "permalink": "/docs/sugo/partnerprogram/szamla",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/partnerprogram/szamla.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Szabályzat",
+    "permalink": "/docs/sugo/partnerprogram/szabalyzat"
+  },
+  "next": {
+    "title": "Számlázás és előfizetések",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/"
+  }
+}

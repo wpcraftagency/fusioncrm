@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/font-awesome",
+  "title": "Font Awesome - Ikonkészlet",
+  "description": "Font Awesome ikonkészlet használata weboldalakhoz - több mint 30 000 ikon 16+ stílusban.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/font-awesome.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/font-awesome",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/font-awesome",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/font-awesome.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Font Awesome - Ikonkészlet",
+    "description": "Font Awesome ikonkészlet használata weboldalakhoz - több mint 30 000 ikon 16+ stílusban.",
+    "keywords": [
+      "font awesome",
+      "icons",
+      "ikonok",
+      "webfont",
+      "svg icons"
+    ],
+    "sidebar_label": "Font Awesome",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Figma",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/figma"
+  },
+  "next": {
+    "title": "GitHub Copilot",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/github-copilot"
+  }
+}

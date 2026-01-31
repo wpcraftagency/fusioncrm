@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/localwp",
+  "title": "LocalWP",
+  "description": "Egyszerű és gyors lokális WordPress fejlesztői környezet LocalWP segítségével.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/localwp.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/localwp",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/localwp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/localwp.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "LocalWP",
+    "description": "Egyszerű és gyors lokális WordPress fejlesztői környezet LocalWP segítségével.",
+    "keywords": [
+      "localwp",
+      "local by flywheel",
+      "lokális fejlesztés",
+      "wordpress"
+    ],
+    "sidebar_label": "LocalWP",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub Actions",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/github-actions"
+  },
+  "next": {
+    "title": "Pest",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/pest"
+  }
+}

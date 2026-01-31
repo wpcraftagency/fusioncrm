@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/yith-infinite-scrolling-premium",
+  "title": "YITH Infinite Scrolling Premium",
+  "description": "Végtelen görgetés, „Továbbiak” gomb vagy AJAX‑os lapozás WooCommerce és WordPress archívumokon – gyorsabb böngészés, kevesebb súrlódás, jobb mobil UX.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/yith-infinite-scrolling-premium.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/yith-infinite-scrolling-premium",
+  "permalink": "/docs/tudasbazis/bovitmenyek/yith-infinite-scrolling-premium",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/yith-infinite-scrolling-premium.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "YITH Infinite Scrolling Premium",
+    "description": "Végtelen görgetés, „Továbbiak” gomb vagy AJAX‑os lapozás WooCommerce és WordPress archívumokon – gyorsabb böngészés, kevesebb súrlódás, jobb mobil UX.",
+    "sidebar_label": "YITH Infinite Scrolling Premium"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "YayMail Pro - WooCommerce Email Customizer",
+    "permalink": "/docs/tudasbazis/bovitmenyek/yaymail-pro-woocommerce-email-customizer"
+  },
+  "next": {
+    "title": "YITH WooCommerce Ajax Product Filter Premium",
+    "permalink": "/docs/tudasbazis/bovitmenyek/yith-woocommerce-ajax-product-filter-premium"
+  }
+}

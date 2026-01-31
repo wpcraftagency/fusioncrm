@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetblog-for-elementor",
+  "title": "JetBlog For Elementor",
+  "description": "Blog- és hírjellegű tartalmak látványos megjelenítésére szolgáló Elementor-kiegészítő, fejlett lekérdezésekkel és magazin-szerű elrendezésekkel, kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetblog-for-elementor.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetblog-for-elementor",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetblog-for-elementor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetblog-for-elementor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetBlog For Elementor",
+    "description": "Blog- és hírjellegű tartalmak látványos megjelenítésére szolgáló Elementor-kiegészítő, fejlett lekérdezésekkel és magazin-szerű elrendezésekkel, kódolás nélkül.",
+    "sidebar_label": "JetBlog For Elementor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetBlocks For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetblocks-for-elementor"
+  },
+  "next": {
+    "title": "JetBooking",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetbooking"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jet-appointments-booking",
+  "title": "Jet Appointments Booking",
+  "description": "Időpontfoglaló bővítmény óradíjas szolgáltatásokhoz WordPressen, vizuális oldalépítőkkel és WooCommerce‑fizetéssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jet-appointments-booking.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jet-appointments-booking",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jet-appointments-booking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jet-appointments-booking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Jet Appointments Booking",
+    "description": "Időpontfoglaló bővítmény óradíjas szolgáltatásokhoz WordPressen, vizuális oldalépítőkkel és WooCommerce‑fizetéssel.",
+    "sidebar_label": "Jet Appointments Booking"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gravity SMTP",
+    "permalink": "/docs/tudasbazis/bovitmenyek/gravity-smtp"
+  },
+  "next": {
+    "title": "JetBlocks For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetblocks-for-elementor"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/bovitmenyek/index",
+  "title": "Bővítmények",
+  "description": "Bővítmények webfejlesztéshez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/index.mdx",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/",
+  "permalink": "/docs/tudasbazis/bovitmenyek/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Bővítmények",
+    "description": "Bővítmények webfejlesztéshez.",
+    "keywords": [
+      "hibaelharitas"
+    ],
+    "sidebar_label": "Bővítmények",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tudásbázis",
+    "permalink": "/docs/tudasbazis/"
+  },
+  "next": {
+    "title": "Account Funds for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/account-funds-for-woocommerce"
+  }
+}

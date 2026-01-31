@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluentcrm-marketing-automation-for-wordpress",
+  "title": "FluentCRM - Marketing Automation For WordPress",
+  "description": "Önhostolt e‑mail marketing és CRM WordPresshez: kapcsolatok, kampányok, automatizmusok és mély integrációk a saját szervereden.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluentcrm-marketing-automation-for-wordpress.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluentcrm-marketing-automation-for-wordpress",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluentcrm-marketing-automation-for-wordpress",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluentcrm-marketing-automation-for-wordpress.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FluentCRM - Marketing Automation For WordPress",
+    "description": "Önhostolt e‑mail marketing és CRM WordPresshez: kapcsolatok, kampányok, automatizmusok és mély integrációk a saját szervereden.",
+    "sidebar_label": "FluentCRM - Marketing Automation For WordPress"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FluentCommunity",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentcommunity"
+  },
+  "next": {
+    "title": "FluentCRM Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentcrm-pro"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/elementor/Elementor flex konténer",
+  "title": "Elementor - Flex konténer",
+  "description": "Mi az az Elementor flex konténer, és hogyan könnyíti meg a weboldal elkészítését",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/elementor/Elementor flex konténer.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/elementor",
+  "slug": "/tudasbazis/oktatoanyagok/elementor/Elementor flex konténer",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/Elementor flex konténer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/elementor/Elementor flex konténer.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Elementor - Flex konténer",
+    "description": "Mi az az Elementor flex konténer, és hogyan könnyíti meg a weboldal elkészítését",
+    "keywords": [
+      "elementor, flex, container, konténer, flex-container, css grid"
+    ],
+    "sidebar_label": "Elementor Flex konténer",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Elementor Workflow",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/Elementor Workflow hatékonyság"
+  },
+  "next": {
+    "title": "Elementor toggle widget",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/Toggle widget lapozás"
+  }
+}

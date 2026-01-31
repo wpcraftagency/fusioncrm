@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/oktatoanyagok/wp-all-impot-export/index",
+  "title": "WP All Import/Export",
+  "description": "WP All Import/Export oktatóanyagok",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/wp-all-impot-export",
+  "slug": "/tudasbazis/oktatoanyagok/wp-all-impot-export/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "WP All Import/Export",
+    "description": "WP All Import/Export oktatóanyagok",
+    "keywords": [
+      "WP All Import",
+      "WP All Export",
+      "All Export",
+      "All Import"
+    ],
+    "sidebar_label": "WP All Import/Export",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Child sablon function.php fájljának a módosítása",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon-function-php-fajljanak-a-modositasa"
+  },
+  "next": {
+    "title": "Cron job beállítása",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/cron-job-beallitasa"
+  }
+}

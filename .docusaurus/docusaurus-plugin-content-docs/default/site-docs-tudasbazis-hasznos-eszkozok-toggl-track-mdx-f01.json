@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/toggl-track",
+  "title": "Toggl Track - Időkövetés",
+  "description": "Toggl Track használata projektekhez és ügyfelekhez kapcsolódó munkaidő nyilvántartására freelancereknek és csapatoknak.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/toggl-track.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/toggl-track",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/toggl-track",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/toggl-track.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "title": "Toggl Track - Időkövetés",
+    "description": "Toggl Track használata projektekhez és ügyfelekhez kapcsolódó munkaidő nyilvántartására freelancereknek és csapatoknak.",
+    "keywords": [
+      "toggl",
+      "time tracking",
+      "időkövetés",
+      "freelancer",
+      "projekt menedzsment"
+    ],
+    "sidebar_label": "Toggl Track",
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TablePlus",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/tableplus"
+  },
+  "next": {
+    "title": "Warp",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/warp"
+  }
+}

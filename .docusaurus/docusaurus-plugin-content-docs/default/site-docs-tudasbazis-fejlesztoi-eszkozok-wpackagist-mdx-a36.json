@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/wpackagist",
+  "title": "WPackagist",
+  "description": "WordPress pluginok és témák kezelése Composer segítségével a WPackagist repository használatával.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/wpackagist.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/wpackagist",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/wpackagist",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/wpackagist.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 26,
+  "frontMatter": {
+    "title": "WPackagist",
+    "description": "WordPress pluginok és témák kezelése Composer segítségével a WPackagist repository használatával.",
+    "keywords": [
+      "wpackagist",
+      "composer",
+      "wordpress",
+      "csomagkezelés"
+    ],
+    "sidebar_label": "WPackagist",
+    "sidebar_position": 26
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP-CLI",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/wp-cli"
+  },
+  "next": {
+    "title": "Xdebug",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/xdebug"
+  }
+}

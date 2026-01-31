@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluentcart-pro",
+  "title": "FluentCart Pro",
+  "description": "WordPress‑natív e‑kereskedelmi bővítmény Pro kiegészítője, amely előfizetést, licencelést, gyors pénztárat és fejlett fizetéseket ad egyetlen rendszerben.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluentcart-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluentcart-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluentcart-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluentcart-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FluentCart Pro",
+    "description": "WordPress‑natív e‑kereskedelmi bővítmény Pro kiegészítője, amely előfizetést, licencelést, gyors pénztárat és fejlett fizetéseket ad egyetlen rendszerben.",
+    "sidebar_label": "FluentCart Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FluentBooking Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentbooking-pro"
+  },
+  "next": {
+    "title": "FluentCart",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentcart"
+  }
+}

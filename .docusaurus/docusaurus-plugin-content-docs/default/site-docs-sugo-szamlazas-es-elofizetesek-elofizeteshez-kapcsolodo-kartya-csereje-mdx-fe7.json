@@ -1,0 +1,34 @@
+{
+  "id": "sugo/szamlazas-es-elofizetesek/elofizeteshez-kapcsolodo-kartya-csereje",
+  "title": "Előfizetéshez kapcsolódó kártya cseréje",
+  "description": "Előfizetéshez kapcsolódó kártya cseréje",
+  "source": "@site/docs/sugo/szamlazas-es-elofizetesek/elofizeteshez-kapcsolodo-kartya-csereje.mdx",
+  "sourceDirName": "sugo/szamlazas-es-elofizetesek",
+  "slug": "/sugo/szamlazas-es-elofizetesek/elofizeteshez-kapcsolodo-kartya-csereje",
+  "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizeteshez-kapcsolodo-kartya-csereje",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/szamlazas-es-elofizetesek/elofizeteshez-kapcsolodo-kartya-csereje.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Előfizetéshez kapcsolódó kártya cseréje",
+    "description": "Előfizetéshez kapcsolódó kártya cseréje",
+    "keywords": [
+      "hellopack",
+      "elementor"
+    ],
+    "sidebar_label": "Előfizetéshez kapcsolódó kártya cseréje",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Előfizetés újraaktiválása",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-ujraaktivalasa"
+  },
+  "next": {
+    "title": "Manuális bankkártya terhelés",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/manualis-bankkartya-terheles"
+  }
+}

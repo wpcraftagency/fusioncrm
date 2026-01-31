@@ -1,0 +1,2893 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "dokumentacio/index",
+          "docs": [
+            {
+              "id": "dokumentacio/hellopack/aktivalas",
+              "path": "/docs/dokumentacio/hellopack/aktivalas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/bovitmenyek-frissitese",
+              "path": "/docs/dokumentacio/hellopack/bovitmenyek-frissitese",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/bovitmenyek-letoltese",
+              "path": "/docs/dokumentacio/hellopack/bovitmenyek-letoltese",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/bovitmenyek-telepitese",
+              "path": "/docs/dokumentacio/hellopack/bovitmenyek-telepitese",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/cli-parancsok",
+              "path": "/docs/dokumentacio/hellopack/cli-parancsok",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/composer",
+              "path": "/docs/dokumentacio/hellopack/composer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/forditaskezeles",
+              "path": "/docs/dokumentacio/hellopack/forditaskezeles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/hibaelharitas",
+              "path": "/docs/dokumentacio/hellopack/hibaelharitas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/index",
+              "path": "/docs/dokumentacio/hellopack/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/kezeles-kikapcsolasa",
+              "path": "/docs/dokumentacio/hellopack/kezeles-kikapcsolasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/kezeles-kikapcsolasa-sablon",
+              "path": "/docs/dokumentacio/hellopack/kezeles-kikapcsolasa-sablon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/kovetelmenyek",
+              "path": "/docs/dokumentacio/hellopack/kovetelmenyek",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/letoltes-telepites",
+              "path": "/docs/dokumentacio/hellopack/letoltes-telepites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/tesztelo",
+              "path": "/docs/dokumentacio/hellopack/tesztelo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellopack/white-label",
+              "path": "/docs/dokumentacio/hellopack/white-label",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellotools/hellocron",
+              "path": "/docs/dokumentacio/hellotools/hellocron",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellotools/helloimg",
+              "path": "/docs/dokumentacio/hellotools/helloimg",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellotools/hellopack",
+              "path": "/docs/dokumentacio/hellotools/hellopack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/hellotools/index",
+              "path": "/docs/dokumentacio/hellotools/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/index",
+              "path": "/docs/dokumentacio/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-api-kulcs-aktivalasa",
+              "path": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-api-kulcs-aktivalasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-builder-telepitese",
+              "path": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-builder-telepitese",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-frissitese",
+              "path": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-frissitese",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-header-es-footer-importalasa",
+              "path": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-header-es-footer-importalasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-layout-weboldal-terv-importalasa",
+              "path": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-layout-weboldal-terv-importalasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-sablon-telepitese",
+              "path": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/divi-sablon-telepitese",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/index",
+              "path": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/kesz-divi-szekciok-importalsa",
+              "path": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/kesz-divi-szekciok-importalsa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/komplett-divi-weboldal-telepitese",
+              "path": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/komplett-divi-weboldal-telepitese",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/regi-divi-api-kulcs-felulirasa-egy-uj-api-kulccsal",
+              "path": "/docs/dokumentacio/komplett-weboldalak/divi-komplett-weboldalak/regi-divi-api-kulcs-felulirasa-egy-uj-api-kulccsal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/index",
+              "path": "/docs/dokumentacio/komplett-weboldalak/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/komplett-weboldalak/komplett-weboldal-telepitese-all-in-one-wp-migration-bovitmeny-segitsegevel",
+              "path": "/docs/dokumentacio/komplett-weboldalak/komplett-weboldal-telepitese-all-in-one-wp-migration-bovitmeny-segitsegevel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/mailhub/android",
+              "path": "/docs/dokumentacio/mailhub/android",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/mailhub/apple-macos-ios",
+              "path": "/docs/dokumentacio/mailhub/apple-macos-ios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/mailhub/index",
+              "path": "/docs/dokumentacio/mailhub/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/mailhub/levelezes-beallitasa",
+              "path": "/docs/dokumentacio/mailhub/levelezes-beallitasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/mailhub/microsoft-outlook",
+              "path": "/docs/dokumentacio/mailhub/microsoft-outlook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/mailhub/mozilla-thunderbird",
+              "path": "/docs/dokumentacio/mailhub/mozilla-thunderbird",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/mailhub/windows-mail",
+              "path": "/docs/dokumentacio/mailhub/windows-mail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Facebook/facebook-hirdetesi-fiok-letrehozasa",
+              "path": "/docs/dokumentacio/marketing/Facebook/facebook-hirdetesi-fiok-letrehozasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Facebook/facebook-hozzaferes-adasa",
+              "path": "/docs/dokumentacio/marketing/Facebook/facebook-hozzaferes-adasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Facebook/facebook-oldal-letrehozasa",
+              "path": "/docs/dokumentacio/marketing/Facebook/facebook-oldal-letrehozasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Facebook/facebook-vallalkozaskezelo-letrehozasa",
+              "path": "/docs/dokumentacio/marketing/Facebook/facebook-vallalkozaskezelo-letrehozasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Facebook/index",
+              "path": "/docs/dokumentacio/marketing/Facebook/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Google/google-ads-fiok-letrehozasa",
+              "path": "/docs/dokumentacio/marketing/Google/google-ads-fiok-letrehozasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Google/google-ads-hozzafere-adasa",
+              "path": "/docs/dokumentacio/marketing/Google/google-ads-hozzafere-adasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Google/google-analytics-hozzaferes-adasa",
+              "path": "/docs/dokumentacio/marketing/Google/google-analytics-hozzaferes-adasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Google/google-analytics-letrehozasa",
+              "path": "/docs/dokumentacio/marketing/Google/google-analytics-letrehozasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Google/google-merchant-center-hozzaferes-adasa",
+              "path": "/docs/dokumentacio/marketing/Google/google-merchant-center-hozzaferes-adasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Google/google-merchant-center-letrehozasa",
+              "path": "/docs/dokumentacio/marketing/Google/google-merchant-center-letrehozasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/Google/index",
+              "path": "/docs/dokumentacio/marketing/Google/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/marketing/index",
+              "path": "/docs/dokumentacio/marketing/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/uzemeltetes-karbantartas/cloudflare-regisztracio-hozzaferes",
+              "path": "/docs/dokumentacio/uzemeltetes-karbantartas/cloudflare-regisztracio-hozzaferes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/uzemeltetes-karbantartas/hozzaferes-a-szerverhez",
+              "path": "/docs/dokumentacio/uzemeltetes-karbantartas/hozzaferes-a-szerverhez",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/uzemeltetes-karbantartas/index",
+              "path": "/docs/dokumentacio/uzemeltetes-karbantartas/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/uzemeltetes-karbantartas/levelezes-beallitasa",
+              "path": "/docs/dokumentacio/uzemeltetes-karbantartas/levelezes-beallitasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/uzemeltetes-karbantartas/mi-nem-tartozik-bele-az-uzemeltetesbe",
+              "path": "/docs/dokumentacio/uzemeltetes-karbantartas/mi-nem-tartozik-bele-az-uzemeltetesbe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dokumentacio/uzemeltetes-karbantartas/technikai-adatok",
+              "path": "/docs/dokumentacio/uzemeltetes-karbantartas/technikai-adatok",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "kozosseg/discord",
+              "path": "/docs/kozosseg/discord",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "kozosseg/facebook",
+              "path": "/docs/kozosseg/facebook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "kozosseg/index",
+              "path": "/docs/kozosseg/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "kozosseg/youtube",
+              "path": "/docs/kozosseg/youtube",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/egyeb/index",
+              "path": "/docs/sugo/egyeb/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/egyeb/mi-a-kulonbseg-a-divi-mega-es-a-sima-divi-csomag-kozott",
+              "path": "/docs/sugo/egyeb/mi-a-kulonbseg-a-divi-mega-es-a-sima-divi-csomag-kozott",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/egyeb/white-label",
+              "path": "/docs/sugo/egyeb/white-label",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/index",
+              "path": "/docs/sugo/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/partnerprogram/index",
+              "path": "/docs/sugo/partnerprogram/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/partnerprogram/kifizetesi-feltetelek",
+              "path": "/docs/sugo/partnerprogram/kifizetesi-feltetelek",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/partnerprogram/kozpont",
+              "path": "/docs/sugo/partnerprogram/kozpont",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/partnerprogram/partnerazonositod",
+              "path": "/docs/sugo/partnerprogram/partnerazonositod",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/partnerprogram/partnerlink",
+              "path": "/docs/sugo/partnerprogram/partnerlink",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/partnerprogram/regisztracio",
+              "path": "/docs/sugo/partnerprogram/regisztracio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/partnerprogram/szabalyzat",
+              "path": "/docs/sugo/partnerprogram/szabalyzat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/partnerprogram/szamla",
+              "path": "/docs/sugo/partnerprogram/szamla",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/adoszamok",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/adoszamok",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/elofizetes-csomagvaltas",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-csomagvaltas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/elofizetes-elofizetes",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-elofizetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/elofizetes-korabbi-megujitasa-kedvezmeny-felhasznalasa",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-korabbi-megujitasa-kedvezmeny-felhasznalasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/elofizetes-lemondasa",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-lemondasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/elofizetes-ujraaktivalasa",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/elofizetes-ujraaktivalasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/elofizeteshez-kapcsolodo-kartya-csereje",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/elofizeteshez-kapcsolodo-kartya-csereje",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/hol-talalom-a-szamlat",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/hol-talalom-a-szamlat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/index",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/manualis-bankkartya-terheles",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/manualis-bankkartya-terheles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/szamla-javitas-korrekcio",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/szamla-javitas-korrekcio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sugo/szamlazas-es-elofizetesek/szamlazasi-adat-modositas",
+              "path": "/docs/sugo/szamlazas-es-elofizetesek/szamlazasi-adat-modositas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/account-funds-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/account-funds-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/addify-advanced-product-quantity",
+              "path": "/docs/tudasbazis/bovitmenyek/addify-advanced-product-quantity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/admin-menu-editor-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/admin-menu-editor-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/advanced-custom-fields-multilingual",
+              "path": "/docs/tudasbazis/bovitmenyek/advanced-custom-fields-multilingual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/advanced-custom-fields-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/advanced-custom-fields-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-affiliate-area-shortcodes",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-area-shortcodes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-affiliate-dashboard-sharing",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-dashboard-sharing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-affiliate-portal",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-affiliate-portal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-allowed-products",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-allowed-products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-custom-affiliate-slugs",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-custom-affiliate-slugs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-direct-link-tracking",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-direct-link-tracking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-lifetime-commissions",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-lifetime-commissions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-multi-currency",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-multi-currency",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-multi-tier-commissions",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-multi-tier-commissions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-paypal-payouts",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-paypal-payouts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-recurring-referrals",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-recurring-referrals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-rest-api-extended",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-rest-api-extended",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-show-affiliate-coupons",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-show-affiliate-coupons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-signup-referrals",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-signup-referrals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-store-credit",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-store-credit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-tiered-rates",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-tiered-rates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/affiliatewp-woocommerce-redirect-affiliates",
+              "path": "/docs/tudasbazis/bovitmenyek/affiliatewp-woocommerce-redirect-affiliates",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/all-in-one-wp-migration-and-backup",
+              "path": "/docs/tudasbazis/bovitmenyek/all-in-one-wp-migration-and-backup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/all-in-one-wp-migration-dropbox-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/all-in-one-wp-migration-dropbox-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/all-in-one-wp-migration-ftp-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/all-in-one-wp-migration-ftp-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/all-in-one-wp-migration-google-drive-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/all-in-one-wp-migration-google-drive-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/all-in-one-wp-migration-multisite-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/all-in-one-wp-migration-multisite-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/all-in-one-wp-migration-onedrive-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/all-in-one-wp-migration-onedrive-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/all-in-one-wp-migration-unlimited-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/all-in-one-wp-migration-unlimited-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/all-in-one-wp-migration-url-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/all-in-one-wp-migration-url-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/amelia",
+              "path": "/docs/tudasbazis/bovitmenyek/amelia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/analytify-easy-digital-downloads",
+              "path": "/docs/tudasbazis/bovitmenyek/analytify-easy-digital-downloads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/analytify-email-notifications",
+              "path": "/docs/tudasbazis/bovitmenyek/analytify-email-notifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/analytify-goals-key-events",
+              "path": "/docs/tudasbazis/bovitmenyek/analytify-goals-key-events",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/analytify-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/analytify-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/analytify-utm-campaigns-tracking",
+              "path": "/docs/tudasbazis/bovitmenyek/analytify-utm-campaigns-tracking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/analytify-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/analytify-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/api-manager-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/api-manager-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/automatewoo",
+              "path": "/docs/tudasbazis/bovitmenyek/automatewoo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/automatewoo-birthdays-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/automatewoo-birthdays-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/automatewoo-refer-a-friend-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/automatewoo-refer-a-friend-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/automatorwp",
+              "path": "/docs/tudasbazis/bovitmenyek/automatorwp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/automatorwp-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/automatorwp-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/boilerplate-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/boilerplate-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/booster-plus-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/booster-plus-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/bought-together-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/bought-together-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/buy-again-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/buy-again-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/cartflows",
+              "path": "/docs/tudasbazis/bovitmenyek/cartflows",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/cartflows-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/cartflows-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/checkoutwc",
+              "path": "/docs/tudasbazis/bovitmenyek/checkoutwc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/complianz-privacy-suite-gdpr-ccpa-premium",
+              "path": "/docs/tudasbazis/bovitmenyek/complianz-privacy-suite-gdpr-ccpa-premium",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/contact-form-7-multilingual",
+              "path": "/docs/tudasbazis/bovitmenyek/contact-form-7-multilingual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/custom-stock-status",
+              "path": "/docs/tudasbazis/bovitmenyek/custom-stock-status",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/custom-user-registration-fields-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/custom-user-registration-fields-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/customize-my-account-page-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/customize-my-account-page-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/divi-menu-cart",
+              "path": "/docs/tudasbazis/bovitmenyek/divi-menu-cart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/divi-responsive-helper",
+              "path": "/docs/tudasbazis/bovitmenyek/divi-responsive-helper",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/divi-supreme-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/divi-supreme-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/divi-toolbox",
+              "path": "/docs/tudasbazis/bovitmenyek/divi-toolbox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/divipasswords",
+              "path": "/docs/tudasbazis/bovitmenyek/divipasswords",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/dynamic-ooo-dynamic-content-for-elementor",
+              "path": "/docs/tudasbazis/bovitmenyek/dynamic-ooo-dynamic-content-for-elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/edit-order-by-customer",
+              "path": "/docs/tudasbazis/bovitmenyek/edit-order-by-customer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/elementor-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/elementor-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/email-customizer-for-automatewoo",
+              "path": "/docs/tudasbazis/bovitmenyek/email-customizer-for-automatewoo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/email-customizer-for-woocommerce-subscriptions",
+              "path": "/docs/tudasbazis/bovitmenyek/email-customizer-for-woocommerce-subscriptions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluent-boards-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/fluent-boards-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluent-forms",
+              "path": "/docs/tudasbazis/bovitmenyek/fluent-forms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluent-forms-pdf-generator",
+              "path": "/docs/tudasbazis/bovitmenyek/fluent-forms-pdf-generator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluent-forms-pro-add-on-pack",
+              "path": "/docs/tudasbazis/bovitmenyek/fluent-forms-pro-add-on-pack",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluent-forms-signature-addon",
+              "path": "/docs/tudasbazis/bovitmenyek/fluent-forms-signature-addon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluent-support",
+              "path": "/docs/tudasbazis/bovitmenyek/fluent-support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluent-support-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/fluent-support-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluentbooking-appointment-scheduling-booking-solution",
+              "path": "/docs/tudasbazis/bovitmenyek/fluentbooking-appointment-scheduling-booking-solution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluentbooking-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/fluentbooking-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluentcart",
+              "path": "/docs/tudasbazis/bovitmenyek/fluentcart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluentcart-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/fluentcart-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluentcommunity",
+              "path": "/docs/tudasbazis/bovitmenyek/fluentcommunity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluentcommunity-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/fluentcommunity-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluentcrm-marketing-automation-for-wordpress",
+              "path": "/docs/tudasbazis/bovitmenyek/fluentcrm-marketing-automation-for-wordpress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluentcrm-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/fluentcrm-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/fluentsmtp",
+              "path": "/docs/tudasbazis/bovitmenyek/fluentsmtp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/free-gifts-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/free-gifts-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/gappointments",
+              "path": "/docs/tudasbazis/bovitmenyek/gappointments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/generateblocks",
+              "path": "/docs/tudasbazis/bovitmenyek/generateblocks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/generateblocks-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/generateblocks-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/gp-premium",
+              "path": "/docs/tudasbazis/bovitmenyek/gp-premium",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/gravity-forms",
+              "path": "/docs/tudasbazis/bovitmenyek/gravity-forms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/gravity-forms-multilingual",
+              "path": "/docs/tudasbazis/bovitmenyek/gravity-forms-multilingual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/gravity-forms-product-add-ons-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/gravity-forms-product-add-ons-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/gravity-smtp",
+              "path": "/docs/tudasbazis/bovitmenyek/gravity-smtp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/index",
+              "path": "/docs/tudasbazis/bovitmenyek/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jet-appointments-booking",
+              "path": "/docs/tudasbazis/bovitmenyek/jet-appointments-booking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetblocks-for-elementor",
+              "path": "/docs/tudasbazis/bovitmenyek/jetblocks-for-elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetblog-for-elementor",
+              "path": "/docs/tudasbazis/bovitmenyek/jetblog-for-elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetbooking",
+              "path": "/docs/tudasbazis/bovitmenyek/jetbooking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetcomparewishlist-for-elementor",
+              "path": "/docs/tudasbazis/bovitmenyek/jetcomparewishlist-for-elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetelements-for-elementor",
+              "path": "/docs/tudasbazis/bovitmenyek/jetelements-for-elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetengine",
+              "path": "/docs/tudasbazis/bovitmenyek/jetengine",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetengine-custom-visibility-conditions",
+              "path": "/docs/tudasbazis/bovitmenyek/jetengine-custom-visibility-conditions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetengine-dynamic-charts-builder",
+              "path": "/docs/tudasbazis/bovitmenyek/jetengine-dynamic-charts-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetengine-dynamic-tables-builder",
+              "path": "/docs/tudasbazis/bovitmenyek/jetengine-dynamic-tables-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetengine-get-attachment-file-link-by-id",
+              "path": "/docs/tudasbazis/bovitmenyek/jetengine-get-attachment-file-link-by-id",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetengine-layout-switcher",
+              "path": "/docs/tudasbazis/bovitmenyek/jetengine-layout-switcher",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetengine-post-expiration-period-module",
+              "path": "/docs/tudasbazis/bovitmenyek/jetengine-post-expiration-period-module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetengine-trim-string-callback",
+              "path": "/docs/tudasbazis/bovitmenyek/jetengine-trim-string-callback",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-address-autocomplete",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-address-autocomplete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-advanced-color-picker",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-advanced-color-picker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-convertkit-action",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-convertkit-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-formless-actions-endpoints",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-formless-actions-endpoints",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-hierarchical-select",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-hierarchical-select",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-hubspot-action",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-hubspot-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-limit-form-responses",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-limit-form-responses",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-mailerlite-action",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-mailerlite-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-mailpoet-action",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-mailpoet-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-moosend-action",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-moosend-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-paypal-recurring-payments",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-paypal-recurring-payments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-pdf-attachment",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-pdf-attachment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-save-form-progress",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-save-form-progress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-schedule-forms",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-schedule-forms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-select-autocomplete",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-select-autocomplete",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-stripe-gateway",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-stripe-gateway",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-user-login-action",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-user-login-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetformbuilder-woocommerce-cart-checkout-action",
+              "path": "/docs/tudasbazis/bovitmenyek/jetformbuilder-woocommerce-cart-checkout-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetmenu",
+              "path": "/docs/tudasbazis/bovitmenyek/jetmenu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetpopup",
+              "path": "/docs/tudasbazis/bovitmenyek/jetpopup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetproductgallery",
+              "path": "/docs/tudasbazis/bovitmenyek/jetproductgallery",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetproducttables",
+              "path": "/docs/tudasbazis/bovitmenyek/jetproducttables",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetreviews-for-elementor",
+              "path": "/docs/tudasbazis/bovitmenyek/jetreviews-for-elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetsearch",
+              "path": "/docs/tudasbazis/bovitmenyek/jetsearch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetsmartfilters",
+              "path": "/docs/tudasbazis/bovitmenyek/jetsmartfilters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetstylemanager",
+              "path": "/docs/tudasbazis/bovitmenyek/jetstylemanager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jettabs-for-elementor",
+              "path": "/docs/tudasbazis/bovitmenyek/jettabs-for-elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetthemecore",
+              "path": "/docs/tudasbazis/bovitmenyek/jetthemecore",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jettricks",
+              "path": "/docs/tudasbazis/bovitmenyek/jettricks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/jetwoobuilder-for-elementor",
+              "path": "/docs/tudasbazis/bovitmenyek/jetwoobuilder-for-elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-course-reviews",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-course-reviews",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-2checkout-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-2checkout-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-achievements",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-achievements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-bbpress-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-bbpress-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-certificate-builder",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-certificate-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-course-grid",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-course-grid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-edd-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-edd-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-elementor",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-event-espresso",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-event-espresso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-gravityforms-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-gravityforms-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-integrity",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-integrity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-memberpress-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-memberpress-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-migration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-migration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-notifications",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-notifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-paid-memberships-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-paid-memberships-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-restrict-content-pro-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-restrict-content-pro-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-samcart-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-samcart-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-the-events-calendar-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-the-events-calendar-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-thrivecart-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-thrivecart-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-woocommerce-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-woocommerce-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-lms-zapier-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-lms-zapier-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/learndash-multilingual-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/learndash-multilingual-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mailchimp-for-woocommerce-memberships",
+              "path": "/docs/tudasbazis/bovitmenyek/mailchimp-for-woocommerce-memberships",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mailchimp-for-wordpress-multilingual",
+              "path": "/docs/tudasbazis/bovitmenyek/mailchimp-for-wordpress-multilingual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-advanced-uptime-monitor-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-advanced-uptime-monitor-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-api-backups-extension-beta",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-api-backups-extension-beta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-article-uploader-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-article-uploader-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-atarim-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-atarim-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-buddy-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-buddy-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-bulk-settings-manager-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-bulk-settings-manager-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-cache-control-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-cache-control-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-clone-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-clone-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-code-snippets-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-code-snippets-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-comments-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-comments-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-custom-dashboard-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-custom-dashboard-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-custom-post-type",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-custom-post-type",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-dashboard",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-dashboard-lock-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-dashboard-lock-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-database-updater-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-database-updater-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-domain-monitor-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-domain-monitor-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-favorites-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-favorites-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-file-uploader-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-file-uploader-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-google-analytics-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-google-analytics-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-ithemes-security-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-ithemes-security-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-jetpack-protect-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-jetpack-protect-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-jetpack-scan-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-jetpack-scan-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-lighthouse-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-lighthouse-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-maintenance-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-maintenance-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-matomo-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-matomo-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-post-dripper-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-post-dripper-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-post-plus-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-post-plus-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-pressable-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-pressable-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-pro-reports-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-pro-reports-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-ssl-monitor-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-ssl-monitor-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-staging-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-staging-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-sucuri-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-sucuri-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-team-control",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-team-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-time-capsule-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-time-capsule-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-updraftplus-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-updraftplus-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-url-extractor-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-url-extractor-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-virusdie-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-virusdie-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-vulnerability-checker-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-vulnerability-checker-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-white-label-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-white-label-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-woocommerce-shortcuts-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-shortcuts-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-woocommerce-status-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-woocommerce-status-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-wordfence-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-wordfence-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-wordpress-seo-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-wordpress-seo-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mainwp-wp-compress-extension",
+              "path": "/docs/tudasbazis/bovitmenyek/mainwp-wp-compress-extension",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-admin-columns",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-admin-columns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-blocks",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-blocks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-builder",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-conditional-logic",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-conditional-logic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-custom-table",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-custom-table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-favorite-posts",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-favorite-posts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-frontend-submission",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-frontend-submission",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-group",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-group",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-include-exclude",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-include-exclude",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-revision",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-revision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-settings-page",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-settings-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-tabs",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-tabs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-term-meta",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-term-meta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-testimonials",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-testimonials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-tooltip",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-tooltip",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-user-avatar",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-user-avatar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/mb-user-profile",
+              "path": "/docs/tudasbazis/bovitmenyek/mb-user-profile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/meta-box",
+              "path": "/docs/tudasbazis/bovitmenyek/meta-box",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/meta-box-columns",
+              "path": "/docs/tudasbazis/bovitmenyek/meta-box-columns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/meta-box-geolocation",
+              "path": "/docs/tudasbazis/bovitmenyek/meta-box-geolocation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/meta-box-show-hide",
+              "path": "/docs/tudasbazis/bovitmenyek/meta-box-show-hide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/meta-box-template",
+              "path": "/docs/tudasbazis/bovitmenyek/meta-box-template",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-activecampaign",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-activecampaign",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-conditional-logic",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-conditional-logic",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-excel-export",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-excel-export",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-file-uploads",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-file-uploads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-layout-styles",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-layout-styles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-multi-part-forms",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-multi-part-forms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-multilingual",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-multilingual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-save-progress",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-save-progress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-stripe",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-stripe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-user-management",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-user-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-webhooks",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-webhooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ninja-forms-zapier",
+              "path": "/docs/tudasbazis/bovitmenyek/ninja-forms-zapier",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/notes-for-learndash",
+              "path": "/docs/tudasbazis/bovitmenyek/notes-for-learndash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/oxyextras",
+              "path": "/docs/tudasbazis/bovitmenyek/oxyextras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/oxygen",
+              "path": "/docs/tudasbazis/bovitmenyek/oxygen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/oxygen-elements-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/oxygen-elements-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/oxygen-gutenberg-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/oxygen-gutenberg-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/perfmatters",
+              "path": "/docs/tudasbazis/bovitmenyek/perfmatters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/pixel-manager-pro-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/pixel-manager-pro-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/polylang-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/polylang-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/polylang-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/polylang-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/product-dynamic-pricing-and-discounts",
+              "path": "/docs/tudasbazis/bovitmenyek/product-dynamic-pricing-and-discounts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/product-video-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/product-video-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/products-linked-by-variations-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/products-linked-by-variations-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/qala-product-price-history",
+              "path": "/docs/tudasbazis/bovitmenyek/qala-product-price-history",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/quadmenu",
+              "path": "/docs/tudasbazis/bovitmenyek/quadmenu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/quadmenu-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/quadmenu-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/request-a-quote-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/request-a-quote-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/restrict-content-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/restrict-content-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/seopress",
+              "path": "/docs/tudasbazis/bovitmenyek/seopress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/seopress-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/seopress-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/slack-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/slack-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/slider-revolution",
+              "path": "/docs/tudasbazis/bovitmenyek/slider-revolution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/solid-security-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/solid-security-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/teams-for-woocommerce-memberships",
+              "path": "/docs/tudasbazis/bovitmenyek/teams-for-woocommerce-memberships",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/termageddon-for-mainwp",
+              "path": "/docs/tudasbazis/bovitmenyek/termageddon-for-mainwp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/the-plus-addons-for-elementor-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/the-plus-addons-for-elementor-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/top-bar-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/top-bar-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/translatepress-business",
+              "path": "/docs/tudasbazis/bovitmenyek/translatepress-business",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/translatepress-multilingual",
+              "path": "/docs/tudasbazis/bovitmenyek/translatepress-multilingual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/tutor-lms-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/tutor-lms-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/ultimate-addons-for-elementor-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/ultimate-addons-for-elementor-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/updraftplus-backup-restore",
+              "path": "/docs/tudasbazis/bovitmenyek/updraftplus-backup-restore",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/userpro-5-1-11",
+              "path": "/docs/tudasbazis/bovitmenyek/userpro-5-1-11",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/webinarpress-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/webinarpress-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wholesale-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/wholesale-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-additional-variation-images",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-additional-variation-images",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-advanced-notifications",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-advanced-notifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-all-products-for-subscriptions",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-all-products-for-subscriptions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-appointments",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-appointments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-back-in-stock-notifications",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-back-in-stock-notifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-bookings",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-bookings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-bulk-stock-management",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-bulk-stock-management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-checkout-add-ons",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-checkout-add-ons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-checkout-field-editor",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-checkout-field-editor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-composite-products",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-composite-products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-conditional-shipping-and-payments",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-conditional-shipping-and-payments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-cost-of-goods",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-cost-of-goods",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-deposits",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-deposits",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-dynamic-pricing",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-dynamic-pricing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-e-mail-attachments-by-inoplugs",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-e-mail-attachments-by-inoplugs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-email-customizer",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-email-customizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-eu-vat-number",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-eu-vat-number",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-google-analytics-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-google-analytics-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-google-product-feed",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-google-product-feed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-local-pickup-plus",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-local-pickup-plus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-mailchimp-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-mailchimp-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-measurement-price-calculator",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-measurement-price-calculator",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-memberships",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-memberships",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-min-max-quantities",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-min-max-quantities",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-name-your-price",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-name-your-price",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-one-page-checkout",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-one-page-checkout",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-order-status-manager",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-order-status-manager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-payment-gateway-based-fees",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-payment-gateway-based-fees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-pdf-invoices",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-pdf-invoices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-pdf-watermark",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-pdf-watermark",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-points-and-rewards",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-points-and-rewards",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-pre-orders",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-pre-orders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-price-per-unit-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-price-per-unit-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-product-add-ons",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-product-add-ons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-product-add-ons-ultimate",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-product-add-ons-ultimate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-product-bundles",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-product-bundles",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-product-recommendations",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-product-recommendations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-product-reviews-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-product-reviews-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-product-vendors",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-product-vendors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-sequential-order-numbers-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-sequential-order-numbers-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-shipping-per-product-v2",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-shipping-per-product-v2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-smart-coupons",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-smart-coupons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-social-login",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-social-login",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-subscription-downloads",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-subscription-downloads",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-subscriptions",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-subscriptions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-tab-manager",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-tab-manager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-table-rate-shipping",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-table-rate-shipping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-url-coupons",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-url-coupons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-warranty-requests",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-warranty-requests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-wishlists",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-wishlists",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/woocommerce-ws-form-pro-product-add-ons",
+              "path": "/docs/tudasbazis/bovitmenyek/woocommerce-ws-form-pro-product-add-ons",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-export-acf-export-add-on-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-export-acf-export-add-on-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-export-gravity-forms-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-export-gravity-forms-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-export-jetengine-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-export-jetengine-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-export-meta-box-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-export-meta-box-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-export-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-export-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-export-user-export-add-on-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-export-user-export-add-on-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-export-woocommerce-export-add-on-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-export-woocommerce-export-add-on-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-import-acf-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-import-acf-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-import-gravity-forms-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-import-gravity-forms-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-import-jetengine-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-import-jetengine-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-import-link-cloaking-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-import-link-cloaking-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-import-meta-box-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-import-meta-box-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-import-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-import-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-import-user-import-add-on-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-import-user-import-add-on-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-all-import-woocommerce-import-add-on-pro",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-all-import-woocommerce-import-add-on-pro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-advanced-booking-restrictions-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-advanced-booking-restrictions-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-authorize-net-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-authorize-net-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-booking-manager",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-booking-manager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-calendar-organiser",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-calendar-organiser",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-contracts",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-contracts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-coupons-discounts-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-coupons-discounts-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-customers",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-customers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-email-reminders-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-email-reminders-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-gopay-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-gopay-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-inventory",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-inventory",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-invoices",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-invoices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-mollie",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-mollie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-multiple-currencies",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-multiple-currencies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-paypal-buttons-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-paypal-buttons-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-pricelabs",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-pricelabs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-redsys-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-redsys-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-reporting-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-reporting-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-search-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-search-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-sms-notifications",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-sms-notifications",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-square-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-square-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-stripe-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-stripe-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-booking-system-woocommerce-add-on",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-booking-system-woocommerce-add-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder-beaver-builder",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-beaver-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder-bricks",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-bricks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder-caching",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-caching",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder-elementor",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder-learndash",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-learndash",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder-map-facet",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-map-facet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder-meta-box",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-meta-box",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder-multilingual",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-multilingual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder-oxygen",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-oxygen",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-grid-builder-pods",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-grid-builder-pods",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-rocket",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-rocket",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wp-rocket-integration",
+              "path": "/docs/tudasbazis/bovitmenyek/wp-rocket-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wpbakery-page-builder",
+              "path": "/docs/tudasbazis/bovitmenyek/wpbakery-page-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wpforms-multilingual",
+              "path": "/docs/tudasbazis/bovitmenyek/wpforms-multilingual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wpml-all-import",
+              "path": "/docs/tudasbazis/bovitmenyek/wpml-all-import",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wpml-cms-navigation",
+              "path": "/docs/tudasbazis/bovitmenyek/wpml-cms-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wpml-media-translation",
+              "path": "/docs/tudasbazis/bovitmenyek/wpml-media-translation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wpml-multilingual-cms",
+              "path": "/docs/tudasbazis/bovitmenyek/wpml-multilingual-cms",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wpml-multilingual-multicurrency-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/wpml-multilingual-multicurrency-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wpml-seo",
+              "path": "/docs/tudasbazis/bovitmenyek/wpml-seo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/wpml-string-translation",
+              "path": "/docs/tudasbazis/bovitmenyek/wpml-string-translation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/yaymail-pro-woocommerce-email-customizer",
+              "path": "/docs/tudasbazis/bovitmenyek/yaymail-pro-woocommerce-email-customizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/yith-infinite-scrolling-premium",
+              "path": "/docs/tudasbazis/bovitmenyek/yith-infinite-scrolling-premium",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/yith-woocommerce-ajax-product-filter-premium",
+              "path": "/docs/tudasbazis/bovitmenyek/yith-woocommerce-ajax-product-filter-premium",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/yoast-seo-premium",
+              "path": "/docs/tudasbazis/bovitmenyek/yoast-seo-premium",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/yoast-seo-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/yoast-seo-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/bovitmenyek/zapier-integration-for-woocommerce",
+              "path": "/docs/tudasbazis/bovitmenyek/zapier-integration-for-woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/acorn",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/acorn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/adminer",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/adminer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/bedrock",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/bedrock",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/bongeszo-firefox-developer-edition",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/bongeszo-firefox-developer-edition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/composer",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/composer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/cursor",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/cursor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/ddev",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/ddev",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/debug-bar",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/debug-bar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/deployer",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/deployer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/devkinsta",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/devkinsta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/esbuild",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/esbuild",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/github-actions",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/github-actions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/index",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/localwp",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/localwp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/pest",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/pest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/phpcs-wpcs",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/phpcs-wpcs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/phpstan",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/phpstan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/phpstorm",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/phpstorm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/phpunit",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/phpunit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/playwright",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/playwright",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/query-monitor",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/query-monitor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/sage",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/sage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/trellis",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/trellis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/vite",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/vite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/vscode",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/vscode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/wordpress-playground",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/wordpress-playground",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/wp-cli",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/wp-cli",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/wpackagist",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/wpackagist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/fejlesztoi-eszkozok/xdebug",
+              "path": "/docs/tudasbazis/fejlesztoi-eszkozok/xdebug",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/1password",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/1password",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/affinity",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/affinity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/anydesk",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/anydesk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/bitwarden",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/bitwarden",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/coolors",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/coolors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/figma",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/figma",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/font-awesome",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/font-awesome",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/github-copilot",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/github-copilot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/github-desktop",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/github-desktop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/gtmetrix",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/gtmetrix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/index",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/insomnia",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/insomnia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/iterm2",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/iterm2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/postman",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/postman",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/tableplus",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/tableplus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/toggl-track",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/toggl-track",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hasznos-eszkozok/warp",
+              "path": "/docs/tudasbazis/hasznos-eszkozok/warp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/cURL-error-60",
+              "path": "/docs/tudasbazis/hibaelharitas/cURL-error-60",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/index",
+              "path": "/docs/tudasbazis/hibaelharitas/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/premium-bovitmenyek/index",
+              "path": "/docs/tudasbazis/hibaelharitas/premium-bovitmenyek/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/premium-bovitmenyek/learndash-quiz-karakterkeszlet-problemak-megoldasa",
+              "path": "/docs/tudasbazis/hibaelharitas/premium-bovitmenyek/learndash-quiz-karakterkeszlet-problemak-megoldasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/premium-bovitmenyek/megoldas-az-elementor-szerkeszto-nem-tolt-be-szurke-hatter-lathato",
+              "path": "/docs/tudasbazis/hibaelharitas/premium-bovitmenyek/megoldas-az-elementor-szerkeszto-nem-tolt-be-szurke-hatter-lathato",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/wordpress/a-kovetett-hivatkozas-ervenyessege-lejart",
+              "path": "/docs/tudasbazis/hibaelharitas/wordpress/a-kovetett-hivatkozas-ervenyessege-lejart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/wordpress/bovitmeny-telepitesi-hiba",
+              "path": "/docs/tudasbazis/hibaelharitas/wordpress/bovitmeny-telepitesi-hiba",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/wordpress/hibakereses-wordpress-ben",
+              "path": "/docs/tudasbazis/hibaelharitas/wordpress/hibakereses-wordpress-ben",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/wordpress/index",
+              "path": "/docs/tudasbazis/hibaelharitas/wordpress/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/wordpress/mysql-index-auto-increment",
+              "path": "/docs/tudasbazis/hibaelharitas/wordpress/mysql-index-auto-increment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/hibaelharitas/wordpress/sablon-telepitesi-hiba",
+              "path": "/docs/tudasbazis/hibaelharitas/wordpress/sablon-telepitesi-hiba",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/index",
+              "path": "/docs/tudasbazis/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/all-in-one-wp-migration/all-in-one-wp-migration-koltoztetes",
+              "path": "/docs/tudasbazis/oktatoanyagok/all-in-one-wp-migration/all-in-one-wp-migration-koltoztetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/all-in-one-wp-migration/all-in-one-wp-migration-url-koltoztetes",
+              "path": "/docs/tudasbazis/oktatoanyagok/all-in-one-wp-migration/all-in-one-wp-migration-url-koltoztetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/all-in-one-wp-migration/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/all-in-one-wp-migration/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/AutomateWoo/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/AutomateWoo/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/AutomateWoo/mi-az-automatewoo",
+              "path": "/docs/tudasbazis/oktatoanyagok/AutomateWoo/mi-az-automatewoo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/AutomateWoo/workflow-keszitese",
+              "path": "/docs/tudasbazis/oktatoanyagok/AutomateWoo/workflow-keszitese",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/elementor/Elementor flex konténer",
+              "path": "/docs/tudasbazis/oktatoanyagok/elementor/Elementor flex konténer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/elementor/Elementor Workflow hatékonyság",
+              "path": "/docs/tudasbazis/oktatoanyagok/elementor/Elementor Workflow hatékonyság",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/elementor/elementor-urlap-checkbox-limitacio",
+              "path": "/docs/tudasbazis/oktatoanyagok/elementor/elementor-urlap-checkbox-limitacio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/elementor/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/elementor/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/elementor/Toggle widget lapozás",
+              "path": "/docs/tudasbazis/oktatoanyagok/elementor/Toggle widget lapozás",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/elementor/Ultimate Header",
+              "path": "/docs/tudasbazis/oktatoanyagok/elementor/Ultimate Header",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/github/github-kezdoknek/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/github/github-kezdoknek/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/github/hogyan-tolts-fel-github-ra/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/github/hogyan-tolts-fel-github-ra/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/github/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/github/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/JetEngine/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/JetEngine/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/JetEngine/JetEngine Áttekintő",
+              "path": "/docs/tudasbazis/oktatoanyagok/JetEngine/JetEngine Áttekintő",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/JetEngine/jetengine-cct-relations-jfb",
+              "path": "/docs/tudasbazis/oktatoanyagok/JetEngine/jetengine-cct-relations-jfb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/JetEngine/Praktikák/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/JetEngine/Praktikák/Meta vs taxonomy",
+              "path": "/docs/tudasbazis/oktatoanyagok/JetEngine/Praktikák/Meta vs taxonomy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/premium-bovitmenyek/checkoutwc-adoszam-hozzaadasa-a-penztar-oldalhoz",
+              "path": "/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/checkoutwc-adoszam-hozzaadasa-a-penztar-oldalhoz",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/premium-bovitmenyek/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/premium-bovitmenyek/sms-ertesites-amelia-bovitmenyben",
+              "path": "/docs/tudasbazis/oktatoanyagok/premium-bovitmenyek/sms-ertesites-amelia-bovitmenyben",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/uzemeltetes/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/uzemeltetes/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/uzemeltetes/wordpress-telepitese-konnyeden-egy-telepito-fajl-segitsegevel",
+              "path": "/docs/tudasbazis/oktatoanyagok/uzemeltetes/wordpress-telepitese-konnyeden-egy-telepito-fajl-segitsegevel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/wordpress/child-sablon",
+              "path": "/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/wordpress/child-sablon-function-php-fajljanak-a-modositasa",
+              "path": "/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon-function-php-fajljanak-a-modositasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/wordpress/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/wordpress/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/wp-all-impot-export/cron-job-beallitasa",
+              "path": "/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/cron-job-beallitasa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/oktatoanyagok/wp-all-impot-export/index",
+              "path": "/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/divi",
+              "path": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/divi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/elementor",
+              "path": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/elementor",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/index",
+              "path": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/kadence",
+              "path": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/kadence",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/woocommerce",
+              "path": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/woocommerce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/wordpress",
+              "path": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/wordpress",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tudasbazis/szerver-tarhely/index",
+              "path": "/docs/tudasbazis/szerver-tarhely/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/dokumentacio/",
+                "label": "Dokumentáció"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

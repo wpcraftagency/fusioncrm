@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-redsys-add-on",
+  "title": "WP Booking System - Redsys Add-on",
+  "description": "A WP Booking System fizetési bővítménye, amellyel közvetlenül a foglalási űrlapon fogadhatsz bankkártyás fizetést a Redsysen és opcionálisan BIZUMon keresztül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-redsys-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-redsys-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-redsys-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-redsys-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Redsys Add-on",
+    "description": "A WP Booking System fizetési bővítménye, amellyel közvetlenül a foglalási űrlapon fogadhatsz bankkártyás fizetést a Redsysen és opcionálisan BIZUMon keresztül.",
+    "sidebar_label": "WP Booking System - Redsys Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Pricelabs",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-pricelabs"
+  },
+  "next": {
+    "title": "WP Booking System - Reporting Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-reporting-add-on"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/index",
+  "title": "Fejlesztői eszközök",
+  "description": "Hasznos fejlesztői eszközök WordPress fejlesztéshez.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/index.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Fejlesztői eszközök",
+    "description": "Hasznos fejlesztői eszközök WordPress fejlesztéshez.",
+    "keywords": [
+      "fejlesztés",
+      "composer",
+      "wpackagist",
+      "vscode",
+      "visual studio code"
+    ],
+    "sidebar_label": "Fejlesztői eszközök",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/woocommerce"
+  },
+  "next": {
+    "title": "Acorn",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/acorn"
+  }
+}

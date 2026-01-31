@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/anydesk",
+  "title": "AnyDesk telepítése és használata",
+  "description": "AnyDesk távoli asztali szoftver telepítése és használata - távsegítség egyszerűen.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/anydesk.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/anydesk",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/anydesk",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/anydesk.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "AnyDesk telepítése és használata",
+    "description": "AnyDesk távoli asztali szoftver telepítése és használata - távsegítség egyszerűen.",
+    "keywords": [
+      "anydesk",
+      "távoli asztal",
+      "remote desktop",
+      "távsegítség"
+    ],
+    "sidebar_label": "AnyDesk",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Affinity Suite",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/affinity"
+  },
+  "next": {
+    "title": "Bitwarden",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/bitwarden"
+  }
+}

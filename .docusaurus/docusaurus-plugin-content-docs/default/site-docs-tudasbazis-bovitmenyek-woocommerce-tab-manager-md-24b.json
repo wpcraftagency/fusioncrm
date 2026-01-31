@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-tab-manager",
+  "title": "WooCommerce Tab Manager",
+  "description": "Bővítmény WooCommerce termékoldali fülek teljes körű, kódmentes kezeléséhez: új fülek, sorrend, elnevezés, globális fülek és alapértelmezett layout.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-tab-manager.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-tab-manager",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-tab-manager",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-tab-manager.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Tab Manager",
+    "description": "Bővítmény WooCommerce termékoldali fülek teljes körű, kódmentes kezeléséhez: új fülek, sorrend, elnevezés, globális fülek és alapértelmezett layout.",
+    "sidebar_label": "WooCommerce Tab Manager"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Subscriptions",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-subscriptions"
+  },
+  "next": {
+    "title": "WooCommerce Table Rate Shipping",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-table-rate-shipping"
+  }
+}

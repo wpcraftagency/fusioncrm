@@ -1,0 +1,39 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/affinity",
+  "title": "Affinity Suite - Adobe alternatíva",
+  "description": "Affinity Photo, Designer és Publisher - professzionális kreatív szoftverek egyszeri díjjal, Adobe előfizetés nélkül.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/affinity.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/affinity",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/affinity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/affinity.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Affinity Suite - Adobe alternatíva",
+    "description": "Affinity Photo, Designer és Publisher - professzionális kreatív szoftverek egyszeri díjjal, Adobe előfizetés nélkül.",
+    "keywords": [
+      "affinity",
+      "affinity photo",
+      "affinity designer",
+      "affinity publisher",
+      "adobe alternatíva",
+      "képszerkesztés",
+      "grafikai tervezés"
+    ],
+    "sidebar_label": "Affinity Suite",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1Password",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/1password"
+  },
+  "next": {
+    "title": "AnyDesk",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/anydesk"
+  }
+}

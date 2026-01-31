@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-social-login",
+  "title": "WooCommerce Social Login",
+  "description": "WooCommerce-kiegészítő, amellyel a vásárlók Facebook, Google, X/Twitter, Amazon, PayPal, LinkedIn vagy Disqus fiókkal regisztrálhatnak és jelentkezhetnek be – gyorsabb fizetés és kevesebb súrlódás.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-social-login.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-social-login",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-social-login",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-social-login.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Social Login",
+    "description": "WooCommerce-kiegészítő, amellyel a vásárlók Facebook, Google, X/Twitter, Amazon, PayPal, LinkedIn vagy Disqus fiókkal regisztrálhatnak és jelentkezhetnek be – gyorsabb fizetés és kevesebb súrlódás.",
+    "sidebar_label": "WooCommerce Social Login"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Smart Coupons",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-smart-coupons"
+  },
+  "next": {
+    "title": "WooCommerce Subscription Downloads",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-subscription-downloads"
+  }
+}

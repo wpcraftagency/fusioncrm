@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/tutor-lms-pro",
+  "title": "Tutor LMS Pro",
+  "description": "Teljes értékű WordPress alapú LMS – haladó funkciókkal (AI, előfizetések, piactér, tanúsítványok) online kurzusok létrehozásához, kezeléséhez és értékesítéséhez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/tutor-lms-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/tutor-lms-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/tutor-lms-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/tutor-lms-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tutor LMS Pro",
+    "description": "Teljes értékű WordPress alapú LMS – haladó funkciókkal (AI, előfizetések, piactér, tanúsítványok) online kurzusok létrehozásához, kezeléséhez és értékesítéséhez.",
+    "sidebar_label": "Tutor LMS Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TranslatePress - Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/translatepress-multilingual"
+  },
+  "next": {
+    "title": "Ultimate Addons for Elementor Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ultimate-addons-for-elementor-pro"
+  }
+}

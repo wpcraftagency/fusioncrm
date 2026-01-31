@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/oxygen-gutenberg-integration",
+  "title": "Oxygen Gutenberg Integration",
+  "description": "Hivatalos Oxygen Builder kiegészítő, amellyel az Oxygenben tervezett elemeket teljes értékű Gutenberg blokkokként szerkesztheted, központi dizájnkontroll mellett.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/oxygen-gutenberg-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/oxygen-gutenberg-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/oxygen-gutenberg-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/oxygen-gutenberg-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Oxygen Gutenberg Integration",
+    "description": "Hivatalos Oxygen Builder kiegészítő, amellyel az Oxygenben tervezett elemeket teljes értékű Gutenberg blokkokként szerkesztheted, központi dizájnkontroll mellett.",
+    "sidebar_label": "Oxygen Gutenberg Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Oxygen Elements for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/oxygen-elements-for-woocommerce"
+  },
+  "next": {
+    "title": "Oxygen",
+    "permalink": "/docs/tudasbazis/bovitmenyek/oxygen"
+  }
+}

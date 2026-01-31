@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-wp-compress-extension",
+  "title": "MainWP WP Compress Extension",
+  "description": "Ingyenes MainWP kiegészítő, amellyel a WP Compress képtömörítést és teljesítményfunkciókat egyetlen központi vezérlőpultból, tömegesen telepítheted és összekapcsolhatod minden Child Site-on.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-wp-compress-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-wp-compress-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-wp-compress-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-wp-compress-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP WP Compress Extension",
+    "description": "Ingyenes MainWP kiegészítő, amellyel a WP Compress képtömörítést és teljesítményfunkciókat egyetlen központi vezérlőpultból, tömegesen telepítheted és összekapcsolhatod minden Child Site-on.",
+    "sidebar_label": "MainWP WP Compress Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP WordPress SEO Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-wordpress-seo-extension"
+  },
+  "next": {
+    "title": "MB Admin Columns",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-admin-columns"
+  }
+}

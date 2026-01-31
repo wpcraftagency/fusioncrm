@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/phpstan",
+  "title": "PHPStan - Statikus kódelemzés",
+  "description": "PHPStan használata WordPress projektekhez - PHP hibák és biztonsági problémák felderítése futtatás nélkül.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/phpstan.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/phpstan",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/phpstan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/phpstan.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "title": "PHPStan - Statikus kódelemzés",
+    "description": "PHPStan használata WordPress projektekhez - PHP hibák és biztonsági problémák felderítése futtatás nélkül.",
+    "keywords": [
+      "phpstan",
+      "static analysis",
+      "php",
+      "code quality",
+      "wordpress"
+    ],
+    "sidebar_label": "PHPStan",
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PHP_CodeSniffer + WPCS",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/phpcs-wpcs"
+  },
+  "next": {
+    "title": "PhpStorm",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/phpstorm"
+  }
+}

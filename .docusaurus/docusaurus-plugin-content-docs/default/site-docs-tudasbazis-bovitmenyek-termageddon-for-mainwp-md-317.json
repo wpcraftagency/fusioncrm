@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/termageddon-for-mainwp",
+  "title": "Termageddon for MainWP",
+  "description": "Ingyenes MainWP-kiegészítő, amellyel a Termageddon szabályzatgenerátort a MainWP irányítópultból integrálhatod és kezelheted, több WordPress-oldal jogi oldalainak központi létrehozásához és naprakészen tartásához.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/termageddon-for-mainwp.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/termageddon-for-mainwp",
+  "permalink": "/docs/tudasbazis/bovitmenyek/termageddon-for-mainwp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/termageddon-for-mainwp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Termageddon for MainWP",
+    "description": "Ingyenes MainWP-kiegészítő, amellyel a Termageddon szabályzatgenerátort a MainWP irányítópultból integrálhatod és kezelheted, több WordPress-oldal jogi oldalainak központi létrehozásához és naprakészen tartásához.",
+    "sidebar_label": "Termageddon for MainWP"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Teams for WooCommerce Memberships",
+    "permalink": "/docs/tudasbazis/bovitmenyek/teams-for-woocommerce-memberships"
+  },
+  "next": {
+    "title": "The Plus Addons for Elementor - Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/the-plus-addons-for-elementor-pro"
+  }
+}

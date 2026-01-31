@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wpml-string-translation",
+  "title": "WPML String Translation",
+  "description": "WPML kiegészítő, amellyel a bejegyzéseken és oldalakon kívüli felületi szövegeket (stringeket) fordíthatsz: témák, bővítmények, widgetek, űrlapok, hibaüzenetek.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wpml-string-translation.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wpml-string-translation",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wpml-string-translation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wpml-string-translation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WPML String Translation",
+    "description": "WPML kiegészítő, amellyel a bejegyzéseken és oldalakon kívüli felületi szövegeket (stringeket) fordíthatsz: témák, bővítmények, widgetek, űrlapok, hibaüzenetek.",
+    "sidebar_label": "WPML String Translation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WPML SEO",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-seo"
+  },
+  "next": {
+    "title": "YayMail Pro - WooCommerce Email Customizer",
+    "permalink": "/docs/tudasbazis/bovitmenyek/yaymail-pro-woocommerce-email-customizer"
+  }
+}

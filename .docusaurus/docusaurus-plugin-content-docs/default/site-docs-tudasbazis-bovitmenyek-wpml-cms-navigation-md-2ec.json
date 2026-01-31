@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wpml-cms-navigation",
+  "title": "WPML CMS Navigation",
+  "description": "A WPML kiegészítője, amely kész breadcrumbs, legördülő menü és hierarchikus oldalsáv elemeket ad többnyelvű WordPress-oldalakhoz, egyszerű sablonhívásokkal és widgetekkel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wpml-cms-navigation.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wpml-cms-navigation",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wpml-cms-navigation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wpml-cms-navigation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WPML CMS Navigation",
+    "description": "A WPML kiegészítője, amely kész breadcrumbs, legördülő menü és hierarchikus oldalsáv elemeket ad többnyelvű WordPress-oldalakhoz, egyszerű sablonhívásokkal és widgetekkel.",
+    "sidebar_label": "WPML CMS Navigation"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WPML All Import",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-all-import"
+  },
+  "next": {
+    "title": "WPML Media Translation",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-media-translation"
+  }
+}

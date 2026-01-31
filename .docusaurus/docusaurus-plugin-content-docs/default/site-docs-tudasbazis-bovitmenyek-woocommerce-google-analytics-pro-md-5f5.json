@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-google-analytics-pro",
+  "title": "WooCommerce Google Analytics Pro",
+  "description": "Prémium WooCommerce bővítmény, amely mély GA4-integrációt és teljes körű e‑kereskedelmi eseménykövetést kínál külön kódolás vagy GTM nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-google-analytics-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-google-analytics-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-google-analytics-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-google-analytics-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Google Analytics Pro",
+    "description": "Prémium WooCommerce bővítmény, amely mély GA4-integrációt és teljes körű e‑kereskedelmi eseménykövetést kínál külön kódolás vagy GTM nélkül.",
+    "sidebar_label": "WooCommerce Google Analytics Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce EU VAT Number",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-eu-vat-number"
+  },
+  "next": {
+    "title": "WooCommerce Google Product Feed",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-google-product-feed"
+  }
+}

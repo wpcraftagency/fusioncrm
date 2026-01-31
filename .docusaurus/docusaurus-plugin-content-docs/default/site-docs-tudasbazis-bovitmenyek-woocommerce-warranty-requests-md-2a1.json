@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-warranty-requests",
+  "title": "WooCommerce Warranty Requests",
+  "description": "Hivatalos WooCommerce-bővítmény a garanciák, visszaküldések és cserék (RMA) teljes körű, önkiszolgáló és adminisztrált kezelésére.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-warranty-requests.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-warranty-requests",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-warranty-requests",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-warranty-requests.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Warranty Requests",
+    "description": "Hivatalos WooCommerce-bővítmény a garanciák, visszaküldések és cserék (RMA) teljes körű, önkiszolgáló és adminisztrált kezelésére.",
+    "sidebar_label": "WooCommerce Warranty Requests"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce URL Coupons",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-url-coupons"
+  },
+  "next": {
+    "title": "WooCommerce WishLists",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-wishlists"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/devkinsta",
+  "title": "DevKinsta - Helyi WordPress fejlesztés",
+  "description": "DevKinsta használata helyi WordPress fejlesztéshez - ingyenes, Docker-alapú környezet a Kinsta-tól.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/devkinsta.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/devkinsta",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/devkinsta",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/devkinsta.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "DevKinsta - Helyi WordPress fejlesztés",
+    "description": "DevKinsta használata helyi WordPress fejlesztéshez - ingyenes, Docker-alapú környezet a Kinsta-tól.",
+    "keywords": [
+      "devkinsta",
+      "local development",
+      "docker",
+      "wordpress",
+      "kinsta"
+    ],
+    "sidebar_label": "DevKinsta",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployer",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/deployer"
+  },
+  "next": {
+    "title": "esbuild",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/esbuild"
+  }
+}

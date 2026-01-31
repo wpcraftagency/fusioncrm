@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/admin-menu-editor-pro",
+  "title": "Admin Menu Editor Pro",
+  "description": "Prémium WordPress bővítmény az admin menü teljes testreszabásához: rendezés, elrejtés, jogosultságok, új menük, white‑label.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/admin-menu-editor-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/admin-menu-editor-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/admin-menu-editor-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/admin-menu-editor-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Admin Menu Editor Pro",
+    "description": "Prémium WordPress bővítmény az admin menü teljes testreszabásához: rendezés, elrejtés, jogosultságok, új menük, white‑label.",
+    "sidebar_label": "Admin Menu Editor Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Addify - Advanced Product Quantity",
+    "permalink": "/docs/tudasbazis/bovitmenyek/addify-advanced-product-quantity"
+  },
+  "next": {
+    "title": "Advanced Custom Fields Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/advanced-custom-fields-multilingual"
+  }
+}

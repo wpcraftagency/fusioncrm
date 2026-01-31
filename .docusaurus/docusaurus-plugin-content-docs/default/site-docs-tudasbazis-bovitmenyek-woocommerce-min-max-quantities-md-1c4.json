@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-min-max-quantities",
+  "title": "WooCommerce Min/Max Quantities",
+  "description": "Hivatalos WooCommerce bővítmény a minimum/maximum mennyiségi és értékhatárok, valamint az „X-sével vásárolható” szabályok beállításához termék-, kategória- és rendelés-szinten.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-min-max-quantities.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-min-max-quantities",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-min-max-quantities",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-min-max-quantities.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Min/Max Quantities",
+    "description": "Hivatalos WooCommerce bővítmény a minimum/maximum mennyiségi és értékhatárok, valamint az „X-sével vásárolható” szabályok beállításához termék-, kategória- és rendelés-szinten.",
+    "sidebar_label": "WooCommerce Min/Max Quantities"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Memberships",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-memberships"
+  },
+  "next": {
+    "title": "WooCommerce Name Your Price",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-name-your-price"
+  }
+}

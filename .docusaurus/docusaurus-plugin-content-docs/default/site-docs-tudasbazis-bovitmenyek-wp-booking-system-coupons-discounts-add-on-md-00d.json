@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-coupons-discounts-add-on",
+  "title": "WP Booking System - Coupons & Discounts Add-on",
+  "description": "Prémium kiegészítő automatikus kedvezményekhez és kuponkódokhoz a WP Booking System foglalási folyamataiban.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-coupons-discounts-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-coupons-discounts-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-coupons-discounts-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-coupons-discounts-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Coupons & Discounts Add-on",
+    "description": "Prémium kiegészítő automatikus kedvezményekhez és kuponkódokhoz a WP Booking System foglalási folyamataiban.",
+    "sidebar_label": "WP Booking System - Coupons & Discounts Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Contracts",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-contracts"
+  },
+  "next": {
+    "title": "WP Booking System - Customers",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-customers"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-conditional-shipping-and-payments",
+  "title": "WooCommerce Conditional Shipping and Payments",
+  "description": "Hivatalos Woo-bővítmény, amellyel feltételes szabályokkal korlátozhatod a fizetési módokat, a szállítási opciókat és a szállítási célországokat/államokat.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-conditional-shipping-and-payments.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-conditional-shipping-and-payments",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-conditional-shipping-and-payments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-conditional-shipping-and-payments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Conditional Shipping and Payments",
+    "description": "Hivatalos Woo-bővítmény, amellyel feltételes szabályokkal korlátozhatod a fizetési módokat, a szállítási opciókat és a szállítási célországokat/államokat.",
+    "sidebar_label": "WooCommerce Conditional Shipping and Payments"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Composite Products",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-composite-products"
+  },
+  "next": {
+    "title": "WooCommerce Cost of Goods",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-cost-of-goods"
+  }
+}

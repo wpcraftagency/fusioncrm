@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluentbooking-pro",
+  "title": "FluentBooking Pro",
+  "description": "WordPress-alapú időpont- és eseményfoglaló rendszer haladó integrációkkal, naptárszinkronnal, fizetésekkel és csapatfunkciókkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluentbooking-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluentbooking-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluentbooking-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluentbooking-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FluentBooking Pro",
+    "description": "WordPress-alapú időpont- és eseményfoglaló rendszer haladó integrációkkal, naptárszinkronnal, fizetésekkel és csapatfunkciókkal.",
+    "sidebar_label": "FluentBooking Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FluentBooking - Appointment Scheduling & Booking Solution",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentbooking-appointment-scheduling-booking-solution"
+  },
+  "next": {
+    "title": "FluentCart Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentcart-pro"
+  }
+}

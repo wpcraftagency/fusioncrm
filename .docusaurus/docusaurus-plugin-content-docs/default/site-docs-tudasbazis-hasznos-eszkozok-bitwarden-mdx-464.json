@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/bitwarden",
+  "title": "Bitwarden - Nyílt forráskódú jelszókezelő",
+  "description": "Bitwarden jelszókezelő használata - ingyenes, biztonságos és nyílt forráskódú megoldás jelszavak tárolására.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/bitwarden.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/bitwarden",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/bitwarden",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/bitwarden.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Bitwarden - Nyílt forráskódú jelszókezelő",
+    "description": "Bitwarden jelszókezelő használata - ingyenes, biztonságos és nyílt forráskódú megoldás jelszavak tárolására.",
+    "keywords": [
+      "bitwarden",
+      "password manager",
+      "jelszókezelő",
+      "biztonság",
+      "security"
+    ],
+    "sidebar_label": "Bitwarden",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AnyDesk",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/anydesk"
+  },
+  "next": {
+    "title": "Coolors",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/coolors"
+  }
+}

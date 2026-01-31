@@ -1,0 +1,37 @@
+{
+  "id": "dokumentacio/hellopack/kovetelmenyek",
+  "title": "Rendszerkövetelmények",
+  "description": "HelloPack csomagkezelő rendszerkövetelményei - PHP, MySQL, webszerver.",
+  "source": "@site/docs/dokumentacio/hellopack/kovetelmenyek.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/kovetelmenyek",
+  "permalink": "/docs/dokumentacio/hellopack/kovetelmenyek",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/kovetelmenyek.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "title": "Rendszerkövetelmények",
+    "description": "HelloPack csomagkezelő rendszerkövetelményei - PHP, MySQL, webszerver.",
+    "keywords": [
+      "hellopack",
+      "rendszerkövetelmények",
+      "php",
+      "mysql",
+      "szerver"
+    ],
+    "sidebar_label": "Rendszerkövetelmények",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sablonok kezelésének kikapcsolása",
+    "permalink": "/docs/dokumentacio/hellopack/kezeles-kikapcsolasa-sablon"
+  },
+  "next": {
+    "title": "Csomagkezelő White-label",
+    "permalink": "/docs/dokumentacio/hellopack/white-label"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ninja-forms-stripe",
+  "title": "Ninja Forms - Stripe",
+  "description": "Prémium Ninja Forms kiegészítő Stripe Checkout integrációval: egyösszegű és előfizetéses fizetések, több fizetési mód, SCA-megfelelés.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ninja-forms-stripe.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ninja-forms-stripe",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-stripe",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ninja-forms-stripe.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ninja Forms - Stripe",
+    "description": "Prémium Ninja Forms kiegészítő Stripe Checkout integrációval: egyösszegű és előfizetéses fizetések, több fizetési mód, SCA-megfelelés.",
+    "sidebar_label": "Ninja Forms - Stripe"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms - Save Progress",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-save-progress"
+  },
+  "next": {
+    "title": "Ninja Forms - User Management",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-user-management"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wholesale-for-woocommerce",
+  "title": "Wholesale For WooCommerce",
+  "description": "B2B nagykereskedelmi funkciók WooCommerce-hez: role‑alapú árképzés, regisztráció, láthatóság, fizetés/szállítás és adózás kezelése.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wholesale-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wholesale-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wholesale-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wholesale-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Wholesale For WooCommerce",
+    "description": "B2B nagykereskedelmi funkciók WooCommerce-hez: role‑alapú árképzés, regisztráció, láthatóság, fizetés/szállítás és adózás kezelése.",
+    "sidebar_label": "Wholesale For WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WebinarPress Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/webinarpress-pro"
+  },
+  "next": {
+    "title": "WooCommerce Additional Variation Images",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-additional-variation-images"
+  }
+}

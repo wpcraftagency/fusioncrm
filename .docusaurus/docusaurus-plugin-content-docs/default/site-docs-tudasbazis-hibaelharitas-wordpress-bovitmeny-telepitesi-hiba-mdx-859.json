@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/hibaelharitas/wordpress/bovitmeny-telepitesi-hiba",
+  "title": "Bővítmény telepítési hiba",
+  "description": "Bővítmény telepítési hiba",
+  "source": "@site/docs/tudasbazis/hibaelharitas/wordpress/bovitmeny-telepitesi-hiba.mdx",
+  "sourceDirName": "tudasbazis/hibaelharitas/wordpress",
+  "slug": "/tudasbazis/hibaelharitas/wordpress/bovitmeny-telepitesi-hiba",
+  "permalink": "/docs/tudasbazis/hibaelharitas/wordpress/bovitmeny-telepitesi-hiba",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hibaelharitas/wordpress/bovitmeny-telepitesi-hiba.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Bővítmény telepítési hiba",
+    "description": "Bővítmény telepítési hiba",
+    "keywords": [
+      "hibaelharitas"
+    ],
+    "sidebar_label": "Bővítmény telepítési hiba",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "A követett hivatkozás érvényessége lejárt",
+    "permalink": "/docs/tudasbazis/hibaelharitas/wordpress/a-kovetett-hivatkozas-ervenyessege-lejart"
+  },
+  "next": {
+    "title": "MySQL index és auto_increment hiba javítása",
+    "permalink": "/docs/tudasbazis/hibaelharitas/wordpress/mysql-index-auto-increment"
+  }
+}

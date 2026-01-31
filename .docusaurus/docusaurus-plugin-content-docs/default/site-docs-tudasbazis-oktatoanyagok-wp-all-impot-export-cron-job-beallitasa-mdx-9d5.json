@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/wp-all-impot-export/cron-job-beallitasa",
+  "title": "Cron job beállítása",
+  "description": "Cron job beállítása",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/cron-job-beallitasa.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/wp-all-impot-export",
+  "slug": "/tudasbazis/oktatoanyagok/wp-all-impot-export/cron-job-beallitasa",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/cron-job-beallitasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/cron-job-beallitasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Cron job beállítása",
+    "description": "Cron job beállítása",
+    "keywords": [
+      "github"
+    ],
+    "sidebar_label": "Cron job beállítása",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Import/Export",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/wp-all-impot-export/"
+  },
+  "next": {
+    "title": "Szerver, tárhely és domain",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/"
+  }
+}

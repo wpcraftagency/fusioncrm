@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/marketing/Facebook/index",
+  "title": "Facebook",
+  "description": "Facebook és Meta vállalkozáskezelő, hirdetési fiók létrehozása és hozzáférések kezelése.",
+  "source": "@site/docs/dokumentacio/marketing/Facebook/index.mdx",
+  "sourceDirName": "dokumentacio/marketing/Facebook",
+  "slug": "/dokumentacio/marketing/Facebook/",
+  "permalink": "/docs/dokumentacio/marketing/Facebook/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/marketing/Facebook/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Facebook",
+    "description": "Facebook és Meta vállalkozáskezelő, hirdetési fiók létrehozása és hozzáférések kezelése.",
+    "keywords": [
+      "facebook",
+      "meta",
+      "vállalkozáskezelő",
+      "hirdetés"
+    ],
+    "sidebar_label": "Facebook",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Marketing",
+    "permalink": "/docs/dokumentacio/marketing/"
+  },
+  "next": {
+    "title": "Vállalkozáskezelő hozzáférés megadása",
+    "permalink": "/docs/dokumentacio/marketing/Facebook/facebook-hozzaferes-adasa"
+  }
+}

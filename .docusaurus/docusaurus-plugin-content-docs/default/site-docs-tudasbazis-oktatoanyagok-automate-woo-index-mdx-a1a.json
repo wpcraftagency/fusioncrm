@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/AutomateWoo/index",
+  "title": "AutomateWoo",
+  "description": "Automatewoo leírások",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/AutomateWoo/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/AutomateWoo",
+  "slug": "/tudasbazis/oktatoanyagok/AutomateWoo/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/AutomateWoo/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/AutomateWoo/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "AutomateWoo",
+    "description": "Automatewoo leírások",
+    "keywords": [
+      "automatewoo"
+    ],
+    "sidebar_label": "AutomateWoo",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Oktatóanyagok",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/"
+  },
+  "next": {
+    "title": "Áttekintés",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/AutomateWoo/mi-az-automatewoo"
+  }
+}

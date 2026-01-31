@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-database-updater-extension",
+  "title": "MainWP Database Updater Extension",
+  "description": "Központi felületről indíthatod a WooCommerce és (Pro) Elementor adatbázis-frissítéseket az összes csatolt WordPress oldaladon, közvetlenül a MainWP Dashboardból.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-database-updater-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-database-updater-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-database-updater-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-database-updater-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Database Updater Extension",
+    "description": "Központi felületről indíthatod a WooCommerce és (Pro) Elementor adatbázis-frissítéseket az összes csatolt WordPress oldaladon, közvetlenül a MainWP Dashboardból.",
+    "sidebar_label": "MainWP Database Updater Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Dashboard",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-dashboard"
+  },
+  "next": {
+    "title": "MainWP Domain Monitor Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-domain-monitor-extension"
+  }
+}

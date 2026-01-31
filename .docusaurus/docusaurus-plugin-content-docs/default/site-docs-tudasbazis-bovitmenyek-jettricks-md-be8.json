@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jettricks",
+  "title": "JetTricks",
+  "description": "Prémium vizuális effekt- és mikrointerakció-bővítmény Elementorhoz: hotspotok, tooltipek, parallax, sticky oszlop, unfold/read more és részecskeháttér – kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jettricks.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jettricks",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jettricks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jettricks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetTricks",
+    "description": "Prémium vizuális effekt- és mikrointerakció-bővítmény Elementorhoz: hotspotok, tooltipek, parallax, sticky oszlop, unfold/read more és részecskeháttér – kódolás nélkül.",
+    "sidebar_label": "JetTricks"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetThemeCore",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetthemecore"
+  },
+  "next": {
+    "title": "JetWooBuilder For Elementor",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetwoobuilder-for-elementor"
+  }
+}

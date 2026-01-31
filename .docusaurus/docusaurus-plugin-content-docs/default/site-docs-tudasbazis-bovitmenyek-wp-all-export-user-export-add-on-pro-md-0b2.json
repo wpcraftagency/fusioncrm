@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-all-export-user-export-add-on-pro",
+  "title": "WP All Export - User Export Add-On Pro",
+  "description": "Hivatalos WP All Export kiegészítő WordPress felhasználók rugalmas, ütemezhető exportálásához CSV/Excel/Google Sheets/XML formátumokba, teljes meta támogatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-all-export-user-export-add-on-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-all-export-user-export-add-on-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-user-export-add-on-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-all-export-user-export-add-on-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP All Export - User Export Add-On Pro",
+    "description": "Hivatalos WP All Export kiegészítő WordPress felhasználók rugalmas, ütemezhető exportálásához CSV/Excel/Google Sheets/XML formátumokba, teljes meta támogatással.",
+    "sidebar_label": "WP All Export - User Export Add-On Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Export Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-pro"
+  },
+  "next": {
+    "title": "WP All Export - WooCommerce Export Add-On Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-woocommerce-export-add-on-pro"
+  }
+}

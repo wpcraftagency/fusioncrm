@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/hibaelharitas/cURL-error-60",
+  "title": "cURL error 60: SSL certificate hiba megoldása",
+  "description": "A cURL error 60 SSL tanúsítvány hiba megoldása WordPress oldalakon.",
+  "source": "@site/docs/tudasbazis/hibaelharitas/cURL-error-60.mdx",
+  "sourceDirName": "tudasbazis/hibaelharitas",
+  "slug": "/tudasbazis/hibaelharitas/cURL-error-60",
+  "permalink": "/docs/tudasbazis/hibaelharitas/cURL-error-60",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hibaelharitas/cURL-error-60.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "cURL error 60: SSL certificate hiba megoldása",
+    "description": "A cURL error 60 SSL tanúsítvány hiba megoldása WordPress oldalakon.",
+    "keywords": [
+      "curl error",
+      "ssl certificate",
+      "lets encrypt",
+      "hibaelhárítás"
+    ],
+    "sidebar_label": "cURL error 60: SSL certificate hiba",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hibaelhárítás",
+    "permalink": "/docs/tudasbazis/hibaelharitas/"
+  },
+  "next": {
+    "title": "Prémium bővítmények",
+    "permalink": "/docs/tudasbazis/hibaelharitas/premium-bovitmenyek/"
+  }
+}

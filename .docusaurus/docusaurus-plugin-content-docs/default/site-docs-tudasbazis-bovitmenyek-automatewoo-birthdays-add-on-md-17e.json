@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/automatewoo-birthdays-add-on",
+  "title": "AutomateWoo - Birthdays Add-on",
+  "description": "Születésnapok gyűjtése és automatizált, személyre szabott üzenetek/kedvezmények küldése WooCommerce-ben az AutomateWoo segítségével.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/automatewoo-birthdays-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/automatewoo-birthdays-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/automatewoo-birthdays-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/automatewoo-birthdays-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AutomateWoo - Birthdays Add-on",
+    "description": "Születésnapok gyűjtése és automatizált, személyre szabott üzenetek/kedvezmények küldése WooCommerce-ben az AutomateWoo segítségével.",
+    "sidebar_label": "AutomateWoo - Birthdays Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Manager for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/api-manager-for-woocommerce"
+  },
+  "next": {
+    "title": "AutomateWoo - Refer A Friend Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/automatewoo-refer-a-friend-add-on"
+  }
+}

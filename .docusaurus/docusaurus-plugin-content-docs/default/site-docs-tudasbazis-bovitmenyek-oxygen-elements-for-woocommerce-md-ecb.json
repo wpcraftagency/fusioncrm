@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/oxygen-elements-for-woocommerce",
+  "title": "Oxygen Elements for WooCommerce",
+  "description": "Az Oxygen vizuális oldalépítő hivatalos WooCommerce-kiegészítője, amellyel a teljes webáruházad sablonokkal és Woo-elemekkel, kódolás nélkül építheted fel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/oxygen-elements-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/oxygen-elements-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/oxygen-elements-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/oxygen-elements-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Oxygen Elements for WooCommerce",
+    "description": "Az Oxygen vizuális oldalépítő hivatalos WooCommerce-kiegészítője, amellyel a teljes webáruházad sablonokkal és Woo-elemekkel, kódolás nélkül építheted fel.",
+    "sidebar_label": "Oxygen Elements for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OxyExtras",
+    "permalink": "/docs/tudasbazis/bovitmenyek/oxyextras"
+  },
+  "next": {
+    "title": "Oxygen Gutenberg Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/oxygen-gutenberg-integration"
+  }
+}

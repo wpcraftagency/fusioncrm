@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-notifications",
+  "title": "LearnDash LMS - Notifications",
+  "description": "Ingyenes, hivatalos LearnDash-kiegészítő eseményalapú, személyre szabott e-mail értesítésekhez tanulóknak, csoportvezetőknek és adminoknak.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-notifications.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-notifications",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-notifications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-notifications.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - Notifications",
+    "description": "Ingyenes, hivatalos LearnDash-kiegészítő eseményalapú, személyre szabott e-mail értesítésekhez tanulóknak, csoportvezetőknek és adminoknak.",
+    "sidebar_label": "LearnDash LMS - Notifications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - Migration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-migration"
+  },
+  "next": {
+    "title": "LearnDash LMS - Paid Memberships Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-paid-memberships-pro"
+  }
+}

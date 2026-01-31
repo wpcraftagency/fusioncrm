@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-multilingual-integration",
+  "title": "LearnDash Multilingual Integration",
+  "description": "Hivatalos LearnDash kompatibilitási kiegészítő, amely biztosítja a Builder‑funkciók és az (WPML esetén) URL‑fordítás zökkenőmentes működését többnyelvű WordPress‑környezetben.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-multilingual-integration.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-multilingual-integration",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-multilingual-integration",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-multilingual-integration.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash Multilingual Integration",
+    "description": "Hivatalos LearnDash kompatibilitási kiegészítő, amely biztosítja a Builder‑funkciók és az (WPML esetén) URL‑fordítás zökkenőmentes működését többnyelvű WordPress‑környezetben.",
+    "sidebar_label": "LearnDash Multilingual Integration"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms"
+  },
+  "next": {
+    "title": "MailChimp for WooCommerce Memberships",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mailchimp-for-woocommerce-memberships"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-custom-dashboard-extension",
+  "title": "MainWP Custom Dashboard Extension",
+  "description": "Ingyenes kiegészítő a MainWP Dashboard testreszabásához saját CSS/JS/PHP kódrészletekkel, biztonságosan, frissítésbiztosan.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-custom-dashboard-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-custom-dashboard-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-custom-dashboard-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-custom-dashboard-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Custom Dashboard Extension",
+    "description": "Ingyenes kiegészítő a MainWP Dashboard testreszabásához saját CSS/JS/PHP kódrészletekkel, biztonságosan, frissítésbiztosan.",
+    "sidebar_label": "MainWP Custom Dashboard Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Comments Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-comments-extension"
+  },
+  "next": {
+    "title": "MainWP Custom Post Type",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-custom-post-type"
+  }
+}

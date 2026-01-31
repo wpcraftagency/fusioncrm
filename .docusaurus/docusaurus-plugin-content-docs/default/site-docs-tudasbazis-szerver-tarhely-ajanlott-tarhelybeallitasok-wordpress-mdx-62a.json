@@ -1,0 +1,36 @@
+{
+  "id": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/wordpress",
+  "title": "WordPress ajánlott tárhelybeállítások",
+  "description": "WordPress hivatalos rendszerkövetelményei és ajánlott szerver beállítások 2025-ben.",
+  "source": "@site/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/wordpress.mdx",
+  "sourceDirName": "tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok",
+  "slug": "/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/wordpress",
+  "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/wordpress",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/wordpress.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "WordPress ajánlott tárhelybeállítások",
+    "description": "WordPress hivatalos rendszerkövetelményei és ajánlott szerver beállítások 2025-ben.",
+    "keywords": [
+      "wordpress",
+      "tárhelybeállítások",
+      "php beállítások",
+      "szerver követelmények"
+    ],
+    "sidebar_label": "WordPress",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ajánlott tárhelybeállítások",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/"
+  },
+  "next": {
+    "title": "Divi",
+    "permalink": "/docs/tudasbazis/szerver-tarhely/ajanlott-tarhelybeallitasok/divi"
+  }
+}

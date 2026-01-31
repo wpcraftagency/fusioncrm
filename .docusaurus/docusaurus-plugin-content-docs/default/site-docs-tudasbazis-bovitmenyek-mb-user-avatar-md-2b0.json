@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-user-avatar",
+  "title": "MB User Avatar",
+  "description": "Meta Box prémium kiegészítő, amellyel a felhasználók helyi, médiatárból választott profilképet használhatnak Gravatar helyett – kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-user-avatar.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-user-avatar",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-user-avatar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-user-avatar.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB User Avatar",
+    "description": "Meta Box prémium kiegészítő, amellyel a felhasználók helyi, médiatárból választott profilképet használhatnak Gravatar helyett – kódolás nélkül.",
+    "sidebar_label": "MB User Avatar"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Tooltip",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-tooltip"
+  },
+  "next": {
+    "title": "MB User Profile",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-user-profile"
+  }
+}

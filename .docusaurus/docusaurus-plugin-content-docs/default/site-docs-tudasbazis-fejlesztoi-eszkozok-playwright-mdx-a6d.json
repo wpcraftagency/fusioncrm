@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/playwright",
+  "title": "Playwright",
+  "description": "End-to-end tesztelés WordPress oldalakhoz Playwright segítségével.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/playwright.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/playwright",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/playwright",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/playwright.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 18,
+  "frontMatter": {
+    "title": "Playwright",
+    "description": "End-to-end tesztelés WordPress oldalakhoz Playwright segítségével.",
+    "keywords": [
+      "playwright",
+      "e2e",
+      "testing",
+      "wordpress",
+      "böngésző tesztelés"
+    ],
+    "sidebar_label": "Playwright",
+    "sidebar_position": 18
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PHPUnit",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/phpunit"
+  },
+  "next": {
+    "title": "Query Monitor",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/query-monitor"
+  }
+}

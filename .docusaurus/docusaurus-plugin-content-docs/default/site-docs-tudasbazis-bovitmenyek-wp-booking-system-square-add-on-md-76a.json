@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-square-add-on",
+  "title": "WP Booking System - Square Add-on",
+  "description": "Square fizetési kapu integráció a WP Booking System foglalási űrlapjába, azonnali online kártyás fizetéssel, előengedélyezéssel és admin oldali visszatérítéssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-square-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-square-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-square-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-square-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Square Add-on",
+    "description": "Square fizetési kapu integráció a WP Booking System foglalási űrlapjába, azonnali online kártyás fizetéssel, előengedélyezéssel és admin oldali visszatérítéssel.",
+    "sidebar_label": "WP Booking System - Square Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - SMS Notifications",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-sms-notifications"
+  },
+  "next": {
+    "title": "WP Booking System - Stripe Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-stripe-add-on"
+  }
+}

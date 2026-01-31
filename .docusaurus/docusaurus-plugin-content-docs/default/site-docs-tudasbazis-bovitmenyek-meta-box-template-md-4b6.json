@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/meta-box-template",
+  "title": "Meta Box Template",
+  "description": "YAML‑alapú konfigurációs réteg a Meta Box‑hoz: mezőcsoportok és mezők létrehozása kódírás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/meta-box-template.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/meta-box-template",
+  "permalink": "/docs/tudasbazis/bovitmenyek/meta-box-template",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/meta-box-template.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Meta Box Template",
+    "description": "YAML‑alapú konfigurációs réteg a Meta Box‑hoz: mezőcsoportok és mezők létrehozása kódírás nélkül.",
+    "sidebar_label": "Meta Box Template"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Meta Box Show Hide",
+    "permalink": "/docs/tudasbazis/bovitmenyek/meta-box-show-hide"
+  },
+  "next": {
+    "title": "Meta Box",
+    "permalink": "/docs/tudasbazis/bovitmenyek/meta-box"
+  }
+}

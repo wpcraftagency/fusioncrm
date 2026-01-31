@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/kezeles-kikapcsolasa-sablon",
+  "title": "Sablonok kezelésének kikapcsolása",
+  "description": "HelloPack sablonok (témák) kezelésének kikapcsolása wp-config.php konstanssal.",
+  "source": "@site/docs/dokumentacio/hellopack/kezeles-kikapcsolasa-sablon.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/kezeles-kikapcsolasa-sablon",
+  "permalink": "/docs/dokumentacio/hellopack/kezeles-kikapcsolasa-sablon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/kezeles-kikapcsolasa-sablon.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Sablonok kezelésének kikapcsolása",
+    "description": "HelloPack sablonok (témák) kezelésének kikapcsolása wp-config.php konstanssal.",
+    "keywords": [
+      "hellopack",
+      "sablonok",
+      "témák",
+      "kikapcsolás"
+    ],
+    "sidebar_label": "Sablonok kezelésének kikapcsolása",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bővítmények kezelésének kikapcsolása",
+    "permalink": "/docs/dokumentacio/hellopack/kezeles-kikapcsolasa"
+  },
+  "next": {
+    "title": "Rendszerkövetelmények",
+    "permalink": "/docs/dokumentacio/hellopack/kovetelmenyek"
+  }
+}

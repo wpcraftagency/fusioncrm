@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-revision",
+  "title": "MB Revision",
+  "description": "Meta Box prémium kiegészítő, amely a WordPress Revíziók funkcióját kiterjeszti az egyedi mezőkre: mentés, összehasonlítás, visszaállítás.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-revision.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-revision",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-revision",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-revision.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Revision",
+    "description": "Meta Box prémium kiegészítő, amely a WordPress Revíziók funkcióját kiterjeszti az egyedi mezőkre: mentés, összehasonlítás, visszaállítás.",
+    "sidebar_label": "MB Revision"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Include Exclude",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-include-exclude"
+  },
+  "next": {
+    "title": "MB Settings Page",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-settings-page"
+  }
+}

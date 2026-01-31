@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-limit-form-responses",
+  "title": "JetFormBuilder Limit Form Responses",
+  "description": "JetFormBuilder Pro kiegészítő űrlapbeküldések globális és felhasználói szintű korlátozására, rugalmas üzenetkezeléssel és resetelhető számlálóval.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-limit-form-responses.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-limit-form-responses",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-limit-form-responses",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-limit-form-responses.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder Limit Form Responses",
+    "description": "JetFormBuilder Pro kiegészítő űrlapbeküldések globális és felhasználói szintű korlátozására, rugalmas üzenetkezeléssel és resetelhető számlálóval.",
+    "sidebar_label": "JetFormBuilder Limit Form Responses"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder HubSpot Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-hubspot-action"
+  },
+  "next": {
+    "title": "JetFormBuilder MailerLite Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-mailerlite-action"
+  }
+}

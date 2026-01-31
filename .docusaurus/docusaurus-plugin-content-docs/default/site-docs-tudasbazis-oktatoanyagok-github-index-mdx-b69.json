@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/github/index",
+  "title": "Github",
+  "description": "Github",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/github/index.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/github",
+  "slug": "/tudasbazis/oktatoanyagok/github/",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/github/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/github/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Github",
+    "description": "Github",
+    "keywords": [
+      "github"
+    ],
+    "sidebar_label": "Github",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Elementor űrlap",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/elementor/elementor-urlap-checkbox-limitacio"
+  },
+  "next": {
+    "title": "GitHub kezdőknek",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/github/github-kezdoknek/"
+  }
+}

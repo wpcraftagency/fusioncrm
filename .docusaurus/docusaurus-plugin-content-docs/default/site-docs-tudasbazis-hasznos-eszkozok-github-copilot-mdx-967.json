@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/hasznos-eszkozok/github-copilot",
+  "title": "GitHub Copilot - AI kódkiegészítés",
+  "description": "GitHub Copilot használata - AI-alapú kódkiegészítés és chat asszisztens fejlesztőknek VS Code-ban és más IDE-kben.",
+  "source": "@site/docs/tudasbazis/hasznos-eszkozok/github-copilot.mdx",
+  "sourceDirName": "tudasbazis/hasznos-eszkozok",
+  "slug": "/tudasbazis/hasznos-eszkozok/github-copilot",
+  "permalink": "/docs/tudasbazis/hasznos-eszkozok/github-copilot",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hasznos-eszkozok/github-copilot.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "GitHub Copilot - AI kódkiegészítés",
+    "description": "GitHub Copilot használata - AI-alapú kódkiegészítés és chat asszisztens fejlesztőknek VS Code-ban és más IDE-kben.",
+    "keywords": [
+      "github copilot",
+      "ai",
+      "kódkiegészítés",
+      "code completion",
+      "artificial intelligence"
+    ],
+    "sidebar_label": "GitHub Copilot",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Font Awesome",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/font-awesome"
+  },
+  "next": {
+    "title": "GitHub Desktop",
+    "permalink": "/docs/tudasbazis/hasznos-eszkozok/github-desktop"
+  }
+}

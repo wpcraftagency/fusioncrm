@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ninja-forms-save-progress",
+  "title": "Ninja Forms - Save Progress",
+  "description": "Prémium kiegészítő a Ninja Forms-hoz: részleges űrlapkitöltések mentése és későbbi folytatása bejelentkezve vagy helyi tárolással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ninja-forms-save-progress.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ninja-forms-save-progress",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-save-progress",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ninja-forms-save-progress.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ninja Forms - Save Progress",
+    "description": "Prémium kiegészítő a Ninja Forms-hoz: részleges űrlapkitöltések mentése és későbbi folytatása bejelentkezve vagy helyi tárolással.",
+    "sidebar_label": "Ninja Forms - Save Progress"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-multilingual"
+  },
+  "next": {
+    "title": "Ninja Forms - Stripe",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-stripe"
+  }
+}

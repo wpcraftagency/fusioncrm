@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-favorites-extension",
+  "title": "MainWP Favorites Extension",
+  "description": "Kedvenc bővítmény- és sablonlisták létrehozása és tömeges telepítése a MainWP Dashboardból, lokális, adatvédelmi szempontból kontrollált módon.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-favorites-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-favorites-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-favorites-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-favorites-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Favorites Extension",
+    "description": "Kedvenc bővítmény- és sablonlisták létrehozása és tömeges telepítése a MainWP Dashboardból, lokális, adatvédelmi szempontból kontrollált módon.",
+    "sidebar_label": "MainWP Favorites Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Domain Monitor Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-domain-monitor-extension"
+  },
+  "next": {
+    "title": "MainWP File Uploader Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-file-uploader-extension"
+  }
+}

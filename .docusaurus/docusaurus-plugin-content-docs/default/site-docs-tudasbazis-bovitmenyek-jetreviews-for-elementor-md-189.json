@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetreviews-for-elementor",
+  "title": "JetReviews For Elementor",
+  "description": "Rugalmas értékelés- és véleményrendszer Elementorhoz és Gutenberghez: statikus és felhasználói értékelések, moderáció, WooCommerce-integráció és SEO‑barát strukturált adatok.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetreviews-for-elementor.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetreviews-for-elementor",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetreviews-for-elementor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetreviews-for-elementor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetReviews For Elementor",
+    "description": "Rugalmas értékelés- és véleményrendszer Elementorhoz és Gutenberghez: statikus és felhasználói értékelések, moderáció, WooCommerce-integráció és SEO‑barát strukturált adatok.",
+    "sidebar_label": "JetReviews For Elementor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetProductTables",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetproducttables"
+  },
+  "next": {
+    "title": "JetSearch",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetsearch"
+  }
+}

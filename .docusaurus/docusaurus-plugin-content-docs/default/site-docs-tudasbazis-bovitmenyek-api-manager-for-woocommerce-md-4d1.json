@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/api-manager-for-woocommerce",
+  "title": "API Manager for WooCommerce",
+  "description": "Licenckezelő és frissítéskiszolgáló WooCommerce-hez. Digitális termékeidet API-kulcsokkal, előfizetésekkel és biztonságos frissítésekkel kezelheted.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/api-manager-for-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/api-manager-for-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/api-manager-for-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/api-manager-for-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "API Manager for WooCommerce",
+    "description": "Licenckezelő és frissítéskiszolgáló WooCommerce-hez. Digitális termékeidet API-kulcsokkal, előfizetésekkel és biztonságos frissítésekkel kezelheted.",
+    "sidebar_label": "API Manager for WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Analytify WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/analytify-woocommerce"
+  },
+  "next": {
+    "title": "AutomateWoo - Birthdays Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/automatewoo-birthdays-add-on"
+  }
+}

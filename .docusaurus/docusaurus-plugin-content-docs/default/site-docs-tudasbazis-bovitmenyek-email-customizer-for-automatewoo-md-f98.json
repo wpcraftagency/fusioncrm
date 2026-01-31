@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/email-customizer-for-automatewoo",
+  "title": "Email Customizer for AutomateWoo",
+  "description": "Vizuális, kódmentes e‑mail szerkesztő AutomateWoo workflow‑okhoz a YayMail felületén – egységes, márkázott és konverzióra optimalizált kampánylevelekhez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/email-customizer-for-automatewoo.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/email-customizer-for-automatewoo",
+  "permalink": "/docs/tudasbazis/bovitmenyek/email-customizer-for-automatewoo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/email-customizer-for-automatewoo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Email Customizer for AutomateWoo",
+    "description": "Vizuális, kódmentes e‑mail szerkesztő AutomateWoo workflow‑okhoz a YayMail felületén – egységes, márkázott és konverzióra optimalizált kampánylevelekhez.",
+    "sidebar_label": "Email Customizer for AutomateWoo"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Elementor Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/elementor-pro"
+  },
+  "next": {
+    "title": "Email Customizer for WooCommerce Subscriptions",
+    "permalink": "/docs/tudasbazis/bovitmenyek/email-customizer-for-woocommerce-subscriptions"
+  }
+}

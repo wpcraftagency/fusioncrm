@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/dynamic-ooo-dynamic-content-for-elementor",
+  "title": "Dynamic.ooo - Dynamic Content for Elementor",
+  "description": "Prémium Elementor-kiegészítő 150+ funkcióval: dinamikus adatok, űrlap-kiterjesztések (Stripe/PayPal, PDF), API/Web Scraper, listák, feltételes megjelenítés és teljesítményvezérlés – kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/dynamic-ooo-dynamic-content-for-elementor.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/dynamic-ooo-dynamic-content-for-elementor",
+  "permalink": "/docs/tudasbazis/bovitmenyek/dynamic-ooo-dynamic-content-for-elementor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/dynamic-ooo-dynamic-content-for-elementor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Dynamic.ooo - Dynamic Content for Elementor",
+    "description": "Prémium Elementor-kiegészítő 150+ funkcióval: dinamikus adatok, űrlap-kiterjesztések (Stripe/PayPal, PDF), API/Web Scraper, listák, feltételes megjelenítés és teljesítményvezérlés – kódolás nélkül.",
+    "sidebar_label": "Dynamic.ooo - Dynamic Content for Elementor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DiviPasswords",
+    "permalink": "/docs/tudasbazis/bovitmenyek/divipasswords"
+  },
+  "next": {
+    "title": "Edit Order by Customer",
+    "permalink": "/docs/tudasbazis/bovitmenyek/edit-order-by-customer"
+  }
+}

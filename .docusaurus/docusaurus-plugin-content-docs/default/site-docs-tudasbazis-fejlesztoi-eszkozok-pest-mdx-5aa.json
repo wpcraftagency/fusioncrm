@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/pest",
+  "title": "Pest",
+  "description": "Modern és elegáns PHP tesztelési keretrendszer WordPress fejlesztéshez.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/pest.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/pest",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/pest",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/pest.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "title": "Pest",
+    "description": "Modern és elegáns PHP tesztelési keretrendszer WordPress fejlesztéshez.",
+    "keywords": [
+      "pest",
+      "testing",
+      "php",
+      "wordpress",
+      "unit test"
+    ],
+    "sidebar_label": "Pest",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LocalWP",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/localwp"
+  },
+  "next": {
+    "title": "PHP_CodeSniffer + WPCS",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/phpcs-wpcs"
+  }
+}

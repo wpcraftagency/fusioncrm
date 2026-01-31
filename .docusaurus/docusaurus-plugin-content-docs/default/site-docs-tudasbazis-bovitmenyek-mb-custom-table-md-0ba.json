@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-custom-table",
+  "title": "MB Custom Table",
+  "description": "Meta Box prémium kiegészítő egyedi mezők sémázott, saját adatbázis-táblákba mentéséhez, nagy teljesítménnyel és fejlesztőbarát API-val.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-custom-table.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-custom-table",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-custom-table",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-custom-table.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Custom Table",
+    "description": "Meta Box prémium kiegészítő egyedi mezők sémázott, saját adatbázis-táblákba mentéséhez, nagy teljesítménnyel és fejlesztőbarát API-val.",
+    "sidebar_label": "MB Custom Table"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Conditional Logic",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-conditional-logic"
+  },
+  "next": {
+    "title": "MB Favorite Posts",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-favorite-posts"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/quadmenu-pro",
+  "title": "QuadMenu PRO",
+  "description": "Fejlett, reszponzív megamenü‑építő WordPresshez, amely a natív menürendszert bővítve hoz létre többhasábos, e‑kereskedelem‑kész navigációt, kódolás nélkül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/quadmenu-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/quadmenu-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/quadmenu-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/quadmenu-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "QuadMenu PRO",
+    "description": "Fejlett, reszponzív megamenü‑építő WordPresshez, amely a natív menürendszert bővítve hoz létre többhasábos, e‑kereskedelem‑kész navigációt, kódolás nélkül.",
+    "sidebar_label": "QuadMenu PRO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Qala Product Price History",
+    "permalink": "/docs/tudasbazis/bovitmenyek/qala-product-price-history"
+  },
+  "next": {
+    "title": "QuadMenu",
+    "permalink": "/docs/tudasbazis/bovitmenyek/quadmenu"
+  }
+}

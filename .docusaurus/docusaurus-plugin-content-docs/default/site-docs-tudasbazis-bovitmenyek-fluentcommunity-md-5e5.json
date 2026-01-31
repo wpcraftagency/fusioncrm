@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluentcommunity",
+  "title": "FluentCommunity",
+  "description": "Minden az egyben WordPress közösségi és LMS bővítmény: saját, gyors közösségi portál és kurzuskezelés egy pluginben.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluentcommunity.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluentcommunity",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluentcommunity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluentcommunity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "FluentCommunity",
+    "description": "Minden az egyben WordPress közösségi és LMS bővítmény: saját, gyors közösségi portál és kurzuskezelés egy pluginben.",
+    "sidebar_label": "FluentCommunity"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FluentCommunity Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentcommunity-pro"
+  },
+  "next": {
+    "title": "FluentCRM - Marketing Automation For WordPress",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluentcrm-marketing-automation-for-wordpress"
+  }
+}

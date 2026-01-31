@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/wordpress/child-sablon",
+  "title": "Child sablon készítése",
+  "description": "Hogyan készítsünk Child sablont WordPress-hez?",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/wordpress",
+  "slug": "/tudasbazis/oktatoanyagok/wordpress/child-sablon",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Child sablon készítése",
+    "description": "Hogyan készítsünk Child sablont WordPress-hez?",
+    "keywords": [
+      "github"
+    ],
+    "sidebar_label": "Child sablon készítése",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WordPress",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/wordpress/"
+  },
+  "next": {
+    "title": "Child sablon function.php fájljának a módosítása",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/wordpress/child-sablon-function-php-fajljanak-a-modositasa"
+  }
+}

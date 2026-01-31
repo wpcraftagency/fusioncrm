@@ -1,5 +1,5 @@
 {
-  "index_name": "hellowp",
+  "index_name": "FusionCRM",
   "start_urls": ["https://hub.hellowp.io/"],
   "sitemap_urls": ["https://hub.hellowp.io/sitemap.xml"],
   "sitemap_alternate_links": true,

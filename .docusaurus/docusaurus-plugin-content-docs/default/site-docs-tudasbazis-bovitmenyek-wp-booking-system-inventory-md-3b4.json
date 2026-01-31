@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-inventory",
+  "title": "WP Booking System - Inventory",
+  "description": "Prémium kiegészítő napi kapacitáskezeléshez: több foglalás/nap egy naptárban, automatikus készletcsökkentéssel és dátumzárással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-inventory.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-inventory",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-inventory",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-inventory.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Inventory",
+    "description": "Prémium kiegészítő napi kapacitáskezeléshez: több foglalás/nap egy naptárban, automatikus készletcsökkentéssel és dátumzárással.",
+    "sidebar_label": "WP Booking System - Inventory"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - GoPay Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-gopay-add-on"
+  },
+  "next": {
+    "title": "WP Booking System - Invoices",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-invoices"
+  }
+}

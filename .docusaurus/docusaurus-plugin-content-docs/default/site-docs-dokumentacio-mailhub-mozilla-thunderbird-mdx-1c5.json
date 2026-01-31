@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/mailhub/mozilla-thunderbird",
+  "title": "Levelezés beállítása Mozilla Thunderbird-ben",
+  "description": "MailHub email fiók beállítása Mozilla Thunderbird levelezőprogramban.",
+  "source": "@site/docs/dokumentacio/mailhub/mozilla-thunderbird.mdx",
+  "sourceDirName": "dokumentacio/mailhub",
+  "slug": "/dokumentacio/mailhub/mozilla-thunderbird",
+  "permalink": "/docs/dokumentacio/mailhub/mozilla-thunderbird",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/mailhub/mozilla-thunderbird.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Levelezés beállítása Mozilla Thunderbird-ben",
+    "description": "MailHub email fiók beállítása Mozilla Thunderbird levelezőprogramban.",
+    "keywords": [
+      "mailhub",
+      "thunderbird",
+      "mozilla",
+      "email beállítás"
+    ],
+    "sidebar_label": "Mozilla Thunderbird",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Microsoft Outlook",
+    "permalink": "/docs/dokumentacio/mailhub/microsoft-outlook"
+  },
+  "next": {
+    "title": "Windows Mail",
+    "permalink": "/docs/dokumentacio/mailhub/windows-mail"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/marketing/Google/index",
+  "title": "Google",
+  "description": "Google Ads, Analytics és Merchant Center fiókok létrehozása és hozzáférések kezelése.",
+  "source": "@site/docs/dokumentacio/marketing/Google/index.mdx",
+  "sourceDirName": "dokumentacio/marketing/Google",
+  "slug": "/dokumentacio/marketing/Google/",
+  "permalink": "/docs/dokumentacio/marketing/Google/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/marketing/Google/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Google",
+    "description": "Google Ads, Analytics és Merchant Center fiókok létrehozása és hozzáférések kezelése.",
+    "keywords": [
+      "google",
+      "google ads",
+      "google analytics",
+      "merchant center"
+    ],
+    "sidebar_label": "Google",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Facebook oldal létrehozása",
+    "permalink": "/docs/dokumentacio/marketing/Facebook/facebook-oldal-letrehozasa"
+  },
+  "next": {
+    "title": "Google Ads fiók létrehozása",
+    "permalink": "/docs/dokumentacio/marketing/Google/google-ads-fiok-letrehozasa"
+  }
+}

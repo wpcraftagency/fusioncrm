@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/github-actions",
+  "title": "GitHub Actions - CI/CD automatizálás",
+  "description": "GitHub Actions használata WordPress projektekhez - automatikus tesztelés, build és deployment GitHub-on.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/github-actions.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/github-actions",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/github-actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/github-actions.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "GitHub Actions - CI/CD automatizálás",
+    "description": "GitHub Actions használata WordPress projektekhez - automatikus tesztelés, build és deployment GitHub-on.",
+    "keywords": [
+      "github actions",
+      "ci/cd",
+      "continuous integration",
+      "deployment",
+      "automation"
+    ],
+    "sidebar_label": "GitHub Actions",
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Firefox Developer Edition",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/bongeszo-firefox-developer-edition"
+  },
+  "next": {
+    "title": "LocalWP",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/localwp"
+  }
+}

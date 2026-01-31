@@ -1,0 +1,37 @@
+{
+  "id": "tudasbazis/fejlesztoi-eszkozok/cursor",
+  "title": "Cursor - AI-natív kódszerkesztő",
+  "description": "Cursor AI kódszerkesztő használata - VS Code alapú IDE beépített AI asszisztenssel fejlesztőknek.",
+  "source": "@site/docs/tudasbazis/fejlesztoi-eszkozok/cursor.mdx",
+  "sourceDirName": "tudasbazis/fejlesztoi-eszkozok",
+  "slug": "/tudasbazis/fejlesztoi-eszkozok/cursor",
+  "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/cursor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/fejlesztoi-eszkozok/cursor.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Cursor - AI-natív kódszerkesztő",
+    "description": "Cursor AI kódszerkesztő használata - VS Code alapú IDE beépített AI asszisztenssel fejlesztőknek.",
+    "keywords": [
+      "cursor",
+      "ai",
+      "code editor",
+      "ide",
+      "artificial intelligence"
+    ],
+    "sidebar_label": "Cursor",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bedrock",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/bedrock"
+  },
+  "next": {
+    "title": "DDEV",
+    "permalink": "/docs/tudasbazis/fejlesztoi-eszkozok/ddev"
+  }
+}

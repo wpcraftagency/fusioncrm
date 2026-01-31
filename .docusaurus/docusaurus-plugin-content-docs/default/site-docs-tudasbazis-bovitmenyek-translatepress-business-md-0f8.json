@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/translatepress-business",
+  "title": "TranslatePress - Business",
+  "description": "Vizuális, frontendes WordPress-fordítás üzemi szintű kiegészítőkkel, AI-fordítással és SEO-val, 3 webhelyre.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/translatepress-business.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/translatepress-business",
+  "permalink": "/docs/tudasbazis/bovitmenyek/translatepress-business",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/translatepress-business.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "TranslatePress - Business",
+    "description": "Vizuális, frontendes WordPress-fordítás üzemi szintű kiegészítőkkel, AI-fordítással és SEO-val, 3 webhelyre.",
+    "sidebar_label": "TranslatePress - Business"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Top Bar for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/top-bar-for-woocommerce"
+  },
+  "next": {
+    "title": "TranslatePress - Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/translatepress-multilingual"
+  }
+}

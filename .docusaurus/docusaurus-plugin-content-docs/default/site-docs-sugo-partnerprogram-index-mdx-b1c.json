@@ -1,0 +1,33 @@
+{
+  "id": "sugo/partnerprogram/index",
+  "title": "Partnerprogram",
+  "description": "Partnerprogram",
+  "source": "@site/docs/sugo/partnerprogram/index.mdx",
+  "sourceDirName": "sugo/partnerprogram",
+  "slug": "/sugo/partnerprogram/",
+  "permalink": "/docs/sugo/partnerprogram/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/partnerprogram/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Partnerprogram",
+    "description": "Partnerprogram",
+    "keywords": [
+      "partnerprogram"
+    ],
+    "sidebar_label": "Partnerprogram",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "White-label termék",
+    "permalink": "/docs/sugo/egyeb/white-label"
+  },
+  "next": {
+    "title": "Regisztráció",
+    "permalink": "/docs/sugo/partnerprogram/regisztracio"
+  }
+}

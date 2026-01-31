@@ -1,0 +1,37 @@
+{
+  "id": "dokumentacio/hellotools/hellopack",
+  "title": "HelloPack – Központosított frissítések",
+  "description": "HelloPack központosított frissítő rendszer - WordPress bővítmények kezelése, verziózás és gyors telepítés egy helyről.",
+  "source": "@site/docs/dokumentacio/hellotools/hellopack.mdx",
+  "sourceDirName": "dokumentacio/hellotools",
+  "slug": "/dokumentacio/hellotools/hellopack",
+  "permalink": "/docs/dokumentacio/hellotools/hellopack",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellotools/hellopack.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "HelloPack – Központosított frissítések",
+    "description": "HelloPack központosított frissítő rendszer - WordPress bővítmények kezelése, verziózás és gyors telepítés egy helyről.",
+    "keywords": [
+      "hellopack",
+      "hellotools",
+      "központosított frissítés",
+      "wordpress",
+      "bővítménykezelés"
+    ],
+    "sidebar_label": "HelloPack",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HelloIMG",
+    "permalink": "/docs/dokumentacio/hellotools/helloimg"
+  },
+  "next": {
+    "title": "HelloCron",
+    "permalink": "/docs/dokumentacio/hellotools/hellocron"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/perfmatters",
+  "title": "Perfmatters",
+  "description": "Könnyű, prémium WordPress teljesítményoptimalizáló, amely a felesleges kód és assetek eltávolítására és a Core Web Vitals javítására fókuszál.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/perfmatters.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/perfmatters",
+  "permalink": "/docs/tudasbazis/bovitmenyek/perfmatters",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/perfmatters.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Perfmatters",
+    "description": "Könnyű, prémium WordPress teljesítményoptimalizáló, amely a felesleges kód és assetek eltávolítására és a Core Web Vitals javítására fókuszál.",
+    "sidebar_label": "Perfmatters"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Oxygen",
+    "permalink": "/docs/tudasbazis/bovitmenyek/oxygen"
+  },
+  "next": {
+    "title": "Pixel Manager Pro for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/pixel-manager-pro-for-woocommerce"
+  }
+}

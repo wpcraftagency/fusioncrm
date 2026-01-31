@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ninja-forms-excel-export",
+  "title": "Ninja Forms - Excel Export",
+  "description": "Űrlapbeküldések exportálása natív Excel (.xlsx/.xls) formátumba, célzott szűréssel és oszlopsorrendezéssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ninja-forms-excel-export.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ninja-forms-excel-export",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-excel-export",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ninja-forms-excel-export.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ninja Forms - Excel Export",
+    "description": "Űrlapbeküldések exportálása natív Excel (.xlsx/.xls) formátumba, célzott szűréssel és oszlopsorrendezéssel.",
+    "sidebar_label": "Ninja Forms - Excel Export"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms - Conditional Logic",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-conditional-logic"
+  },
+  "next": {
+    "title": "Ninja Forms - File Uploads",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-file-uploads"
+  }
+}

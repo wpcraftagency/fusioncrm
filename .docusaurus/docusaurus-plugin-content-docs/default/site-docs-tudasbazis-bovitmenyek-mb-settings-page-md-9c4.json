@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mb-settings-page",
+  "title": "MB Settings Page",
+  "description": "Prémium Meta Box kiegészítő, amellyel gyorsan készíthetsz testreszabható beállítási oldalakat és Theme Options felületeket, egységes UI-val és fejlesztőbarát API-val.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mb-settings-page.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mb-settings-page",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mb-settings-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mb-settings-page.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MB Settings Page",
+    "description": "Prémium Meta Box kiegészítő, amellyel gyorsan készíthetsz testreszabható beállítási oldalakat és Theme Options felületeket, egységes UI-val és fejlesztőbarát API-val.",
+    "sidebar_label": "MB Settings Page"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MB Revision",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-revision"
+  },
+  "next": {
+    "title": "MB Tabs",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mb-tabs"
+  }
+}

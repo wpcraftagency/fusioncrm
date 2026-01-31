@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder",
+  "title": "JetFormBuilder",
+  "description": "Blokkalapú, Gutenbergre épülő WordPress űrlapépítő, dinamikus adatokkal és automatizált műveletekkel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder",
+    "description": "Blokkalapú, Gutenbergre épülő WordPress űrlapépítő, dinamikus adatokkal és automatizált műveletekkel.",
+    "sidebar_label": "JetFormBuilder"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder WooCommerce Cart & Checkout Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-woocommerce-cart-checkout-action"
+  },
+  "next": {
+    "title": "JetMenu",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetmenu"
+  }
+}

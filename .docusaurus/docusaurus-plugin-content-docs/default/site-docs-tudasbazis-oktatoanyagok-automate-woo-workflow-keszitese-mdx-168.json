@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/oktatoanyagok/AutomateWoo/workflow-keszitese",
+  "title": "AutomateWoo - Workflow készítése",
+  "description": "Workflow, azaz Folyamat készítése",
+  "source": "@site/docs/tudasbazis/oktatoanyagok/AutomateWoo/workflow-keszitese.mdx",
+  "sourceDirName": "tudasbazis/oktatoanyagok/AutomateWoo",
+  "slug": "/tudasbazis/oktatoanyagok/AutomateWoo/workflow-keszitese",
+  "permalink": "/docs/tudasbazis/oktatoanyagok/AutomateWoo/workflow-keszitese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/oktatoanyagok/AutomateWoo/workflow-keszitese.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "AutomateWoo - Workflow készítése",
+    "description": "Workflow, azaz Folyamat készítése",
+    "keywords": [
+      "automatewoo, workflow"
+    ],
+    "sidebar_label": "Workflow készítése",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Áttekintés",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/AutomateWoo/mi-az-automatewoo"
+  },
+  "next": {
+    "title": "JetEngine",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/JetEngine/"
+  }
+}

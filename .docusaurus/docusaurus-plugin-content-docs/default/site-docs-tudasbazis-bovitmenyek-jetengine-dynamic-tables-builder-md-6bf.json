@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetengine-dynamic-tables-builder",
+  "title": "JetEngine - dynamic tables builder",
+  "description": "Dinamikus, szűrhető és újrafelhasználható adattáblák építése WordPressben, kódolás nélkül, JetEngine alapon.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetengine-dynamic-tables-builder.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetengine-dynamic-tables-builder",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-dynamic-tables-builder",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetengine-dynamic-tables-builder.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetEngine - dynamic tables builder",
+    "description": "Dinamikus, szűrhető és újrafelhasználható adattáblák építése WordPressben, kódolás nélkül, JetEngine alapon.",
+    "sidebar_label": "JetEngine - dynamic tables builder"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetEngine - dynamic charts builder",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-dynamic-charts-builder"
+  },
+  "next": {
+    "title": "JetEngine - Get attachment file link by ID",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetengine-get-attachment-file-link-by-id"
+  }
+}

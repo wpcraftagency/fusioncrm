@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetwoobuilder-for-elementor",
+  "title": "JetWooBuilder For Elementor",
+  "description": "Elementorhoz készült WooCommerce oldalépítő, amellyel kód nélkül készíthetsz egyedi termék-, bolt-, kosár-, pénztár-, fiók- és köszönőoldalakat.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetwoobuilder-for-elementor.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetwoobuilder-for-elementor",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetwoobuilder-for-elementor",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetwoobuilder-for-elementor.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetWooBuilder For Elementor",
+    "description": "Elementorhoz készült WooCommerce oldalépítő, amellyel kód nélkül készíthetsz egyedi termék-, bolt-, kosár-, pénztár-, fiók- és köszönőoldalakat.",
+    "sidebar_label": "JetWooBuilder For Elementor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetTricks",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jettricks"
+  },
+  "next": {
+    "title": "LearnDash Course Reviews",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-course-reviews"
+  }
+}

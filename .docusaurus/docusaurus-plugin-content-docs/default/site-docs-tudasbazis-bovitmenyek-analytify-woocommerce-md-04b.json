@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/analytify-woocommerce",
+  "title": "Analytify WooCommerce",
+  "description": "GA4 e‑commerce mérés WooCommerce‑hez – automatikus eseménykövetés és WooCommerce‑specifikus riportok közvetlenül a WordPress adminban.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/analytify-woocommerce.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/analytify-woocommerce",
+  "permalink": "/docs/tudasbazis/bovitmenyek/analytify-woocommerce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/analytify-woocommerce.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Analytify WooCommerce",
+    "description": "GA4 e‑commerce mérés WooCommerce‑hez – automatikus eseménykövetés és WooCommerce‑specifikus riportok közvetlenül a WordPress adminban.",
+    "sidebar_label": "Analytify WooCommerce"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Analytify UTM Campaigns Tracking",
+    "permalink": "/docs/tudasbazis/bovitmenyek/analytify-utm-campaigns-tracking"
+  },
+  "next": {
+    "title": "API Manager for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/api-manager-for-woocommerce"
+  }
+}

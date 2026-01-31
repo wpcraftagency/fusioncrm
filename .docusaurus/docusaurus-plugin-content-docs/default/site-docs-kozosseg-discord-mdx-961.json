@@ -1,0 +1,34 @@
+{
+  "id": "kozosseg/discord",
+  "title": "Discord",
+  "description": "Discord szerverünk.",
+  "source": "@site/docs/kozosseg/discord.mdx",
+  "sourceDirName": "kozosseg",
+  "slug": "/kozosseg/discord",
+  "permalink": "/docs/kozosseg/discord",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/kozosseg/discord.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Discord",
+    "description": "Discord szerverünk.",
+    "keywords": [
+      "discord"
+    ],
+    "slug": "discord",
+    "sidebar_label": "Discord",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Közösség",
+    "permalink": "/docs/kozosseg/"
+  },
+  "next": {
+    "title": "Facebook",
+    "permalink": "/docs/kozosseg/facebook"
+  }
+}

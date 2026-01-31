@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-mollie",
+  "title": "WP Booking System - Mollie",
+  "description": "Hivatalos kiegészítő a WP Booking Systemhez, amely a Mollie fizetési kaput integrálja a foglalási folyamatba, így az ügyfelek azonnal online tudnak fizetni.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-mollie.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-mollie",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-mollie",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-mollie.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - Mollie",
+    "description": "Hivatalos kiegészítő a WP Booking Systemhez, amely a Mollie fizetési kaput integrálja a foglalási folyamatba, így az ügyfelek azonnal online tudnak fizetni.",
+    "sidebar_label": "WP Booking System - Mollie"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Invoices",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-invoices"
+  },
+  "next": {
+    "title": "WP Booking System - Multiple Currencies",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-multiple-currencies"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-subscriptions",
+  "title": "WooCommerce Subscriptions",
+  "description": "Prémium WooCommerce-bővítmény előfizetéses termékekhez és szolgáltatásokhoz, ismétlődő számlázással, megújítási automatizmusokkal és teljes előfizetés‑életciklus‑kezeléssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-subscriptions.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-subscriptions",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-subscriptions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-subscriptions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Subscriptions",
+    "description": "Prémium WooCommerce-bővítmény előfizetéses termékekhez és szolgáltatásokhoz, ismétlődő számlázással, megújítási automatizmusokkal és teljes előfizetés‑életciklus‑kezeléssel.",
+    "sidebar_label": "WooCommerce Subscriptions"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Subscription Downloads",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-subscription-downloads"
+  },
+  "next": {
+    "title": "WooCommerce Tab Manager",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-tab-manager"
+  }
+}

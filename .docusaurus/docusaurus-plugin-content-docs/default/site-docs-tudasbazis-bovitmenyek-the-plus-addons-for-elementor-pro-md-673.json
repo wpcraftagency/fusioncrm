@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/the-plus-addons-for-elementor-pro",
+  "title": "The Plus Addons for Elementor - Pro",
+  "description": "Átfogó Pro kiegészítő az Elementorhoz 120+ widgettel, haladó építőkkel (WooCommerce, Grid, Mega Menü, Popup) és ügynökségi/teljesítmény eszközökkel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/the-plus-addons-for-elementor-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/the-plus-addons-for-elementor-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/the-plus-addons-for-elementor-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/the-plus-addons-for-elementor-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Plus Addons for Elementor - Pro",
+    "description": "Átfogó Pro kiegészítő az Elementorhoz 120+ widgettel, haladó építőkkel (WooCommerce, Grid, Mega Menü, Popup) és ügynökségi/teljesítmény eszközökkel.",
+    "sidebar_label": "The Plus Addons for Elementor - Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Termageddon for MainWP",
+    "permalink": "/docs/tudasbazis/bovitmenyek/termageddon-for-mainwp"
+  },
+  "next": {
+    "title": "Top Bar for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/top-bar-for-woocommerce"
+  }
+}

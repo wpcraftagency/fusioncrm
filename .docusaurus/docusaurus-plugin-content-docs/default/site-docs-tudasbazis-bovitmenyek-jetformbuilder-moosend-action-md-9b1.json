@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/jetformbuilder-moosend-action",
+  "title": "JetFormBuilder Moosend Action",
+  "description": "Hivatalos JetFormBuilder Pro kiegészítő a WordPress űrlapok közvetlen összekapcsolására a Moosend e‑mail marketing rendszerrel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/jetformbuilder-moosend-action.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/jetformbuilder-moosend-action",
+  "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-moosend-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/jetformbuilder-moosend-action.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JetFormBuilder Moosend Action",
+    "description": "Hivatalos JetFormBuilder Pro kiegészítő a WordPress űrlapok közvetlen összekapcsolására a Moosend e‑mail marketing rendszerrel.",
+    "sidebar_label": "JetFormBuilder Moosend Action"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JetFormBuilder MailPoet Action",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-mailpoet-action"
+  },
+  "next": {
+    "title": "JetFormBuilder PayPal Recurring payments",
+    "permalink": "/docs/tudasbazis/bovitmenyek/jetformbuilder-paypal-recurring-payments"
+  }
+}

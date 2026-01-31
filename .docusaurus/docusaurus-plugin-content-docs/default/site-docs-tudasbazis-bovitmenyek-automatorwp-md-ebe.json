@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/automatorwp",
+  "title": "AutomatorWP",
+  "description": "No‑code automatizáló bővítmény WordPresshez: pluginek és külső szolgáltatások összekötése triggerek és akciók alapján.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/automatorwp.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/automatorwp",
+  "permalink": "/docs/tudasbazis/bovitmenyek/automatorwp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/automatorwp.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AutomatorWP",
+    "description": "No‑code automatizáló bővítmény WordPresshez: pluginek és külső szolgáltatások összekötése triggerek és akciók alapján.",
+    "sidebar_label": "AutomatorWP"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AutomatorWP Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/automatorwp-pro"
+  },
+  "next": {
+    "title": "Boilerplate Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/boilerplate-extension"
+  }
+}

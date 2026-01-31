@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/automatewoo-refer-a-friend-add-on",
+  "title": "AutomateWoo - Refer A Friend Add-on",
+  "description": "Hivatalos WooCommerce kiegészítő a csalásvédett, automatizált ajánlóprogramhoz kupon- vagy linkmegosztással és automatikus bolt­egyenleg-jóváírással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/automatewoo-refer-a-friend-add-on.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/automatewoo-refer-a-friend-add-on",
+  "permalink": "/docs/tudasbazis/bovitmenyek/automatewoo-refer-a-friend-add-on",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/automatewoo-refer-a-friend-add-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AutomateWoo - Refer A Friend Add-on",
+    "description": "Hivatalos WooCommerce kiegészítő a csalásvédett, automatizált ajánlóprogramhoz kupon- vagy linkmegosztással és automatikus bolt­egyenleg-jóváírással.",
+    "sidebar_label": "AutomateWoo - Refer A Friend Add-on"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AutomateWoo - Birthdays Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/automatewoo-birthdays-add-on"
+  },
+  "next": {
+    "title": "AutomateWoo",
+    "permalink": "/docs/tudasbazis/bovitmenyek/automatewoo"
+  }
+}

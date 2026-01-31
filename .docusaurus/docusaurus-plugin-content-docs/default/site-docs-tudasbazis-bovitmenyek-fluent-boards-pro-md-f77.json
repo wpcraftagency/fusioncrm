@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/fluent-boards-pro",
+  "title": "Fluent Boards Pro",
+  "description": "Önhosztolt projekt- és feladatkezelő WordPresshez: Kanban/naptár nézet, időkövetés, jogosultságok, integrációk és Pro-ban publikus/privát roadmap.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/fluent-boards-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/fluent-boards-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/fluent-boards-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/fluent-boards-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Fluent Boards Pro",
+    "description": "Önhosztolt projekt- és feladatkezelő WordPresshez: Kanban/naptár nézet, időkövetés, jogosultságok, integrációk és Pro-ban publikus/privát roadmap.",
+    "sidebar_label": "Fluent Boards Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Email Customizer for WooCommerce Subscriptions",
+    "permalink": "/docs/tudasbazis/bovitmenyek/email-customizer-for-woocommerce-subscriptions"
+  },
+  "next": {
+    "title": "Fluent Forms PDF Generator",
+    "permalink": "/docs/tudasbazis/bovitmenyek/fluent-forms-pdf-generator"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-table-rate-shipping",
+  "title": "WooCommerce Table Rate Shipping",
+  "description": "Feltételekhez kötött, rugalmas szállítási díjtáblák WooCommerce-hez; zónánként több opcióval és precíz szabályokkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-table-rate-shipping.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-table-rate-shipping",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-table-rate-shipping",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-table-rate-shipping.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Table Rate Shipping",
+    "description": "Feltételekhez kötött, rugalmas szállítási díjtáblák WooCommerce-hez; zónánként több opcióval és precíz szabályokkal.",
+    "sidebar_label": "WooCommerce Table Rate Shipping"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Tab Manager",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-tab-manager"
+  },
+  "next": {
+    "title": "WooCommerce URL Coupons",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-url-coupons"
+  }
+}

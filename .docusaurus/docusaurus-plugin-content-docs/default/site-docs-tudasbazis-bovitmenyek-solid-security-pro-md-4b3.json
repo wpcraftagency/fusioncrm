@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/solid-security-pro",
+  "title": "Solid Security Pro",
+  "description": "Professzionális WordPress biztonsági bővítmény több rétegű védelemmel: bejelentkezés‑biztonság, sérülékenységkezelés, tűzfal és automatizált frissítések.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/solid-security-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/solid-security-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/solid-security-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/solid-security-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Solid Security Pro",
+    "description": "Professzionális WordPress biztonsági bővítmény több rétegű védelemmel: bejelentkezés‑biztonság, sérülékenységkezelés, tűzfal és automatizált frissítések.",
+    "sidebar_label": "Solid Security Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Slider Revolution",
+    "permalink": "/docs/tudasbazis/bovitmenyek/slider-revolution"
+  },
+  "next": {
+    "title": "Teams for WooCommerce Memberships",
+    "permalink": "/docs/tudasbazis/bovitmenyek/teams-for-woocommerce-memberships"
+  }
+}

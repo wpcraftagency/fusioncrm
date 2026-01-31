@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-ws-form-pro-product-add-ons",
+  "title": "WooCommerce WS Form PRO Product Add-Ons",
+  "description": "WooCommerce-kiegészítő, amellyel WS Form PRO űrlapokat ágyazhatsz a termékoldalra dinamikus árazással, kosár- és rendelésintegrációval.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-ws-form-pro-product-add-ons.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-ws-form-pro-product-add-ons",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-ws-form-pro-product-add-ons",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-ws-form-pro-product-add-ons.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce WS Form PRO Product Add-Ons",
+    "description": "WooCommerce-kiegészítő, amellyel WS Form PRO űrlapokat ágyazhatsz a termékoldalra dinamikus árazással, kosár- és rendelésintegrációval.",
+    "sidebar_label": "WooCommerce WS Form PRO Product Add-Ons"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce WishLists",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-wishlists"
+  },
+  "next": {
+    "title": "WP All Export - ACF Export Add-On Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-export-acf-export-add-on-pro"
+  }
+}

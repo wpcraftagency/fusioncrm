@@ -1,0 +1,23 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "GVH: Viszlát kamu értékelések!? WooCommerce szempontból",
+      "permalink": "/blog/2022/01/06/gvh-viszlat-kamu-ertekelesek-woocommerce-szempontbol",
+      "unlisted": false,
+      "date": "2022-01-12T00:00:00.000Z"
+    },
+    {
+      "title": "Kaphatok egy phpMyAdmin-t?",
+      "permalink": "/blog/2021/05/13/kaphatok-egy-phpmyadmin-t",
+      "unlisted": false,
+      "date": "2021-05-13T00:00:00.000Z"
+    },
+    {
+      "title": "Gyors bankkártyás fizetés WooCommerce-re: PayLike",
+      "permalink": "/blog/2021/03/20/gyors-bankkartyas-fizetes-woocommerce-re-paylike",
+      "unlisted": false,
+      "date": "2021-03-20T00:00:00.000Z"
+    }
+  ]
+}

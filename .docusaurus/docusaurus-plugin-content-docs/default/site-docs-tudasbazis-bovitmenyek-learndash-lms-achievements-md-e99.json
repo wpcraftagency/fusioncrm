@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/learndash-lms-achievements",
+  "title": "LearnDash LMS - Achievements",
+  "description": "A LearnDash hivatalos gamifikációs kiegészítője jelvényekkel, pontokkal és vezetőlistákkal. Eseményekhez kötött jutalmazással növeli a tanulói elköteleződést és láthatóvá teszi az előrehaladást.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/learndash-lms-achievements.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/learndash-lms-achievements",
+  "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-achievements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/learndash-lms-achievements.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "LearnDash LMS - Achievements",
+    "description": "A LearnDash hivatalos gamifikációs kiegészítője jelvényekkel, pontokkal és vezetőlistákkal. Eseményekhez kötött jutalmazással növeli a tanulói elköteleződést és láthatóvá teszi az előrehaladást.",
+    "sidebar_label": "LearnDash LMS - Achievements"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LearnDash LMS - 2Checkout Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-2checkout-integration"
+  },
+  "next": {
+    "title": "LearnDash LMS - bbPress Integration",
+    "permalink": "/docs/tudasbazis/bovitmenyek/learndash-lms-bbpress-integration"
+  }
+}

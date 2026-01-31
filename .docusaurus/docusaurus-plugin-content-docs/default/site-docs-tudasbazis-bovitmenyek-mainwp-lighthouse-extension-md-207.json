@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-lighthouse-extension",
+  "title": "MainWP Lighthouse Extension",
+  "description": "Lighthouse alapú teljesítmény-, akadálymentesítés- és SEO-auditok központi vezérlése a MainWP Dashboardból, automatizálással, értesítésekkel és integrációkkal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-lighthouse-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-lighthouse-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-lighthouse-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-lighthouse-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Lighthouse Extension",
+    "description": "Lighthouse alapú teljesítmény-, akadálymentesítés- és SEO-auditok központi vezérlése a MainWP Dashboardból, automatizálással, értesítésekkel és integrációkkal.",
+    "sidebar_label": "MainWP Lighthouse Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP Jetpack Scan Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-jetpack-scan-extension"
+  },
+  "next": {
+    "title": "MainWP Maintenance Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-maintenance-extension"
+  }
+}

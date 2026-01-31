@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ninja-forms-layout-styles",
+  "title": "Ninja Forms - Layout & Styles",
+  "description": "Vizuális elrendezés- és stíluskezelő kiegészítő a Ninja Forms-hoz. Kódolás nélkül készíthetsz többoszlopos, márkához illő űrlapokat.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ninja-forms-layout-styles.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ninja-forms-layout-styles",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-layout-styles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ninja-forms-layout-styles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ninja Forms - Layout & Styles",
+    "description": "Vizuális elrendezés- és stíluskezelő kiegészítő a Ninja Forms-hoz. Kódolás nélkül készíthetsz többoszlopos, márkához illő űrlapokat.",
+    "sidebar_label": "Ninja Forms - Layout & Styles"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms - File Uploads",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-file-uploads"
+  },
+  "next": {
+    "title": "Ninja Forms - Multi-Part Forms",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-multi-part-forms"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/mainwp-staging-extension",
+  "title": "MainWP Staging Extension",
+  "description": "Központi staging menedzsment a MainWP Dashboardból: tesztoldalak létrehozása, frissítések próbafuttatása és kezelés a WP STAGING integrációjával.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/mainwp-staging-extension.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/mainwp-staging-extension",
+  "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-staging-extension",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/mainwp-staging-extension.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "MainWP Staging Extension",
+    "description": "Központi staging menedzsment a MainWP Dashboardból: tesztoldalak létrehozása, frissítések próbafuttatása és kezelés a WP STAGING integrációjával.",
+    "sidebar_label": "MainWP Staging Extension"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MainWP SSL Monitor Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-ssl-monitor-extension"
+  },
+  "next": {
+    "title": "MainWP Sucuri Extension",
+    "permalink": "/docs/tudasbazis/bovitmenyek/mainwp-sucuri-extension"
+  }
+}

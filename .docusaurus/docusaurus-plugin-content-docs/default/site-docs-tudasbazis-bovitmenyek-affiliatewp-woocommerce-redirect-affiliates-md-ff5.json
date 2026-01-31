@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/affiliatewp-woocommerce-redirect-affiliates",
+  "title": "AffiliateWP - WooCommerce Redirect Affiliates",
+  "description": "Ingyenes kiegészítő, amely a WooCommerce Saját fiók bejelentkezés után automatikusan az AffiliateWP Affiliate Area oldalára irányítja az affiliate felhasználókat.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/affiliatewp-woocommerce-redirect-affiliates.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/affiliatewp-woocommerce-redirect-affiliates",
+  "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-woocommerce-redirect-affiliates",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/affiliatewp-woocommerce-redirect-affiliates.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "AffiliateWP - WooCommerce Redirect Affiliates",
+    "description": "Ingyenes kiegészítő, amely a WooCommerce Saját fiók bejelentkezés után automatikusan az AffiliateWP Affiliate Area oldalára irányítja az affiliate felhasználókat.",
+    "sidebar_label": "AffiliateWP - WooCommerce Redirect Affiliates"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AffiliateWP - Tiered Rates",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp-tiered-rates"
+  },
+  "next": {
+    "title": "AffiliateWP",
+    "permalink": "/docs/tudasbazis/bovitmenyek/affiliatewp"
+  }
+}

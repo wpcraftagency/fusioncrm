@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/custom-stock-status",
+  "title": "Custom Stock Status",
+  "description": "WooCommerce készletüzenetek testreszabása: érthető, márkához illeszkedő státuszok a teljes vásárlói úton.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/custom-stock-status.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/custom-stock-status",
+  "permalink": "/docs/tudasbazis/bovitmenyek/custom-stock-status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/custom-stock-status.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Custom Stock Status",
+    "description": "WooCommerce készletüzenetek testreszabása: érthető, márkához illeszkedő státuszok a teljes vásárlói úton.",
+    "sidebar_label": "Custom Stock Status"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contact Form 7 Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/contact-form-7-multilingual"
+  },
+  "next": {
+    "title": "Custom User Registration Fields for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/custom-user-registration-fields-for-woocommerce"
+  }
+}

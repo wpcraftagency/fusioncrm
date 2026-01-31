@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-all-import-woocommerce-import-add-on-pro",
+  "title": "WP All Import - WooCommerce Import Add-On Pro",
+  "description": "WooCommerce-termékek profi, tömeges importja CSV/XML/Excel/Sheets forrásból, variációkkal, képekkel, ütemezett frissítéssel és fejlett szinkronnal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-all-import-woocommerce-import-add-on-pro.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-all-import-woocommerce-import-add-on-pro",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-woocommerce-import-add-on-pro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-all-import-woocommerce-import-add-on-pro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP All Import - WooCommerce Import Add-On Pro",
+    "description": "WooCommerce-termékek profi, tömeges importja CSV/XML/Excel/Sheets forrásból, variációkkal, képekkel, ütemezett frissítéssel és fejlett szinkronnal.",
+    "sidebar_label": "WP All Import - WooCommerce Import Add-On Pro"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP All Import - User Import Add-On Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-all-import-user-import-add-on-pro"
+  },
+  "next": {
+    "title": "WP Booking System - Advanced Booking Restrictions Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-advanced-booking-restrictions-add-on"
+  }
+}

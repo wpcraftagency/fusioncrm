@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wpml-all-import",
+  "title": "WPML All Import",
+  "description": "WPML kiegészítő a WP All Importhoz: többnyelvű tartalmak automatikus nyelvi hozzárendelése és fordítások összekapcsolása.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wpml-all-import.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wpml-all-import",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wpml-all-import",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wpml-all-import.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WPML All Import",
+    "description": "WPML kiegészítő a WP All Importhoz: többnyelvű tartalmak automatikus nyelvi hozzárendelése és fordítások összekapcsolása.",
+    "sidebar_label": "WPML All Import"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WPForms Multilingual",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpforms-multilingual"
+  },
+  "next": {
+    "title": "WPML CMS Navigation",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wpml-cms-navigation"
+  }
+}

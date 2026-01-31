@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/2021/05/13/kaphatok-egy-phpmyadmin-t",
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/blog/2021-05-13-kaphatok-egy-phpmyadmin-t/index.mdx",
+  "source": "@site/blog/2021-05-13-kaphatok-egy-phpmyadmin-t/index.mdx",
+  "title": "Kaphatok egy phpMyAdmin-t?",
+  "description": "Hogyan szabályozzuk a szabályozhatatlant?",
+  "date": "2021-05-13T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "phpmyadmin",
+      "permalink": "/blog/tags/phpmyadmin"
+    },
+    {
+      "inline": true,
+      "label": "mysql",
+      "permalink": "/blog/tags/mysql"
+    }
+  ],
+  "readingTime": 1.34,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Trueqap",
+      "title": "Engineer @ HelloWP!",
+      "url": "https://github.com/trueqap",
+      "imageURL": "https://github.com/trueqap.png",
+      "key": "trueqap",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "title": "Kaphatok egy phpMyAdmin-t?",
+    "authors": [
+      "trueqap"
+    ],
+    "tags": [
+      "phpmyadmin",
+      "mysql"
+    ],
+    "image": "./img/phpmyadmin-768x277.jpeg",
+    "date": "2021-05-13T00:00:00.000Z"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "GVH: Viszlát kamu értékelések!? WooCommerce szempontból",
+    "permalink": "/blog/2022/01/06/gvh-viszlat-kamu-ertekelesek-woocommerce-szempontbol"
+  },
+  "nextItem": {
+    "title": "Gyors bankkártyás fizetés WooCommerce-re: PayLike",
+    "permalink": "/blog/2021/03/20/gyors-bankkartyas-fizetes-woocommerce-re-paylike"
+  }
+}

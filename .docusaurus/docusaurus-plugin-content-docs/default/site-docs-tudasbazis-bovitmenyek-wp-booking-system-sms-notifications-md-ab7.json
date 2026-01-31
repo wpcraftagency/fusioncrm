@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/wp-booking-system-sms-notifications",
+  "title": "WP Booking System - SMS Notifications",
+  "description": "Automatikus, időzített SMS-értesítések a WP Booking System foglalásaihoz Twilio-integrációval.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/wp-booking-system-sms-notifications.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/wp-booking-system-sms-notifications",
+  "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-sms-notifications",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/wp-booking-system-sms-notifications.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WP Booking System - SMS Notifications",
+    "description": "Automatikus, időzített SMS-értesítések a WP Booking System foglalásaihoz Twilio-integrációval.",
+    "sidebar_label": "WP Booking System - SMS Notifications"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WP Booking System - Search Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-search-add-on"
+  },
+  "next": {
+    "title": "WP Booking System - Square Add-on",
+    "permalink": "/docs/tudasbazis/bovitmenyek/wp-booking-system-square-add-on"
+  }
+}

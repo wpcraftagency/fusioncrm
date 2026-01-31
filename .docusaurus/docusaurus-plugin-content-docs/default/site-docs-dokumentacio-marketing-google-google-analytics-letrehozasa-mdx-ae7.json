@@ -1,0 +1,35 @@
+{
+  "id": "dokumentacio/marketing/Google/google-analytics-letrehozasa",
+  "title": "Google Analytics fiók létrehozása",
+  "description": "Google Analytics 4 (GA4) fiók létrehozása és beállítása.",
+  "source": "@site/docs/dokumentacio/marketing/Google/google-analytics-letrehozasa.mdx",
+  "sourceDirName": "dokumentacio/marketing/Google",
+  "slug": "/dokumentacio/marketing/Google/google-analytics-letrehozasa",
+  "permalink": "/docs/dokumentacio/marketing/Google/google-analytics-letrehozasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/marketing/Google/google-analytics-letrehozasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Google Analytics fiók létrehozása",
+    "description": "Google Analytics 4 (GA4) fiók létrehozása és beállítása.",
+    "keywords": [
+      "google analytics",
+      "ga4",
+      "analitika"
+    ],
+    "sidebar_label": "Google Analytics fiók létrehozása",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Google Ads hozzáférés megadása",
+    "permalink": "/docs/dokumentacio/marketing/Google/google-ads-hozzafere-adasa"
+  },
+  "next": {
+    "title": "Google Analytics hozzáférés megadása",
+    "permalink": "/docs/dokumentacio/marketing/Google/google-analytics-hozzaferes-adasa"
+  }
+}

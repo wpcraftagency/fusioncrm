@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/slider-revolution",
+  "title": "Slider Revolution",
+  "description": "Prémium WordPress vizuális szerkesztő csúszkákhoz, karusszelekhez és animált hero szekciókhoz, no‑code munkafolyamattal és dinamikus tartalommal.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/slider-revolution.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/slider-revolution",
+  "permalink": "/docs/tudasbazis/bovitmenyek/slider-revolution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/slider-revolution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Slider Revolution",
+    "description": "Prémium WordPress vizuális szerkesztő csúszkákhoz, karusszelekhez és animált hero szekciókhoz, no‑code munkafolyamattal és dinamikus tartalommal.",
+    "sidebar_label": "Slider Revolution"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Slack for WooCommerce",
+    "permalink": "/docs/tudasbazis/bovitmenyek/slack-for-woocommerce"
+  },
+  "next": {
+    "title": "Solid Security Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/solid-security-pro"
+  }
+}

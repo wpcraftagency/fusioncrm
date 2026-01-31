@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/advanced-custom-fields-multilingual",
+  "title": "Advanced Custom Fields Multilingual",
+  "description": "Hivatalos WPML-kiegészítő az ACF-mezők, mezőcsoportok és azok tartalmainak többnyelvű fordításához, mezőcsoport-szintű vezérléssel.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/advanced-custom-fields-multilingual.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/advanced-custom-fields-multilingual",
+  "permalink": "/docs/tudasbazis/bovitmenyek/advanced-custom-fields-multilingual",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/advanced-custom-fields-multilingual.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Advanced Custom Fields Multilingual",
+    "description": "Hivatalos WPML-kiegészítő az ACF-mezők, mezőcsoportok és azok tartalmainak többnyelvű fordításához, mezőcsoport-szintű vezérléssel.",
+    "sidebar_label": "Advanced Custom Fields Multilingual"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Admin Menu Editor Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/admin-menu-editor-pro"
+  },
+  "next": {
+    "title": "Advanced Custom Fields PRO",
+    "permalink": "/docs/tudasbazis/bovitmenyek/advanced-custom-fields-pro"
+  }
+}

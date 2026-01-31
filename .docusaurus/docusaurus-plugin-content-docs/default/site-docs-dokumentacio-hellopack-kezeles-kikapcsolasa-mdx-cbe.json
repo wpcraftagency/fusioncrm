@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/kezeles-kikapcsolasa",
+  "title": "Bővítmények kezelésének kikapcsolása",
+  "description": "HelloPack bővítmények és modulok kezelésének kikapcsolása wp-config.php konstansokkal.",
+  "source": "@site/docs/dokumentacio/hellopack/kezeles-kikapcsolasa.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/kezeles-kikapcsolasa",
+  "permalink": "/docs/dokumentacio/hellopack/kezeles-kikapcsolasa",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/kezeles-kikapcsolasa.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Bővítmények kezelésének kikapcsolása",
+    "description": "HelloPack bővítmények és modulok kezelésének kikapcsolása wp-config.php konstansokkal.",
+    "keywords": [
+      "hellopack",
+      "bővítmények",
+      "kikapcsolás",
+      "modulok"
+    ],
+    "sidebar_label": "Bővítmények kezelésének kikapcsolása",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Csomagkezelő hibaelhárítása",
+    "permalink": "/docs/dokumentacio/hellopack/hibaelharitas"
+  },
+  "next": {
+    "title": "Sablonok kezelésének kikapcsolása",
+    "permalink": "/docs/dokumentacio/hellopack/kezeles-kikapcsolasa-sablon"
+  }
+}

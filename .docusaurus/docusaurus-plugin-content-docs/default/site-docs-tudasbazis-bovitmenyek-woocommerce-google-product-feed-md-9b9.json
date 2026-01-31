@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/woocommerce-google-product-feed",
+  "title": "WooCommerce Google Product Feed",
+  "description": "Prémium WooCommerce bővítmény valós idejű, mezőtérképezhető termék-, értékelés-, promóció- és helyi készlet feedekhez a Google Merchant Centerhez.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/woocommerce-google-product-feed.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/woocommerce-google-product-feed",
+  "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-google-product-feed",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/woocommerce-google-product-feed.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "WooCommerce Google Product Feed",
+    "description": "Prémium WooCommerce bővítmény valós idejű, mezőtérképezhető termék-, értékelés-, promóció- és helyi készlet feedekhez a Google Merchant Centerhez.",
+    "sidebar_label": "WooCommerce Google Product Feed"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WooCommerce Google Analytics Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-google-analytics-pro"
+  },
+  "next": {
+    "title": "WooCommerce Local Pickup Plus",
+    "permalink": "/docs/tudasbazis/bovitmenyek/woocommerce-local-pickup-plus"
+  }
+}

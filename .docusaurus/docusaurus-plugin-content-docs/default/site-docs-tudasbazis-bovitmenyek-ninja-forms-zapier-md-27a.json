@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/ninja-forms-zapier",
+  "title": "Ninja Forms - Zapier",
+  "description": "Hivatalos kiegészítő, amellyel a Ninja Forms űrlapbeküldéseket kód nélkül kapcsolhatod össze több ezer külső alkalmazással a Zapier-en keresztül.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/ninja-forms-zapier.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/ninja-forms-zapier",
+  "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-zapier",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/ninja-forms-zapier.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ninja Forms - Zapier",
+    "description": "Hivatalos kiegészítő, amellyel a Ninja Forms űrlapbeküldéseket kód nélkül kapcsolhatod össze több ezer külső alkalmazással a Zapier-en keresztül.",
+    "sidebar_label": "Ninja Forms - Zapier"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ninja Forms - Webhooks",
+    "permalink": "/docs/tudasbazis/bovitmenyek/ninja-forms-webhooks"
+  },
+  "next": {
+    "title": "Notes for LearnDash",
+    "permalink": "/docs/tudasbazis/bovitmenyek/notes-for-learndash"
+  }
+}

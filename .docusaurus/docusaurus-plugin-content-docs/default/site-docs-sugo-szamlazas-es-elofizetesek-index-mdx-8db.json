@@ -1,0 +1,34 @@
+{
+  "id": "sugo/szamlazas-es-elofizetesek/index",
+  "title": "Számlázás és előfizetések",
+  "description": "Számlázás és előfizetések",
+  "source": "@site/docs/sugo/szamlazas-es-elofizetesek/index.mdx",
+  "sourceDirName": "sugo/szamlazas-es-elofizetesek",
+  "slug": "/sugo/szamlazas-es-elofizetesek/",
+  "permalink": "/docs/sugo/szamlazas-es-elofizetesek/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/sugo/szamlazas-es-elofizetesek/index.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Számlázás és előfizetések",
+    "description": "Számlázás és előfizetések",
+    "keywords": [
+      "szamla",
+      "elofizetes"
+    ],
+    "sidebar_label": "Számlázás és előfizetések",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Számla",
+    "permalink": "/docs/sugo/partnerprogram/szamla"
+  },
+  "next": {
+    "title": "Adószámok",
+    "permalink": "/docs/sugo/szamlazas-es-elofizetesek/adoszamok"
+  }
+}

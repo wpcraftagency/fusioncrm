@@ -1,0 +1,34 @@
+{
+  "id": "kozosseg/facebook",
+  "title": "HelloWP!-s Facebook oldalak",
+  "description": "HelloWP!-s Facebook oldalak",
+  "source": "@site/docs/kozosseg/facebook.mdx",
+  "sourceDirName": "kozosseg",
+  "slug": "/kozosseg/facebook",
+  "permalink": "/docs/kozosseg/facebook",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/kozosseg/facebook.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "HelloWP!-s Facebook oldalak",
+    "description": "HelloWP!-s Facebook oldalak",
+    "keywords": [
+      "facebook"
+    ],
+    "slug": "facebook",
+    "sidebar_label": "Facebook",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Discord",
+    "permalink": "/docs/kozosseg/discord"
+  },
+  "next": {
+    "title": "YouTube",
+    "permalink": "/docs/kozosseg/youtube"
+  }
+}

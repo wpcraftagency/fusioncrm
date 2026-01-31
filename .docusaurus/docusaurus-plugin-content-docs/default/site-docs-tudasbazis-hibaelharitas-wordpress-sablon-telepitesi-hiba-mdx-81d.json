@@ -1,0 +1,33 @@
+{
+  "id": "tudasbazis/hibaelharitas/wordpress/sablon-telepitesi-hiba",
+  "title": "Sablon telepítési hiba",
+  "description": "Sablon telepítési hiba",
+  "source": "@site/docs/tudasbazis/hibaelharitas/wordpress/sablon-telepitesi-hiba.mdx",
+  "sourceDirName": "tudasbazis/hibaelharitas/wordpress",
+  "slug": "/tudasbazis/hibaelharitas/wordpress/sablon-telepitesi-hiba",
+  "permalink": "/docs/tudasbazis/hibaelharitas/wordpress/sablon-telepitesi-hiba",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/hibaelharitas/wordpress/sablon-telepitesi-hiba.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Sablon telepítési hiba",
+    "description": "Sablon telepítési hiba",
+    "keywords": [
+      "hibaelharitas"
+    ],
+    "sidebar_label": "Sablon telepítési hiba",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MySQL index és auto_increment hiba javítása",
+    "permalink": "/docs/tudasbazis/hibaelharitas/wordpress/mysql-index-auto-increment"
+  },
+  "next": {
+    "title": "Oktatóanyagok",
+    "permalink": "/docs/tudasbazis/oktatoanyagok/"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "tudasbazis/bovitmenyek/translatepress-multilingual",
+  "title": "TranslatePress - Multilingual",
+  "description": "Frontend, vizuális fordítószerkesztő WordPresshez – teljes webhely kézi vagy automatikus fordítása, nyelvváltóval és erős SEO-támogatással.",
+  "source": "@site/docs/tudasbazis/bovitmenyek/translatepress-multilingual.md",
+  "sourceDirName": "tudasbazis/bovitmenyek",
+  "slug": "/tudasbazis/bovitmenyek/translatepress-multilingual",
+  "permalink": "/docs/tudasbazis/bovitmenyek/translatepress-multilingual",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/tudasbazis/bovitmenyek/translatepress-multilingual.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "TranslatePress - Multilingual",
+    "description": "Frontend, vizuális fordítószerkesztő WordPresshez – teljes webhely kézi vagy automatikus fordítása, nyelvváltóval és erős SEO-támogatással.",
+    "sidebar_label": "TranslatePress - Multilingual"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TranslatePress - Business",
+    "permalink": "/docs/tudasbazis/bovitmenyek/translatepress-business"
+  },
+  "next": {
+    "title": "Tutor LMS Pro",
+    "permalink": "/docs/tudasbazis/bovitmenyek/tutor-lms-pro"
+  }
+}

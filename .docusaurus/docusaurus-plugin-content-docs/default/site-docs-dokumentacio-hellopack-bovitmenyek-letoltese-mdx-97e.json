@@ -1,0 +1,36 @@
+{
+  "id": "dokumentacio/hellopack/bovitmenyek-letoltese",
+  "title": "Bővítmények letöltése",
+  "description": "HelloPack prémium bővítmények letöltése a HelloConsole-ból vagy WordPress adminból.",
+  "source": "@site/docs/dokumentacio/hellopack/bovitmenyek-letoltese.mdx",
+  "sourceDirName": "dokumentacio/hellopack",
+  "slug": "/dokumentacio/hellopack/bovitmenyek-letoltese",
+  "permalink": "/docs/dokumentacio/hellopack/bovitmenyek-letoltese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/hellowpio/hub.hellowp.io/blob/main/docs/dokumentacio/hellopack/bovitmenyek-letoltese.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Bővítmények letöltése",
+    "description": "HelloPack prémium bővítmények letöltése a HelloConsole-ból vagy WordPress adminból.",
+    "keywords": [
+      "hellopack",
+      "letöltés",
+      "bővítmények",
+      "helloconsole"
+    ],
+    "sidebar_label": "Bővítmények letöltése",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Csomagkezelő aktiválása",
+    "permalink": "/docs/dokumentacio/hellopack/aktivalas"
+  },
+  "next": {
+    "title": "Csomagkezelő tesztelő",
+    "permalink": "/docs/dokumentacio/hellopack/tesztelo"
+  }
+}
